@@ -2,9 +2,10 @@
   "name": "covid-19-realtime-data",
   "version": "1.0.0",
   "description": "Near realtime covid-19 timeseries combining data from multiple sources.",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Running build process...\" && npx ts-node src/index.ts && exit 0"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/davidsiu/covid-19-realtime-data#readme",
   "dependencies": {
-    "got": "^10.7.0"
+    "got": "^10.7.0",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
   }
 }
