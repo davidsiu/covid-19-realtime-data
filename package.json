@@ -1,0 +1,22 @@
+{
+  "name": "covid-19-realtime-data",
+  "version": "1.0.0",
+  "description": "Near realtime covid-19 timeseries combining data from multiple sources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsiu/covid-19-realtime-data.git"
+  },
+  "author": "David Siu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidsiu/covid-19-realtime-data/issues"
+  },
+  "homepage": "https://github.com/davidsiu/covid-19-realtime-data#readme",
+  "dependencies": {
+    "got": "^10.7.0"
+  }
+}
