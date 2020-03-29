@@ -45,7 +45,7 @@ jobs:
         commit_options: '--no-verify --signoff'
 
         # Optional glob pattern of files which should be added to the commit
-        file_pattern: data/\*.json
+        file_pattern: 'data/*.json'
 
         # Optional local file path to the repository
         repository: .
