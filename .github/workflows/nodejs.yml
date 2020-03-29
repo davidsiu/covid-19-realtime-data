@@ -33,22 +33,8 @@ jobs:
     - run: npm ci
     - run: npm run build
 
-    - uses: stefanzweifel/git-auto-commit-action@v4.1.1
-      with:
-        commit_message: Automated refresh of live data
-
-        # Optional name of the branch the commit should be pushed to
-        # Required if Action is used in Workflow listening to the `pull_request` event
-        branch: ${{ github.head_ref }}
-
-        # Optional git params
-        commit_options: '--no-verify --signoff'
-
-        # Optional glob pattern of files which should be added to the commit
-        file_pattern: data/\*.json
-
-        # Optional local file path to the repository
-        # repository: .
+    - name: Commit and push
+      uses: davidsiu/action-autocommit@master
 
       env:
         CI: true
