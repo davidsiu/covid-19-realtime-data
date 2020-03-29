@@ -20,3 +20,7 @@ Near realtime covid-19 JSON time-series dataset combining data from multiple sou
 ## Combined Historic Time Series with the Latest Real Time Data
 
 - [https://davidsiu.github.io/covid-19-realtime-data/data/realtime_timeseries_by_country.json](https://davidsiu.github.io/covid-19-realtime-data/data/realtime_timeseries_by_country.json)
+
+
+## Example usage:
+- [https://davidsiu.github.io/arewedeadyet/](https://davidsiu.github.io/arewedeadyet/)
