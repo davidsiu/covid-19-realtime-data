@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-3-29",
-    "confirmed": 139675,
-    "deaths": 2436,
-    "recovered": 2661
+    "confirmed": 140886,
+    "deaths": 2467,
+    "recovered": 2665
   },
   "Italy": {
     "date": "2020-3-29",
@@ -19,20 +19,20 @@
   },
   "Spain": {
     "date": "2020-3-29",
-    "confirmed": 80031,
-    "deaths": 6802,
+    "confirmed": 80110,
+    "deaths": 6803,
     "recovered": 14709
   },
   "Germany": {
     "date": "2020-3-29",
     "confirmed": 62095,
-    "deaths": 525,
+    "deaths": 533,
     "recovered": 9211
   },
   "France": {
     "date": "2020-3-29",
-    "confirmed": 40704,
-    "deaths": 2609,
+    "confirmed": 40708,
+    "deaths": 2611,
     "recovered": 7226
   },
   "Iran": {
@@ -79,7 +79,7 @@
   },
   "Austria": {
     "date": "2020-3-29",
-    "confirmed": 8774,
+    "confirmed": 8788,
     "deaths": 86,
     "recovered": 479
   },
@@ -97,7 +97,7 @@
   },
   "Norway": {
     "date": "2020-3-29",
-    "confirmed": 4271,
+    "confirmed": 4284,
     "deaths": 25,
     "recovered": 7
   },
@@ -115,7 +115,7 @@
   },
   "Australia": {
     "date": "2020-3-29",
-    "confirmed": 3980,
+    "confirmed": 3984,
     "deaths": 16,
     "recovered": 244
   },
@@ -127,7 +127,7 @@
   },
   "Czechia": {
     "date": "2020-3-29",
-    "confirmed": 2775,
+    "confirmed": 2817,
     "deaths": 16,
     "recovered": 11
   },
@@ -163,8 +163,8 @@
   },
   "Ecuador": {
     "date": "2020-3-29",
-    "confirmed": 1890,
-    "deaths": 57,
+    "confirmed": 1924,
+    "deaths": 58,
     "recovered": 3
   },
   "Japan": {
@@ -602,12 +602,12 @@
   "Honduras": {
     "date": "2020-3-29",
     "confirmed": 110,
-    "deaths": 2,
+    "deaths": 3,
     "recovered": 3
   },
   "West Bank and Gaza": {
     "date": "2020-3-29",
-    "confirmed": 108,
+    "confirmed": 109,
     "deaths": 1,
     "recovered": 18
   },
@@ -665,29 +665,29 @@
     "deaths": 3,
     "recovered": 1
   },
+  "Rwanda": {
+    "date": "2020-3-29",
+    "confirmed": 70,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Congo (Kinshasa)": {
     "date": "2020-3-29",
     "confirmed": 65,
     "deaths": 6,
     "recovered": 2
   },
-  "Rwanda": {
+  "Paraguay": {
     "date": "2020-3-29",
-    "confirmed": 60,
-    "deaths": 0,
-    "recovered": 0
+    "confirmed": 59,
+    "deaths": 3,
+    "recovered": 1
   },
   "Liechtenstein": {
     "date": "2020-3-29",
     "confirmed": 56,
     "deaths": 0,
     "recovered": 0
-  },
-  "Paraguay": {
-    "date": "2020-3-29",
-    "confirmed": 56,
-    "deaths": 3,
-    "recovered": 1
   },
   "Bangladesh": {
     "date": "2020-3-29",
@@ -697,7 +697,7 @@
   },
   "Monaco": {
     "date": "2020-3-29",
-    "confirmed": 43,
+    "confirmed": 46,
     "deaths": 1,
     "recovered": 1
   },
@@ -719,6 +719,12 @@
     "deaths": 1,
     "recovered": 10
   },
+  "Barbados": {
+    "date": "2020-3-29",
+    "confirmed": 33,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Uganda": {
     "date": "2020-3-29",
     "confirmed": 33,
@@ -737,12 +743,6 @@
     "deaths": 0,
     "recovered": 0
   },
-  "Barbados": {
-    "date": "2020-3-29",
-    "confirmed": 26,
-    "deaths": 0,
-    "recovered": 0
-  },
   "Togo": {
     "date": "2020-3-29",
     "confirmed": 25,
@@ -755,17 +755,17 @@
     "deaths": 0,
     "recovered": 0
   },
+  "Ethiopia": {
+    "date": "2020-3-29",
+    "confirmed": 21,
+    "deaths": 0,
+    "recovered": 1
+  },
   "Congo (Brazzaville)": {
     "date": "2020-3-29",
     "confirmed": 19,
     "deaths": 0,
     "recovered": 0
-  },
-  "Ethiopia": {
-    "date": "2020-3-29",
-    "confirmed": 19,
-    "deaths": 0,
-    "recovered": 1
   },
   "Djibouti": {
     "date": "2020-3-29",
@@ -862,6 +862,12 @@
     "confirmed": 9,
     "deaths": 0,
     "recovered": 0
+  },
+  "Saint Lucia": {
+    "date": "2020-3-29",
+    "confirmed": 9,
+    "deaths": 0,
+    "recovered": 1
   },
   "Syria": {
     "date": "2020-3-29",
@@ -963,7 +969,7 @@
     "date": "2020-3-29",
     "confirmed": 5,
     "deaths": 0,
-    "recovered": 0
+    "recovered": 2
   },
   "Nepal": {
     "date": "2020-3-29",
@@ -988,12 +994,6 @@
     "confirmed": 4,
     "deaths": 1,
     "recovered": 0
-  },
-  "Saint Lucia": {
-    "date": "2020-3-29",
-    "confirmed": 4,
-    "deaths": 0,
-    "recovered": 1
   },
   "Central African Republic": {
     "date": "2020-3-29",
