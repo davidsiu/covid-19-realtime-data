@@ -1,7 +1,7 @@
 ![Update datasnapshot](https://github.com/davidsiu/covid-19-realtime-data/workflows/Update%20datasnapshot/badge.svg)
 
 # covid-19-realtime-data
-Near realtime covid-19 JSON time-series dataset combining data from multiple sources and automatically updated throughout the day.
+Near realtime covid-19 JSON time-series dataset combining data from multiple sources and automatically updated every 15 minutes.
 
 
 ## Historic Time Series Data
