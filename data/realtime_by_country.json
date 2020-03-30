@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-3-30",
-    "confirmed": 140886,
-    "deaths": 2467,
-    "recovered": 2665
+    "confirmed": 142106,
+    "deaths": 2479,
+    "recovered": 2686
   },
   "Italy": {
     "date": "2020-3-30",
@@ -26,12 +26,12 @@
   "Germany": {
     "date": "2020-3-30",
     "confirmed": 62095,
-    "deaths": 533,
+    "deaths": 541,
     "recovered": 9211
   },
   "France": {
     "date": "2020-3-30",
-    "confirmed": 40708,
+    "confirmed": 40723,
     "deaths": 2611,
     "recovered": 7226
   },
@@ -43,7 +43,7 @@
   },
   "United Kingdom": {
     "date": "2020-3-30",
-    "confirmed": 19780,
+    "confirmed": 19784,
     "deaths": 1231,
     "recovered": 151
   },
@@ -85,7 +85,7 @@
   },
   "Canada": {
     "date": "2020-3-30",
-    "confirmed": 6280,
+    "confirmed": 6320,
     "deaths": 64,
     "recovered": 466
   },
@@ -236,7 +236,7 @@
   "Greece": {
     "date": "2020-3-30",
     "confirmed": 1156,
-    "deaths": 38,
+    "deaths": 39,
     "recovered": 52
   },
   "India": {
@@ -253,8 +253,8 @@
   },
   "Panama": {
     "date": "2020-3-30",
-    "confirmed": 901,
-    "deaths": 17,
+    "confirmed": 989,
+    "deaths": 24,
     "recovered": 4
   },
   "Dominican Republic": {
@@ -283,9 +283,9 @@
   },
   "Argentina": {
     "date": "2020-3-30",
-    "confirmed": 745,
-    "deaths": 19,
-    "recovered": 72
+    "confirmed": 820,
+    "deaths": 20,
+    "recovered": 91
   },
   "Serbia": {
     "date": "2020-3-30",
@@ -500,7 +500,7 @@
   "Cyprus": {
     "date": "2020-3-30",
     "confirmed": 214,
-    "deaths": 5,
+    "deaths": 6,
     "recovered": 15
   },
   "Albania": {
@@ -517,7 +517,7 @@
   },
   "Vietnam": {
     "date": "2020-3-30",
-    "confirmed": 188,
+    "confirmed": 194,
     "deaths": 0,
     "recovered": 25
   },
@@ -584,7 +584,7 @@
   "Venezuela": {
     "date": "2020-3-30",
     "confirmed": 119,
-    "deaths": 2,
+    "deaths": 3,
     "recovered": 39
   },
   "Sri Lanka": {
@@ -659,6 +659,12 @@
     "deaths": 1,
     "recovered": 0
   },
+  "Congo (Kinshasa)": {
+    "date": "2020-3-30",
+    "confirmed": 81,
+    "deaths": 8,
+    "recovered": 2
+  },
   "Trinidad and Tobago": {
     "date": "2020-3-30",
     "confirmed": 78,
@@ -670,12 +676,6 @@
     "confirmed": 70,
     "deaths": 0,
     "recovered": 0
-  },
-  "Congo (Kinshasa)": {
-    "date": "2020-3-30",
-    "confirmed": 65,
-    "deaths": 6,
-    "recovered": 2
   },
   "Paraguay": {
     "date": "2020-3-30",
@@ -803,6 +803,12 @@
     "deaths": 0,
     "recovered": 1
   },
+  "Bahamas": {
+    "date": "2020-3-30",
+    "confirmed": 14,
+    "deaths": 0,
+    "recovered": 1
+  },
   "Tanzania": {
     "date": "2020-3-30",
     "confirmed": 14,
@@ -826,12 +832,6 @@
     "confirmed": 12,
     "deaths": 0,
     "recovered": 0
-  },
-  "Bahamas": {
-    "date": "2020-3-30",
-    "confirmed": 11,
-    "deaths": 0,
-    "recovered": 1
   },
   "Dominica": {
     "date": "2020-3-30",
