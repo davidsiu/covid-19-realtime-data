@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-1",
-    "confirmed": 189618,
-    "deaths": 4079,
-    "recovered": 7109
+    "confirmed": 189624,
+    "deaths": 4080,
+    "recovered": 7136
   },
   "Italy": {
     "date": "2020-4-1",
@@ -181,8 +181,8 @@
   },
   "Japan": {
     "date": "2020-4-1",
-    "confirmed": 2229,
-    "deaths": 66,
+    "confirmed": 2178,
+    "deaths": 57,
     "recovered": 424
   },
   "Luxembourg": {
@@ -199,15 +199,21 @@
   },
   "Pakistan": {
     "date": "2020-4-1",
-    "confirmed": 1938,
+    "confirmed": 2039,
     "deaths": 26,
-    "recovered": 76
+    "recovered": 82
   },
   "Thailand": {
     "date": "2020-4-1",
-    "confirmed": 1651,
-    "deaths": 10,
+    "confirmed": 1771,
+    "deaths": 12,
     "recovered": 342
+  },
+  "India": {
+    "date": "2020-4-1",
+    "confirmed": 1590,
+    "deaths": 45,
+    "recovered": 148
   },
   "Saudi Arabia": {
     "date": "2020-4-1",
@@ -226,12 +232,6 @@
     "confirmed": 1418,
     "deaths": 17,
     "recovered": 10
-  },
-  "India": {
-    "date": "2020-4-1",
-    "confirmed": 1397,
-    "deaths": 35,
-    "recovered": 123
   },
   "South Africa": {
     "date": "2020-4-1",
@@ -397,7 +397,7 @@
   },
   "Lebanon": {
     "date": "2020-4-1",
-    "confirmed": 470,
+    "confirmed": 463,
     "deaths": 12,
     "recovered": 37
   },
@@ -521,6 +521,12 @@
     "deaths": 0,
     "recovered": 58
   },
+  "Afghanistan": {
+    "date": "2020-4-1",
+    "confirmed": 196,
+    "deaths": 4,
+    "recovered": 5
+  },
   "Cameroon": {
     "date": "2020-4-1",
     "confirmed": 193,
@@ -550,12 +556,6 @@
     "confirmed": 175,
     "deaths": 0,
     "recovered": 40
-  },
-  "Afghanistan": {
-    "date": "2020-4-1",
-    "confirmed": 174,
-    "deaths": 4,
-    "recovered": 5
   },
   "Honduras": {
     "date": "2020-4-1",
@@ -809,6 +809,12 @@
     "deaths": 1,
     "recovered": 0
   },
+  "Haiti": {
+    "date": "2020-4-1",
+    "confirmed": 16,
+    "deaths": 0,
+    "recovered": 1
+  },
   "Bahamas": {
     "date": "2020-4-1",
     "confirmed": 15,
@@ -832,12 +838,6 @@
     "confirmed": 15,
     "deaths": 0,
     "recovered": 0
-  },
-  "Haiti": {
-    "date": "2020-4-1",
-    "confirmed": 15,
-    "deaths": 0,
-    "recovered": 1
   },
   "Saint Lucia": {
     "date": "2020-4-1",
