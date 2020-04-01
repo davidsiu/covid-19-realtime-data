@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-1",
-    "confirmed": 188172,
-    "deaths": 3873,
-    "recovered": 7024
+    "confirmed": 188547,
+    "deaths": 3899,
+    "recovered": 7068
   },
   "Italy": {
     "date": "2020-4-1",
@@ -19,8 +19,8 @@
   },
   "China": {
     "date": "2020-4-1",
-    "confirmed": 82279,
-    "deaths": 3309,
+    "confirmed": 82290,
+    "deaths": 3310,
     "recovered": 76206
   },
   "Germany": {
@@ -31,9 +31,9 @@
   },
   "France": {
     "date": "2020-4-1",
-    "confirmed": 52827,
+    "confirmed": 52836,
     "deaths": 3532,
-    "recovered": 9513
+    "recovered": 9522
   },
   "Iran": {
     "date": "2020-4-1",
@@ -167,17 +167,17 @@
     "deaths": 33,
     "recovered": 7
   },
+  "Ecuador": {
+    "date": "2020-4-1",
+    "confirmed": 2302,
+    "deaths": 79,
+    "recovered": 58
+  },
   "Romania": {
     "date": "2020-4-1",
     "confirmed": 2245,
     "deaths": 82,
     "recovered": 220
-  },
-  "Ecuador": {
-    "date": "2020-4-1",
-    "confirmed": 2240,
-    "deaths": 75,
-    "recovered": 54
   },
   "Luxembourg": {
     "date": "2020-4-1",
@@ -727,13 +727,13 @@
   },
   "Jamaica": {
     "date": "2020-4-1",
-    "confirmed": 36,
-    "deaths": 1,
+    "confirmed": 38,
+    "deaths": 2,
     "recovered": 2
   },
   "Zambia": {
     "date": "2020-4-1",
-    "confirmed": 35,
+    "confirmed": 36,
     "deaths": 0,
     "recovered": 0
   },
@@ -741,6 +741,12 @@
     "date": "2020-4-1",
     "confirmed": 34,
     "deaths": 0,
+    "recovered": 0
+  },
+  "Niger": {
+    "date": "2020-4-1",
+    "confirmed": 34,
+    "deaths": 3,
     "recovered": 0
   },
   "Togo": {
@@ -765,12 +771,6 @@
     "date": "2020-4-1",
     "confirmed": 28,
     "deaths": 2,
-    "recovered": 0
-  },
-  "Niger": {
-    "date": "2020-4-1",
-    "confirmed": 27,
-    "deaths": 3,
     "recovered": 0
   },
   "Ethiopia": {
@@ -815,6 +815,12 @@
     "deaths": 1,
     "recovered": 0
   },
+  "Equatorial Guinea": {
+    "date": "2020-4-1",
+    "confirmed": 15,
+    "deaths": 0,
+    "recovered": 1
+  },
   "Eritrea": {
     "date": "2020-4-1",
     "confirmed": 15,
@@ -844,12 +850,6 @@
     "confirmed": 12,
     "deaths": 0,
     "recovered": 0
-  },
-  "Equatorial Guinea": {
-    "date": "2020-4-1",
-    "confirmed": 12,
-    "deaths": 0,
-    "recovered": 1
   },
   "Guyana": {
     "date": "2020-4-1",
