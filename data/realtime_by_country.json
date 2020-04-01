@@ -31,7 +31,7 @@
   },
   "France": {
     "date": "2020-4-1",
-    "confirmed": 52836,
+    "confirmed": 52837,
     "deaths": 3532,
     "recovered": 9522
   },
@@ -73,7 +73,7 @@
   },
   "Austria": {
     "date": "2020-4-1",
-    "confirmed": 10298,
+    "confirmed": 10366,
     "deaths": 128,
     "recovered": 1095
   },
@@ -143,6 +143,12 @@
     "deaths": 90,
     "recovered": 78
   },
+  "Russia": {
+    "date": "2020-4-1",
+    "confirmed": 2777,
+    "deaths": 24,
+    "recovered": 190
+  },
   "Malaysia": {
     "date": "2020-4-1",
     "confirmed": 2766,
@@ -161,11 +167,11 @@
     "deaths": 35,
     "recovered": 7
   },
-  "Russia": {
+  "Philippines": {
     "date": "2020-4-1",
-    "confirmed": 2337,
-    "deaths": 17,
-    "recovered": 121
+    "confirmed": 2311,
+    "deaths": 96,
+    "recovered": 50
   },
   "Ecuador": {
     "date": "2020-4-1",
@@ -176,7 +182,7 @@
   "Romania": {
     "date": "2020-4-1",
     "confirmed": 2245,
-    "deaths": 82,
+    "deaths": 85,
     "recovered": 220
   },
   "Japan": {
@@ -191,12 +197,6 @@
     "deaths": 23,
     "recovered": 80
   },
-  "Philippines": {
-    "date": "2020-4-1",
-    "confirmed": 2084,
-    "deaths": 88,
-    "recovered": 49
-  },
   "Pakistan": {
     "date": "2020-4-1",
     "confirmed": 2042,
@@ -208,6 +208,12 @@
     "confirmed": 1771,
     "deaths": 12,
     "recovered": 416
+  },
+  "Indonesia": {
+    "date": "2020-4-1",
+    "confirmed": 1677,
+    "deaths": 157,
+    "recovered": 103
   },
   "India": {
     "date": "2020-4-1",
@@ -221,12 +227,6 @@
     "deaths": 10,
     "recovered": 165
   },
-  "Indonesia": {
-    "date": "2020-4-1",
-    "confirmed": 1528,
-    "deaths": 136,
-    "recovered": 81
-  },
   "Finland": {
     "date": "2020-4-1",
     "confirmed": 1418,
@@ -237,7 +237,7 @@
     "date": "2020-4-1",
     "confirmed": 1353,
     "deaths": 5,
-    "recovered": 31
+    "recovered": 50
   },
   "Greece": {
     "date": "2020-4-1",
@@ -401,17 +401,17 @@
     "deaths": 12,
     "recovered": 37
   },
+  "Bosnia and Herzegovina": {
+    "date": "2020-4-1",
+    "confirmed": 448,
+    "deaths": 13,
+    "recovered": 17
+  },
   "Latvia": {
     "date": "2020-4-1",
     "confirmed": 446,
     "deaths": 0,
     "recovered": 1
-  },
-  "Bosnia and Herzegovina": {
-    "date": "2020-4-1",
-    "confirmed": 430,
-    "deaths": 13,
-    "recovered": 17
   },
   "Bulgaria": {
     "date": "2020-4-1",
@@ -483,7 +483,7 @@
     "date": "2020-4-1",
     "confirmed": 289,
     "deaths": 0,
-    "recovered": 73
+    "recovered": 80
   },
   "Jordan": {
     "date": "2020-4-1",
@@ -589,7 +589,7 @@
   },
   "Mauritius": {
     "date": "2020-4-1",
-    "confirmed": 143,
+    "confirmed": 147,
     "deaths": 5,
     "recovered": 0
   },
@@ -611,6 +611,12 @@
     "deaths": 2,
     "recovered": 9
   },
+  "West Bank and Gaza": {
+    "date": "2020-4-1",
+    "confirmed": 134,
+    "deaths": 1,
+    "recovered": 18
+  },
   "Brunei": {
     "date": "2020-4-1",
     "confirmed": 129,
@@ -622,12 +628,6 @@
     "confirmed": 120,
     "deaths": 2,
     "recovered": 0
-  },
-  "West Bank and Gaza": {
-    "date": "2020-4-1",
-    "confirmed": 119,
-    "deaths": 1,
-    "recovered": 18
   },
   "Bolivia": {
     "date": "2020-4-1",
@@ -677,17 +677,17 @@
     "deaths": 0,
     "recovered": 0
   },
+  "Paraguay": {
+    "date": "2020-4-1",
+    "confirmed": 69,
+    "deaths": 3,
+    "recovered": 1
+  },
   "Liechtenstein": {
     "date": "2020-4-1",
     "confirmed": 68,
     "deaths": 0,
     "recovered": 0
-  },
-  "Paraguay": {
-    "date": "2020-4-1",
-    "confirmed": 65,
-    "deaths": 3,
-    "recovered": 1
   },
   "Kenya": {
     "date": "2020-4-1",
@@ -767,17 +767,17 @@
     "deaths": 0,
     "recovered": 0
   },
+  "Ethiopia": {
+    "date": "2020-4-1",
+    "confirmed": 29,
+    "deaths": 0,
+    "recovered": 2
+  },
   "Mali": {
     "date": "2020-4-1",
     "confirmed": 28,
     "deaths": 2,
     "recovered": 0
-  },
-  "Ethiopia": {
-    "date": "2020-4-1",
-    "confirmed": 26,
-    "deaths": 0,
-    "recovered": 2
   },
   "Guinea": {
     "date": "2020-4-1",
