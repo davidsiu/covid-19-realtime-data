@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-1",
-    "confirmed": 189035,
-    "deaths": 3900,
-    "recovered": 7096
+    "confirmed": 189510,
+    "deaths": 4076,
+    "recovered": 7109
   },
   "Italy": {
     "date": "2020-4-1",
@@ -19,7 +19,7 @@
   },
   "China": {
     "date": "2020-4-1",
-    "confirmed": 82290,
+    "confirmed": 82294,
     "deaths": 3310,
     "recovered": 76206
   },
@@ -79,9 +79,9 @@
   },
   "Korea, South": {
     "date": "2020-4-1",
-    "confirmed": 9786,
-    "deaths": 162,
-    "recovered": 5408
+    "confirmed": 9887,
+    "deaths": 165,
+    "recovered": 5567
   },
   "Canada": {
     "date": "2020-4-1",
@@ -245,6 +245,12 @@
     "deaths": 49,
     "recovered": 52
   },
+  "Mexico": {
+    "date": "2020-4-1",
+    "confirmed": 1215,
+    "deaths": 29,
+    "recovered": 35
+  },
   "Panama": {
     "date": "2020-4-1",
     "confirmed": 1181,
@@ -262,12 +268,6 @@
     "confirmed": 1109,
     "deaths": 51,
     "recovered": 5
-  },
-  "Mexico": {
-    "date": "2020-4-1",
-    "confirmed": 1094,
-    "deaths": 28,
-    "recovered": 35
   },
   "Peru": {
     "date": "2020-4-1",
@@ -341,6 +341,12 @@
     "deaths": 46,
     "recovered": 157
   },
+  "New Zealand": {
+    "date": "2020-4-1",
+    "confirmed": 708,
+    "deaths": 1,
+    "recovered": 83
+  },
   "Iraq": {
     "date": "2020-4-1",
     "confirmed": 694,
@@ -352,12 +358,6 @@
     "confirmed": 664,
     "deaths": 6,
     "recovered": 61
-  },
-  "New Zealand": {
-    "date": "2020-4-1",
-    "confirmed": 647,
-    "deaths": 1,
-    "recovered": 74
   },
   "Ukraine": {
     "date": "2020-4-1",
@@ -623,6 +623,12 @@
     "deaths": 1,
     "recovered": 18
   },
+  "Bolivia": {
+    "date": "2020-4-1",
+    "confirmed": 115,
+    "deaths": 7,
+    "recovered": 0
+  },
   "Kosovo": {
     "date": "2020-4-1",
     "confirmed": 112,
@@ -645,12 +651,6 @@
     "date": "2020-4-1",
     "confirmed": 109,
     "deaths": 2,
-    "recovered": 0
-  },
-  "Bolivia": {
-    "date": "2020-4-1",
-    "confirmed": 107,
-    "deaths": 6,
     "recovered": 0
   },
   "Kyrgyzstan": {
@@ -881,6 +881,12 @@
     "deaths": 0,
     "recovered": 0
   },
+  "Suriname": {
+    "date": "2020-4-1",
+    "confirmed": 10,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Syria": {
     "date": "2020-4-1",
     "confirmed": 10,
@@ -906,12 +912,6 @@
     "recovered": 0
   },
   "Laos": {
-    "date": "2020-4-1",
-    "confirmed": 9,
-    "deaths": 0,
-    "recovered": 0
-  },
-  "Suriname": {
     "date": "2020-4-1",
     "confirmed": 9,
     "deaths": 0,
