@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-2",
-    "confirmed": 215417,
-    "deaths": 5116,
-    "recovered": 8566
+    "confirmed": 216515,
+    "deaths": 5119,
+    "recovered": 8593
   },
   "Italy": {
     "date": "2020-4-2",
@@ -19,9 +19,9 @@
   },
   "China": {
     "date": "2020-4-2",
-    "confirmed": 82381,
+    "confirmed": 82392,
     "deaths": 3316,
-    "recovered": 76409
+    "recovered": 76420
   },
   "Germany": {
     "date": "2020-4-2",
@@ -86,7 +86,7 @@
   "Canada": {
     "date": "2020-4-2",
     "confirmed": 9731,
-    "deaths": 111,
+    "deaths": 112,
     "recovered": 1435
   },
   "Portugal": {
@@ -245,10 +245,16 @@
     "deaths": 5,
     "recovered": 50
   },
+  "Mexico": {
+    "date": "2020-4-2",
+    "confirmed": 1378,
+    "deaths": 37,
+    "recovered": 35
+  },
   "Peru": {
     "date": "2020-4-2",
     "confirmed": 1323,
-    "deaths": 38,
+    "deaths": 47,
     "recovered": 394
   },
   "Panama": {
@@ -269,16 +275,10 @@
     "deaths": 2,
     "recovered": 236
   },
-  "Mexico": {
-    "date": "2020-4-2",
-    "confirmed": 1215,
-    "deaths": 29,
-    "recovered": 35
-  },
   "Argentina": {
     "date": "2020-4-2",
     "confirmed": 1133,
-    "deaths": 32,
+    "deaths": 33,
     "recovered": 248
   },
   "Colombia": {
@@ -363,7 +363,7 @@
     "date": "2020-4-2",
     "confirmed": 712,
     "deaths": 11,
-    "recovered": 603
+    "recovered": 619
   },
   "Morocco": {
     "date": "2020-4-2",
@@ -655,9 +655,9 @@
   },
   "Cambodia": {
     "date": "2020-4-2",
-    "confirmed": 109,
+    "confirmed": 110,
     "deaths": 0,
-    "recovered": 25
+    "recovered": 34
   },
   "Congo (Kinshasa)": {
     "date": "2020-4-2",
@@ -806,7 +806,7 @@
   "Guyana": {
     "date": "2020-4-2",
     "confirmed": 19,
-    "deaths": 3,
+    "deaths": 4,
     "recovered": 0
   },
   "Maldives": {
@@ -995,6 +995,12 @@
     "deaths": 1,
     "recovered": 2
   },
+  "Bhutan": {
+    "date": "2020-4-2",
+    "confirmed": 5,
+    "deaths": 0,
+    "recovered": 1
+  },
   "Fiji": {
     "date": "2020-4-2",
     "confirmed": 5,
@@ -1018,12 +1024,6 @@
     "confirmed": 5,
     "deaths": 0,
     "recovered": 1
-  },
-  "Bhutan": {
-    "date": "2020-4-2",
-    "confirmed": 4,
-    "deaths": 0,
-    "recovered": 0
   },
   "Botswana": {
     "date": "2020-4-2",
