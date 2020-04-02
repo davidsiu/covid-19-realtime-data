@@ -55,16 +55,19 @@ const REALTIME_TIMESERIES_BY_COUNTRY_FILE = './data/realtime_timeseries_by_count
       const lastTimeRecord = timeseriesArray[timeseriesArray.length - 1];
 
       // Update the last record if the current date matches
-      if (lastTimeRecord.date === currentDate) {
-        lastTimeRecord.confirmed = realtimeDataByCountry[country].confirmed;
-        lastTimeRecord.deaths = realtimeDataByCountry[country].deaths;
-        lastTimeRecord.recovered = realtimeDataByCountry[country].recovered;
+      if (lastTimeRecord.confirmed < realtimeDataByCountry[country].confirmed) {
+        if (lastTimeRecord.date === currentDate) {
+          lastTimeRecord.confirmed = realtimeDataByCountry[country].confirmed;
+          lastTimeRecord.deaths = realtimeDataByCountry[country].deaths;
+          lastTimeRecord.recovered = realtimeDataByCountry[country].recovered;
+        }
+        
+        // Otherwise add the record to the end of the list
+        else {
+          timeseriesArray.push(realtimeDataByCountry[country]);
+        }
       }
-      
-      // Otherwise add the record to the end of the list
-      else {
-        timeseriesArray.push(realtimeDataByCountry[country]);
-      }
+
     }
     await writeJsonFile(REALTIME_TIMESERIES_BY_COUNTRY_FILE, realtimeTimeseriesByCountryJson, { indent: '  '});
     console.log('    ✅Saved realtime timeseries data..');
