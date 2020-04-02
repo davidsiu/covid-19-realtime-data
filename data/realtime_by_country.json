@@ -19,9 +19,9 @@
   },
   "China": {
     "date": "2020-4-2",
-    "confirmed": 82392,
+    "confirmed": 82394,
     "deaths": 3316,
-    "recovered": 76420
+    "recovered": 76426
   },
   "Germany": {
     "date": "2020-4-2",
@@ -431,6 +431,12 @@
     "deaths": 10,
     "recovered": 20
   },
+  "Kazakhstan": {
+    "date": "2020-4-2",
+    "confirmed": 402,
+    "deaths": 3,
+    "recovered": 26
+  },
   "Slovakia": {
     "date": "2020-4-2",
     "confirmed": 400,
@@ -442,12 +448,6 @@
     "confirmed": 390,
     "deaths": 14,
     "recovered": 10
-  },
-  "Kazakhstan": {
-    "date": "2020-4-2",
-    "confirmed": 380,
-    "deaths": 3,
-    "recovered": 26
   },
   "Costa Rica": {
     "date": "2020-4-2",
@@ -533,6 +533,12 @@
     "deaths": 0,
     "recovered": 63
   },
+  "Honduras": {
+    "date": "2020-4-2",
+    "confirmed": 219,
+    "deaths": 14,
+    "recovered": 3
+  },
   "Cuba": {
     "date": "2020-4-2",
     "confirmed": 212,
@@ -580,12 +586,6 @@
     "confirmed": 174,
     "deaths": 2,
     "recovered": 9
-  },
-  "Honduras": {
-    "date": "2020-4-2",
-    "confirmed": 172,
-    "deaths": 10,
-    "recovered": 3
   },
   "Belarus": {
     "date": "2020-4-2",
@@ -743,6 +743,12 @@
     "deaths": 0,
     "recovered": 0
   },
+  "El Salvador": {
+    "date": "2020-4-2",
+    "confirmed": 41,
+    "deaths": 2,
+    "recovered": 0
+  },
   "Togo": {
     "date": "2020-4-2",
     "confirmed": 36,
@@ -759,12 +765,6 @@
     "date": "2020-4-2",
     "confirmed": 33,
     "deaths": 0,
-    "recovered": 0
-  },
-  "El Salvador": {
-    "date": "2020-4-2",
-    "confirmed": 33,
-    "deaths": 2,
     "recovered": 0
   },
   "Mali": {
