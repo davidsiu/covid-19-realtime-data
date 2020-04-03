@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-4-3",
-    "confirmed": 245070,
-    "deaths": 5949,
+    "confirmed": 245213,
+    "deaths": 5983,
     "recovered": 9090
   },
   "Italy": {
@@ -25,9 +25,9 @@
   },
   "China": {
     "date": "2020-4-3",
-    "confirmed": 82437,
+    "confirmed": 82443,
     "deaths": 3322,
-    "recovered": 76566
+    "recovered": 76576
   },
   "France": {
     "date": "2020-4-3",
@@ -75,7 +75,7 @@
     "date": "2020-4-3",
     "confirmed": 11284,
     "deaths": 139,
-    "recovered": 1750
+    "recovered": 1971
   },
   "Austria": {
     "date": "2020-4-3",
@@ -97,8 +97,8 @@
   },
   "Brazil": {
     "date": "2020-4-3",
-    "confirmed": 8044,
-    "deaths": 324,
+    "confirmed": 8066,
+    "deaths": 327,
     "recovered": 127
   },
   "Israel": {
@@ -185,17 +185,17 @@
     "deaths": 107,
     "recovered": 51
   },
+  "Japan": {
+    "date": "2020-4-3",
+    "confirmed": 2617,
+    "deaths": 63,
+    "recovered": 472
+  },
   "India": {
     "date": "2020-4-3",
     "confirmed": 2543,
     "deaths": 72,
     "recovered": 191
-  },
-  "Japan": {
-    "date": "2020-4-3",
-    "confirmed": 2495,
-    "deaths": 62,
-    "recovered": 472
   },
   "Luxembourg": {
     "date": "2020-4-3",
@@ -243,7 +243,7 @@
     "date": "2020-4-3",
     "confirmed": 1510,
     "deaths": 50,
-    "recovered": 35
+    "recovered": 633
   },
   "Panama": {
     "date": "2020-4-3",
@@ -649,7 +649,7 @@
   },
   "Kosovo": {
     "date": "2020-4-3",
-    "confirmed": 125,
+    "confirmed": 126,
     "deaths": 1,
     "recovered": 10
   },
@@ -661,9 +661,9 @@
   },
   "Cambodia": {
     "date": "2020-4-3",
-    "confirmed": 110,
+    "confirmed": 114,
     "deaths": 0,
-    "recovered": 34
+    "recovered": 35
   },
   "Kenya": {
     "date": "2020-4-3",
@@ -679,8 +679,8 @@
   },
   "Trinidad and Tobago": {
     "date": "2020-4-3",
-    "confirmed": 94,
-    "deaths": 5,
+    "confirmed": 97,
+    "deaths": 6,
     "recovered": 1
   },
   "Paraguay": {
@@ -743,16 +743,16 @@
     "deaths": 0,
     "recovered": 0
   },
+  "El Salvador": {
+    "date": "2020-4-3",
+    "confirmed": 46,
+    "deaths": 2,
+    "recovered": 0
+  },
   "Uganda": {
     "date": "2020-4-3",
     "confirmed": 45,
     "deaths": 0,
-    "recovered": 0
-  },
-  "El Salvador": {
-    "date": "2020-4-3",
-    "confirmed": 41,
-    "deaths": 2,
     "recovered": 0
   },
   "Djibouti": {
