@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-3",
-    "confirmed": 245213,
-    "deaths": 5983,
-    "recovered": 9090
+    "confirmed": 245540,
+    "deaths": 6053,
+    "recovered": 9148
   },
   "Italy": {
     "date": "2020-4-3",
@@ -25,9 +25,9 @@
   },
   "China": {
     "date": "2020-4-3",
-    "confirmed": 82443,
-    "deaths": 3322,
-    "recovered": 76576
+    "confirmed": 82456,
+    "deaths": 3326,
+    "recovered": 76724
   },
   "France": {
     "date": "2020-4-3",
@@ -115,7 +115,7 @@
   },
   "Norway": {
     "date": "2020-4-3",
-    "confirmed": 5147,
+    "confirmed": 5218,
     "deaths": 50,
     "recovered": 32
   },
@@ -278,7 +278,7 @@
   "Argentina": {
     "date": "2020-4-3",
     "confirmed": 1265,
-    "deaths": 36,
+    "deaths": 37,
     "recovered": 256
   },
   "Serbia": {
@@ -296,7 +296,7 @@
   "Singapore": {
     "date": "2020-4-3",
     "confirmed": 1049,
-    "deaths": 4,
+    "deaths": 5,
     "recovered": 266
   },
   "United Arab Emirates": {
@@ -553,8 +553,8 @@
   },
   "Honduras": {
     "date": "2020-4-3",
-    "confirmed": 219,
-    "deaths": 14,
+    "confirmed": 222,
+    "deaths": 15,
     "recovered": 3
   },
   "Uzbekistan": {
@@ -959,6 +959,12 @@
     "deaths": 2,
     "recovered": 1
   },
+  "Central African Republic": {
+    "date": "2020-4-3",
+    "confirmed": 8,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Chad": {
     "date": "2020-4-3",
     "confirmed": 8,
@@ -1044,12 +1050,6 @@
     "recovered": 0
   },
   "Burundi": {
-    "date": "2020-4-3",
-    "confirmed": 3,
-    "deaths": 0,
-    "recovered": 0
-  },
-  "Central African Republic": {
     "date": "2020-4-3",
     "confirmed": 3,
     "deaths": 0,
