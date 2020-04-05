@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-5",
-    "confirmed": 308850,
-    "deaths": 8407,
-    "recovered": 14652
+    "confirmed": 311301,
+    "deaths": 8476,
+    "recovered": 14694
   },
   "Spain": {
     "date": "2020-4-5",
@@ -43,7 +43,7 @@
   },
   "United Kingdom": {
     "date": "2020-4-5",
-    "confirmed": 42477,
+    "confirmed": 42479,
     "deaths": 4320,
     "recovered": 215
   },
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-4-5",
-    "confirmed": 12978,
-    "deaths": 218,
-    "recovered": 2577
+    "confirmed": 13987,
+    "deaths": 234,
+    "recovered": 2580
   },
   "Austria": {
     "date": "2020-4-5",
@@ -167,6 +167,12 @@
     "deaths": 146,
     "recovered": 329
   },
+  "India": {
+    "date": "2020-4-5",
+    "confirmed": 3588,
+    "deaths": 86,
+    "recovered": 229
+  },
   "Malaysia": {
     "date": "2020-4-5",
     "confirmed": 3483,
@@ -190,12 +196,6 @@
     "confirmed": 3094,
     "deaths": 144,
     "recovered": 57
-  },
-  "India": {
-    "date": "2020-4-5",
-    "confirmed": 3082,
-    "deaths": 86,
-    "recovered": 229
   },
   "Pakistan": {
     "date": "2020-4-5",
@@ -233,6 +233,12 @@
     "deaths": 25,
     "recovered": 300
   },
+  "Panama": {
+    "date": "2020-4-5",
+    "confirmed": 1801,
+    "deaths": 46,
+    "recovered": 13
+  },
   "Peru": {
     "date": "2020-4-5",
     "confirmed": 1746,
@@ -251,12 +257,6 @@
     "deaths": 68,
     "recovered": 78
   },
-  "Panama": {
-    "date": "2020-4-5",
-    "confirmed": 1673,
-    "deaths": 41,
-    "recovered": 13
-  },
   "Serbia": {
     "date": "2020-4-5",
     "confirmed": 1624,
@@ -269,17 +269,17 @@
     "deaths": 9,
     "recovered": 95
   },
+  "Dominican Republic": {
+    "date": "2020-4-5",
+    "confirmed": 1578,
+    "deaths": 77,
+    "recovered": 17
+  },
   "United Arab Emirates": {
     "date": "2020-4-5",
     "confirmed": 1505,
     "deaths": 10,
     "recovered": 125
-  },
-  "Dominican Republic": {
-    "date": "2020-4-5",
-    "confirmed": 1488,
-    "deaths": 68,
-    "recovered": 16
   },
   "Argentina": {
     "date": "2020-4-5",
@@ -488,7 +488,7 @@
   "Cyprus": {
     "date": "2020-4-5",
     "confirmed": 426,
-    "deaths": 11,
+    "deaths": 9,
     "recovered": 33
   },
   "Uruguay": {
