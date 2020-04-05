@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2020-4-5",
-    "confirmed": 331151,
-    "deaths": 9441,
-    "recovered": 16826
+    "confirmed": 331234,
+    "deaths": 9458,
+    "recovered": 16848
   },
   "Spain": {
     "date": "2020-4-5",
-    "confirmed": 130759,
-    "deaths": 12418,
+    "confirmed": 130854,
+    "deaths": 12518,
     "recovered": 38080
   },
   "Italy": {
@@ -19,15 +19,15 @@
   },
   "Germany": {
     "date": "2020-4-5",
-    "confirmed": 100009,
-    "deaths": 1575,
+    "confirmed": 100024,
+    "deaths": 1576,
     "recovered": 28700
   },
   "France": {
     "date": "2020-4-5",
-    "confirmed": 90869,
-    "deaths": 7575,
-    "recovered": 15597
+    "confirmed": 93755,
+    "deaths": 8093,
+    "recovered": 16342
   },
   "China": {
     "date": "2020-4-5",
@@ -43,7 +43,7 @@
   },
   "United Kingdom": {
     "date": "2020-4-5",
-    "confirmed": 48407,
+    "confirmed": 48436,
     "deaths": 4943,
     "recovered": 229
   },
@@ -69,7 +69,7 @@
     "date": "2020-4-5",
     "confirmed": 17953,
     "deaths": 1771,
-    "recovered": 262
+    "recovered": 257
   },
   "Canada": {
     "date": "2020-4-5",
@@ -91,8 +91,8 @@
   },
   "Brazil": {
     "date": "2020-4-5",
-    "confirmed": 10627,
-    "deaths": 460,
+    "confirmed": 11130,
+    "deaths": 486,
     "recovered": 127
   },
   "Korea, South": {
@@ -259,7 +259,7 @@
   },
   "United Arab Emirates": {
     "date": "2020-4-5",
-    "confirmed": 1798,
+    "confirmed": 1799,
     "deaths": 10,
     "recovered": 144
   },
@@ -275,17 +275,17 @@
     "deaths": 73,
     "recovered": 78
   },
+  "South Africa": {
+    "date": "2020-4-5",
+    "confirmed": 1655,
+    "deaths": 11,
+    "recovered": 95
+  },
   "Qatar": {
     "date": "2020-4-5",
     "confirmed": 1604,
     "deaths": 4,
     "recovered": 123
-  },
-  "South Africa": {
-    "date": "2020-4-5",
-    "confirmed": 1585,
-    "deaths": 9,
-    "recovered": 95
   },
   "Iceland": {
     "date": "2020-4-5",
@@ -347,17 +347,17 @@
     "deaths": 1,
     "recovered": 156
   },
+  "Morocco": {
+    "date": "2020-4-5",
+    "confirmed": 1021,
+    "deaths": 70,
+    "recovered": 76
+  },
   "Slovenia": {
     "date": "2020-4-5",
     "confirmed": 997,
     "deaths": 28,
     "recovered": 79
-  },
-  "Morocco": {
-    "date": "2020-4-5",
-    "confirmed": 990,
-    "deaths": 69,
-    "recovered": 71
   },
   "Iraq": {
     "date": "2020-4-5",
@@ -397,15 +397,21 @@
   },
   "Bahrain": {
     "date": "2020-4-5",
-    "confirmed": 698,
+    "confirmed": 700,
     "deaths": 4,
-    "recovered": 427
+    "recovered": 431
   },
   "Bosnia and Herzegovina": {
     "date": "2020-4-5",
     "confirmed": 654,
     "deaths": 23,
     "recovered": 30
+  },
+  "Cameroon": {
+    "date": "2020-4-5",
+    "confirmed": 650,
+    "deaths": 9,
+    "recovered": 17
   },
   "Azerbaijan": {
     "date": "2020-4-5",
@@ -436,12 +442,6 @@
     "confirmed": 556,
     "deaths": 1,
     "recovered": 99
-  },
-  "Cameroon": {
-    "date": "2020-4-5",
-    "confirmed": 555,
-    "deaths": 9,
-    "recovered": 17
   },
   "North Macedonia": {
     "date": "2020-4-5",
@@ -559,9 +559,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-4-5",
-    "confirmed": 245,
-    "deaths": 1,
-    "recovered": 25
+    "confirmed": 261,
+    "deaths": 3,
+    "recovered": 37
   },
   "Vietnam": {
     "date": "2020-4-5",
@@ -611,6 +611,12 @@
     "deaths": 2,
     "recovered": 1
   },
+  "Niger": {
+    "date": "2020-4-5",
+    "confirmed": 184,
+    "deaths": 10,
+    "recovered": 13
+  },
   "Sri Lanka": {
     "date": "2020-4-5",
     "confirmed": 176,
@@ -652,12 +658,6 @@
     "confirmed": 145,
     "deaths": 1,
     "recovered": 23
-  },
-  "Niger": {
-    "date": "2020-4-5",
-    "confirmed": 144,
-    "deaths": 8,
-    "recovered": 0
   },
   "Kenya": {
     "date": "2020-4-5",
@@ -757,7 +757,7 @@
   },
   "Uganda": {
     "date": "2020-4-5",
-    "confirmed": 48,
+    "confirmed": 52,
     "deaths": 0,
     "recovered": 0
   },
@@ -815,6 +815,12 @@
     "deaths": 0,
     "recovered": 5
   },
+  "Tanzania": {
+    "date": "2020-4-5",
+    "confirmed": 22,
+    "deaths": 1,
+    "recovered": 3
+  },
   "Burma": {
     "date": "2020-4-5",
     "confirmed": 21,
@@ -832,12 +838,6 @@
     "confirmed": 21,
     "deaths": 1,
     "recovered": 1
-  },
-  "Tanzania": {
-    "date": "2020-4-5",
-    "confirmed": 20,
-    "deaths": 1,
-    "recovered": 3
   },
   "Maldives": {
     "date": "2020-4-5",
