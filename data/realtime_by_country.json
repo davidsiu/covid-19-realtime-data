@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2020-4-8",
-    "confirmed": 423135,
-    "deaths": 14390,
-    "recovered": 23127
+    "confirmed": 424945,
+    "deaths": 14529,
+    "recovered": 23292
   },
   "Spain": {
     "date": "2020-4-8",
-    "confirmed": 146690,
-    "deaths": 14673,
+    "confirmed": 148220,
+    "deaths": 14792,
     "recovered": 48021
   },
   "Italy": {
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-8",
-    "confirmed": 111779,
-    "deaths": 2196,
+    "confirmed": 112113,
+    "deaths": 2208,
     "recovered": 36081
   },
   "China": {
@@ -44,8 +44,8 @@
   "United Kingdom": {
     "date": "2020-4-8",
     "confirmed": 61474,
-    "deaths": 7110,
-    "recovered": 339
+    "deaths": 7111,
+    "recovered": 345
   },
   "Turkey": {
     "date": "2020-4-8",
@@ -61,7 +61,7 @@
   },
   "Switzerland": {
     "date": "2020-4-8",
-    "confirmed": 23248,
+    "confirmed": 23280,
     "deaths": 895,
     "recovered": 9800
   },
@@ -91,7 +91,7 @@
   },
   "Austria": {
     "date": "2020-4-8",
-    "confirmed": 12941,
+    "confirmed": 12942,
     "deaths": 273,
     "recovered": 4512
   },
@@ -185,17 +185,17 @@
     "deaths": 121,
     "recovered": 1333
   },
+  "Pakistan": {
+    "date": "2020-4-8",
+    "confirmed": 4263,
+    "deaths": 61,
+    "recovered": 467
+  },
   "Japan": {
     "date": "2020-4-8",
     "confirmed": 4257,
     "deaths": 93,
     "recovered": 622
-  },
-  "Pakistan": {
-    "date": "2020-4-8",
-    "confirmed": 4196,
-    "deaths": 60,
-    "recovered": 467
   },
   "Malaysia": {
     "date": "2020-4-8",
@@ -275,6 +275,12 @@
     "deaths": 108,
     "recovered": 50
   },
+  "Colombia": {
+    "date": "2020-4-8",
+    "confirmed": 2054,
+    "deaths": 54,
+    "recovered": 123
+  },
   "Greece": {
     "date": "2020-4-8",
     "confirmed": 1884,
@@ -286,12 +292,6 @@
     "confirmed": 1845,
     "deaths": 18,
     "recovered": 95
-  },
-  "Colombia": {
-    "date": "2020-4-8",
-    "confirmed": 1780,
-    "deaths": 50,
-    "recovered": 100
   },
   "Argentina": {
     "date": "2020-4-8",
@@ -415,7 +415,7 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-4-8",
-    "confirmed": 803,
+    "confirmed": 804,
     "deaths": 34,
     "recovered": 79
   },
@@ -494,7 +494,7 @@
   "Costa Rica": {
     "date": "2020-4-8",
     "confirmed": 502,
-    "deaths": 2,
+    "deaths": 3,
     "recovered": 29
   },
   "Cuba": {
@@ -551,6 +551,12 @@
     "deaths": 6,
     "recovered": 150
   },
+  "Niger": {
+    "date": "2020-4-8",
+    "confirmed": 342,
+    "deaths": 11,
+    "recovered": 28
+  },
   "Ghana": {
     "date": "2020-4-8",
     "confirmed": 313,
@@ -567,19 +573,13 @@
     "date": "2020-4-8",
     "confirmed": 299,
     "deaths": 1,
-    "recovered": 5
+    "recovered": 16
   },
   "San Marino": {
     "date": "2020-4-8",
     "confirmed": 279,
     "deaths": 34,
     "recovered": 40
-  },
-  "Niger": {
-    "date": "2020-4-8",
-    "confirmed": 278,
-    "deaths": 11,
-    "recovered": 26
   },
   "Nigeria": {
     "date": "2020-4-8",
@@ -673,7 +673,7 @@
   },
   "Guinea": {
     "date": "2020-4-8",
-    "confirmed": 144,
+    "confirmed": 164,
     "deaths": 0,
     "recovered": 5
   },
@@ -785,17 +785,23 @@
     "deaths": 5,
     "recovered": 2
   },
+  "Bahamas": {
+    "date": "2020-4-8",
+    "confirmed": 40,
+    "deaths": 7,
+    "recovered": 5
+  },
   "Zambia": {
     "date": "2020-4-8",
     "confirmed": 39,
     "deaths": 1,
     "recovered": 7
   },
-  "Bahamas": {
+  "Guyana": {
     "date": "2020-4-8",
-    "confirmed": 36,
+    "confirmed": 37,
     "deaths": 6,
-    "recovered": 5
+    "recovered": 8
   },
   "Eritrea": {
     "date": "2020-4-8",
@@ -808,12 +814,6 @@
     "confirmed": 33,
     "deaths": 0,
     "recovered": 0
-  },
-  "Guyana": {
-    "date": "2020-4-8",
-    "confirmed": 33,
-    "deaths": 6,
-    "recovered": 8
   },
   "Liberia": {
     "date": "2020-4-8",
@@ -855,7 +855,7 @@
     "date": "2020-4-8",
     "confirmed": 21,
     "deaths": 1,
-    "recovered": 2
+    "recovered": 8
   },
   "Angola": {
     "date": "2020-4-8",
