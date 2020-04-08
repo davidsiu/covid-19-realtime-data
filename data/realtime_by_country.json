@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-8",
-    "confirmed": 424945,
-    "deaths": 14529,
-    "recovered": 23292
+    "confirmed": 429052,
+    "deaths": 14695,
+    "recovered": 23559
   },
   "Spain": {
     "date": "2020-4-8",
@@ -25,9 +25,9 @@
   },
   "Germany": {
     "date": "2020-4-8",
-    "confirmed": 112113,
-    "deaths": 2208,
-    "recovered": 36081
+    "confirmed": 113296,
+    "deaths": 2349,
+    "recovered": 46300
   },
   "China": {
     "date": "2020-4-8",
@@ -73,14 +73,14 @@
   },
   "Canada": {
     "date": "2020-4-8",
-    "confirmed": 18447,
-    "deaths": 381,
-    "recovered": 4047
+    "confirmed": 19141,
+    "deaths": 407,
+    "recovered": 4154
   },
   "Brazil": {
     "date": "2020-4-8",
-    "confirmed": 15927,
-    "deaths": 800,
+    "confirmed": 16170,
+    "deaths": 819,
     "recovered": 127
   },
   "Portugal": {
@@ -157,7 +157,7 @@
   },
   "Czechia": {
     "date": "2020-4-8",
-    "confirmed": 5221,
+    "confirmed": 5312,
     "deaths": 99,
     "recovered": 233
   },
@@ -209,12 +209,6 @@
     "deaths": 182,
     "recovered": 96
   },
-  "Saudi Arabia": {
-    "date": "2020-4-8",
-    "confirmed": 3122,
-    "deaths": 41,
-    "recovered": 631
-  },
   "Luxembourg": {
     "date": "2020-4-8",
     "confirmed": 3034,
@@ -226,6 +220,12 @@
     "confirmed": 2956,
     "deaths": 240,
     "recovered": 222
+  },
+  "Saudi Arabia": {
+    "date": "2020-4-8",
+    "confirmed": 2932,
+    "deaths": 41,
+    "recovered": 631
   },
   "Mexico": {
     "date": "2020-4-8",
@@ -667,8 +667,8 @@
   },
   "Venezuela": {
     "date": "2020-4-8",
-    "confirmed": 166,
-    "deaths": 7,
+    "confirmed": 167,
+    "deaths": 9,
     "recovered": 65
   },
   "Guinea": {
@@ -803,6 +803,12 @@
     "deaths": 6,
     "recovered": 8
   },
+  "Gabon": {
+    "date": "2020-4-8",
+    "confirmed": 34,
+    "deaths": 1,
+    "recovered": 1
+  },
   "Eritrea": {
     "date": "2020-4-8",
     "confirmed": 33,
@@ -820,12 +826,6 @@
     "confirmed": 31,
     "deaths": 4,
     "recovered": 3
-  },
-  "Gabon": {
-    "date": "2020-4-8",
-    "confirmed": 30,
-    "deaths": 1,
-    "recovered": 1
   },
   "Haiti": {
     "date": "2020-4-8",
