@@ -3,7 +3,7 @@
     "date": "2020-4-10",
     "confirmed": 466299,
     "deaths": 16686,
-    "recovered": 26104
+    "recovered": 26522
   },
   "Spain": {
     "date": "2020-4-10",
@@ -91,7 +91,7 @@
   },
   "Austria": {
     "date": "2020-4-10",
-    "confirmed": 13271,
+    "confirmed": 13306,
     "deaths": 295,
     "recovered": 5240
   },
@@ -153,19 +153,19 @@
     "date": "2020-4-10",
     "confirmed": 5830,
     "deaths": 237,
-    "recovered": 1883
+    "recovered": 1892
+  },
+  "Czechia": {
+    "date": "2020-4-10",
+    "confirmed": 5589,
+    "deaths": 113,
+    "recovered": 309
   },
   "Poland": {
     "date": "2020-4-10",
     "confirmed": 5575,
     "deaths": 174,
     "recovered": 284
-  },
-  "Czechia": {
-    "date": "2020-4-10",
-    "confirmed": 5569,
-    "deaths": 112,
-    "recovered": 301
   },
   "Japan": {
     "date": "2020-4-10",
@@ -281,6 +281,12 @@
     "deaths": 69,
     "recovered": 174
   },
+  "Ukraine": {
+    "date": "2020-4-10",
+    "confirmed": 2203,
+    "deaths": 69,
+    "recovered": 61
+  },
   "Greece": {
     "date": "2020-4-10",
     "confirmed": 1955,
@@ -304,12 +310,6 @@
     "confirmed": 1894,
     "deaths": 79,
     "recovered": 365
-  },
-  "Ukraine": {
-    "date": "2020-4-10",
-    "confirmed": 1892,
-    "deaths": 57,
-    "recovered": 45
   },
   "Egypt": {
     "date": "2020-4-10",
@@ -415,9 +415,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-4-10",
-    "confirmed": 858,
+    "confirmed": 875,
     "deaths": 35,
-    "recovered": 101
+    "recovered": 118
   },
   "Cameroon": {
     "date": "2020-4-10",
@@ -469,7 +469,7 @@
   },
   "Latvia": {
     "date": "2020-4-10",
-    "confirmed": 589,
+    "confirmed": 612,
     "deaths": 3,
     "recovered": 16
   },
@@ -509,17 +509,17 @@
     "deaths": 15,
     "recovered": 28
   },
+  "Oman": {
+    "date": "2020-4-10",
+    "confirmed": 484,
+    "deaths": 3,
+    "recovered": 109
+  },
   "Uruguay": {
     "date": "2020-4-10",
     "confirmed": 473,
     "deaths": 7,
     "recovered": 206
-  },
-  "Oman": {
-    "date": "2020-4-10",
-    "confirmed": 457,
-    "deaths": 3,
-    "recovered": 109
   },
   "Cote d'Ivoire": {
     "date": "2020-4-10",
@@ -637,9 +637,9 @@
   },
   "Georgia": {
     "date": "2020-4-10",
-    "confirmed": 218,
+    "confirmed": 230,
     "deaths": 3,
-    "recovered": 51
+    "recovered": 52
   },
   "Congo (Kinshasa)": {
     "date": "2020-4-10",
