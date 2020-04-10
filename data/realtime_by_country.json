@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-4-10",
-    "confirmed": 466396,
-    "deaths": 16703,
+    "confirmed": 467184,
+    "deaths": 16736,
     "recovered": 26522
   },
   "Spain": {
@@ -17,17 +17,17 @@
     "deaths": 18279,
     "recovered": 28470
   },
+  "Germany": {
+    "date": "2020-4-10",
+    "confirmed": 119401,
+    "deaths": 2607,
+    "recovered": 52407
+  },
   "France": {
     "date": "2020-4-10",
     "confirmed": 118790,
     "deaths": 12228,
     "recovered": 23469
-  },
-  "Germany": {
-    "date": "2020-4-10",
-    "confirmed": 118235,
-    "deaths": 2607,
-    "recovered": 52407
   },
   "China": {
     "date": "2020-4-10",
@@ -45,7 +45,7 @@
     "date": "2020-4-10",
     "confirmed": 65872,
     "deaths": 7993,
-    "recovered": 359
+    "recovered": 367
   },
   "Turkey": {
     "date": "2020-4-10",
@@ -61,8 +61,8 @@
   },
   "Switzerland": {
     "date": "2020-4-10",
-    "confirmed": 24172,
-    "deaths": 958,
+    "confirmed": 24427,
+    "deaths": 987,
     "recovered": 10600
   },
   "Netherlands": {
@@ -91,7 +91,7 @@
   },
   "Austria": {
     "date": "2020-4-10",
-    "confirmed": 13453,
+    "confirmed": 13494,
     "deaths": 319,
     "recovered": 6064
   },
@@ -133,7 +133,7 @@
   },
   "Norway": {
     "date": "2020-4-10",
-    "confirmed": 6233,
+    "confirmed": 6244,
     "deaths": 108,
     "recovered": 32
   },
@@ -287,6 +287,12 @@
     "deaths": 69,
     "recovered": 61
   },
+  "Singapore": {
+    "date": "2020-4-10",
+    "confirmed": 2108,
+    "deaths": 7,
+    "recovered": 492
+  },
   "South Africa": {
     "date": "2020-4-10",
     "confirmed": 2003,
@@ -305,12 +311,6 @@
     "deaths": 87,
     "recovered": 269
   },
-  "Singapore": {
-    "date": "2020-4-10",
-    "confirmed": 1910,
-    "deaths": 6,
-    "recovered": 460
-  },
   "Argentina": {
     "date": "2020-4-10",
     "confirmed": 1894,
@@ -323,17 +323,17 @@
     "deaths": 118,
     "recovered": 348
   },
+  "Iceland": {
+    "date": "2020-4-10",
+    "confirmed": 1675,
+    "deaths": 6,
+    "recovered": 751
+  },
   "Algeria": {
     "date": "2020-4-10",
     "confirmed": 1666,
     "deaths": 235,
     "recovered": 347
-  },
-  "Iceland": {
-    "date": "2020-4-10",
-    "confirmed": 1648,
-    "deaths": 6,
-    "recovered": 688
   },
   "Croatia": {
     "date": "2020-4-10",
@@ -341,17 +341,17 @@
     "deaths": 21,
     "recovered": 231
   },
+  "Moldova": {
+    "date": "2020-4-10",
+    "confirmed": 1438,
+    "deaths": 29,
+    "recovered": 56
+  },
   "Morocco": {
     "date": "2020-4-10",
     "confirmed": 1431,
     "deaths": 105,
     "recovered": 114
-  },
-  "Moldova": {
-    "date": "2020-4-10",
-    "confirmed": 1289,
-    "deaths": 29,
-    "recovered": 56
   },
   "New Zealand": {
     "date": "2020-4-10",
@@ -429,7 +429,13 @@
     "date": "2020-4-10",
     "confirmed": 802,
     "deaths": 9,
-    "recovered": 63
+    "recovered": 64
+  },
+  "Slovakia": {
+    "date": "2020-4-10",
+    "confirmed": 715,
+    "deaths": 2,
+    "recovered": 23
   },
   "Diamond Princess": {
     "date": "2020-4-10",
@@ -443,12 +449,6 @@
     "deaths": 32,
     "recovered": 41
   },
-  "Slovakia": {
-    "date": "2020-4-10",
-    "confirmed": 701,
-    "deaths": 2,
-    "recovered": 23
-  },
   "Tunisia": {
     "date": "2020-4-10",
     "confirmed": 643,
@@ -457,8 +457,8 @@
   },
   "Bulgaria": {
     "date": "2020-4-10",
-    "confirmed": 624,
-    "deaths": 24,
+    "confirmed": 635,
+    "deaths": 25,
     "recovered": 54
   },
   "Uzbekistan": {
@@ -567,7 +567,7 @@
     "date": "2020-4-10",
     "confirmed": 378,
     "deaths": 6,
-    "recovered": 3
+    "recovered": 4
   },
   "Jordan": {
     "date": "2020-4-10",
@@ -583,9 +583,9 @@
   },
   "San Marino": {
     "date": "2020-4-10",
-    "confirmed": 333,
+    "confirmed": 344,
     "deaths": 34,
-    "recovered": 49
+    "recovered": 50
   },
   "Mauritius": {
     "date": "2020-4-10",
@@ -639,7 +639,7 @@
     "date": "2020-4-10",
     "confirmed": 230,
     "deaths": 3,
-    "recovered": 52
+    "recovered": 54
   },
   "Congo (Kinshasa)": {
     "date": "2020-4-10",
@@ -1073,6 +1073,12 @@
     "deaths": 0,
     "recovered": 0
   },
+  "South Sudan": {
+    "date": "2020-4-10",
+    "confirmed": 4,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Western Sahara": {
     "date": "2020-4-10",
     "confirmed": 4,
@@ -1080,12 +1086,6 @@
     "recovered": 0
   },
   "Burundi": {
-    "date": "2020-4-10",
-    "confirmed": 3,
-    "deaths": 0,
-    "recovered": 0
-  },
-  "South Sudan": {
     "date": "2020-4-10",
     "confirmed": 3,
     "deaths": 0,
