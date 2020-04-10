@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-10",
-    "confirmed": 491358,
-    "deaths": 18316,
-    "recovered": 27744
+    "confirmed": 486994,
+    "deaths": 18022,
+    "recovered": 27612
   },
   "Spain": {
     "date": "2020-4-10",
@@ -27,7 +27,7 @@
     "date": "2020-4-10",
     "confirmed": 120157,
     "deaths": 2688,
-    "recovered": 53913
+    "recovered": 52407
   },
   "China": {
     "date": "2020-4-10",
@@ -109,9 +109,9 @@
   },
   "Israel": {
     "date": "2020-4-10",
-    "confirmed": 10408,
+    "confirmed": 10095,
     "deaths": 95,
-    "recovered": 1183
+    "recovered": 1061
   },
   "Sweden": {
     "date": "2020-4-10",
@@ -145,15 +145,15 @@
   },
   "Norway": {
     "date": "2020-4-10",
-    "confirmed": 6314,
+    "confirmed": 6298,
     "deaths": 113,
     "recovered": 32
   },
   "Australia": {
     "date": "2020-4-10",
-    "confirmed": 6215,
+    "confirmed": 6204,
     "deaths": 54,
-    "recovered": 1793
+    "recovered": 1472
   },
   "Denmark": {
     "date": "2020-4-10",
@@ -941,22 +941,10 @@
     "deaths": 2,
     "recovered": 2
   },
-  "Grenada": {
-    "date": "2020-4-10",
-    "confirmed": 14,
-    "deaths": 0,
-    "recovered": 0
-  },
   "Botswana": {
     "date": "2020-4-10",
     "confirmed": 13,
     "deaths": 1,
-    "recovered": 0
-  },
-  "Zimbabwe": {
-    "date": "2020-4-10",
-    "confirmed": 13,
-    "deaths": 3,
     "recovered": 0
   },
   "Eswatini": {
@@ -964,6 +952,12 @@
     "confirmed": 12,
     "deaths": 0,
     "recovered": 7
+  },
+  "Grenada": {
+    "date": "2020-4-10",
+    "confirmed": 12,
+    "deaths": 0,
+    "recovered": 0
   },
   "Saint Vincent and the Grenadines": {
     "date": "2020-4-10",
@@ -987,6 +981,12 @@
     "date": "2020-4-10",
     "confirmed": 11,
     "deaths": 0,
+    "recovered": 0
+  },
+  "Zimbabwe": {
+    "date": "2020-4-10",
+    "confirmed": 11,
+    "deaths": 3,
     "recovered": 0
   },
   "Belize": {
