@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-11",
-    "confirmed": 514415,
-    "deaths": 19882,
-    "recovered": 29347
+    "confirmed": 519453,
+    "deaths": 20071,
+    "recovered": 29507
   },
   "Spain": {
     "date": "2020-4-11",
@@ -38,7 +38,7 @@
   "United Kingdom": {
     "date": "2020-4-11",
     "confirmed": 79865,
-    "deaths": 9891,
+    "deaths": 9892,
     "recovered": 614
   },
   "Iran": {
@@ -63,24 +63,24 @@
     "date": "2020-4-11",
     "confirmed": 25107,
     "deaths": 1036,
-    "recovered": 11100
+    "recovered": 12100
   },
   "Netherlands": {
     "date": "2020-4-11",
     "confirmed": 24571,
-    "deaths": 2652,
-    "recovered": 289
+    "deaths": 2653,
+    "recovered": 291
   },
   "Canada": {
     "date": "2020-4-11",
-    "confirmed": 23195,
+    "confirmed": 23197,
     "deaths": 649,
-    "recovered": 6531
+    "recovered": 6548
   },
   "Brazil": {
     "date": "2020-4-11",
-    "confirmed": 20022,
-    "deaths": 1075,
+    "confirmed": 20247,
+    "deaths": 1090,
     "recovered": 173
   },
   "Portugal": {
@@ -91,7 +91,7 @@
   },
   "Austria": {
     "date": "2020-4-11",
-    "confirmed": 13798,
+    "confirmed": 13799,
     "deaths": 337,
     "recovered": 6604
   },
@@ -103,9 +103,9 @@
   },
   "Israel": {
     "date": "2020-4-11",
-    "confirmed": 10525,
-    "deaths": 96,
-    "recovered": 1258
+    "confirmed": 10743,
+    "deaths": 101,
+    "recovered": 1341
   },
   "Korea, South": {
     "date": "2020-4-11",
@@ -119,17 +119,17 @@
     "deaths": 887,
     "recovered": 381
   },
-  "India": {
-    "date": "2020-4-11",
-    "confirmed": 8339,
-    "deaths": 288,
-    "recovered": 969
-  },
   "Ireland": {
     "date": "2020-4-11",
-    "confirmed": 8089,
-    "deaths": 287,
+    "confirmed": 8928,
+    "deaths": 320,
     "recovered": 25
+  },
+  "India": {
+    "date": "2020-4-11",
+    "confirmed": 8446,
+    "deaths": 288,
+    "recovered": 969
   },
   "Ecuador": {
     "date": "2020-4-11",
@@ -151,8 +151,8 @@
   },
   "Norway": {
     "date": "2020-4-11",
-    "confirmed": 6403,
-    "deaths": 117,
+    "confirmed": 6408,
+    "deaths": 118,
     "recovered": 32
   },
   "Poland": {
@@ -194,7 +194,7 @@
   "Pakistan": {
     "date": "2020-4-11",
     "confirmed": 5011,
-    "deaths": 77,
+    "deaths": 86,
     "recovered": 762
   },
   "Malaysia": {
@@ -332,7 +332,7 @@
   "Iceland": {
     "date": "2020-4-11",
     "confirmed": 1689,
-    "deaths": 7,
+    "deaths": 8,
     "recovered": 841
   },
   "Moldova": {
@@ -395,17 +395,17 @@
     "deaths": 11,
     "recovered": 200
   },
+  "Bahrain": {
+    "date": "2020-4-11",
+    "confirmed": 1040,
+    "deaths": 6,
+    "recovered": 555
+  },
   "Lithuania": {
     "date": "2020-4-11",
     "confirmed": 1026,
     "deaths": 23,
     "recovered": 54
-  },
-  "Bahrain": {
-    "date": "2020-4-11",
-    "confirmed": 1016,
-    "deaths": 6,
-    "recovered": 551
   },
   "Armenia": {
     "date": "2020-4-11",
@@ -499,9 +499,9 @@
   },
   "Costa Rica": {
     "date": "2020-4-11",
-    "confirmed": 558,
+    "confirmed": 577,
     "deaths": 3,
-    "recovered": 42
+    "recovered": 49
   },
   "Afghanistan": {
     "date": "2020-4-11",
@@ -635,6 +635,12 @@
     "deaths": 0,
     "recovered": 144
   },
+  "Guinea": {
+    "date": "2020-4-11",
+    "confirmed": 250,
+    "deaths": 0,
+    "recovered": 17
+  },
   "Kosovo": {
     "date": "2020-4-11",
     "confirmed": 250,
@@ -652,12 +658,6 @@
     "confirmed": 223,
     "deaths": 20,
     "recovered": 16
-  },
-  "Guinea": {
-    "date": "2020-4-11",
-    "confirmed": 212,
-    "deaths": 0,
-    "recovered": 15
   },
   "Sri Lanka": {
     "date": "2020-4-11",
@@ -1007,6 +1007,12 @@
     "deaths": 1,
     "recovered": 4
   },
+  "Gambia": {
+    "date": "2020-4-11",
+    "confirmed": 9,
+    "deaths": 1,
+    "recovered": 2
+  },
   "MS Zaandam": {
     "date": "2020-4-11",
     "confirmed": 9,
@@ -1066,12 +1072,6 @@
     "confirmed": 5,
     "deaths": 0,
     "recovered": 0
-  },
-  "Gambia": {
-    "date": "2020-4-11",
-    "confirmed": 4,
-    "deaths": 1,
-    "recovered": 2
   },
   "Sao Tome and Principe": {
     "date": "2020-4-11",
