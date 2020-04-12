@@ -31,9 +31,9 @@
   },
   "China": {
     "date": "2020-4-12",
-    "confirmed": 83130,
+    "confirmed": 83134,
     "deaths": 3343,
-    "recovered": 77929
+    "recovered": 77953
   },
   "United Kingdom": {
     "date": "2020-4-12",
@@ -43,9 +43,9 @@
   },
   "Iran": {
     "date": "2020-4-12",
-    "confirmed": 70029,
-    "deaths": 4357,
-    "recovered": 41947
+    "confirmed": 71686,
+    "deaths": 4474,
+    "recovered": 43894
   },
   "Turkey": {
     "date": "2020-4-12",
@@ -157,8 +157,8 @@
   },
   "Norway": {
     "date": "2020-4-12",
-    "confirmed": 6409,
-    "deaths": 119,
+    "confirmed": 6459,
+    "deaths": 123,
     "recovered": 32
   },
   "Poland": {
@@ -193,8 +193,8 @@
   },
   "Pakistan": {
     "date": "2020-4-12",
-    "confirmed": 5038,
-    "deaths": 86,
+    "confirmed": 5170,
+    "deaths": 88,
     "recovered": 1026
   },
   "Malaysia": {
@@ -251,10 +251,16 @@
     "deaths": 79,
     "recovered": 23
   },
+  "Qatar": {
+    "date": "2020-4-12",
+    "confirmed": 2979,
+    "deaths": 7,
+    "recovered": 275
+  },
   "Finland": {
     "date": "2020-4-12",
     "confirmed": 2974,
-    "deaths": 49,
+    "deaths": 56,
     "recovered": 300
   },
   "Ukraine": {
@@ -268,12 +274,6 @@
     "confirmed": 2759,
     "deaths": 135,
     "recovered": 108
-  },
-  "Qatar": {
-    "date": "2020-4-12",
-    "confirmed": 2728,
-    "deaths": 6,
-    "recovered": 247
   },
   "Colombia": {
     "date": "2020-4-12",
@@ -403,9 +403,9 @@
   },
   "Bahrain": {
     "date": "2020-4-12",
-    "confirmed": 1040,
+    "confirmed": 1024,
     "deaths": 6,
-    "recovered": 555
+    "recovered": 557
   },
   "Armenia": {
     "date": "2020-4-12",
@@ -415,9 +415,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-4-12",
-    "confirmed": 975,
-    "deaths": 37,
-    "recovered": 139
+    "confirmed": 986,
+    "deaths": 38,
+    "recovered": 193
   },
   "Kazakhstan": {
     "date": "2020-4-12",
@@ -425,23 +425,23 @@
     "deaths": 10,
     "recovered": 86
   },
-  "Cameroon": {
-    "date": "2020-4-12",
-    "confirmed": 820,
-    "deaths": 12,
-    "recovered": 98
-  },
   "Uzbekistan": {
     "date": "2020-4-12",
-    "confirmed": 796,
+    "confirmed": 833,
     "deaths": 4,
     "recovered": 42
   },
   "North Macedonia": {
     "date": "2020-4-12",
-    "confirmed": 760,
+    "confirmed": 828,
     "deaths": 34,
     "recovered": 41
+  },
+  "Cameroon": {
+    "date": "2020-4-12",
+    "confirmed": 820,
+    "deaths": 12,
+    "recovered": 98
   },
   "Slovakia": {
     "date": "2020-4-12",
@@ -575,16 +575,16 @@
     "deaths": 7,
     "recovered": 177
   },
+  "Malta": {
+    "date": "2020-4-12",
+    "confirmed": 378,
+    "deaths": 3,
+    "recovered": 44
+  },
   "Kyrgyzstan": {
     "date": "2020-4-12",
     "confirmed": 377,
     "deaths": 5,
-    "recovered": 44
-  },
-  "Malta": {
-    "date": "2020-4-12",
-    "confirmed": 370,
-    "deaths": 3,
     "recovered": 44
   },
   "San Marino": {
@@ -619,9 +619,9 @@
   },
   "Senegal": {
     "date": "2020-4-12",
-    "confirmed": 278,
+    "confirmed": 280,
     "deaths": 2,
-    "recovered": 152
+    "recovered": 171
   },
   "West Bank and Gaza": {
     "date": "2020-4-12",
@@ -655,7 +655,7 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-4-12",
-    "confirmed": 223,
+    "confirmed": 234,
     "deaths": 20,
     "recovered": 16
   },
@@ -869,6 +869,12 @@
     "deaths": 2,
     "recovered": 0
   },
+  "Equatorial Guinea": {
+    "date": "2020-4-12",
+    "confirmed": 21,
+    "deaths": 0,
+    "recovered": 3
+  },
   "Somalia": {
     "date": "2020-4-12",
     "confirmed": 21,
@@ -893,23 +899,17 @@
     "deaths": 2,
     "recovered": 4
   },
+  "Laos": {
+    "date": "2020-4-12",
+    "confirmed": 19,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Sudan": {
     "date": "2020-4-12",
     "confirmed": 19,
     "deaths": 2,
     "recovered": 2
-  },
-  "Equatorial Guinea": {
-    "date": "2020-4-12",
-    "confirmed": 18,
-    "deaths": 0,
-    "recovered": 3
-  },
-  "Laos": {
-    "date": "2020-4-12",
-    "confirmed": 18,
-    "deaths": 0,
-    "recovered": 0
   },
   "Dominica": {
     "date": "2020-4-12",
