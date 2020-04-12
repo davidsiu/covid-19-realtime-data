@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-12",
-    "confirmed": 550016,
-    "deaths": 21733,
-    "recovered": 32728
+    "confirmed": 554226,
+    "deaths": 21994,
+    "recovered": 32830
   },
   "Spain": {
     "date": "2020-4-12",
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-12",
-    "confirmed": 127459,
-    "deaths": 2996,
+    "confirmed": 127574,
+    "deaths": 3011,
     "recovered": 60300
   },
   "United Kingdom": {
@@ -63,19 +63,19 @@
     "date": "2020-4-12",
     "confirmed": 25746,
     "deaths": 2747,
-    "recovered": 294
+    "recovered": 295
   },
   "Switzerland": {
     "date": "2020-4-12",
-    "confirmed": 25407,
+    "confirmed": 25415,
     "deaths": 1106,
     "recovered": 12700
   },
   "Canada": {
     "date": "2020-4-12",
-    "confirmed": 24290,
+    "confirmed": 24299,
     "deaths": 713,
-    "recovered": 7106
+    "recovered": 7123
   },
   "Brazil": {
     "date": "2020-4-12",
@@ -539,17 +539,17 @@
     "deaths": 12,
     "recovered": 75
   },
-  "Uruguay": {
-    "date": "2020-4-12",
-    "confirmed": 501,
-    "deaths": 7,
-    "recovered": 224
-  },
   "Burkina Faso": {
     "date": "2020-4-12",
     "confirmed": 497,
     "deaths": 27,
     "recovered": 161
+  },
+  "Uruguay": {
+    "date": "2020-4-12",
+    "confirmed": 472,
+    "deaths": 7,
+    "recovered": 224
   },
   "Albania": {
     "date": "2020-4-12",
@@ -723,7 +723,7 @@
     "date": "2020-4-12",
     "confirmed": 113,
     "deaths": 8,
-    "recovered": 12
+    "recovered": 16
   },
   "Madagascar": {
     "date": "2020-4-12",
@@ -857,6 +857,12 @@
     "deaths": 1,
     "recovered": 8
   },
+  "Somalia": {
+    "date": "2020-4-12",
+    "confirmed": 25,
+    "deaths": 1,
+    "recovered": 2
+  },
   "Syria": {
     "date": "2020-4-12",
     "confirmed": 25,
@@ -881,17 +887,11 @@
     "deaths": 0,
     "recovered": 2
   },
-  "Somalia": {
-    "date": "2020-4-12",
-    "confirmed": 21,
-    "deaths": 1,
-    "recovered": 2
-  },
   "Maldives": {
     "date": "2020-4-12",
     "confirmed": 20,
     "deaths": 0,
-    "recovered": 13
+    "recovered": 14
   },
   "Angola": {
     "date": "2020-4-12",
