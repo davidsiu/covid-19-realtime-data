@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-13",
-    "confirmed": 556044,
-    "deaths": 22073,
-    "recovered": 42735
+    "confirmed": 557300,
+    "deaths": 22079,
+    "recovered": 41759
   },
   "Spain": {
     "date": "2020-4-13",
@@ -33,7 +33,7 @@
     "date": "2020-4-13",
     "confirmed": 85208,
     "deaths": 10629,
-    "recovered": 627
+    "recovered": 283
   },
   "China": {
     "date": "2020-4-13",
@@ -203,6 +203,12 @@
     "deaths": 76,
     "recovered": 2108
   },
+  "Mexico": {
+    "date": "2020-4-13",
+    "confirmed": 4661,
+    "deaths": 296,
+    "recovered": 1843
+  },
   "Philippines": {
     "date": "2020-4-13",
     "confirmed": 4648,
@@ -220,12 +226,6 @@
     "confirmed": 4241,
     "deaths": 373,
     "recovered": 359
-  },
-  "Mexico": {
-    "date": "2020-4-13",
-    "confirmed": 4219,
-    "deaths": 273,
-    "recovered": 1772
   },
   "United Arab Emirates": {
     "date": "2020-4-13",
@@ -367,9 +367,9 @@
   },
   "New Zealand": {
     "date": "2020-4-13",
-    "confirmed": 1330,
-    "deaths": 4,
-    "recovered": 471
+    "confirmed": 1349,
+    "deaths": 5,
+    "recovered": 546
   },
   "Estonia": {
     "date": "2020-4-13",
