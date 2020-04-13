@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-13",
-    "confirmed": 557590,
-    "deaths": 22109,
-    "recovered": 41831
+    "confirmed": 557663,
+    "deaths": 22116,
+    "recovered": 41871
   },
   "Spain": {
     "date": "2020-4-13",
@@ -80,7 +80,7 @@
   "Brazil": {
     "date": "2020-4-13",
     "confirmed": 22318,
-    "deaths": 1230,
+    "deaths": 1241,
     "recovered": 173
   },
   "Russia": {
@@ -97,7 +97,7 @@
   },
   "Austria": {
     "date": "2020-4-13",
-    "confirmed": 13984,
+    "confirmed": 13999,
     "deaths": 368,
     "recovered": 7343
   },
@@ -107,17 +107,17 @@
     "deaths": 110,
     "recovered": 1689
   },
+  "Sweden": {
+    "date": "2020-4-13",
+    "confirmed": 10948,
+    "deaths": 919,
+    "recovered": 381
+  },
   "Korea, South": {
     "date": "2020-4-13",
     "confirmed": 10537,
     "deaths": 217,
     "recovered": 7447
-  },
-  "Sweden": {
-    "date": "2020-4-13",
-    "confirmed": 10483,
-    "deaths": 899,
-    "recovered": 381
   },
   "Ireland": {
     "date": "2020-4-13",
@@ -169,15 +169,15 @@
   },
   "Norway": {
     "date": "2020-4-13",
-    "confirmed": 6525,
-    "deaths": 128,
+    "confirmed": 6527,
+    "deaths": 131,
     "recovered": 32
   },
   "Denmark": {
     "date": "2020-4-13",
-    "confirmed": 6369,
-    "deaths": 273,
-    "recovered": 2291
+    "confirmed": 6513,
+    "deaths": 285,
+    "recovered": 2403
   },
   "Australia": {
     "date": "2020-4-13",
@@ -196,6 +196,12 @@
     "confirmed": 5374,
     "deaths": 93,
     "recovered": 1095
+  },
+  "Saudi Arabia": {
+    "date": "2020-4-13",
+    "confirmed": 4934,
+    "deaths": 65,
+    "recovered": 805
   },
   "Philippines": {
     "date": "2020-4-13",
@@ -220,12 +226,6 @@
     "confirmed": 4557,
     "deaths": 399,
     "recovered": 380
-  },
-  "Saudi Arabia": {
-    "date": "2020-4-13",
-    "confirmed": 4462,
-    "deaths": 59,
-    "recovered": 761
   },
   "United Arab Emirates": {
     "date": "2020-4-13",
@@ -349,9 +349,9 @@
   },
   "Croatia": {
     "date": "2020-4-13",
-    "confirmed": 1600,
-    "deaths": 23,
-    "recovered": 373
+    "confirmed": 1650,
+    "deaths": 25,
+    "recovered": 400
   },
   "Hungary": {
     "date": "2020-4-13",
@@ -493,7 +493,7 @@
   },
   "Latvia": {
     "date": "2020-4-13",
-    "confirmed": 653,
+    "confirmed": 655,
     "deaths": 5,
     "recovered": 16
   },
