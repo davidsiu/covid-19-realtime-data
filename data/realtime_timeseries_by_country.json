@@ -4530,8 +4530,8 @@
     },
     {
       "date": "2020-4-14",
-      "confirmed": 6494,
-      "deaths": 61,
+      "confirmed": 6415,
+      "deaths": 62,
       "recovered": 2186
     }
   ],
@@ -6554,7 +6554,7 @@
     },
     {
       "date": "2020-4-14",
-      "confirmed": 1522,
+      "confirmed": 1528,
       "deaths": 7,
       "recovered": 645
     }
@@ -13103,6 +13103,12 @@
     {
       "date": "2020-4-13",
       "confirmed": 10,
+      "deaths": 1,
+      "recovered": 1
+    },
+    {
+      "date": "2020-4-14",
+      "confirmed": 11,
       "deaths": 1,
       "recovered": 1
     }
@@ -28731,12 +28737,6 @@
       "confirmed": 137875,
       "deaths": 14986,
       "recovered": 28001
-    },
-    {
-      "date": "2020-4-14",
-      "confirmed": 144411,
-      "deaths": 15748,
-      "recovered": 29098
     }
   ],
   "Gabon": [
@@ -50433,7 +50433,7 @@
     {
       "date": "2020-4-14",
       "confirmed": 1934,
-      "deaths": 38,
+      "deaths": 40,
       "recovered": 134
     }
   ],
@@ -79190,9 +79190,9 @@
     },
     {
       "date": "2020-4-14",
-      "confirmed": 598670,
-      "deaths": 25239,
-      "recovered": 44364
+      "confirmed": 589048,
+      "deaths": 25163,
+      "recovered": 45079
     }
   ],
   "Uzbekistan": [
@@ -79696,7 +79696,7 @@
     },
     {
       "date": "2020-4-14",
-      "confirmed": 1113,
+      "confirmed": 1165,
       "deaths": 4,
       "recovered": 99
     }
