@@ -2,7 +2,7 @@
   "US": {
     "date": "2020-4-14",
     "confirmed": 584073,
-    "deaths": 23709,
+    "deaths": 24485,
     "recovered": 44319
   },
   "Spain": {
@@ -13,9 +13,9 @@
   },
   "Italy": {
     "date": "2020-4-14",
-    "confirmed": 159516,
-    "deaths": 20465,
-    "recovered": 35435
+    "confirmed": 162488,
+    "deaths": 21067,
+    "recovered": 37130
   },
   "France": {
     "date": "2020-4-14",
@@ -25,7 +25,7 @@
   },
   "Germany": {
     "date": "2020-4-14",
-    "confirmed": 130694,
+    "confirmed": 131100,
     "deaths": 3261,
     "recovered": 68200
   },
@@ -73,15 +73,15 @@
   },
   "Switzerland": {
     "date": "2020-4-14",
-    "confirmed": 25913,
-    "deaths": 1162,
+    "confirmed": 25936,
+    "deaths": 1174,
     "recovered": 13700
   },
   "Brazil": {
     "date": "2020-4-14",
-    "confirmed": 23955,
-    "deaths": 1361,
-    "recovered": 2979
+    "confirmed": 24169,
+    "deaths": 1378,
+    "recovered": 3046
   },
   "Russia": {
     "date": "2020-4-14",
@@ -97,7 +97,7 @@
   },
   "Austria": {
     "date": "2020-4-14",
-    "confirmed": 14185,
+    "confirmed": 14197,
     "deaths": 384,
     "recovered": 7633
   },
@@ -113,6 +113,12 @@
     "deaths": 1033,
     "recovered": 381
   },
+  "India": {
+    "date": "2020-4-14",
+    "confirmed": 10941,
+    "deaths": 368,
+    "recovered": 1295
+  },
   "Ireland": {
     "date": "2020-4-14",
     "confirmed": 10647,
@@ -124,12 +130,6 @@
     "confirmed": 10564,
     "deaths": 222,
     "recovered": 7534
-  },
-  "India": {
-    "date": "2020-4-14",
-    "confirmed": 10541,
-    "deaths": 358,
-    "recovered": 1205
   },
   "Peru": {
     "date": "2020-4-14",
@@ -188,8 +188,8 @@
   "Czechia": {
     "date": "2020-4-14",
     "confirmed": 6101,
-    "deaths": 147,
-    "recovered": 527
+    "deaths": 161,
+    "recovered": 642
   },
   "Pakistan": {
     "date": "2020-4-14",
@@ -308,7 +308,7 @@
   "Argentina": {
     "date": "2020-4-14",
     "confirmed": 2277,
-    "deaths": 101,
+    "deaths": 102,
     "recovered": 559
   },
   "Egypt": {
@@ -325,14 +325,14 @@
   },
   "Algeria": {
     "date": "2020-4-14",
-    "confirmed": 1983,
-    "deaths": 313,
-    "recovered": 601
+    "confirmed": 2070,
+    "deaths": 326,
+    "recovered": 691
   },
   "Moldova": {
     "date": "2020-4-14",
     "confirmed": 1934,
-    "deaths": 36,
+    "deaths": 38,
     "recovered": 134
   },
   "Morocco": {
@@ -649,7 +649,7 @@
   },
   "Montenegro": {
     "date": "2020-4-14",
-    "confirmed": 278,
+    "confirmed": 283,
     "deaths": 4,
     "recovered": 5
   },
@@ -673,9 +673,9 @@
   },
   "Kenya": {
     "date": "2020-4-14",
-    "confirmed": 208,
+    "confirmed": 216,
     "deaths": 9,
-    "recovered": 40
+    "recovered": 41
   },
   "Venezuela": {
     "date": "2020-4-14",
@@ -701,6 +701,12 @@
     "deaths": 6,
     "recovered": 25
   },
+  "Mali": {
+    "date": "2020-4-14",
+    "confirmed": 144,
+    "deaths": 13,
+    "recovered": 34
+  },
   "Brunei": {
     "date": "2020-4-14",
     "confirmed": 136,
@@ -712,12 +718,6 @@
     "confirmed": 127,
     "deaths": 0,
     "recovered": 42
-  },
-  "Mali": {
-    "date": "2020-4-14",
-    "confirmed": 123,
-    "deaths": 10,
-    "recovered": 26
   },
   "Cambodia": {
     "date": "2020-4-14",
@@ -809,17 +809,17 @@
     "deaths": 0,
     "recovered": 8
   },
+  "Tanzania": {
+    "date": "2020-4-14",
+    "confirmed": 53,
+    "deaths": 3,
+    "recovered": 7
+  },
   "Bahamas": {
     "date": "2020-4-14",
     "confirmed": 49,
     "deaths": 8,
     "recovered": 6
-  },
-  "Tanzania": {
-    "date": "2020-4-14",
-    "confirmed": 49,
-    "deaths": 3,
-    "recovered": 7
   },
   "Guyana": {
     "date": "2020-4-14",
@@ -863,17 +863,17 @@
     "deaths": 0,
     "recovered": 0
   },
+  "Sudan": {
+    "date": "2020-4-14",
+    "confirmed": 32,
+    "deaths": 5,
+    "recovered": 4
+  },
   "Mongolia": {
     "date": "2020-4-14",
     "confirmed": 30,
     "deaths": 0,
     "recovered": 5
-  },
-  "Sudan": {
-    "date": "2020-4-14",
-    "confirmed": 29,
-    "deaths": 4,
-    "recovered": 4
   },
   "Syria": {
     "date": "2020-4-14",
