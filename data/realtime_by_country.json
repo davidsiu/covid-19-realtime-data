@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2020-4-15",
-    "confirmed": 632878,
-    "deaths": 27850,
-    "recovered": 51160
+    "confirmed": 634975,
+    "deaths": 27940,
+    "recovered": 51770
   },
   "Spain": {
     "date": "2020-4-15",
-    "confirmed": 177633,
-    "deaths": 18579,
+    "confirmed": 177644,
+    "deaths": 18708,
     "recovered": 70853
   },
   "Italy": {
@@ -31,7 +31,7 @@
   },
   "United Kingdom": {
     "date": "2020-4-15",
-    "confirmed": 99459,
+    "confirmed": 99483,
     "deaths": 12894,
     "recovered": 365
   },
@@ -344,7 +344,7 @@
   "Croatia": {
     "date": "2020-4-15",
     "confirmed": 1741,
-    "deaths": 34,
+    "deaths": 33,
     "recovered": 473
   },
   "Iceland": {
@@ -719,6 +719,12 @@
     "deaths": 0,
     "recovered": 54
   },
+  "Jamaica": {
+    "date": "2020-4-15",
+    "confirmed": 125,
+    "deaths": 5,
+    "recovered": 21
+  },
   "Cambodia": {
     "date": "2020-4-15",
     "confirmed": 122,
@@ -742,12 +748,6 @@
     "confirmed": 110,
     "deaths": 0,
     "recovered": 29
-  },
-  "Jamaica": {
-    "date": "2020-4-15",
-    "confirmed": 105,
-    "deaths": 5,
-    "recovered": 21
   },
   "Monaco": {
     "date": "2020-4-15",
@@ -911,6 +911,12 @@
     "deaths": 0,
     "recovered": 2
   },
+  "Zimbabwe": {
+    "date": "2020-4-15",
+    "confirmed": 23,
+    "deaths": 3,
+    "recovered": 1
+  },
   "Maldives": {
     "date": "2020-4-15",
     "confirmed": 22,
@@ -934,12 +940,6 @@
     "confirmed": 18,
     "deaths": 2,
     "recovered": 0
-  },
-  "Zimbabwe": {
-    "date": "2020-4-15",
-    "confirmed": 18,
-    "deaths": 3,
-    "recovered": 1
   },
   "Dominica": {
     "date": "2020-4-15",
