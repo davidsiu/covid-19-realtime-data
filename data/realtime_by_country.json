@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-15",
-    "confirmed": 608458,
-    "deaths": 25992,
-    "recovered": 48224
+    "confirmed": 609240,
+    "deaths": 26033,
+    "recovered": 48625
   },
   "Spain": {
     "date": "2020-4-15",
@@ -37,9 +37,9 @@
   },
   "China": {
     "date": "2020-4-15",
-    "confirmed": 83321,
-    "deaths": 3345,
-    "recovered": 78204
+    "confirmed": 83351,
+    "deaths": 3346,
+    "recovered": 78265
   },
   "Iran": {
     "date": "2020-4-15",
@@ -127,9 +127,9 @@
   },
   "Korea, South": {
     "date": "2020-4-15",
-    "confirmed": 10564,
-    "deaths": 222,
-    "recovered": 7534
+    "confirmed": 10591,
+    "deaths": 225,
+    "recovered": 7616
   },
   "Peru": {
     "date": "2020-4-15",
@@ -197,6 +197,12 @@
     "deaths": 96,
     "recovered": 1378
   },
+  "Mexico": {
+    "date": "2020-4-15",
+    "confirmed": 5399,
+    "deaths": 406,
+    "recovered": 2125
+  },
   "Saudi Arabia": {
     "date": "2020-4-15",
     "confirmed": 5369,
@@ -208,12 +214,6 @@
     "confirmed": 5223,
     "deaths": 335,
     "recovered": 295
-  },
-  "Mexico": {
-    "date": "2020-4-15",
-    "confirmed": 5014,
-    "deaths": 332,
-    "recovered": 1964
   },
   "Malaysia": {
     "date": "2020-4-15",
@@ -565,8 +565,8 @@
   },
   "Honduras": {
     "date": "2020-4-15",
-    "confirmed": 407,
-    "deaths": 26,
+    "confirmed": 419,
+    "deaths": 31,
     "recovered": 7
   },
   "Jordan": {
