@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-17",
-    "confirmed": 671151,
-    "deaths": 33268,
-    "recovered": 56017
+    "confirmed": 671331,
+    "deaths": 33284,
+    "recovered": 56236
   },
   "Spain": {
     "date": "2020-4-17",
@@ -31,9 +31,9 @@
   },
   "United Kingdom": {
     "date": "2020-4-17",
-    "confirmed": 104146,
+    "confirmed": 104147,
     "deaths": 13759,
-    "recovered": 376
+    "recovered": 377
   },
   "China": {
     "date": "2020-4-17",
@@ -61,7 +61,7 @@
   },
   "Canada": {
     "date": "2020-4-17",
-    "confirmed": 30987,
+    "confirmed": 30973,
     "deaths": 1233,
     "recovered": 9757
   },
@@ -497,6 +497,12 @@
     "deaths": 12,
     "recovered": 644
   },
+  "Cote d'Ivoire": {
+    "date": "2020-4-17",
+    "confirmed": 688,
+    "deaths": 6,
+    "recovered": 193
+  },
   "Andorra": {
     "date": "2020-4-17",
     "confirmed": 682,
@@ -514,12 +520,6 @@
     "confirmed": 663,
     "deaths": 21,
     "recovered": 86
-  },
-  "Cote d'Ivoire": {
-    "date": "2020-4-17",
-    "confirmed": 654,
-    "deaths": 6,
-    "recovered": 146
   },
   "Costa Rica": {
     "date": "2020-4-17",
@@ -581,6 +581,12 @@
     "deaths": 11,
     "recovered": 79
   },
+  "Honduras": {
+    "date": "2020-4-17",
+    "confirmed": 442,
+    "deaths": 41,
+    "recovered": 9
+  },
   "Nigeria": {
     "date": "2020-4-17",
     "confirmed": 442,
@@ -592,12 +598,6 @@
     "confirmed": 438,
     "deaths": 1,
     "recovered": 49
-  },
-  "Honduras": {
-    "date": "2020-4-17",
-    "confirmed": 426,
-    "deaths": 35,
-    "recovered": 9
   },
   "San Marino": {
     "date": "2020-4-17",
