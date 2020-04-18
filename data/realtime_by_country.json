@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-18",
-    "confirmed": 716883,
-    "deaths": 37659,
-    "recovered": 59984
+    "confirmed": 718185,
+    "deaths": 37730,
+    "recovered": 63072
   },
   "Spain": {
     "date": "2020-4-18",
@@ -67,15 +67,15 @@
   },
   "Brazil": {
     "date": "2020-4-18",
-    "confirmed": 35025,
-    "deaths": 2203,
+    "confirmed": 36599,
+    "deaths": 2347,
     "recovered": 14026
   },
   "Canada": {
     "date": "2020-4-18",
-    "confirmed": 33625,
+    "confirmed": 33628,
     "deaths": 1359,
-    "recovered": 10593
+    "recovered": 10601
   },
   "Netherlands": {
     "date": "2020-4-18",
@@ -86,7 +86,7 @@
   "Switzerland": {
     "date": "2020-4-18",
     "confirmed": 27404,
-    "deaths": 1366,
+    "deaths": 1368,
     "recovered": 17100
   },
   "Portugal": {
@@ -117,7 +117,7 @@
     "date": "2020-4-18",
     "confirmed": 14420,
     "deaths": 348,
-    "recovered": 6541
+    "recovered": 6684
   },
   "Sweden": {
     "date": "2020-4-18",
@@ -188,7 +188,7 @@
   "Norway": {
     "date": "2020-4-18",
     "confirmed": 7036,
-    "deaths": 163,
+    "deaths": 164,
     "recovered": 32
   },
   "Mexico": {
@@ -293,17 +293,17 @@
     "deaths": 153,
     "recovered": 634
   },
+  "South Africa": {
+    "date": "2020-4-18",
+    "confirmed": 3034,
+    "deaths": 50,
+    "recovered": 903
+  },
   "Egypt": {
     "date": "2020-4-18",
     "confirmed": 3032,
     "deaths": 224,
     "recovered": 701
-  },
-  "South Africa": {
-    "date": "2020-4-18",
-    "confirmed": 2783,
-    "deaths": 50,
-    "recovered": 903
   },
   "Argentina": {
     "date": "2020-4-18",
@@ -361,9 +361,9 @@
   },
   "Bahrain": {
     "date": "2020-4-18",
-    "confirmed": 1767,
+    "confirmed": 1773,
     "deaths": 7,
-    "recovered": 741
+    "recovered": 755
   },
   "Iceland": {
     "date": "2020-4-18",
@@ -547,9 +547,9 @@
   },
   "Burkina Faso": {
     "date": "2020-4-18",
-    "confirmed": 557,
-    "deaths": 35,
-    "recovered": 294
+    "confirmed": 565,
+    "deaths": 36,
+    "recovered": 321
   },
   "Albania": {
     "date": "2020-4-18",
@@ -631,9 +631,9 @@
   },
   "Georgia": {
     "date": "2020-4-18",
-    "confirmed": 385,
-    "deaths": 3,
-    "recovered": 84
+    "confirmed": 388,
+    "deaths": 4,
+    "recovered": 86
   },
   "Senegal": {
     "date": "2020-4-18",
@@ -673,7 +673,7 @@
   },
   "Sri Lanka": {
     "date": "2020-4-18",
-    "confirmed": 248,
+    "confirmed": 254,
     "deaths": 7,
     "recovered": 86
   },
@@ -869,6 +869,12 @@
     "deaths": 3,
     "recovered": 0
   },
+  "Eritrea": {
+    "date": "2020-4-18",
+    "confirmed": 39,
+    "deaths": 0,
+    "recovered": 3
+  },
   "Syria": {
     "date": "2020-4-18",
     "confirmed": 38,
@@ -880,12 +886,6 @@
     "confirmed": 35,
     "deaths": 1,
     "recovered": 18
-  },
-  "Eritrea": {
-    "date": "2020-4-18",
-    "confirmed": 35,
-    "deaths": 0,
-    "recovered": 0
   },
   "Maldives": {
     "date": "2020-4-18",
@@ -923,6 +923,12 @@
     "deaths": 0,
     "recovered": 0
   },
+  "Angola": {
+    "date": "2020-4-18",
+    "confirmed": 24,
+    "deaths": 2,
+    "recovered": 6
+  },
   "Zimbabwe": {
     "date": "2020-4-18",
     "confirmed": 24,
@@ -940,12 +946,6 @@
     "confirmed": 22,
     "deaths": 1,
     "recovered": 8
-  },
-  "Angola": {
-    "date": "2020-4-18",
-    "confirmed": 19,
-    "deaths": 2,
-    "recovered": 5
   },
   "Laos": {
     "date": "2020-4-18",
