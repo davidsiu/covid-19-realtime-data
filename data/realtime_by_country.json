@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-18",
-    "confirmed": 706830,
-    "deaths": 37086,
-    "recovered": 59672
+    "confirmed": 706832,
+    "deaths": 37084,
+    "recovered": 60523
   },
   "Spain": {
     "date": "2020-4-18",
@@ -19,14 +19,14 @@
   },
   "France": {
     "date": "2020-4-18",
-    "confirmed": 149132,
+    "confirmed": 149146,
     "deaths": 18703,
     "recovered": 35018
   },
   "Germany": {
     "date": "2020-4-18",
-    "confirmed": 141968,
-    "deaths": 4377,
+    "confirmed": 142210,
+    "deaths": 4381,
     "recovered": 85400
   },
   "United Kingdom": {
@@ -67,8 +67,8 @@
   },
   "Brazil": {
     "date": "2020-4-18",
-    "confirmed": 34221,
-    "deaths": 2171,
+    "confirmed": 34485,
+    "deaths": 2181,
     "recovered": 14026
   },
   "Canada": {
@@ -187,7 +187,7 @@
   },
   "Norway": {
     "date": "2020-4-18",
-    "confirmed": 6992,
+    "confirmed": 7036,
     "deaths": 163,
     "recovered": 32
   },
@@ -367,9 +367,9 @@
   },
   "Iceland": {
     "date": "2020-4-18",
-    "confirmed": 1754,
+    "confirmed": 1760,
     "deaths": 9,
-    "recovered": 1224
+    "recovered": 1291
   },
   "Kuwait": {
     "date": "2020-4-18",
@@ -643,7 +643,7 @@
   },
   "Mauritius": {
     "date": "2020-4-18",
-    "confirmed": 324,
+    "confirmed": 325,
     "deaths": 9,
     "recovered": 108
   },
@@ -675,7 +675,7 @@
     "date": "2020-4-18",
     "confirmed": 248,
     "deaths": 7,
-    "recovered": 77
+    "recovered": 86
   },
   "Guatemala": {
     "date": "2020-4-18",
@@ -689,6 +689,12 @@
     "deaths": 9,
     "recovered": 113
   },
+  "Mali": {
+    "date": "2020-4-18",
+    "confirmed": 216,
+    "deaths": 13,
+    "recovered": 41
+  },
   "Paraguay": {
     "date": "2020-4-18",
     "confirmed": 202,
@@ -700,12 +706,6 @@
     "confirmed": 190,
     "deaths": 7,
     "recovered": 43
-  },
-  "Mali": {
-    "date": "2020-4-18",
-    "confirmed": 190,
-    "deaths": 13,
-    "recovered": 34
   },
   "Jamaica": {
     "date": "2020-4-18",
@@ -787,9 +787,9 @@
   },
   "Togo": {
     "date": "2020-4-18",
-    "confirmed": 83,
+    "confirmed": 84,
     "deaths": 5,
-    "recovered": 48
+    "recovered": 49
   },
   "Equatorial Guinea": {
     "date": "2020-4-18",
@@ -919,7 +919,7 @@
   },
   "Sierra Leone": {
     "date": "2020-4-18",
-    "confirmed": 26,
+    "confirmed": 30,
     "deaths": 0,
     "recovered": 0
   },
