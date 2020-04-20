@@ -31,9 +31,9 @@
   },
   "United Kingdom": {
     "date": "2020-4-20",
-    "confirmed": 121173,
+    "confirmed": 121174,
     "deaths": 16095,
-    "recovered": 437
+    "recovered": 444
   },
   "Turkey": {
     "date": "2020-4-20",
@@ -79,8 +79,8 @@
   },
   "Netherlands": {
     "date": "2020-4-20",
-    "confirmed": 32838,
-    "deaths": 3697,
+    "confirmed": 33588,
+    "deaths": 3764,
     "recovered": 322
   },
   "Switzerland": {
@@ -91,8 +91,8 @@
   },
   "Portugal": {
     "date": "2020-4-20",
-    "confirmed": 20206,
-    "deaths": 714,
+    "confirmed": 20863,
+    "deaths": 735,
     "recovered": 610
   },
   "India": {
@@ -121,8 +121,8 @@
   },
   "Sweden": {
     "date": "2020-4-20",
-    "confirmed": 14385,
-    "deaths": 1540,
+    "confirmed": 14777,
+    "deaths": 1580,
     "recovered": 550
   },
   "Israel": {
@@ -194,7 +194,7 @@
   "Denmark": {
     "date": "2020-4-20",
     "confirmed": 7711,
-    "deaths": 355,
+    "deaths": 364,
     "recovered": 4328
   },
   "Norway": {
@@ -239,17 +239,17 @@
     "deaths": 122,
     "recovered": 753
   },
+  "Qatar": {
+    "date": "2020-4-20",
+    "confirmed": 6015,
+    "deaths": 9,
+    "recovered": 555
+  },
   "Ukraine": {
     "date": "2020-4-20",
     "confirmed": 5710,
     "deaths": 151,
     "recovered": 359
-  },
-  "Qatar": {
-    "date": "2020-4-20",
-    "confirmed": 5448,
-    "deaths": 8,
-    "recovered": 518
   },
   "Malaysia": {
     "date": "2020-4-20",
@@ -367,21 +367,21 @@
   },
   "Croatia": {
     "date": "2020-4-20",
-    "confirmed": 1871,
+    "confirmed": 1881,
     "deaths": 47,
-    "recovered": 709
+    "recovered": 771
+  },
+  "Kazakhstan": {
+    "date": "2020-4-20",
+    "confirmed": 1775,
+    "deaths": 19,
+    "recovered": 428
   },
   "Iceland": {
     "date": "2020-4-20",
     "confirmed": 1771,
     "deaths": 9,
     "recovered": 1291
-  },
-  "Kazakhstan": {
-    "date": "2020-4-20",
-    "confirmed": 1757,
-    "deaths": 19,
-    "recovered": 428
   },
   "Uzbekistan": {
     "date": "2020-4-20",
@@ -451,9 +451,9 @@
   },
   "Slovakia": {
     "date": "2020-4-20",
-    "confirmed": 1161,
-    "deaths": 12,
-    "recovered": 229
+    "confirmed": 1173,
+    "deaths": 13,
+    "recovered": 251
   },
   "Ghana": {
     "date": "2020-4-20",
@@ -621,7 +621,7 @@
     "date": "2020-4-20",
     "confirmed": 422,
     "deaths": 6,
-    "recovered": 189
+    "recovered": 203
   },
   "Jordan": {
     "date": "2020-4-20",
@@ -673,15 +673,15 @@
   },
   "Kenya": {
     "date": "2020-4-20",
-    "confirmed": 270,
+    "confirmed": 281,
     "deaths": 14,
-    "recovered": 67
+    "recovered": 69
   },
   "Vietnam": {
     "date": "2020-4-20",
     "confirmed": 268,
     "deaths": 0,
-    "recovered": 207
+    "recovered": 214
   },
   "Venezuela": {
     "date": "2020-4-20",
@@ -725,17 +725,17 @@
     "deaths": 7,
     "recovered": 3
   },
+  "Congo (Brazzaville)": {
+    "date": "2020-4-20",
+    "confirmed": 160,
+    "deaths": 6,
+    "recovered": 16
+  },
   "Rwanda": {
     "date": "2020-4-20",
     "confirmed": 147,
     "deaths": 0,
     "recovered": 76
-  },
-  "Congo (Brazzaville)": {
-    "date": "2020-4-20",
-    "confirmed": 143,
-    "deaths": 6,
-    "recovered": 11
   },
   "Brunei": {
     "date": "2020-4-20",
@@ -851,6 +851,12 @@
     "deaths": 0,
     "recovered": 28
   },
+  "Benin": {
+    "date": "2020-4-20",
+    "confirmed": 54,
+    "deaths": 1,
+    "recovered": 27
+  },
   "Maldives": {
     "date": "2020-4-20",
     "confirmed": 52,
@@ -875,6 +881,12 @@
     "deaths": 3,
     "recovered": 0
   },
+  "Sierra Leone": {
+    "date": "2020-4-20",
+    "confirmed": 43,
+    "deaths": 0,
+    "recovered": 6
+  },
   "Eritrea": {
     "date": "2020-4-20",
     "confirmed": 39,
@@ -892,18 +904,6 @@
     "confirmed": 39,
     "deaths": 3,
     "recovered": 5
-  },
-  "Benin": {
-    "date": "2020-4-20",
-    "confirmed": 35,
-    "deaths": 1,
-    "recovered": 18
-  },
-  "Sierra Leone": {
-    "date": "2020-4-20",
-    "confirmed": 35,
-    "deaths": 0,
-    "recovered": 6
   },
   "Chad": {
     "date": "2020-4-20",
