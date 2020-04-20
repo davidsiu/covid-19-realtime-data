@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-20",
-    "confirmed": 759687,
-    "deaths": 40682,
-    "recovered": 70951
+    "confirmed": 759696,
+    "deaths": 40683,
+    "recovered": 70953
   },
   "Spain": {
     "date": "2020-4-20",
@@ -421,8 +421,8 @@
   },
   "Lithuania": {
     "date": "2020-4-20",
-    "confirmed": 1298,
-    "deaths": 35,
+    "confirmed": 1326,
+    "deaths": 36,
     "recovered": 242
   },
   "Armenia": {
@@ -563,6 +563,12 @@
     "deaths": 36,
     "recovered": 338
   },
+  "Kyrgyzstan": {
+    "date": "2020-4-20",
+    "confirmed": 568,
+    "deaths": 7,
+    "recovered": 201
+  },
   "Bolivia": {
     "date": "2020-4-20",
     "confirmed": 564,
@@ -574,12 +580,6 @@
     "confirmed": 562,
     "deaths": 26,
     "recovered": 314
-  },
-  "Kyrgyzstan": {
-    "date": "2020-4-20",
-    "confirmed": 554,
-    "deaths": 5,
-    "recovered": 133
   },
   "Uruguay": {
     "date": "2020-4-20",
@@ -659,17 +659,17 @@
     "deaths": 5,
     "recovered": 55
   },
+  "Sri Lanka": {
+    "date": "2020-4-20",
+    "confirmed": 295,
+    "deaths": 7,
+    "recovered": 96
+  },
   "Guatemala": {
     "date": "2020-4-20",
     "confirmed": 289,
     "deaths": 7,
     "recovered": 21
-  },
-  "Sri Lanka": {
-    "date": "2020-4-20",
-    "confirmed": 271,
-    "deaths": 7,
-    "recovered": 96
   },
   "Kenya": {
     "date": "2020-4-20",
@@ -973,9 +973,9 @@
   },
   "Fiji": {
     "date": "2020-4-20",
-    "confirmed": 17,
+    "confirmed": 18,
     "deaths": 0,
-    "recovered": 0
+    "recovered": 3
   },
   "Malawi": {
     "date": "2020-4-20",
