@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-21",
-    "confirmed": 787752,
-    "deaths": 42359,
-    "recovered": 72826
+    "confirmed": 787901,
+    "deaths": 42364,
+    "recovered": 72858
   },
   "Spain": {
     "date": "2020-4-21",
@@ -97,7 +97,7 @@
   },
   "India": {
     "date": "2020-4-21",
-    "confirmed": 18601,
+    "confirmed": 18658,
     "deaths": 592,
     "recovered": 3273
   },
@@ -325,9 +325,9 @@
   },
   "Thailand": {
     "date": "2020-4-21",
-    "confirmed": 2792,
-    "deaths": 47,
-    "recovered": 1999
+    "confirmed": 2811,
+    "deaths": 48,
+    "recovered": 2108
   },
   "Algeria": {
     "date": "2020-4-21",
@@ -347,17 +347,23 @@
     "deaths": 116,
     "recovered": 577
   },
+  "Hungary": {
+    "date": "2020-4-21",
+    "confirmed": 2098,
+    "deaths": 213,
+    "recovered": 287
+  },
   "Kuwait": {
     "date": "2020-4-21",
     "confirmed": 1995,
     "deaths": 9,
     "recovered": 367
   },
-  "Hungary": {
+  "Kazakhstan": {
     "date": "2020-4-21",
-    "confirmed": 1984,
-    "deaths": 199,
-    "recovered": 267
+    "confirmed": 1949,
+    "deaths": 19,
+    "recovered": 447
   },
   "Bahrain": {
     "date": "2020-4-21",
@@ -370,12 +376,6 @@
     "confirmed": 1881,
     "deaths": 47,
     "recovered": 771
-  },
-  "Kazakhstan": {
-    "date": "2020-4-21",
-    "confirmed": 1852,
-    "deaths": 19,
-    "recovered": 447
   },
   "Iceland": {
     "date": "2020-4-21",
@@ -419,6 +419,12 @@
     "deaths": 7,
     "recovered": 238
   },
+  "Lithuania": {
+    "date": "2020-4-21",
+    "confirmed": 1348,
+    "deaths": 37,
+    "recovered": 298
+  },
   "Armenia": {
     "date": "2020-4-21",
     "confirmed": 1339,
@@ -430,12 +436,6 @@
     "confirmed": 1335,
     "deaths": 77,
     "recovered": 193
-  },
-  "Lithuania": {
-    "date": "2020-4-21",
-    "confirmed": 1326,
-    "deaths": 37,
-    "recovered": 242
   },
   "Bosnia and Herzegovina": {
     "date": "2020-4-21",
@@ -563,6 +563,12 @@
     "deaths": 34,
     "recovered": 37
   },
+  "Kyrgyzstan": {
+    "date": "2020-4-21",
+    "confirmed": 590,
+    "deaths": 7,
+    "recovered": 216
+  },
   "Albania": {
     "date": "2020-4-21",
     "confirmed": 584,
@@ -575,16 +581,10 @@
     "deaths": 38,
     "recovered": 357
   },
-  "Kyrgyzstan": {
-    "date": "2020-4-21",
-    "confirmed": 568,
-    "deaths": 7,
-    "recovered": 201
-  },
   "Uruguay": {
     "date": "2020-4-21",
     "confirmed": 535,
-    "deaths": 10,
+    "deaths": 11,
     "recovered": 313
   },
   "Kosovo": {
@@ -687,7 +687,7 @@
     "date": "2020-4-21",
     "confirmed": 268,
     "deaths": 0,
-    "recovered": 214
+    "recovered": 215
   },
   "Tanzania": {
     "date": "2020-4-21",
@@ -905,13 +905,13 @@
     "deaths": 3,
     "recovered": 5
   },
-  "Chad": {
+  "Mongolia": {
     "date": "2020-4-21",
-    "confirmed": 33,
+    "confirmed": 34,
     "deaths": 0,
     "recovered": 8
   },
-  "Mongolia": {
+  "Chad": {
     "date": "2020-4-21",
     "confirmed": 33,
     "deaths": 0,
