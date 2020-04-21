@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-21",
-    "confirmed": 784326,
-    "deaths": 42094,
-    "recovered": 72329
+    "confirmed": 784599,
+    "deaths": 42138,
+    "recovered": 72522
   },
   "Spain": {
     "date": "2020-4-21",
@@ -45,7 +45,7 @@
     "date": "2020-4-21",
     "confirmed": 83817,
     "deaths": 4636,
-    "recovered": 77745
+    "recovered": 77750
   },
   "Iran": {
     "date": "2020-4-21",
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-4-21",
-    "confirmed": 37658,
-    "deaths": 1726,
-    "recovered": 12543
+    "confirmed": 37710,
+    "deaths": 1730,
+    "recovered": 12588
   },
   "Netherlands": {
     "date": "2020-4-21",
@@ -175,7 +175,7 @@
   },
   "Pakistan": {
     "date": "2020-4-21",
-    "confirmed": 8418,
+    "confirmed": 8892,
     "deaths": 176,
     "recovered": 1970
   },
@@ -311,17 +311,17 @@
     "deaths": 143,
     "recovered": 350
   },
+  "Argentina": {
+    "date": "2020-4-21",
+    "confirmed": 3031,
+    "deaths": 142,
+    "recovered": 737
+  },
   "Bangladesh": {
     "date": "2020-4-21",
     "confirmed": 2948,
     "deaths": 101,
     "recovered": 85
-  },
-  "Argentina": {
-    "date": "2020-4-21",
-    "confirmed": 2941,
-    "deaths": 136,
-    "recovered": 737
   },
   "Thailand": {
     "date": "2020-4-21",
@@ -493,9 +493,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-4-21",
-    "confirmed": 847,
-    "deaths": 9,
-    "recovered": 260
+    "confirmed": 879,
+    "deaths": 10,
+    "recovered": 287
   },
   "Djibouti": {
     "date": "2020-4-21",
@@ -671,6 +671,12 @@
     "deaths": 7,
     "recovered": 21
   },
+  "Venezuela": {
+    "date": "2020-4-21",
+    "confirmed": 285,
+    "deaths": 10,
+    "recovered": 117
+  },
   "Kenya": {
     "date": "2020-4-21",
     "confirmed": 281,
@@ -682,12 +688,6 @@
     "confirmed": 268,
     "deaths": 0,
     "recovered": 214
-  },
-  "Venezuela": {
-    "date": "2020-4-21",
-    "confirmed": 256,
-    "deaths": 9,
-    "recovered": 117
   },
   "Tanzania": {
     "date": "2020-4-21",
@@ -819,7 +819,7 @@
     "date": "2020-4-21",
     "confirmed": 75,
     "deaths": 5,
-    "recovered": 19
+    "recovered": 23
   },
   "Maldives": {
     "date": "2020-4-21",
