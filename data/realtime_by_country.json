@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-21",
-    "confirmed": 786638,
-    "deaths": 42295,
-    "recovered": 72687
+    "confirmed": 786968,
+    "deaths": 42308,
+    "recovered": 72749
   },
   "Spain": {
     "date": "2020-4-21",
@@ -43,9 +43,9 @@
   },
   "China": {
     "date": "2020-4-21",
-    "confirmed": 83826,
+    "confirmed": 83828,
     "deaths": 4636,
-    "recovered": 77769
+    "recovered": 77774
   },
   "Iran": {
     "date": "2020-4-21",
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-4-21",
-    "confirmed": 37730,
-    "deaths": 1737,
-    "recovered": 12588
+    "confirmed": 37926,
+    "deaths": 1749,
+    "recovered": 12747
   },
   "Netherlands": {
     "date": "2020-4-21",
@@ -271,9 +271,9 @@
   },
   "Panama": {
     "date": "2020-4-21",
-    "confirmed": 4467,
-    "deaths": 126,
-    "recovered": 165
+    "confirmed": 4658,
+    "deaths": 136,
+    "recovered": 204
   },
   "Colombia": {
     "date": "2020-4-21",
@@ -401,6 +401,12 @@
     "deaths": 40,
     "recovered": 165
   },
+  "New Zealand": {
+    "date": "2020-4-21",
+    "confirmed": 1445,
+    "deaths": 13,
+    "recovered": 1006
+  },
   "Azerbaijan": {
     "date": "2020-4-21",
     "confirmed": 1436,
@@ -454,12 +460,6 @@
     "confirmed": 1163,
     "deaths": 42,
     "recovered": 305
-  },
-  "New Zealand": {
-    "date": "2020-4-21",
-    "confirmed": 1145,
-    "deaths": 13,
-    "recovered": 974
   },
   "Cuba": {
     "date": "2020-4-21",
@@ -557,6 +557,12 @@
     "deaths": 5,
     "recovered": 122
   },
+  "Bolivia": {
+    "date": "2020-4-21",
+    "confirmed": 598,
+    "deaths": 34,
+    "recovered": 37
+  },
   "Albania": {
     "date": "2020-4-21",
     "confirmed": 584,
@@ -575,12 +581,6 @@
     "deaths": 7,
     "recovered": 201
   },
-  "Bolivia": {
-    "date": "2020-4-21",
-    "confirmed": 564,
-    "deaths": 33,
-    "recovered": 31
-  },
   "Uruguay": {
     "date": "2020-4-21",
     "confirmed": 535,
@@ -595,7 +595,7 @@
   },
   "Honduras": {
     "date": "2020-4-21",
-    "confirmed": 477,
+    "confirmed": 494,
     "deaths": 46,
     "recovered": 25
   },
@@ -667,9 +667,9 @@
   },
   "Guatemala": {
     "date": "2020-4-21",
-    "confirmed": 289,
+    "confirmed": 294,
     "deaths": 7,
-    "recovered": 21
+    "recovered": 24
   },
   "Venezuela": {
     "date": "2020-4-21",
