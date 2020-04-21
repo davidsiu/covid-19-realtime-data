@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-21",
-    "confirmed": 788110,
-    "deaths": 42374,
-    "recovered": 73527
+    "confirmed": 788920,
+    "deaths": 42458,
+    "recovered": 73533
   },
   "Spain": {
     "date": "2020-4-21",
@@ -19,14 +19,14 @@
   },
   "France": {
     "date": "2020-4-21",
-    "confirmed": 156493,
+    "confirmed": 156495,
     "deaths": 20294,
     "recovered": 38046
   },
   "Germany": {
     "date": "2020-4-21",
-    "confirmed": 147103,
-    "deaths": 4862,
+    "confirmed": 147593,
+    "deaths": 4869,
     "recovered": 95200
   },
   "United Kingdom": {
@@ -337,7 +337,7 @@
   },
   "Moldova": {
     "date": "2020-4-21",
-    "confirmed": 2548,
+    "confirmed": 2614,
     "deaths": 72,
     "recovered": 505
   },
@@ -387,7 +387,7 @@
     "date": "2020-4-21",
     "confirmed": 1657,
     "deaths": 6,
-    "recovered": 293
+    "recovered": 344
   },
   "Iraq": {
     "date": "2020-4-21",
@@ -407,17 +407,17 @@
     "deaths": 8,
     "recovered": 238
   },
+  "Azerbaijan": {
+    "date": "2020-4-21",
+    "confirmed": 1480,
+    "deaths": 20,
+    "recovered": 865
+  },
   "New Zealand": {
     "date": "2020-4-21",
     "confirmed": 1445,
     "deaths": 13,
     "recovered": 1006
-  },
-  "Azerbaijan": {
-    "date": "2020-4-21",
-    "confirmed": 1436,
-    "deaths": 19,
-    "recovered": 791
   },
   "Armenia": {
     "date": "2020-4-21",
@@ -669,7 +669,7 @@
     "date": "2020-4-21",
     "confirmed": 296,
     "deaths": 14,
-    "recovered": 69
+    "recovered": 74
   },
   "Guatemala": {
     "date": "2020-4-21",
@@ -883,9 +883,15 @@
   },
   "Sierra Leone": {
     "date": "2020-4-21",
-    "confirmed": 43,
+    "confirmed": 50,
     "deaths": 0,
     "recovered": 6
+  },
+  "Nepal": {
+    "date": "2020-4-21",
+    "confirmed": 43,
+    "deaths": 0,
+    "recovered": 4
   },
   "Eritrea": {
     "date": "2020-4-21",
@@ -903,7 +909,7 @@
     "date": "2020-4-21",
     "confirmed": 39,
     "deaths": 3,
-    "recovered": 5
+    "recovered": 6
   },
   "Mongolia": {
     "date": "2020-4-21",
@@ -916,12 +922,6 @@
     "confirmed": 33,
     "deaths": 0,
     "recovered": 8
-  },
-  "Nepal": {
-    "date": "2020-4-21",
-    "confirmed": 32,
-    "deaths": 0,
-    "recovered": 4
   },
   "Zimbabwe": {
     "date": "2020-4-21",
@@ -979,7 +979,7 @@
   },
   "Malawi": {
     "date": "2020-4-21",
-    "confirmed": 17,
+    "confirmed": 18,
     "deaths": 2,
     "recovered": 3
   },
@@ -1007,17 +1007,17 @@
     "deaths": 0,
     "recovered": 13
   },
+  "Central African Republic": {
+    "date": "2020-4-21",
+    "confirmed": 14,
+    "deaths": 0,
+    "recovered": 10
+  },
   "Grenada": {
     "date": "2020-4-21",
     "confirmed": 14,
     "deaths": 0,
     "recovered": 6
-  },
-  "Central African Republic": {
-    "date": "2020-4-21",
-    "confirmed": 12,
-    "deaths": 0,
-    "recovered": 4
   },
   "Saint Vincent and the Grenadines": {
     "date": "2020-4-21",
