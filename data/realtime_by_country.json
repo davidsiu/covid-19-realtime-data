@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-21",
-    "confirmed": 816240,
-    "deaths": 43921,
-    "recovered": 74916
+    "confirmed": 820104,
+    "deaths": 44228,
+    "recovered": 75177
   },
   "Spain": {
     "date": "2020-4-21",
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-21",
-    "confirmed": 148226,
-    "deaths": 5024,
+    "confirmed": 148291,
+    "deaths": 5033,
     "recovered": 95200
   },
   "United Kingdom": {
@@ -59,23 +59,23 @@
     "deaths": 456,
     "recovered": 3873
   },
+  "Brazil": {
+    "date": "2020-4-21",
+    "confirmed": 43079,
+    "deaths": 2741,
+    "recovered": 22991
+  },
   "Belgium": {
     "date": "2020-4-21",
     "confirmed": 40956,
     "deaths": 5998,
     "recovered": 9002
   },
-  "Brazil": {
-    "date": "2020-4-21",
-    "confirmed": 40814,
-    "deaths": 2588,
-    "recovered": 22991
-  },
   "Canada": {
     "date": "2020-4-21",
     "confirmed": 38916,
     "deaths": 1872,
-    "recovered": 12931
+    "recovered": 13145
   },
   "Netherlands": {
     "date": "2020-4-21",
@@ -97,9 +97,9 @@
   },
   "India": {
     "date": "2020-4-21",
-    "confirmed": 18985,
-    "deaths": 603,
-    "recovered": 3273
+    "confirmed": 20080,
+    "deaths": 645,
+    "recovered": 3975
   },
   "Peru": {
     "date": "2020-4-21",
@@ -731,6 +731,12 @@
     "deaths": 6,
     "recovered": 16
   },
+  "Gabon": {
+    "date": "2020-4-21",
+    "confirmed": 156,
+    "deaths": 1,
+    "recovered": 16
+  },
   "Rwanda": {
     "date": "2020-4-21",
     "confirmed": 150,
@@ -761,23 +767,17 @@
     "deaths": 0,
     "recovered": 44
   },
-  "Gabon": {
+  "Trinidad and Tobago": {
     "date": "2020-4-21",
-    "confirmed": 120,
-    "deaths": 1,
-    "recovered": 7
+    "confirmed": 115,
+    "deaths": 8,
+    "recovered": 28
   },
   "Ethiopia": {
     "date": "2020-4-21",
     "confirmed": 114,
     "deaths": 3,
     "recovered": 16
-  },
-  "Trinidad and Tobago": {
-    "date": "2020-4-21",
-    "confirmed": 114,
-    "deaths": 8,
-    "recovered": 26
   },
   "Sudan": {
     "date": "2020-4-21",
@@ -825,7 +825,7 @@
     "date": "2020-4-21",
     "confirmed": 75,
     "deaths": 5,
-    "recovered": 23
+    "recovered": 25
   },
   "Zambia": {
     "date": "2020-4-21",
@@ -1041,7 +1041,7 @@
     "date": "2020-4-21",
     "confirmed": 10,
     "deaths": 2,
-    "recovered": 6
+    "recovered": 7
   },
   "Suriname": {
     "date": "2020-4-21",
