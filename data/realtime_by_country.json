@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-22",
-    "confirmed": 840340,
-    "deaths": 46560,
-    "recovered": 77175
+    "confirmed": 837947,
+    "deaths": 46497,
+    "recovered": 77340
   },
   "Spain": {
     "date": "2020-4-22",
@@ -31,7 +31,7 @@
   },
   "United Kingdom": {
     "date": "2020-4-22",
-    "confirmed": 134637,
+    "confirmed": 134638,
     "deaths": 18151,
     "recovered": 676
   },
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-4-22",
-    "confirmed": 40879,
-    "deaths": 2060,
-    "recovered": 14147
+    "confirmed": 41327,
+    "deaths": 2072,
+    "recovered": 14400
   },
   "Netherlands": {
     "date": "2020-4-22",
@@ -277,9 +277,9 @@
   },
   "Colombia": {
     "date": "2020-4-22",
-    "confirmed": 4149,
-    "deaths": 196,
-    "recovered": 804
+    "confirmed": 4356,
+    "deaths": 206,
+    "recovered": 870
   },
   "Finland": {
     "date": "2020-4-22",
@@ -493,9 +493,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-4-22",
-    "confirmed": 916,
-    "deaths": 13,
-    "recovered": 303
+    "confirmed": 952,
+    "deaths": 14,
+    "recovered": 310
   },
   "Tunisia": {
     "date": "2020-4-22",
@@ -851,29 +851,29 @@
     "deaths": 9,
     "recovered": 12
   },
+  "Uganda": {
+    "date": "2020-4-22",
+    "confirmed": 63,
+    "deaths": 0,
+    "recovered": 45
+  },
+  "Haiti": {
+    "date": "2020-4-22",
+    "confirmed": 62,
+    "deaths": 4,
+    "recovered": 2
+  },
   "Sierra Leone": {
     "date": "2020-4-22",
     "confirmed": 61,
     "deaths": 0,
     "recovered": 6
   },
-  "Uganda": {
-    "date": "2020-4-22",
-    "confirmed": 61,
-    "deaths": 0,
-    "recovered": 45
-  },
   "Libya": {
     "date": "2020-4-22",
     "confirmed": 59,
     "deaths": 1,
     "recovered": 15
-  },
-  "Haiti": {
-    "date": "2020-4-22",
-    "confirmed": 58,
-    "deaths": 4,
-    "recovered": 2
   },
   "Benin": {
     "date": "2020-4-22",
@@ -995,6 +995,12 @@
     "deaths": 0,
     "recovered": 6
   },
+  "Grenada": {
+    "date": "2020-4-22",
+    "confirmed": 15,
+    "deaths": 0,
+    "recovered": 6
+  },
   "Saint Kitts and Nevis": {
     "date": "2020-4-22",
     "confirmed": 15,
@@ -1012,12 +1018,6 @@
     "confirmed": 14,
     "deaths": 0,
     "recovered": 10
-  },
-  "Grenada": {
-    "date": "2020-4-22",
-    "confirmed": 14,
-    "deaths": 0,
-    "recovered": 6
   },
   "Saint Vincent and the Grenadines": {
     "date": "2020-4-22",
