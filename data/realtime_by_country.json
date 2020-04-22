@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-22",
-    "confirmed": 148453,
-    "deaths": 5086,
+    "confirmed": 148704,
+    "deaths": 5100,
     "recovered": 99400
   },
   "United Kingdom": {
@@ -43,15 +43,15 @@
   },
   "Iran": {
     "date": "2020-4-22",
-    "confirmed": 84802,
-    "deaths": 5297,
-    "recovered": 60965
+    "confirmed": 85996,
+    "deaths": 5391,
+    "recovered": 63113
   },
   "China": {
     "date": "2020-4-22",
-    "confirmed": 83864,
+    "confirmed": 83868,
     "deaths": 4636,
-    "recovered": 77829
+    "recovered": 77831
   },
   "Russia": {
     "date": "2020-4-22",
@@ -85,7 +85,7 @@
   },
   "Switzerland": {
     "date": "2020-4-22",
-    "confirmed": 28063,
+    "confirmed": 28268,
     "deaths": 1478,
     "recovered": 19400
   },
@@ -386,8 +386,8 @@
   "Uzbekistan": {
     "date": "2020-4-22",
     "confirmed": 1692,
-    "deaths": 6,
-    "recovered": 372
+    "deaths": 7,
+    "recovered": 424
   },
   "Oman": {
     "date": "2020-4-22",
@@ -461,6 +461,12 @@
     "deaths": 43,
     "recovered": 331
   },
+  "Ghana": {
+    "date": "2020-4-22",
+    "confirmed": 1154,
+    "deaths": 9,
+    "recovered": 99
+  },
   "Afghanistan": {
     "date": "2020-4-22",
     "confirmed": 1143,
@@ -472,12 +478,6 @@
     "confirmed": 1137,
     "deaths": 38,
     "recovered": 309
-  },
-  "Ghana": {
-    "date": "2020-4-22",
-    "confirmed": 1042,
-    "deaths": 9,
-    "recovered": 99
   },
   "Bulgaria": {
     "date": "2020-4-22",
@@ -613,9 +613,15 @@
   },
   "Malta": {
     "date": "2020-4-22",
-    "confirmed": 443,
+    "confirmed": 444,
     "deaths": 3,
-    "recovered": 150
+    "recovered": 165
+  },
+  "Senegal": {
+    "date": "2020-4-22",
+    "confirmed": 442,
+    "deaths": 6,
+    "recovered": 253
   },
   "Jordan": {
     "date": "2020-4-22",
@@ -628,12 +634,6 @@
     "confirmed": 425,
     "deaths": 6,
     "recovered": 217
-  },
-  "Senegal": {
-    "date": "2020-4-22",
-    "confirmed": 412,
-    "deaths": 5,
-    "recovered": 242
   },
   "Georgia": {
     "date": "2020-4-22",
@@ -699,7 +699,7 @@
     "date": "2020-4-22",
     "confirmed": 268,
     "deaths": 0,
-    "recovered": 222
+    "recovered": 223
   },
   "Mali": {
     "date": "2020-4-22",
@@ -889,9 +889,9 @@
   },
   "Nepal": {
     "date": "2020-4-22",
-    "confirmed": 42,
+    "confirmed": 45,
     "deaths": 0,
-    "recovered": 5
+    "recovered": 7
   },
   "Syria": {
     "date": "2020-4-22",
