@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-23",
-    "confirmed": 847985,
-    "deaths": 47034,
-    "recovered": 77632
+    "confirmed": 854490,
+    "deaths": 47178,
+    "recovered": 77963
   },
   "Spain": {
     "date": "2020-4-23",
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-23",
-    "confirmed": 151195,
-    "deaths": 5354,
+    "confirmed": 151285,
+    "deaths": 5367,
     "recovered": 103300
   },
   "United Kingdom": {
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-4-23",
-    "confirmed": 41652,
-    "deaths": 2110,
-    "recovered": 14550
+    "confirmed": 42560,
+    "deaths": 2220,
+    "recovered": 14772
   },
   "Netherlands": {
     "date": "2020-4-23",
@@ -163,7 +163,7 @@
   },
   "Pakistan": {
     "date": "2020-4-23",
-    "confirmed": 10825,
+    "confirmed": 10880,
     "deaths": 228,
     "recovered": 2337
   },
@@ -625,9 +625,9 @@
   },
   "Jordan": {
     "date": "2020-4-23",
-    "confirmed": 435,
+    "confirmed": 437,
     "deaths": 7,
-    "recovered": 315
+    "recovered": 318
   },
   "Taiwan*": {
     "date": "2020-4-23",
@@ -1031,6 +1031,12 @@
     "deaths": 1,
     "recovered": 4
   },
+  "Nicaragua": {
+    "date": "2020-4-23",
+    "confirmed": 11,
+    "deaths": 3,
+    "recovered": 7
+  },
   "Seychelles": {
     "date": "2020-4-23",
     "confirmed": 11,
@@ -1042,12 +1048,6 @@
     "confirmed": 10,
     "deaths": 1,
     "recovered": 2
-  },
-  "Nicaragua": {
-    "date": "2020-4-23",
-    "confirmed": 10,
-    "deaths": 2,
-    "recovered": 7
   },
   "Suriname": {
     "date": "2020-4-23",
