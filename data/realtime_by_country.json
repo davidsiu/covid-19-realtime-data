@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-23",
-    "confirmed": 840476,
-    "deaths": 46611,
-    "recovered": 77956
+    "confirmed": 840897,
+    "deaths": 46640,
+    "recovered": 77800
   },
   "Spain": {
     "date": "2020-4-23",
@@ -21,7 +21,7 @@
     "date": "2020-4-23",
     "confirmed": 157135,
     "deaths": 21373,
-    "recovered": 41327
+    "recovered": 41331
   },
   "Germany": {
     "date": "2020-4-23",
@@ -61,8 +61,8 @@
   },
   "Brazil": {
     "date": "2020-4-23",
-    "confirmed": 45757,
-    "deaths": 2906,
+    "confirmed": 46182,
+    "deaths": 2924,
     "recovered": 25318
   },
   "Belgium": {
@@ -161,6 +161,12 @@
     "deaths": 238,
     "recovered": 8277
   },
+  "Mexico": {
+    "date": "2020-4-23",
+    "confirmed": 10544,
+    "deaths": 970,
+    "recovered": 2627
+  },
   "Poland": {
     "date": "2020-4-23",
     "confirmed": 10169,
@@ -184,12 +190,6 @@
     "confirmed": 9710,
     "deaths": 524,
     "recovered": 2406
-  },
-  "Mexico": {
-    "date": "2020-4-23",
-    "confirmed": 9501,
-    "deaths": 857,
-    "recovered": 2627
   },
   "United Arab Emirates": {
     "date": "2020-4-23",
@@ -271,9 +271,9 @@
   },
   "Panama": {
     "date": "2020-4-23",
-    "confirmed": 4821,
-    "deaths": 141,
-    "recovered": 231
+    "confirmed": 4992,
+    "deaths": 144,
+    "recovered": 255
   },
   "Colombia": {
     "date": "2020-4-23",
@@ -711,7 +711,7 @@
     "date": "2020-4-23",
     "confirmed": 252,
     "deaths": 6,
-    "recovered": 27
+    "recovered": 28
   },
   "El Salvador": {
     "date": "2020-4-23",
@@ -737,17 +737,17 @@
     "deaths": 1,
     "recovered": 24
   },
+  "Sudan": {
+    "date": "2020-4-23",
+    "confirmed": 163,
+    "deaths": 13,
+    "recovered": 14
+  },
   "Rwanda": {
     "date": "2020-4-23",
     "confirmed": 153,
     "deaths": 0,
     "recovered": 84
-  },
-  "Sudan": {
-    "date": "2020-4-23",
-    "confirmed": 140,
-    "deaths": 13,
-    "recovered": 12
   },
   "Brunei": {
     "date": "2020-4-23",
@@ -1089,7 +1089,7 @@
     "date": "2020-4-23",
     "confirmed": 6,
     "deaths": 0,
-    "recovered": 0
+    "recovered": 5
   },
   "Sao Tome and Principe": {
     "date": "2020-4-23",
