@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-4-23",
-    "confirmed": 873137,
-    "deaths": 49748,
+    "confirmed": 866646,
+    "deaths": 49759,
     "recovered": 79938
   },
   "Spain": {
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-23",
-    "confirmed": 151784,
-    "deaths": 5404,
+    "confirmed": 153129,
+    "deaths": 5575,
     "recovered": 103300
   },
   "United Kingdom": {
@@ -227,17 +227,17 @@
     "deaths": 193,
     "recovered": 32
   },
+  "Czechia": {
+    "date": "2020-4-23",
+    "confirmed": 7187,
+    "deaths": 210,
+    "recovered": 2152
+  },
   "Ukraine": {
     "date": "2020-4-23",
     "confirmed": 7170,
     "deaths": 187,
     "recovered": 504
-  },
-  "Czechia": {
-    "date": "2020-4-23",
-    "confirmed": 7138,
-    "deaths": 210,
-    "recovered": 2152
   },
   "Philippines": {
     "date": "2020-4-23",
@@ -497,17 +497,17 @@
     "deaths": 2,
     "recovered": 252
   },
+  "Nigeria": {
+    "date": "2020-4-23",
+    "confirmed": 981,
+    "deaths": 31,
+    "recovered": 197
+  },
   "Tunisia": {
     "date": "2020-4-23",
     "confirmed": 918,
     "deaths": 38,
     "recovered": 190
-  },
-  "Nigeria": {
-    "date": "2020-4-23",
-    "confirmed": 873,
-    "deaths": 28,
-    "recovered": 197
   },
   "Guinea": {
     "date": "2020-4-23",
@@ -547,7 +547,7 @@
   },
   "Costa Rica": {
     "date": "2020-4-23",
-    "confirmed": 687,
+    "confirmed": 686,
     "deaths": 6,
     "recovered": 196
   },
@@ -831,7 +831,7 @@
     "date": "2020-4-23",
     "confirmed": 76,
     "deaths": 6,
-    "recovered": 27
+    "recovered": 30
   },
   "Zambia": {
     "date": "2020-4-23",
@@ -839,11 +839,17 @@
     "deaths": 3,
     "recovered": 37
   },
+  "Uganda": {
+    "date": "2020-4-23",
+    "confirmed": 74,
+    "deaths": 0,
+    "recovered": 46
+  },
   "Bahamas": {
     "date": "2020-4-23",
-    "confirmed": 70,
-    "deaths": 9,
-    "recovered": 12
+    "confirmed": 72,
+    "deaths": 11,
+    "recovered": 14
   },
   "Guyana": {
     "date": "2020-4-23",
@@ -856,12 +862,6 @@
     "confirmed": 64,
     "deaths": 1,
     "recovered": 10
-  },
-  "Uganda": {
-    "date": "2020-4-23",
-    "confirmed": 63,
-    "deaths": 0,
-    "recovered": 46
   },
   "Haiti": {
     "date": "2020-4-23",
