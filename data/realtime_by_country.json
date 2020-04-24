@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-4-24",
-    "confirmed": 869170,
+    "confirmed": 869172,
     "deaths": 49954,
     "recovered": 80203
   },
@@ -91,8 +91,8 @@
   },
   "India": {
     "date": "2020-4-24",
-    "confirmed": 23077,
-    "deaths": 721,
+    "confirmed": 23502,
+    "deaths": 722,
     "recovered": 5012
   },
   "Portugal": {
@@ -355,8 +355,8 @@
   },
   "Kazakhstan": {
     "date": "2020-4-24",
-    "confirmed": 2289,
-    "deaths": 20,
+    "confirmed": 2334,
+    "deaths": 22,
     "recovered": 560
   },
   "Hungary": {
@@ -581,17 +581,17 @@
     "deaths": 41,
     "recovered": 410
   },
+  "Honduras": {
+    "date": "2020-4-24",
+    "confirmed": 562,
+    "deaths": 47,
+    "recovered": 31
+  },
   "Uruguay": {
     "date": "2020-4-24",
     "confirmed": 557,
     "deaths": 12,
     "recovered": 354
-  },
-  "Honduras": {
-    "date": "2020-4-24",
-    "confirmed": 519,
-    "deaths": 47,
-    "recovered": 31
   },
   "Kosovo": {
     "date": "2020-4-24",
@@ -721,9 +721,9 @@
   },
   "Paraguay": {
     "date": "2020-4-24",
-    "confirmed": 213,
+    "confirmed": 220,
     "deaths": 9,
-    "recovered": 67
+    "recovered": 70
   },
   "Congo (Brazzaville)": {
     "date": "2020-4-24",
@@ -937,7 +937,7 @@
   },
   "Zimbabwe": {
     "date": "2020-4-24",
-    "confirmed": 28,
+    "confirmed": 29,
     "deaths": 4,
     "recovered": 2
   },
@@ -1107,6 +1107,6 @@
     "date": "2020-4-24",
     "confirmed": 1,
     "deaths": 0,
-    "recovered": 0
+    "recovered": 1
   }
 }
