@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-24",
-    "confirmed": 884004,
-    "deaths": 50360,
-    "recovered": 81338
+    "confirmed": 886213,
+    "deaths": 50780,
+    "recovered": 81536
   },
   "Spain": {
     "date": "2020-4-24",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-24",
-    "confirmed": 44476,
-    "deaths": 2379,
-    "recovered": 15446
+    "confirmed": 44509,
+    "deaths": 2383,
+    "recovered": 15469
   },
   "Belgium": {
     "date": "2020-4-24",
@@ -115,8 +115,8 @@
   },
   "Ireland": {
     "date": "2020-4-24",
-    "confirmed": 17607,
-    "deaths": 794,
+    "confirmed": 18184,
+    "deaths": 1014,
     "recovered": 9233
   },
   "Sweden": {
@@ -139,9 +139,9 @@
   },
   "Israel": {
     "date": "2020-4-24",
-    "confirmed": 14882,
-    "deaths": 193,
-    "recovered": 5685
+    "confirmed": 15058,
+    "deaths": 194,
+    "recovered": 6003
   },
   "Japan": {
     "date": "2020-4-24",
@@ -293,17 +293,17 @@
     "deaths": 177,
     "recovered": 2500
   },
+  "South Africa": {
+    "date": "2020-4-24",
+    "confirmed": 4220,
+    "deaths": 79,
+    "recovered": 1473
+  },
   "Egypt": {
     "date": "2020-4-24",
     "confirmed": 4092,
     "deaths": 294,
     "recovered": 1075
-  },
-  "South Africa": {
-    "date": "2020-4-24",
-    "confirmed": 3953,
-    "deaths": 75,
-    "recovered": 1473
   },
   "Morocco": {
     "date": "2020-4-24",
@@ -377,6 +377,12 @@
     "deaths": 51,
     "recovered": 982
   },
+  "Uzbekistan": {
+    "date": "2020-4-24",
+    "confirmed": 1804,
+    "deaths": 8,
+    "recovered": 621
+  },
   "Oman": {
     "date": "2020-4-24",
     "confirmed": 1790,
@@ -388,12 +394,6 @@
     "confirmed": 1789,
     "deaths": 10,
     "recovered": 1542
-  },
-  "Uzbekistan": {
-    "date": "2020-4-24",
-    "confirmed": 1778,
-    "deaths": 8,
-    "recovered": 621
   },
   "Iraq": {
     "date": "2020-4-24",
@@ -687,7 +687,7 @@
     "date": "2020-4-24",
     "confirmed": 318,
     "deaths": 10,
-    "recovered": 128
+    "recovered": 132
   },
   "Mali": {
     "date": "2020-4-24",
@@ -724,6 +724,12 @@
     "confirmed": 220,
     "deaths": 9,
     "recovered": 70
+  },
+  "Equatorial Guinea": {
+    "date": "2020-4-24",
+    "confirmed": 214,
+    "deaths": 1,
+    "recovered": 7
   },
   "Congo (Brazzaville)": {
     "date": "2020-4-24",
@@ -814,12 +820,6 @@
     "confirmed": 88,
     "deaths": 1,
     "recovered": 1
-  },
-  "Equatorial Guinea": {
-    "date": "2020-4-24",
-    "confirmed": 84,
-    "deaths": 1,
-    "recovered": 7
   },
   "Zambia": {
     "date": "2020-4-24",
