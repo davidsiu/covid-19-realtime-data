@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-24",
-    "confirmed": 868945,
-    "deaths": 49887,
-    "recovered": 80174
+    "confirmed": 869170,
+    "deaths": 49954,
+    "recovered": 80203
   },
   "Spain": {
     "date": "2020-4-24",
@@ -67,7 +67,7 @@
   },
   "Canada": {
     "date": "2020-4-24",
-    "confirmed": 43283,
+    "confirmed": 43286,
     "deaths": 2241,
     "recovered": 14761
   },
@@ -91,7 +91,7 @@
   },
   "India": {
     "date": "2020-4-24",
-    "confirmed": 23039,
+    "confirmed": 23077,
     "deaths": 721,
     "recovered": 5012
   },
@@ -169,9 +169,9 @@
   },
   "Pakistan": {
     "date": "2020-4-24",
-    "confirmed": 11057,
-    "deaths": 235,
-    "recovered": 2337
+    "confirmed": 11155,
+    "deaths": 237,
+    "recovered": 2527
   },
   "Korea, South": {
     "date": "2020-4-24",
@@ -641,6 +641,12 @@
     "deaths": 5,
     "recovered": 111
   },
+  "Guatemala": {
+    "date": "2020-4-24",
+    "confirmed": 384,
+    "deaths": 11,
+    "recovered": 30
+  },
   "Congo (Kinshasa)": {
     "date": "2020-4-24",
     "confirmed": 377,
@@ -652,12 +658,6 @@
     "confirmed": 368,
     "deaths": 7,
     "recovered": 107
-  },
-  "Guatemala": {
-    "date": "2020-4-24",
-    "confirmed": 342,
-    "deaths": 10,
-    "recovered": 25
   },
   "Mauritius": {
     "date": "2020-4-24",
@@ -749,17 +749,17 @@
     "deaths": 0,
     "recovered": 87
   },
+  "Burma": {
+    "date": "2020-4-24",
+    "confirmed": 139,
+    "deaths": 5,
+    "recovered": 9
+  },
   "Brunei": {
     "date": "2020-4-24",
     "confirmed": 138,
     "deaths": 1,
     "recovered": 119
-  },
-  "Burma": {
-    "date": "2020-4-24",
-    "confirmed": 132,
-    "deaths": 5,
-    "recovered": 9
   },
   "Cambodia": {
     "date": "2020-4-24",
@@ -783,7 +783,7 @@
     "date": "2020-4-24",
     "confirmed": 115,
     "deaths": 8,
-    "recovered": 45
+    "recovered": 48
   },
   "Maldives": {
     "date": "2020-4-24",
@@ -891,7 +891,7 @@
     "date": "2020-4-24",
     "confirmed": 48,
     "deaths": 0,
-    "recovered": 9
+    "recovered": 10
   },
   "Mozambique": {
     "date": "2020-4-24",
@@ -913,9 +913,9 @@
   },
   "Mongolia": {
     "date": "2020-4-24",
-    "confirmed": 35,
+    "confirmed": 36,
     "deaths": 0,
-    "recovered": 8
+    "recovered": 9
   },
   "Chad": {
     "date": "2020-4-24",
@@ -1091,13 +1091,13 @@
     "deaths": 0,
     "recovered": 5
   },
-  "Sao Tome and Principe": {
+  "South Sudan": {
     "date": "2020-4-24",
-    "confirmed": 4,
+    "confirmed": 5,
     "deaths": 0,
     "recovered": 0
   },
-  "South Sudan": {
+  "Sao Tome and Principe": {
     "date": "2020-4-24",
     "confirmed": 4,
     "deaths": 0,
