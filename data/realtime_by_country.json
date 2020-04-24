@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-24",
-    "confirmed": 866646,
-    "deaths": 49759,
-    "recovered": 79938
+    "confirmed": 867459,
+    "deaths": 49804,
+    "recovered": 80045
   },
   "Spain": {
     "date": "2020-4-24",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-24",
-    "confirmed": 43254,
-    "deaths": 2239,
-    "recovered": 14961
+    "confirmed": 43286,
+    "deaths": 2241,
+    "recovered": 14938
   },
   "Belgium": {
     "date": "2020-4-24",
@@ -223,8 +223,8 @@
   },
   "Norway": {
     "date": "2020-4-24",
-    "confirmed": 7361,
-    "deaths": 193,
+    "confirmed": 7401,
+    "deaths": 194,
     "recovered": 32
   },
   "Czechia": {
@@ -319,8 +319,8 @@
   },
   "Argentina": {
     "date": "2020-4-24",
-    "confirmed": 3288,
-    "deaths": 159,
+    "confirmed": 3435,
+    "deaths": 165,
     "recovered": 919
   },
   "Algeria": {
@@ -557,17 +557,17 @@
     "deaths": 40,
     "recovered": 44
   },
+  "Niger": {
+    "date": "2020-4-24",
+    "confirmed": 671,
+    "deaths": 24,
+    "recovered": 256
+  },
   "Albania": {
     "date": "2020-4-24",
     "confirmed": 663,
     "deaths": 27,
     "recovered": 385
-  },
-  "Niger": {
-    "date": "2020-4-24",
-    "confirmed": 662,
-    "deaths": 22,
-    "recovered": 193
   },
   "Kyrgyzstan": {
     "date": "2020-4-24",
@@ -577,9 +577,9 @@
   },
   "Burkina Faso": {
     "date": "2020-4-24",
-    "confirmed": 609,
-    "deaths": 39,
-    "recovered": 389
+    "confirmed": 616,
+    "deaths": 41,
+    "recovered": 410
   },
   "Uruguay": {
     "date": "2020-4-24",
@@ -851,9 +851,15 @@
     "deaths": 11,
     "recovered": 14
   },
+  "Haiti": {
+    "date": "2020-4-24",
+    "confirmed": 72,
+    "deaths": 5,
+    "recovered": 2
+  },
   "Guyana": {
     "date": "2020-4-24",
-    "confirmed": 67,
+    "confirmed": 70,
     "deaths": 7,
     "recovered": 9
   },
@@ -862,12 +868,6 @@
     "confirmed": 64,
     "deaths": 1,
     "recovered": 10
-  },
-  "Haiti": {
-    "date": "2020-4-24",
-    "confirmed": 62,
-    "deaths": 4,
-    "recovered": 2
   },
   "Libya": {
     "date": "2020-4-24",
