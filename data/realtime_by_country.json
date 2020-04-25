@@ -43,9 +43,9 @@
   },
   "Iran": {
     "date": "2020-4-25",
-    "confirmed": 88194,
-    "deaths": 5574,
-    "recovered": 66599
+    "confirmed": 89328,
+    "deaths": 5650,
+    "recovered": 68193
   },
   "China": {
     "date": "2020-4-25",
@@ -169,8 +169,8 @@
   },
   "Pakistan": {
     "date": "2020-4-25",
-    "confirmed": 11940,
-    "deaths": 253,
+    "confirmed": 12188,
+    "deaths": 256,
     "recovered": 2755
   },
   "Poland": {
@@ -188,7 +188,7 @@
   "Romania": {
     "date": "2020-4-25",
     "confirmed": 10635,
-    "deaths": 575,
+    "deaths": 579,
     "recovered": 2890
   },
   "Belarus": {
@@ -196,6 +196,12 @@
     "confirmed": 9590,
     "deaths": 67,
     "recovered": 1573
+  },
+  "Qatar": {
+    "date": "2020-4-25",
+    "confirmed": 9358,
+    "deaths": 10,
+    "recovered": 929
   },
   "United Arab Emirates": {
     "date": "2020-4-25",
@@ -208,12 +214,6 @@
     "confirmed": 8607,
     "deaths": 720,
     "recovered": 1042
-  },
-  "Qatar": {
-    "date": "2020-4-25",
-    "confirmed": 8525,
-    "deaths": 10,
-    "recovered": 809
   },
   "Denmark": {
     "date": "2020-4-25",
@@ -289,7 +289,7 @@
   },
   "Finland": {
     "date": "2020-4-25",
-    "confirmed": 4395,
+    "confirmed": 4475,
     "deaths": 177,
     "recovered": 2500
   },
@@ -343,8 +343,8 @@
   },
   "Kuwait": {
     "date": "2020-4-25",
-    "confirmed": 2614,
-    "deaths": 15,
+    "confirmed": 2892,
+    "deaths": 19,
     "recovered": 656
   },
   "Kazakhstan": {
@@ -419,6 +419,12 @@
     "deaths": 21,
     "recovered": 1013
   },
+  "Bosnia and Herzegovina": {
+    "date": "2020-4-25",
+    "confirmed": 1486,
+    "deaths": 57,
+    "recovered": 592
+  },
   "Afghanistan": {
     "date": "2020-4-25",
     "confirmed": 1463,
@@ -442,12 +448,6 @@
     "confirmed": 1426,
     "deaths": 41,
     "recovered": 460
-  },
-  "Bosnia and Herzegovina": {
-    "date": "2020-4-25",
-    "confirmed": 1421,
-    "deaths": 55,
-    "recovered": 538
   },
   "Slovenia": {
     "date": "2020-4-25",
@@ -581,6 +581,12 @@
     "deaths": 41,
     "recovered": 425
   },
+  "Senegal": {
+    "date": "2020-4-25",
+    "confirmed": 614,
+    "deaths": 7,
+    "recovered": 276
+  },
   "Honduras": {
     "date": "2020-4-25",
     "confirmed": 591,
@@ -592,12 +598,6 @@
     "confirmed": 563,
     "deaths": 12,
     "recovered": 369
-  },
-  "Senegal": {
-    "date": "2020-4-25",
-    "confirmed": 545,
-    "deaths": 7,
-    "recovered": 262
   },
   "San Marino": {
     "date": "2020-4-25",
@@ -625,9 +625,9 @@
   },
   "Malta": {
     "date": "2020-4-25",
-    "confirmed": 447,
+    "confirmed": 448,
     "deaths": 4,
-    "recovered": 223
+    "recovered": 249
   },
   "Jordan": {
     "date": "2020-4-25",
@@ -765,11 +765,11 @@
     "date": "2020-4-25",
     "confirmed": 138,
     "deaths": 1,
-    "recovered": 120
+    "recovered": 121
   },
   "Maldives": {
     "date": "2020-4-25",
-    "confirmed": 129,
+    "confirmed": 137,
     "deaths": 0,
     "recovered": 16
   },
@@ -779,17 +779,17 @@
     "deaths": 0,
     "recovered": 117
   },
+  "Ethiopia": {
+    "date": "2020-4-25",
+    "confirmed": 122,
+    "deaths": 3,
+    "recovered": 29
+  },
   "Madagascar": {
     "date": "2020-4-25",
     "confirmed": 122,
     "deaths": 0,
     "recovered": 61
-  },
-  "Ethiopia": {
-    "date": "2020-4-25",
-    "confirmed": 117,
-    "deaths": 3,
-    "recovered": 25
   },
   "Liberia": {
     "date": "2020-4-25",
@@ -897,7 +897,7 @@
     "date": "2020-4-25",
     "confirmed": 49,
     "deaths": 0,
-    "recovered": 11
+    "recovered": 12
   },
   "Syria": {
     "date": "2020-4-25",
@@ -911,6 +911,12 @@
     "deaths": 0,
     "recovered": 8
   },
+  "Eswatini": {
+    "date": "2020-4-25",
+    "confirmed": 40,
+    "deaths": 1,
+    "recovered": 10
+  },
   "Eritrea": {
     "date": "2020-4-25",
     "confirmed": 39,
@@ -922,12 +928,6 @@
     "confirmed": 37,
     "deaths": 0,
     "recovered": 9
-  },
-  "Eswatini": {
-    "date": "2020-4-25",
-    "confirmed": 36,
-    "deaths": 1,
-    "recovered": 10
   },
   "Malawi": {
     "date": "2020-4-25",
