@@ -51,7 +51,7 @@
     "date": "2020-4-26",
     "confirmed": 83909,
     "deaths": 4636,
-    "recovered": 78175
+    "recovered": 78185
   },
   "Russia": {
     "date": "2020-4-26",
@@ -133,9 +133,9 @@
   },
   "Israel": {
     "date": "2020-4-26",
-    "confirmed": 15298,
+    "confirmed": 15398,
     "deaths": 199,
-    "recovered": 6435
+    "recovered": 6602
   },
   "Austria": {
     "date": "2020-4-26",
@@ -148,6 +148,12 @@
     "confirmed": 13842,
     "deaths": 1305,
     "recovered": 7149
+  },
+  "Singapore": {
+    "date": "2020-4-26",
+    "confirmed": 13624,
+    "deaths": 12,
+    "recovered": 1002
   },
   "Japan": {
     "date": "2020-4-26",
@@ -167,17 +173,11 @@
     "deaths": 269,
     "recovered": 2866
   },
-  "Singapore": {
-    "date": "2020-4-26",
-    "confirmed": 12693,
-    "deaths": 12,
-    "recovered": 1002
-  },
   "Poland": {
     "date": "2020-4-26",
     "confirmed": 11273,
     "deaths": 524,
-    "recovered": 2126
+    "recovered": 2265
   },
   "Korea, South": {
     "date": "2020-4-26",
@@ -236,8 +236,8 @@
   "Czechia": {
     "date": "2020-4-26",
     "confirmed": 7352,
-    "deaths": 218,
-    "recovered": 2453
+    "deaths": 219,
+    "recovered": 2471
   },
   "Philippines": {
     "date": "2020-4-26",
@@ -337,9 +337,9 @@
   },
   "Thailand": {
     "date": "2020-4-26",
-    "confirmed": 2907,
+    "confirmed": 2922,
     "deaths": 51,
-    "recovered": 2547
+    "recovered": 2594
   },
   "Kuwait": {
     "date": "2020-4-26",
@@ -403,9 +403,9 @@
   },
   "Armenia": {
     "date": "2020-4-26",
-    "confirmed": 1677,
+    "confirmed": 1746,
     "deaths": 28,
-    "recovered": 803
+    "recovered": 833
   },
   "Estonia": {
     "date": "2020-4-26",
@@ -521,17 +521,17 @@
     "deaths": 46,
     "recovered": 54
   },
+  "Latvia": {
+    "date": "2020-4-26",
+    "confirmed": 812,
+    "deaths": 12,
+    "recovered": 267
+  },
   "Cyprus": {
     "date": "2020-4-26",
     "confirmed": 810,
     "deaths": 14,
     "recovered": 148
-  },
-  "Latvia": {
-    "date": "2020-4-26",
-    "confirmed": 804,
-    "deaths": 12,
-    "recovered": 267
   },
   "Andorra": {
     "date": "2020-4-26",
@@ -619,7 +619,7 @@
   },
   "Sri Lanka": {
     "date": "2020-4-26",
-    "confirmed": 460,
+    "confirmed": 462,
     "deaths": 7,
     "recovered": 118
   },
@@ -723,7 +723,7 @@
     "date": "2020-4-26",
     "confirmed": 258,
     "deaths": 1,
-    "recovered": 7
+    "recovered": 8
   },
   "Paraguay": {
     "date": "2020-4-26",
@@ -901,7 +901,7 @@
   },
   "Nepal": {
     "date": "2020-4-26",
-    "confirmed": 49,
+    "confirmed": 51,
     "deaths": 0,
     "recovered": 12
   },
