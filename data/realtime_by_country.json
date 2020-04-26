@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-26",
-    "confirmed": 936293,
-    "deaths": 53511,
-    "recovered": 99792
+    "confirmed": 936616,
+    "deaths": 53694,
+    "recovered": 100104
   },
   "Spain": {
     "date": "2020-4-26",
@@ -19,7 +19,7 @@
   },
   "France": {
     "date": "2020-4-26",
-    "confirmed": 161639,
+    "confirmed": 161644,
     "deaths": 22648,
     "recovered": 45372
   },
@@ -61,8 +61,8 @@
   },
   "Brazil": {
     "date": "2020-4-26",
-    "confirmed": 58997,
-    "deaths": 4037,
+    "confirmed": 59196,
+    "deaths": 4045,
     "recovered": 29160
   },
   "Canada": {
@@ -143,6 +143,12 @@
     "deaths": 536,
     "recovered": 12103
   },
+  "Japan": {
+    "date": "2020-4-26",
+    "confirmed": 13231,
+    "deaths": 360,
+    "recovered": 1656
+  },
   "Mexico": {
     "date": "2020-4-26",
     "confirmed": 12872,
@@ -155,23 +161,17 @@
     "deaths": 181,
     "recovered": 6746
   },
-  "Japan": {
+  "Pakistan": {
     "date": "2020-4-26",
-    "confirmed": 12829,
-    "deaths": 345,
-    "recovered": 1530
+    "confirmed": 12723,
+    "deaths": 269,
+    "recovered": 2866
   },
   "Singapore": {
     "date": "2020-4-26",
     "confirmed": 12693,
     "deaths": 12,
     "recovered": 1002
-  },
-  "Pakistan": {
-    "date": "2020-4-26",
-    "confirmed": 12644,
-    "deaths": 268,
-    "recovered": 2755
   },
   "Poland": {
     "date": "2020-4-26",
@@ -311,17 +311,17 @@
     "deaths": 159,
     "recovered": 537
   },
+  "Argentina": {
+    "date": "2020-4-26",
+    "confirmed": 3780,
+    "deaths": 185,
+    "recovered": 1030
+  },
   "Luxembourg": {
     "date": "2020-4-26",
     "confirmed": 3711,
     "deaths": 85,
     "recovered": 3088
-  },
-  "Argentina": {
-    "date": "2020-4-26",
-    "confirmed": 3607,
-    "deaths": 179,
-    "recovered": 1030
   },
   "Moldova": {
     "date": "2020-4-26",
@@ -749,23 +749,23 @@
     "deaths": 0,
     "recovered": 88
   },
+  "Maldives": {
+    "date": "2020-4-26",
+    "confirmed": 177,
+    "deaths": 0,
+    "recovered": 17
+  },
   "Gabon": {
     "date": "2020-4-26",
-    "confirmed": 172,
+    "confirmed": 176,
     "deaths": 3,
-    "recovered": 26
+    "recovered": 30
   },
   "Burma": {
     "date": "2020-4-26",
     "confirmed": 144,
     "deaths": 5,
     "recovered": 10
-  },
-  "Maldives": {
-    "date": "2020-4-26",
-    "confirmed": 141,
-    "deaths": 0,
-    "recovered": 17
   },
   "Brunei": {
     "date": "2020-4-26",
