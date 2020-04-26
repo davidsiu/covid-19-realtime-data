@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-26",
-    "confirmed": 957016,
-    "deaths": 54435,
-    "recovered": 106366
+    "confirmed": 961969,
+    "deaths": 54530,
+    "recovered": 106425
   },
   "Spain": {
     "date": "2020-4-26",
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-26",
-    "confirmed": 157120,
-    "deaths": 5896,
+    "confirmed": 157177,
+    "deaths": 5913,
     "recovered": 112000
   },
   "United Kingdom": {
@@ -61,14 +61,14 @@
   },
   "Brazil": {
     "date": "2020-4-26",
-    "confirmed": 60311,
-    "deaths": 4117,
+    "confirmed": 61888,
+    "deaths": 4205,
     "recovered": 29160
   },
   "Canada": {
     "date": "2020-4-26",
-    "confirmed": 46648,
-    "deaths": 2640,
+    "confirmed": 46866,
+    "deaths": 2652,
     "recovered": 16805
   },
   "Belgium": {
@@ -737,17 +737,17 @@
     "deaths": 9,
     "recovered": 85
   },
+  "Maldives": {
+    "date": "2020-4-26",
+    "confirmed": 214,
+    "deaths": 0,
+    "recovered": 17
+  },
   "Congo (Brazzaville)": {
     "date": "2020-4-26",
     "confirmed": 200,
     "deaths": 6,
     "recovered": 19
-  },
-  "Maldives": {
-    "date": "2020-4-26",
-    "confirmed": 191,
-    "deaths": 0,
-    "recovered": 17
   },
   "Rwanda": {
     "date": "2020-4-26",
@@ -811,7 +811,7 @@
   },
   "Togo": {
     "date": "2020-4-26",
-    "confirmed": 96,
+    "confirmed": 98,
     "deaths": 6,
     "recovered": 62
   },
@@ -839,17 +839,17 @@
     "deaths": 1,
     "recovered": 55
   },
+  "Bahamas": {
+    "date": "2020-4-26",
+    "confirmed": 80,
+    "deaths": 11,
+    "recovered": 22
+  },
   "Barbados": {
     "date": "2020-4-26",
     "confirmed": 79,
     "deaths": 6,
     "recovered": 32
-  },
-  "Bahamas": {
-    "date": "2020-4-26",
-    "confirmed": 78,
-    "deaths": 11,
-    "recovered": 15
   },
   "Mozambique": {
     "date": "2020-4-26",
@@ -875,6 +875,12 @@
     "deaths": 6,
     "recovered": 6
   },
+  "Benin": {
+    "date": "2020-4-26",
+    "confirmed": 64,
+    "deaths": 1,
+    "recovered": 33
+  },
   "Libya": {
     "date": "2020-4-26",
     "confirmed": 61,
@@ -886,12 +892,6 @@
     "confirmed": 59,
     "deaths": 1,
     "recovered": 10
-  },
-  "Benin": {
-    "date": "2020-4-26",
-    "confirmed": 54,
-    "deaths": 1,
-    "recovered": 27
   },
   "Guinea-Bissau": {
     "date": "2020-4-26",
