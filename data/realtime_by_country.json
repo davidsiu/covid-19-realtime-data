@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-4-27",
-    "confirmed": 965426,
+    "confirmed": 965435,
     "deaths": 54856,
     "recovered": 106985
   },
@@ -49,9 +49,9 @@
   },
   "China": {
     "date": "2020-4-27",
-    "confirmed": 83909,
+    "confirmed": 83911,
     "deaths": 4636,
-    "recovered": 78191
+    "recovered": 78264
   },
   "Russia": {
     "date": "2020-4-27",
@@ -61,13 +61,13 @@
   },
   "Brazil": {
     "date": "2020-4-27",
-    "confirmed": 62859,
-    "deaths": 4271,
+    "confirmed": 63100,
+    "deaths": 4286,
     "recovered": 30152
   },
   "Canada": {
     "date": "2020-4-27",
-    "confirmed": 47143,
+    "confirmed": 47147,
     "deaths": 2663,
     "recovered": 16883
   },
@@ -509,17 +509,17 @@
     "deaths": 7,
     "recovered": 208
   },
+  "Bolivia": {
+    "date": "2020-4-27",
+    "confirmed": 950,
+    "deaths": 50,
+    "recovered": 80
+  },
   "Tunisia": {
     "date": "2020-4-27",
     "confirmed": 949,
     "deaths": 38,
     "recovered": 216
-  },
-  "Bolivia": {
-    "date": "2020-4-27",
-    "confirmed": 866,
-    "deaths": 46,
-    "recovered": 74
   },
   "Cyprus": {
     "date": "2020-4-27",
@@ -671,6 +671,12 @@
     "deaths": 14,
     "recovered": 106
   },
+  "Jamaica": {
+    "date": "2020-4-27",
+    "confirmed": 350,
+    "deaths": 7,
+    "recovered": 28
+  },
   "West Bank and Gaza": {
     "date": "2020-4-27",
     "confirmed": 342,
@@ -694,12 +700,6 @@
     "confirmed": 321,
     "deaths": 7,
     "recovered": 153
-  },
-  "Jamaica": {
-    "date": "2020-4-27",
-    "confirmed": 305,
-    "deaths": 7,
-    "recovered": 28
   },
   "Tanzania": {
     "date": "2020-4-27",
