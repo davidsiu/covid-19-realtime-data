@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-27",
-    "confirmed": 978680,
-    "deaths": 55266,
-    "recovered": 107527
+    "confirmed": 979077,
+    "deaths": 55563,
+    "recovered": 107526
   },
   "Spain": {
     "date": "2020-4-27",
@@ -20,20 +20,20 @@
   "France": {
     "date": "2020-4-27",
     "confirmed": 162220,
-    "deaths": 22890,
-    "recovered": 45683
-  },
-  "Germany": {
-    "date": "2020-4-27",
-    "confirmed": 158142,
-    "deaths": 5985,
-    "recovered": 114500
+    "deaths": 23327,
+    "recovered": 46293
   },
   "United Kingdom": {
     "date": "2020-4-27",
-    "confirmed": 154038,
-    "deaths": 20797,
+    "confirmed": 158347,
+    "deaths": 21157,
     "recovered": 782
+  },
+  "Germany": {
+    "date": "2020-4-27",
+    "confirmed": 158213,
+    "deaths": 6021,
+    "recovered": 114500
   },
   "Turkey": {
     "date": "2020-4-27",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-27",
-    "confirmed": 49065,
-    "deaths": 2787,
-    "recovered": 17917
+    "confirmed": 49084,
+    "deaths": 2795,
+    "recovered": 18094
   },
   "Belgium": {
     "date": "2020-4-27",
@@ -197,17 +197,17 @@
     "deaths": 10,
     "recovered": 1066
   },
+  "United Arab Emirates": {
+    "date": "2020-4-27",
+    "confirmed": 10839,
+    "deaths": 82,
+    "recovered": 2090
+  },
   "Korea, South": {
     "date": "2020-4-27",
     "confirmed": 10738,
     "deaths": 243,
     "recovered": 8764
-  },
-  "United Arab Emirates": {
-    "date": "2020-4-27",
-    "confirmed": 10349,
-    "deaths": 76,
-    "recovered": 1978
   },
   "Indonesia": {
     "date": "2020-4-27",
@@ -499,9 +499,9 @@
   },
   "Djibouti": {
     "date": "2020-4-27",
-    "confirmed": 1023,
+    "confirmed": 1035,
     "deaths": 2,
-    "recovered": 411
+    "recovered": 477
   },
   "Guinea": {
     "date": "2020-4-27",
@@ -601,7 +601,7 @@
   },
   "Sri Lanka": {
     "date": "2020-4-27",
-    "confirmed": 584,
+    "confirmed": 588,
     "deaths": 7,
     "recovered": 126
   },
@@ -875,6 +875,12 @@
     "deaths": 6,
     "recovered": 7
   },
+  "Guinea-Bissau": {
+    "date": "2020-4-27",
+    "confirmed": 73,
+    "deaths": 1,
+    "recovered": 18
+  },
   "Eswatini": {
     "date": "2020-4-27",
     "confirmed": 65,
@@ -892,12 +898,6 @@
     "confirmed": 61,
     "deaths": 2,
     "recovered": 18
-  },
-  "Guinea-Bissau": {
-    "date": "2020-4-27",
-    "confirmed": 53,
-    "deaths": 1,
-    "recovered": 3
   },
   "Nepal": {
     "date": "2020-4-27",
