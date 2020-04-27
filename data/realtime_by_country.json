@@ -7,9 +7,9 @@
   },
   "Spain": {
     "date": "2020-4-27",
-    "confirmed": 226629,
-    "deaths": 23190,
-    "recovered": 117727
+    "confirmed": 236199,
+    "deaths": 23521,
+    "recovered": 127609
   },
   "Italy": {
     "date": "2020-4-27",
@@ -25,7 +25,7 @@
   },
   "Germany": {
     "date": "2020-4-27",
-    "confirmed": 157770,
+    "confirmed": 157781,
     "deaths": 5976,
     "recovered": 114500
   },
@@ -43,9 +43,9 @@
   },
   "Iran": {
     "date": "2020-4-27",
-    "confirmed": 90481,
-    "deaths": 5710,
-    "recovered": 69657
+    "confirmed": 91472,
+    "deaths": 5806,
+    "recovered": 70933
   },
   "Russia": {
     "date": "2020-4-27",
@@ -86,7 +86,7 @@
   "Switzerland": {
     "date": "2020-4-27",
     "confirmed": 29061,
-    "deaths": 1610,
+    "deaths": 1640,
     "recovered": 21800
   },
   "India": {
@@ -191,6 +191,12 @@
     "deaths": 75,
     "recovered": 1740
   },
+  "Qatar": {
+    "date": "2020-4-27",
+    "confirmed": 11244,
+    "deaths": 10,
+    "recovered": 1066
+  },
   "Korea, South": {
     "date": "2020-4-27",
     "confirmed": 10738,
@@ -202,12 +208,6 @@
     "confirmed": 10349,
     "deaths": 76,
     "recovered": 1978
-  },
-  "Qatar": {
-    "date": "2020-4-27",
-    "confirmed": 10287,
-    "deaths": 10,
-    "recovered": 1012
   },
   "Indonesia": {
     "date": "2020-4-27",
@@ -337,9 +337,9 @@
   },
   "Kuwait": {
     "date": "2020-4-27",
-    "confirmed": 3075,
-    "deaths": 20,
-    "recovered": 806
+    "confirmed": 3288,
+    "deaths": 22,
+    "recovered": 1012
   },
   "Thailand": {
     "date": "2020-4-27",
@@ -483,7 +483,7 @@
     "date": "2020-4-27",
     "confirmed": 1348,
     "deaths": 56,
-    "recovered": 205
+    "recovered": 206
   },
   "Nigeria": {
     "date": "2020-4-27",
@@ -553,7 +553,7 @@
   },
   "Lebanon": {
     "date": "2020-4-27",
-    "confirmed": 707,
+    "confirmed": 710,
     "deaths": 24,
     "recovered": 145
   },
@@ -601,7 +601,7 @@
   },
   "Sri Lanka": {
     "date": "2020-4-27",
-    "confirmed": 557,
+    "confirmed": 567,
     "deaths": 7,
     "recovered": 126
   },
@@ -637,9 +637,9 @@
   },
   "Malta": {
     "date": "2020-4-27",
-    "confirmed": 448,
+    "confirmed": 450,
     "deaths": 4,
-    "recovered": 282
+    "recovered": 286
   },
   "Jordan": {
     "date": "2020-4-27",
@@ -669,7 +669,7 @@
     "date": "2020-4-27",
     "confirmed": 363,
     "deaths": 14,
-    "recovered": 106
+    "recovered": 114
   },
   "Jamaica": {
     "date": "2020-4-27",
