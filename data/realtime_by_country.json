@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-4-27",
-    "confirmed": 965910,
-    "deaths": 54876,
+    "confirmed": 965933,
+    "deaths": 54877,
     "recovered": 107045
   },
   "Spain": {
@@ -21,7 +21,7 @@
     "date": "2020-4-27",
     "confirmed": 162220,
     "deaths": 22890,
-    "recovered": 45681
+    "recovered": 45683
   },
   "Germany": {
     "date": "2020-4-27",
@@ -133,9 +133,9 @@
   },
   "Israel": {
     "date": "2020-4-27",
-    "confirmed": 15443,
-    "deaths": 201,
-    "recovered": 6731
+    "confirmed": 15466,
+    "deaths": 202,
+    "recovered": 6796
   },
   "Austria": {
     "date": "2020-4-27",
@@ -151,7 +151,7 @@
   },
   "Singapore": {
     "date": "2020-4-27",
-    "confirmed": 13624,
+    "confirmed": 14423,
     "deaths": 12,
     "recovered": 1060
   },
@@ -177,7 +177,7 @@
     "date": "2020-4-27",
     "confirmed": 11617,
     "deaths": 535,
-    "recovered": 2265
+    "recovered": 2466
   },
   "Romania": {
     "date": "2020-4-27",
@@ -242,8 +242,8 @@
   "Czechia": {
     "date": "2020-4-27",
     "confirmed": 7404,
-    "deaths": 220,
-    "recovered": 2545
+    "deaths": 221,
+    "recovered": 2555
   },
   "Australia": {
     "date": "2020-4-27",
@@ -349,7 +349,7 @@
   },
   "Kazakhstan": {
     "date": "2020-4-27",
-    "confirmed": 2717,
+    "confirmed": 2780,
     "deaths": 25,
     "recovered": 682
   },
@@ -521,17 +521,17 @@
     "deaths": 38,
     "recovered": 216
   },
+  "Latvia": {
+    "date": "2020-4-27",
+    "confirmed": 818,
+    "deaths": 13,
+    "recovered": 267
+  },
   "Cyprus": {
     "date": "2020-4-27",
     "confirmed": 817,
     "deaths": 14,
     "recovered": 148
-  },
-  "Latvia": {
-    "date": "2020-4-27",
-    "confirmed": 812,
-    "deaths": 12,
-    "recovered": 267
   },
   "Andorra": {
     "date": "2020-4-27",
@@ -625,7 +625,7 @@
   },
   "Georgia": {
     "date": "2020-4-27",
-    "confirmed": 486,
+    "confirmed": 496,
     "deaths": 6,
     "recovered": 149
   },
@@ -695,6 +695,12 @@
     "deaths": 10,
     "recovered": 137
   },
+  "El Salvador": {
+    "date": "2020-4-27",
+    "confirmed": 323,
+    "deaths": 8,
+    "recovered": 89
+  },
   "Montenegro": {
     "date": "2020-4-27",
     "confirmed": 321,
@@ -706,12 +712,6 @@
     "confirmed": 299,
     "deaths": 10,
     "recovered": 48
-  },
-  "El Salvador": {
-    "date": "2020-4-27",
-    "confirmed": 298,
-    "deaths": 8,
-    "recovered": 83
   },
   "Vietnam": {
     "date": "2020-4-27",
