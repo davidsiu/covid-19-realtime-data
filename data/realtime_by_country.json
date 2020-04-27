@@ -181,21 +181,21 @@
   },
   "Romania": {
     "date": "2020-4-27",
-    "confirmed": 11036,
+    "confirmed": 11339,
     "deaths": 631,
-    "recovered": 3054
+    "recovered": 3141
+  },
+  "Belarus": {
+    "date": "2020-4-27",
+    "confirmed": 11289,
+    "deaths": 75,
+    "recovered": 1740
   },
   "Korea, South": {
     "date": "2020-4-27",
     "confirmed": 10738,
     "deaths": 243,
     "recovered": 8764
-  },
-  "Belarus": {
-    "date": "2020-4-27",
-    "confirmed": 10463,
-    "deaths": 72,
-    "recovered": 1695
   },
   "United Arab Emirates": {
     "date": "2020-4-27",
@@ -289,7 +289,7 @@
   },
   "Finland": {
     "date": "2020-4-27",
-    "confirmed": 4576,
+    "confirmed": 4695,
     "deaths": 190,
     "recovered": 2500
   },
@@ -307,9 +307,9 @@
   },
   "Morocco": {
     "date": "2020-4-27",
-    "confirmed": 4065,
+    "confirmed": 4115,
     "deaths": 161,
-    "recovered": 593
+    "recovered": 669
   },
   "Argentina": {
     "date": "2020-4-27",
@@ -326,8 +326,8 @@
   "Moldova": {
     "date": "2020-4-27",
     "confirmed": 3408,
-    "deaths": 96,
-    "recovered": 895
+    "deaths": 101,
+    "recovered": 925
   },
   "Algeria": {
     "date": "2020-4-27",
@@ -387,7 +387,7 @@
     "date": "2020-4-27",
     "confirmed": 1887,
     "deaths": 8,
-    "recovered": 804
+    "recovered": 826
   },
   "Iraq": {
     "date": "2020-4-27",
@@ -599,17 +599,17 @@
     "deaths": 15,
     "recovered": 375
   },
+  "Sri Lanka": {
+    "date": "2020-4-27",
+    "confirmed": 557,
+    "deaths": 7,
+    "recovered": 126
+  },
   "San Marino": {
     "date": "2020-4-27",
     "confirmed": 538,
     "deaths": 41,
     "recovered": 64
-  },
-  "Sri Lanka": {
-    "date": "2020-4-27",
-    "confirmed": 523,
-    "deaths": 7,
-    "recovered": 126
   },
   "Kosovo": {
     "date": "2020-4-27",
@@ -667,7 +667,7 @@
   },
   "Kenya": {
     "date": "2020-4-27",
-    "confirmed": 355,
+    "confirmed": 363,
     "deaths": 14,
     "recovered": 106
   },
@@ -773,6 +773,12 @@
     "deaths": 1,
     "recovered": 124
   },
+  "Ethiopia": {
+    "date": "2020-4-27",
+    "confirmed": 124,
+    "deaths": 3,
+    "recovered": 50
+  },
   "Liberia": {
     "date": "2020-4-27",
     "confirmed": 124,
@@ -784,12 +790,6 @@
     "confirmed": 124,
     "deaths": 0,
     "recovered": 71
-  },
-  "Ethiopia": {
-    "date": "2020-4-27",
-    "confirmed": 123,
-    "deaths": 3,
-    "recovered": 41
   },
   "Cambodia": {
     "date": "2020-4-27",
