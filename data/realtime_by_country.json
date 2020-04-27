@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-27",
-    "confirmed": 985374,
-    "deaths": 55906,
-    "recovered": 110598
+    "confirmed": 985443,
+    "deaths": 55952,
+    "recovered": 110642
   },
   "Spain": {
     "date": "2020-4-27",
@@ -25,15 +25,15 @@
   },
   "Germany": {
     "date": "2020-4-27",
-    "confirmed": 158389,
-    "deaths": 6050,
+    "confirmed": 158434,
+    "deaths": 6061,
     "recovered": 114500
   },
   "United Kingdom": {
     "date": "2020-4-27",
-    "confirmed": 158347,
+    "confirmed": 158348,
     "deaths": 21157,
-    "recovered": 782
+    "recovered": 787
   },
   "Turkey": {
     "date": "2020-4-27",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-27",
-    "confirmed": 49348,
-    "deaths": 2834,
-    "recovered": 18100
+    "confirmed": 49556,
+    "deaths": 2836,
+    "recovered": 18215
   },
   "Belgium": {
     "date": "2020-4-27",
@@ -405,7 +405,7 @@
     "date": "2020-4-27",
     "confirmed": 1792,
     "deaths": 10,
-    "recovered": 1608
+    "recovered": 1624
   },
   "Afghanistan": {
     "date": "2020-4-27",
@@ -509,17 +509,17 @@
     "deaths": 2,
     "recovered": 477
   },
+  "Tunisia": {
+    "date": "2020-4-27",
+    "confirmed": 967,
+    "deaths": 39,
+    "recovered": 279
+  },
   "Bolivia": {
     "date": "2020-4-27",
     "confirmed": 950,
     "deaths": 50,
     "recovered": 80
-  },
-  "Tunisia": {
-    "date": "2020-4-27",
-    "confirmed": 949,
-    "deaths": 38,
-    "recovered": 216
   },
   "Cyprus": {
     "date": "2020-4-27",
@@ -743,6 +743,12 @@
     "deaths": 0,
     "recovered": 17
   },
+  "Gabon": {
+    "date": "2020-4-27",
+    "confirmed": 211,
+    "deaths": 3,
+    "recovered": 43
+  },
   "Rwanda": {
     "date": "2020-4-27",
     "confirmed": 207,
@@ -754,12 +760,6 @@
     "confirmed": 200,
     "deaths": 6,
     "recovered": 19
-  },
-  "Gabon": {
-    "date": "2020-4-27",
-    "confirmed": 176,
-    "deaths": 3,
-    "recovered": 30
   },
   "Burma": {
     "date": "2020-4-27",
