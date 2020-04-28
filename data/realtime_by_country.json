@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-28",
-    "confirmed": 1004908,
-    "deaths": 57812,
-    "recovered": 114709
+    "confirmed": 1008066,
+    "deaths": 58126,
+    "recovered": 115003
   },
   "Spain": {
     "date": "2020-4-28",
@@ -20,7 +20,7 @@
   "France": {
     "date": "2020-4-28",
     "confirmed": 166036,
-    "deaths": 23327,
+    "deaths": 23694,
     "recovered": 46394
   },
   "United Kingdom": {
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-28",
-    "confirmed": 50708,
-    "deaths": 2957,
-    "recovered": 19047
+    "confirmed": 50902,
+    "deaths": 2973,
+    "recovered": 19054
   },
   "Belgium": {
     "date": "2020-4-28",
@@ -93,7 +93,7 @@
     "date": "2020-4-28",
     "confirmed": 29264,
     "deaths": 1699,
-    "recovered": 22200
+    "recovered": 22600
   },
   "Peru": {
     "date": "2020-4-28",
@@ -133,9 +133,9 @@
   },
   "Israel": {
     "date": "2020-4-28",
-    "confirmed": 15589,
-    "deaths": 208,
-    "recovered": 7375
+    "confirmed": 15728,
+    "deaths": 210,
+    "recovered": 7746
   },
   "Mexico": {
     "date": "2020-4-28",
@@ -355,9 +355,9 @@
   },
   "Bahrain": {
     "date": "2020-4-28",
-    "confirmed": 2810,
+    "confirmed": 2811,
     "deaths": 8,
-    "recovered": 1246
+    "recovered": 1310
   },
   "Hungary": {
     "date": "2020-4-28",
@@ -569,6 +569,12 @@
     "deaths": 8,
     "recovered": 416
   },
+  "Costa Rica": {
+    "date": "2020-4-28",
+    "confirmed": 705,
+    "deaths": 6,
+    "recovered": 306
+  },
   "Honduras": {
     "date": "2020-4-28",
     "confirmed": 702,
@@ -580,12 +586,6 @@
     "confirmed": 701,
     "deaths": 29,
     "recovered": 385
-  },
-  "Costa Rica": {
-    "date": "2020-4-28",
-    "confirmed": 697,
-    "deaths": 6,
-    "recovered": 287
   },
   "Burkina Faso": {
     "date": "2020-4-28",
@@ -713,6 +713,12 @@
     "deaths": 25,
     "recovered": 31
   },
+  "Equatorial Guinea": {
+    "date": "2020-4-28",
+    "confirmed": 315,
+    "deaths": 1,
+    "recovered": 9
+  },
   "Tanzania": {
     "date": "2020-4-28",
     "confirmed": 299,
@@ -725,15 +731,9 @@
     "deaths": 0,
     "recovered": 225
   },
-  "Equatorial Guinea": {
-    "date": "2020-4-28",
-    "confirmed": 258,
-    "deaths": 1,
-    "recovered": 9
-  },
   "Maldives": {
     "date": "2020-4-28",
-    "confirmed": 245,
+    "confirmed": 250,
     "deaths": 0,
     "recovered": 17
   },
