@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-4-28",
-    "confirmed": 988469,
-    "deaths": 56253,
+    "confirmed": 988490,
+    "deaths": 56256,
     "recovered": 111583
   },
   "Spain": {
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2020-4-28",
-    "confirmed": 158758,
-    "deaths": 6126,
+    "confirmed": 158768,
+    "deaths": 6136,
     "recovered": 117400
   },
   "United Kingdom": {
@@ -57,7 +57,7 @@
     "date": "2020-4-28",
     "confirmed": 83938,
     "deaths": 4637,
-    "recovered": 78377
+    "recovered": 78379
   },
   "Brazil": {
     "date": "2020-4-28",
@@ -113,6 +113,12 @@
     "deaths": 663,
     "recovered": 1557
   },
+  "Saudi Arabia": {
+    "date": "2020-4-28",
+    "confirmed": 20077,
+    "deaths": 152,
+    "recovered": 2784
+  },
   "Ireland": {
     "date": "2020-4-28",
     "confirmed": 19648,
@@ -124,12 +130,6 @@
     "confirmed": 19621,
     "deaths": 2355,
     "recovered": 1005
-  },
-  "Saudi Arabia": {
-    "date": "2020-4-28",
-    "confirmed": 18811,
-    "deaths": 144,
-    "recovered": 2531
   },
   "Israel": {
     "date": "2020-4-28",
@@ -413,17 +413,17 @@
     "deaths": 10,
     "recovered": 1624
   },
+  "Azerbaijan": {
+    "date": "2020-4-28",
+    "confirmed": 1717,
+    "deaths": 22,
+    "recovered": 1221
+  },
   "Cameroon": {
     "date": "2020-4-28",
     "confirmed": 1705,
     "deaths": 58,
     "recovered": 805
-  },
-  "Azerbaijan": {
-    "date": "2020-4-28",
-    "confirmed": 1678,
-    "deaths": 22,
-    "recovered": 1162
   },
   "Estonia": {
     "date": "2020-4-28",
@@ -449,17 +449,17 @@
     "deaths": 19,
     "recovered": 1214
   },
+  "North Macedonia": {
+    "date": "2020-4-28",
+    "confirmed": 1421,
+    "deaths": 71,
+    "recovered": 589
+  },
   "Slovenia": {
     "date": "2020-4-28",
     "confirmed": 1408,
     "deaths": 86,
     "recovered": 223
-  },
-  "North Macedonia": {
-    "date": "2020-4-28",
-    "confirmed": 1399,
-    "deaths": 65,
-    "recovered": 553
   },
   "Cuba": {
     "date": "2020-4-28",
@@ -665,17 +665,17 @@
     "deaths": 23,
     "recovered": 113
   },
+  "Kenya": {
+    "date": "2020-4-28",
+    "confirmed": 374,
+    "deaths": 14,
+    "recovered": 124
+  },
   "Jamaica": {
     "date": "2020-4-28",
     "confirmed": 364,
     "deaths": 7,
     "recovered": 29
-  },
-  "Kenya": {
-    "date": "2020-4-28",
-    "confirmed": 363,
-    "deaths": 14,
-    "recovered": 114
   },
   "El Salvador": {
     "date": "2020-4-28",
