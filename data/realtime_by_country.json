@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-28",
-    "confirmed": 1008066,
-    "deaths": 58126,
-    "recovered": 115003
+    "confirmed": 1010717,
+    "deaths": 58365,
+    "recovered": 115372
   },
   "Spain": {
     "date": "2020-4-28",
@@ -19,7 +19,7 @@
   },
   "France": {
     "date": "2020-4-28",
-    "confirmed": 166036,
+    "confirmed": 169052,
     "deaths": 23694,
     "recovered": 46394
   },
@@ -61,14 +61,14 @@
   },
   "Brazil": {
     "date": "2020-4-28",
-    "confirmed": 68289,
-    "deaths": 4683,
-    "recovered": 31142
+    "confirmed": 71886,
+    "deaths": 5017,
+    "recovered": 32544
   },
   "Canada": {
     "date": "2020-4-28",
-    "confirmed": 50902,
-    "deaths": 2973,
+    "confirmed": 50932,
+    "deaths": 2976,
     "recovered": 19054
   },
   "Belgium": {
@@ -89,17 +89,17 @@
     "deaths": 1008,
     "recovered": 7747
   },
+  "Peru": {
+    "date": "2020-4-28",
+    "confirmed": 31190,
+    "deaths": 854,
+    "recovered": 9179
+  },
   "Switzerland": {
     "date": "2020-4-28",
     "confirmed": 29264,
     "deaths": 1699,
     "recovered": 22600
-  },
-  "Peru": {
-    "date": "2020-4-28",
-    "confirmed": 28699,
-    "deaths": 782,
-    "recovered": 8425
   },
   "Portugal": {
     "date": "2020-4-28",
@@ -607,7 +607,7 @@
   },
   "San Marino": {
     "date": "2020-4-28",
-    "confirmed": 538,
+    "confirmed": 553,
     "deaths": 41,
     "recovered": 64
   },
@@ -941,6 +941,12 @@
     "deaths": 3,
     "recovered": 5
   },
+  "South Sudan": {
+    "date": "2020-4-28",
+    "confirmed": 34,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Zimbabwe": {
     "date": "2020-4-28",
     "confirmed": 32,
@@ -1090,12 +1096,6 @@
     "confirmed": 7,
     "deaths": 1,
     "recovered": 6
-  },
-  "South Sudan": {
-    "date": "2020-4-28",
-    "confirmed": 6,
-    "deaths": 0,
-    "recovered": 0
   },
   "Western Sahara": {
     "date": "2020-4-28",
