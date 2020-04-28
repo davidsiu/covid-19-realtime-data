@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-28",
-    "confirmed": 988197,
-    "deaths": 56259,
-    "recovered": 111424
+    "confirmed": 988451,
+    "deaths": 56245,
+    "recovered": 111509
   },
   "Spain": {
     "date": "2020-4-28",
@@ -55,7 +55,7 @@
   },
   "China": {
     "date": "2020-4-28",
-    "confirmed": 83918,
+    "confirmed": 83938,
     "deaths": 4637,
     "recovered": 78374
   },
@@ -155,12 +155,6 @@
     "deaths": 14,
     "recovered": 1095
   },
-  "Japan": {
-    "date": "2020-4-28",
-    "confirmed": 14153,
-    "deaths": 385,
-    "recovered": 1899
-  },
   "Pakistan": {
     "date": "2020-4-28",
     "confirmed": 13915,
@@ -172,6 +166,12 @@
     "confirmed": 13813,
     "deaths": 198,
     "recovered": 7327
+  },
+  "Japan": {
+    "date": "2020-4-28",
+    "confirmed": 13614,
+    "deaths": 385,
+    "recovered": 1899
   },
   "Poland": {
     "date": "2020-4-28",
@@ -243,7 +243,7 @@
     "date": "2020-4-28",
     "confirmed": 7445,
     "deaths": 223,
-    "recovered": 2826
+    "recovered": 2834
   },
   "Australia": {
     "date": "2020-4-28",
@@ -733,9 +733,9 @@
   },
   "Paraguay": {
     "date": "2020-4-28",
-    "confirmed": 228,
+    "confirmed": 230,
     "deaths": 9,
-    "recovered": 93
+    "recovered": 95
   },
   "Maldives": {
     "date": "2020-4-28",
@@ -749,17 +749,17 @@
     "deaths": 3,
     "recovered": 43
   },
+  "Congo (Brazzaville)": {
+    "date": "2020-4-28",
+    "confirmed": 207,
+    "deaths": 8,
+    "recovered": 19
+  },
   "Rwanda": {
     "date": "2020-4-28",
     "confirmed": 207,
     "deaths": 0,
     "recovered": 93
-  },
-  "Congo (Brazzaville)": {
-    "date": "2020-4-28",
-    "confirmed": 200,
-    "deaths": 6,
-    "recovered": 19
   },
   "Burma": {
     "date": "2020-4-28",
@@ -773,6 +773,12 @@
     "deaths": 1,
     "recovered": 124
   },
+  "Liberia": {
+    "date": "2020-4-28",
+    "confirmed": 133,
+    "deaths": 16,
+    "recovered": 25
+  },
   "Madagascar": {
     "date": "2020-4-28",
     "confirmed": 128,
@@ -784,12 +790,6 @@
     "confirmed": 124,
     "deaths": 3,
     "recovered": 50
-  },
-  "Liberia": {
-    "date": "2020-4-28",
-    "confirmed": 124,
-    "deaths": 12,
-    "recovered": 25
   },
   "Cambodia": {
     "date": "2020-4-28",
