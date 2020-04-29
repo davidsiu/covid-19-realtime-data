@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-29",
-    "confirmed": 1012399,
-    "deaths": 58348,
-    "recovered": 115648
+    "confirmed": 1012517,
+    "deaths": 58356,
+    "recovered": 115910
   },
   "Spain": {
     "date": "2020-4-29",
@@ -57,7 +57,7 @@
     "date": "2020-4-29",
     "confirmed": 83938,
     "deaths": 4637,
-    "recovered": 78403
+    "recovered": 78410
   },
   "Brazil": {
     "date": "2020-4-29",
@@ -67,7 +67,7 @@
   },
   "Canada": {
     "date": "2020-4-29",
-    "confirmed": 51146,
+    "confirmed": 51150,
     "deaths": 2983,
     "recovered": 19231
   },
@@ -85,7 +85,7 @@
   },
   "India": {
     "date": "2020-4-29",
-    "confirmed": 31360,
+    "confirmed": 31324,
     "deaths": 1008,
     "recovered": 7747
   },
@@ -131,17 +131,17 @@
     "deaths": 2355,
     "recovered": 1005
   },
+  "Mexico": {
+    "date": "2020-4-29",
+    "confirmed": 16752,
+    "deaths": 1569,
+    "recovered": 11423
+  },
   "Israel": {
     "date": "2020-4-29",
     "confirmed": 15728,
     "deaths": 210,
     "recovered": 7746
-  },
-  "Mexico": {
-    "date": "2020-4-29",
-    "confirmed": 15529,
-    "deaths": 1434,
-    "recovered": 9086
   },
   "Austria": {
     "date": "2020-4-29",
@@ -249,7 +249,7 @@
     "date": "2020-4-29",
     "confirmed": 6744,
     "deaths": 89,
-    "recovered": 5661
+    "recovered": 5663
   },
   "Serbia": {
     "date": "2020-4-29",
@@ -451,9 +451,9 @@
   },
   "New Zealand": {
     "date": "2020-4-29",
-    "confirmed": 1472,
+    "confirmed": 1474,
     "deaths": 19,
-    "recovered": 1214
+    "recovered": 1229
   },
   "Cuba": {
     "date": "2020-4-29",
@@ -595,9 +595,9 @@
   },
   "Uruguay": {
     "date": "2020-4-29",
-    "confirmed": 620,
+    "confirmed": 625,
     "deaths": 15,
-    "recovered": 386
+    "recovered": 394
   },
   "Sri Lanka": {
     "date": "2020-4-29",
@@ -687,7 +687,7 @@
     "date": "2020-4-29",
     "confirmed": 343,
     "deaths": 2,
-    "recovered": 83
+    "recovered": 71
   },
   "Mauritius": {
     "date": "2020-4-29",
@@ -763,7 +763,7 @@
   },
   "Burma": {
     "date": "2020-4-29",
-    "confirmed": 149,
+    "confirmed": 150,
     "deaths": 5,
     "recovered": 16
   },
@@ -977,6 +977,12 @@
     "deaths": 1,
     "recovered": 0
   },
+  "Grenada": {
+    "date": "2020-4-29",
+    "confirmed": 19,
+    "deaths": 0,
+    "recovered": 10
+  },
   "Laos": {
     "date": "2020-4-29",
     "confirmed": 19,
@@ -994,12 +1000,6 @@
     "confirmed": 18,
     "deaths": 0,
     "recovered": 12
-  },
-  "Grenada": {
-    "date": "2020-4-29",
-    "confirmed": 18,
-    "deaths": 0,
-    "recovered": 7
   },
   "Dominica": {
     "date": "2020-4-29",
