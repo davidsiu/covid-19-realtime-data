@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-30",
-    "confirmed": 1038451,
-    "deaths": 60876,
-    "recovered": 120444
+    "confirmed": 1039909,
+    "deaths": 60967,
+    "recovered": 120720
   },
   "Spain": {
     "date": "2020-4-30",
@@ -57,19 +57,19 @@
     "date": "2020-4-30",
     "confirmed": 83944,
     "deaths": 4637,
-    "recovered": 78472
+    "recovered": 78474
   },
   "Brazil": {
     "date": "2020-4-30",
-    "confirmed": 79361,
-    "deaths": 5511,
+    "confirmed": 79685,
+    "deaths": 5513,
     "recovered": 34132
   },
   "Canada": {
     "date": "2020-4-30",
-    "confirmed": 52831,
-    "deaths": 3152,
-    "recovered": 20253
+    "confirmed": 52865,
+    "deaths": 3155,
+    "recovered": 20327
   },
   "Belgium": {
     "date": "2020-4-30",
@@ -205,9 +205,9 @@
   },
   "Korea, South": {
     "date": "2020-4-30",
-    "confirmed": 10761,
-    "deaths": 246,
-    "recovered": 8922
+    "confirmed": 10765,
+    "deaths": 247,
+    "recovered": 9059
   },
   "Ukraine": {
     "date": "2020-4-30",
@@ -255,7 +255,7 @@
     "date": "2020-4-30",
     "confirmed": 6752,
     "deaths": 91,
-    "recovered": 5708
+    "recovered": 5715
   },
   "Dominican Republic": {
     "date": "2020-4-30",
@@ -269,17 +269,17 @@
     "deaths": 125,
     "recovered": 870
   },
+  "Panama": {
+    "date": "2020-4-30",
+    "confirmed": 6378,
+    "deaths": 178,
+    "recovered": 527
+  },
   "Colombia": {
     "date": "2020-4-30",
     "confirmed": 6207,
     "deaths": 278,
     "recovered": 1411
-  },
-  "Panama": {
-    "date": "2020-4-30",
-    "confirmed": 6200,
-    "deaths": 176,
-    "recovered": 484
   },
   "Malaysia": {
     "date": "2020-4-30",
@@ -503,17 +503,17 @@
     "deaths": 14,
     "recovered": 557
   },
+  "Bolivia": {
+    "date": "2020-4-30",
+    "confirmed": 1110,
+    "deaths": 59,
+    "recovered": 117
+  },
   "Djibouti": {
     "date": "2020-4-30",
     "confirmed": 1077,
     "deaths": 2,
     "recovered": 599
-  },
-  "Bolivia": {
-    "date": "2020-4-30",
-    "confirmed": 1053,
-    "deaths": 55,
-    "recovered": 110
   },
   "Tunisia": {
     "date": "2020-4-30",
@@ -869,6 +869,12 @@
     "deaths": 7,
     "recovered": 39
   },
+  "Guyana": {
+    "date": "2020-4-30",
+    "confirmed": 78,
+    "deaths": 8,
+    "recovered": 18
+  },
   "Haiti": {
     "date": "2020-4-30",
     "confirmed": 76,
@@ -880,12 +886,6 @@
     "confirmed": 76,
     "deaths": 0,
     "recovered": 12
-  },
-  "Guyana": {
-    "date": "2020-4-30",
-    "confirmed": 74,
-    "deaths": 8,
-    "recovered": 15
   },
   "Benin": {
     "date": "2020-4-30",
