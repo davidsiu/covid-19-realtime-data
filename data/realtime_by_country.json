@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-4-30",
-    "confirmed": 1056402,
-    "deaths": 61867,
+    "confirmed": 1056466,
+    "deaths": 61881,
     "recovered": 125636
   },
   "Spain": {
@@ -31,8 +31,8 @@
   },
   "Germany": {
     "date": "2020-4-30",
-    "confirmed": 162375,
-    "deaths": 6563,
+    "confirmed": 162530,
+    "deaths": 6572,
     "recovered": 123500
   },
   "Turkey": {
@@ -53,22 +53,22 @@
     "deaths": 6028,
     "recovered": 75103
   },
+  "Brazil": {
+    "date": "2020-4-30",
+    "confirmed": 85380,
+    "deaths": 5901,
+    "recovered": 34132
+  },
   "China": {
     "date": "2020-4-30",
     "confirmed": 83944,
     "deaths": 4637,
     "recovered": 78493
   },
-  "Brazil": {
-    "date": "2020-4-30",
-    "confirmed": 80246,
-    "deaths": 5541,
-    "recovered": 34132
-  },
   "Canada": {
     "date": "2020-4-30",
-    "confirmed": 53977,
-    "deaths": 3268,
+    "confirmed": 54000,
+    "deaths": 3272,
     "recovered": 21194
   },
   "Belgium": {
@@ -157,9 +157,9 @@
   },
   "Israel": {
     "date": "2020-4-30",
-    "confirmed": 15870,
-    "deaths": 219,
-    "recovered": 8412
+    "confirmed": 15946,
+    "deaths": 222,
+    "recovered": 8561
   },
   "Austria": {
     "date": "2020-4-30",
@@ -499,9 +499,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-4-30",
-    "confirmed": 1238,
+    "confirmed": 1275,
     "deaths": 14,
-    "recovered": 557
+    "recovered": 574
   },
   "Bolivia": {
     "date": "2020-4-30",
@@ -887,6 +887,12 @@
     "deaths": 0,
     "recovered": 12
   },
+  "Chad": {
+    "date": "2020-4-30",
+    "confirmed": 73,
+    "deaths": 5,
+    "recovered": 33
+  },
   "Benin": {
     "date": "2020-4-30",
     "confirmed": 64,
@@ -904,12 +910,6 @@
     "confirmed": 57,
     "deaths": 0,
     "recovered": 16
-  },
-  "Chad": {
-    "date": "2020-4-30",
-    "confirmed": 52,
-    "deaths": 2,
-    "recovered": 19
   },
   "Central African Republic": {
     "date": "2020-4-30",
