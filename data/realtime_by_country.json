@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-30",
-    "confirmed": 1056466,
-    "deaths": 61881,
-    "recovered": 125636
+    "confirmed": 1066863,
+    "deaths": 62850,
+    "recovered": 125949
   },
   "Spain": {
     "date": "2020-4-30",
@@ -57,7 +57,7 @@
     "date": "2020-4-30",
     "confirmed": 85380,
     "deaths": 5901,
-    "recovered": 34132
+    "recovered": 35935
   },
   "China": {
     "date": "2020-4-30",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-30",
-    "confirmed": 54000,
-    "deaths": 3272,
-    "recovered": 21194
+    "confirmed": 54240,
+    "deaths": 3301,
+    "recovered": 21198
   },
   "Belgium": {
     "date": "2020-4-30",
@@ -99,7 +99,7 @@
     "date": "2020-4-30",
     "confirmed": 29586,
     "deaths": 1737,
-    "recovered": 23100
+    "recovered": 23400
   },
   "Portugal": {
     "date": "2020-4-30",
@@ -260,7 +260,7 @@
   "Australia": {
     "date": "2020-4-30",
     "confirmed": 6754,
-    "deaths": 92,
+    "deaths": 93,
     "recovered": 5717
   },
   "Serbia": {
@@ -653,6 +653,12 @@
     "deaths": 16,
     "recovered": 167
   },
+  "Maldives": {
+    "date": "2020-4-30",
+    "confirmed": 468,
+    "deaths": 1,
+    "recovered": 17
+  },
   "Malta": {
     "date": "2020-4-30",
     "confirmed": 465,
@@ -689,23 +695,17 @@
     "deaths": 17,
     "recovered": 144
   },
-  "Maldives": {
-    "date": "2020-4-30",
-    "confirmed": 396,
-    "deaths": 1,
-    "recovered": 17
-  },
   "El Salvador": {
     "date": "2020-4-30",
     "confirmed": 395,
     "deaths": 9,
-    "recovered": 118
+    "recovered": 119
   },
   "West Bank and Gaza": {
     "date": "2020-4-30",
     "confirmed": 344,
     "deaths": 2,
-    "recovered": 71
+    "recovered": 76
   },
   "Mauritius": {
     "date": "2020-4-30",
@@ -751,9 +751,9 @@
   },
   "Rwanda": {
     "date": "2020-4-30",
-    "confirmed": 225,
+    "confirmed": 243,
     "deaths": 0,
-    "recovered": 98
+    "recovered": 104
   },
   "Congo (Brazzaville)": {
     "date": "2020-4-30",
@@ -851,6 +851,12 @@
     "deaths": 1,
     "recovered": 55
   },
+  "Barbados": {
+    "date": "2020-4-30",
+    "confirmed": 81,
+    "deaths": 7,
+    "recovered": 39
+  },
   "Uganda": {
     "date": "2020-4-30",
     "confirmed": 81,
@@ -862,12 +868,6 @@
     "confirmed": 80,
     "deaths": 11,
     "recovered": 25
-  },
-  "Barbados": {
-    "date": "2020-4-30",
-    "confirmed": 80,
-    "deaths": 7,
-    "recovered": 39
   },
   "Guyana": {
     "date": "2020-4-30",
