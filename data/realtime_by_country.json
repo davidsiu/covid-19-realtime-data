@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-30",
-    "confirmed": 1039909,
-    "deaths": 60966,
-    "recovered": 120720
+    "confirmed": 1040488,
+    "deaths": 60999,
+    "recovered": 124023
   },
   "Spain": {
     "date": "2020-4-30",
@@ -33,7 +33,7 @@
     "date": "2020-4-30",
     "confirmed": 161539,
     "deaths": 6467,
-    "recovered": 120400
+    "recovered": 123500
   },
   "Turkey": {
     "date": "2020-4-30",
@@ -57,7 +57,7 @@
     "date": "2020-4-30",
     "confirmed": 83944,
     "deaths": 4637,
-    "recovered": 78474
+    "recovered": 78476
   },
   "Brazil": {
     "date": "2020-4-30",
@@ -383,17 +383,17 @@
     "deaths": 67,
     "recovered": 1288
   },
+  "Uzbekistan": {
+    "date": "2020-4-30",
+    "confirmed": 2017,
+    "deaths": 9,
+    "recovered": 1096
+  },
   "Iraq": {
     "date": "2020-4-30",
     "confirmed": 2003,
     "deaths": 92,
     "recovered": 1346
-  },
-  "Uzbekistan": {
-    "date": "2020-4-30",
-    "confirmed": 2002,
-    "deaths": 9,
-    "recovered": 1096
   },
   "Afghanistan": {
     "date": "2020-4-30",
@@ -449,6 +449,12 @@
     "deaths": 50,
     "recovered": 236
   },
+  "Bulgaria": {
+    "date": "2020-4-30",
+    "confirmed": 1488,
+    "deaths": 65,
+    "recovered": 266
+  },
   "New Zealand": {
     "date": "2020-4-30",
     "confirmed": 1476,
@@ -461,12 +467,6 @@
     "deaths": 58,
     "recovered": 617
   },
-  "Bulgaria": {
-    "date": "2020-4-30",
-    "confirmed": 1447,
-    "deaths": 64,
-    "recovered": 243
-  },
   "North Macedonia": {
     "date": "2020-4-30",
     "confirmed": 1442,
@@ -477,7 +477,7 @@
     "date": "2020-4-30",
     "confirmed": 1418,
     "deaths": 89,
-    "recovered": 230
+    "recovered": 1091
   },
   "Slovakia": {
     "date": "2020-4-30",
@@ -677,17 +677,17 @@
     "deaths": 7,
     "recovered": 29
   },
+  "El Salvador": {
+    "date": "2020-4-30",
+    "confirmed": 395,
+    "deaths": 9,
+    "recovered": 118
+  },
   "Kenya": {
     "date": "2020-4-30",
     "confirmed": 384,
     "deaths": 15,
     "recovered": 129
-  },
-  "El Salvador": {
-    "date": "2020-4-30",
-    "confirmed": 377,
-    "deaths": 9,
-    "recovered": 106
   },
   "Sudan": {
     "date": "2020-4-30",
