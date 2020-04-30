@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-30",
-    "confirmed": 1046022,
-    "deaths": 61288,
-    "recovered": 124449
+    "confirmed": 1053036,
+    "deaths": 61547,
+    "recovered": 124748
   },
   "Spain": {
     "date": "2020-4-30",
@@ -17,17 +17,17 @@
     "deaths": 27967,
     "recovered": 75945
   },
+  "United Kingdom": {
+    "date": "2020-4-30",
+    "confirmed": 172478,
+    "deaths": 26842,
+    "recovered": 859
+  },
   "France": {
     "date": "2020-4-30",
     "confirmed": 166628,
     "deaths": 24121,
     "recovered": 49132
-  },
-  "United Kingdom": {
-    "date": "2020-4-30",
-    "confirmed": 166443,
-    "deaths": 26168,
-    "recovered": 859
   },
   "Germany": {
     "date": "2020-4-30",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-30",
-    "confirmed": 52934,
-    "deaths": 3158,
-    "recovered": 20936
+    "confirmed": 53907,
+    "deaths": 3259,
+    "recovered": 21187
   },
   "Belgium": {
     "date": "2020-4-30",
@@ -83,17 +83,17 @@
     "deaths": 4811,
     "recovered": 119
   },
+  "India": {
+    "date": "2020-4-30",
+    "confirmed": 34780,
+    "deaths": 1151,
+    "recovered": 9068
+  },
   "Peru": {
     "date": "2020-4-30",
     "confirmed": 33931,
     "deaths": 943,
     "recovered": 10037
-  },
-  "India": {
-    "date": "2020-4-30",
-    "confirmed": 33610,
-    "deaths": 1079,
-    "recovered": 8437
   },
   "Switzerland": {
     "date": "2020-4-30",
@@ -109,9 +109,9 @@
   },
   "Ecuador": {
     "date": "2020-4-30",
-    "confirmed": 24675,
-    "deaths": 883,
-    "recovered": 1557
+    "confirmed": 24934,
+    "deaths": 900,
+    "recovered": 1558
   },
   "Saudi Arabia": {
     "date": "2020-4-30",
@@ -127,8 +127,8 @@
   },
   "Ireland": {
     "date": "2020-4-30",
-    "confirmed": 20253,
-    "deaths": 1190,
+    "confirmed": 20612,
+    "deaths": 1232,
     "recovered": 13386
   },
   "Mexico": {
@@ -307,9 +307,9 @@
   },
   "Morocco": {
     "date": "2020-4-30",
-    "confirmed": 4359,
-    "deaths": 168,
-    "recovered": 969
+    "confirmed": 4423,
+    "deaths": 170,
+    "recovered": 984
   },
   "Argentina": {
     "date": "2020-4-30",
@@ -337,15 +337,15 @@
   },
   "Luxembourg": {
     "date": "2020-4-30",
-    "confirmed": 3769,
-    "deaths": 89,
-    "recovered": 3134
+    "confirmed": 3784,
+    "deaths": 90,
+    "recovered": 3213
   },
   "Kazakhstan": {
     "date": "2020-4-30",
-    "confirmed": 3356,
+    "confirmed": 3402,
     "deaths": 25,
-    "recovered": 858
+    "recovered": 866
   },
   "Bahrain": {
     "date": "2020-4-30",
@@ -405,7 +405,7 @@
     "date": "2020-4-30",
     "confirmed": 2017,
     "deaths": 9,
-    "recovered": 1126
+    "recovered": 1133
   },
   "Iraq": {
     "date": "2020-4-30",
@@ -559,9 +559,9 @@
   },
   "Andorra": {
     "date": "2020-4-30",
-    "confirmed": 743,
+    "confirmed": 745,
     "deaths": 42,
-    "recovered": 423
+    "recovered": 468
   },
   "Lebanon": {
     "date": "2020-4-30",
@@ -627,7 +627,7 @@
     "date": "2020-4-30",
     "confirmed": 539,
     "deaths": 6,
-    "recovered": 178
+    "recovered": 184
   },
   "Kosovo": {
     "date": "2020-4-30",
@@ -827,23 +827,23 @@
     "deaths": 1,
     "recovered": 2
   },
+  "Zambia": {
+    "date": "2020-4-30",
+    "confirmed": 106,
+    "deaths": 3,
+    "recovered": 55
+  },
   "Eswatini": {
     "date": "2020-4-30",
     "confirmed": 100,
     "deaths": 1,
     "recovered": 12
   },
-  "Zambia": {
-    "date": "2020-4-30",
-    "confirmed": 97,
-    "deaths": 3,
-    "recovered": 54
-  },
   "Monaco": {
     "date": "2020-4-30",
     "confirmed": 95,
     "deaths": 4,
-    "recovered": 58
+    "recovered": 64
   },
   "Liechtenstein": {
     "date": "2020-4-30",
@@ -1061,17 +1061,17 @@
     "deaths": 1,
     "recovered": 8
   },
+  "Holy See": {
+    "date": "2020-4-30",
+    "confirmed": 11,
+    "deaths": 0,
+    "recovered": 2
+  },
   "Seychelles": {
     "date": "2020-4-30",
     "confirmed": 11,
     "deaths": 0,
     "recovered": 6
-  },
-  "Holy See": {
-    "date": "2020-4-30",
-    "confirmed": 10,
-    "deaths": 0,
-    "recovered": 2
   },
   "Suriname": {
     "date": "2020-4-30",
