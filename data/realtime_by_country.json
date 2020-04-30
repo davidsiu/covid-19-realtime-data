@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-4-30",
-    "confirmed": 1053036,
-    "deaths": 61547,
-    "recovered": 124748
+    "confirmed": 1054261,
+    "deaths": 61717,
+    "recovered": 124979
   },
   "Spain": {
     "date": "2020-4-30",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-4-30",
-    "confirmed": 53907,
-    "deaths": 3259,
-    "recovered": 21187
+    "confirmed": 53971,
+    "deaths": 3267,
+    "recovered": 21194
   },
   "Belgium": {
     "date": "2020-4-30",
@@ -81,7 +81,7 @@
     "date": "2020-4-30",
     "confirmed": 39512,
     "deaths": 4811,
-    "recovered": 119
+    "recovered": 125
   },
   "India": {
     "date": "2020-4-30",
@@ -200,7 +200,7 @@
   "Romania": {
     "date": "2020-4-30",
     "confirmed": 12240,
-    "deaths": 705,
+    "deaths": 711,
     "recovered": 4017
   },
   "Korea, South": {
@@ -236,7 +236,7 @@
   "Norway": {
     "date": "2020-4-30",
     "confirmed": 7738,
-    "deaths": 207,
+    "deaths": 210,
     "recovered": 32
   },
   "Bangladesh": {
@@ -383,6 +383,12 @@
     "deaths": 64,
     "recovered": 260
   },
+  "Iraq": {
+    "date": "2020-4-30",
+    "confirmed": 2085,
+    "deaths": 93,
+    "recovered": 1375
+  },
   "Croatia": {
     "date": "2020-4-30",
     "confirmed": 2076,
@@ -406,12 +412,6 @@
     "confirmed": 2017,
     "deaths": 9,
     "recovered": 1133
-  },
-  "Iraq": {
-    "date": "2020-4-30",
-    "confirmed": 2003,
-    "deaths": 92,
-    "recovered": 1346
   },
   "Cameroon": {
     "date": "2020-4-30",
@@ -809,6 +809,12 @@
     "deaths": 0,
     "recovered": 119
   },
+  "Cabo Verde": {
+    "date": "2020-4-30",
+    "confirmed": 116,
+    "deaths": 1,
+    "recovered": 2
+  },
   "Togo": {
     "date": "2020-4-30",
     "confirmed": 116,
@@ -820,12 +826,6 @@
     "confirmed": 116,
     "deaths": 8,
     "recovered": 72
-  },
-  "Cabo Verde": {
-    "date": "2020-4-30",
-    "confirmed": 113,
-    "deaths": 1,
-    "recovered": 2
   },
   "Zambia": {
     "date": "2020-4-30",
@@ -896,7 +896,7 @@
   "Libya": {
     "date": "2020-4-30",
     "confirmed": 61,
-    "deaths": 2,
+    "deaths": 3,
     "recovered": 18
   },
   "Nepal": {
@@ -933,7 +933,7 @@
     "date": "2020-4-30",
     "confirmed": 39,
     "deaths": 0,
-    "recovered": 19
+    "recovered": 26
   },
   "Mongolia": {
     "date": "2020-4-30",
