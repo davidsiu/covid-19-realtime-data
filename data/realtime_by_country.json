@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-1",
-    "confirmed": 1069664,
+    "confirmed": 1069826,
     "deaths": 63006,
     "recovered": 153947
   },
@@ -91,7 +91,7 @@
   },
   "India": {
     "date": "2020-5-1",
-    "confirmed": 34863,
+    "confirmed": 35043,
     "deaths": 1154,
     "recovered": 9068
   },
@@ -505,9 +505,9 @@
   },
   "Bolivia": {
     "date": "2020-5-1",
-    "confirmed": 1110,
-    "deaths": 59,
-    "recovered": 117
+    "confirmed": 1167,
+    "deaths": 62,
+    "recovered": 132
   },
   "Djibouti": {
     "date": "2020-5-1",
@@ -539,6 +539,12 @@
     "deaths": 15,
     "recovered": 296
   },
+  "Honduras": {
+    "date": "2020-5-1",
+    "confirmed": 804,
+    "deaths": 75,
+    "recovered": 112
+  },
   "Kosovo": {
     "date": "2020-5-1",
     "confirmed": 799,
@@ -550,12 +556,6 @@
     "confirmed": 773,
     "deaths": 31,
     "recovered": 470
-  },
-  "Honduras": {
-    "date": "2020-5-1",
-    "confirmed": 771,
-    "deaths": 71,
-    "recovered": 79
   },
   "Kyrgyzstan": {
     "date": "2020-5-1",
