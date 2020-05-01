@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-1",
-    "confirmed": 1070026,
+    "confirmed": 1070032,
     "deaths": 63019,
     "recovered": 153947
   },
@@ -21,7 +21,7 @@
     "date": "2020-5-1",
     "confirmed": 172481,
     "deaths": 26842,
-    "recovered": 859
+    "recovered": 861
   },
   "France": {
     "date": "2020-5-1",
@@ -137,17 +137,17 @@
     "deaths": 1859,
     "recovered": 11423
   },
+  "Singapore": {
+    "date": "2020-5-1",
+    "confirmed": 17101,
+    "deaths": 15,
+    "recovered": 1244
+  },
   "Pakistan": {
     "date": "2020-5-1",
     "confirmed": 16817,
     "deaths": 385,
     "recovered": 4315
-  },
-  "Singapore": {
-    "date": "2020-5-1",
-    "confirmed": 16169,
-    "deaths": 15,
-    "recovered": 1244
   },
   "Chile": {
     "date": "2020-5-1",
@@ -157,9 +157,9 @@
   },
   "Israel": {
     "date": "2020-5-1",
-    "confirmed": 15946,
-    "deaths": 222,
-    "recovered": 8561
+    "confirmed": 16004,
+    "deaths": 223,
+    "recovered": 8758
   },
   "Austria": {
     "date": "2020-5-1",
@@ -200,7 +200,7 @@
   "Romania": {
     "date": "2020-5-1",
     "confirmed": 12240,
-    "deaths": 717,
+    "deaths": 723,
     "recovered": 4017
   },
   "Korea, South": {
@@ -247,8 +247,8 @@
   },
   "Czechia": {
     "date": "2020-5-1",
-    "confirmed": 7682,
-    "deaths": 236,
+    "confirmed": 7689,
+    "deaths": 237,
     "recovered": 3314
   },
   "Bangladesh": {
@@ -343,7 +343,7 @@
   },
   "Kazakhstan": {
     "date": "2020-5-1",
-    "confirmed": 3504,
+    "confirmed": 3551,
     "deaths": 25,
     "recovered": 866
   },
@@ -383,6 +383,12 @@
     "deaths": 64,
     "recovered": 260
   },
+  "Armenia": {
+    "date": "2020-5-1",
+    "confirmed": 2148,
+    "deaths": 33,
+    "recovered": 977
+  },
   "Iraq": {
     "date": "2020-5-1",
     "confirmed": 2085,
@@ -400,12 +406,6 @@
     "confirmed": 2074,
     "deaths": 17,
     "recovered": 212
-  },
-  "Armenia": {
-    "date": "2020-5-1",
-    "confirmed": 2066,
-    "deaths": 32,
-    "recovered": 929
   },
   "Uzbekistan": {
     "date": "2020-5-1",
@@ -529,8 +529,8 @@
   },
   "Latvia": {
     "date": "2020-5-1",
-    "confirmed": 858,
-    "deaths": 15,
+    "confirmed": 870,
+    "deaths": 16,
     "recovered": 348
   },
   "Cyprus": {
@@ -637,7 +637,7 @@
   },
   "Georgia": {
     "date": "2020-5-1",
-    "confirmed": 539,
+    "confirmed": 566,
     "deaths": 6,
     "recovered": 184
   },
@@ -723,7 +723,7 @@
     "date": "2020-5-1",
     "confirmed": 322,
     "deaths": 7,
-    "recovered": 214
+    "recovered": 219
   },
   "Equatorial Guinea": {
     "date": "2020-5-1",
