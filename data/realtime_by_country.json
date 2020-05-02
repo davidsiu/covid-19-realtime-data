@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-2",
-    "confirmed": 1104345,
-    "deaths": 65069,
+    "confirmed": 1106373,
+    "deaths": 65173,
     "recovered": 164015
   },
   "Spain": {
@@ -31,7 +31,7 @@
   },
   "Germany": {
     "date": "2020-5-2",
-    "confirmed": 164077,
+    "confirmed": 164197,
     "deaths": 6736,
     "recovered": 129000
   },
@@ -115,7 +115,7 @@
   },
   "Portugal": {
     "date": "2020-5-2",
-    "confirmed": 25351,
+    "confirmed": 25190,
     "deaths": 1023,
     "recovered": 1671
   },
@@ -331,9 +331,9 @@
   },
   "Moldova": {
     "date": "2020-5-2",
-    "confirmed": 3980,
-    "deaths": 122,
-    "recovered": 1272
+    "confirmed": 4052,
+    "deaths": 124,
+    "recovered": 1334
   },
   "Luxembourg": {
     "date": "2020-5-2",
@@ -374,7 +374,7 @@
   "Oman": {
     "date": "2020-5-2",
     "confirmed": 2483,
-    "deaths": 11,
+    "deaths": 12,
     "recovered": 750
   },
   "Afghanistan": {
@@ -395,6 +395,12 @@
     "deaths": 68,
     "recovered": 351
   },
+  "Ghana": {
+    "date": "2020-5-2",
+    "confirmed": 2169,
+    "deaths": 18,
+    "recovered": 229
+  },
   "Iraq": {
     "date": "2020-5-2",
     "confirmed": 2153,
@@ -412,12 +418,6 @@
     "confirmed": 2088,
     "deaths": 77,
     "recovered": 1463
-  },
-  "Ghana": {
-    "date": "2020-5-2",
-    "confirmed": 2074,
-    "deaths": 17,
-    "recovered": 212
   },
   "Azerbaijan": {
     "date": "2020-5-2",
@@ -647,17 +647,17 @@
     "deaths": 36,
     "recovered": 46
   },
+  "Maldives": {
+    "date": "2020-5-2",
+    "confirmed": 514,
+    "deaths": 1,
+    "recovered": 17
+  },
   "Mali": {
     "date": "2020-5-2",
     "confirmed": 508,
     "deaths": 26,
     "recovered": 196
-  },
-  "Maldives": {
-    "date": "2020-5-2",
-    "confirmed": 491,
-    "deaths": 1,
-    "recovered": 17
   },
   "Tanzania": {
     "date": "2020-5-2",
@@ -674,7 +674,7 @@
   "Jordan": {
     "date": "2020-5-2",
     "confirmed": 459,
-    "deaths": 8,
+    "deaths": 9,
     "recovered": 364
   },
   "El Salvador": {
@@ -783,7 +783,7 @@
     "date": "2020-5-2",
     "confirmed": 151,
     "deaths": 6,
-    "recovered": 31
+    "recovered": 37
   },
   "Brunei": {
     "date": "2020-5-2",
@@ -835,7 +835,7 @@
   },
   "Eswatini": {
     "date": "2020-5-2",
-    "confirmed": 106,
+    "confirmed": 108,
     "deaths": 1,
     "recovered": 12
   },
