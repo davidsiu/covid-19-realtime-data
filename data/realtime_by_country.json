@@ -35,17 +35,17 @@
     "deaths": 6736,
     "recovered": 129000
   },
+  "Russia": {
+    "date": "2020-5-2",
+    "confirmed": 124054,
+    "deaths": 1222,
+    "recovered": 15013
+  },
   "Turkey": {
     "date": "2020-5-2",
     "confirmed": 122392,
     "deaths": 3258,
     "recovered": 53808
-  },
-  "Russia": {
-    "date": "2020-5-2",
-    "confirmed": 114431,
-    "deaths": 1169,
-    "recovered": 13220
   },
   "Iran": {
     "date": "2020-5-2",
@@ -73,9 +73,9 @@
   },
   "Belgium": {
     "date": "2020-5-2",
-    "confirmed": 49032,
-    "deaths": 7703,
-    "recovered": 11892
+    "confirmed": 49517,
+    "deaths": 7765,
+    "recovered": 12211
   },
   "Peru": {
     "date": "2020-5-2",
@@ -241,9 +241,9 @@
   },
   "Bangladesh": {
     "date": "2020-5-2",
-    "confirmed": 8238,
-    "deaths": 170,
-    "recovered": 174
+    "confirmed": 8790,
+    "deaths": 175,
+    "recovered": 177
   },
   "Norway": {
     "date": "2020-5-2",
@@ -271,7 +271,7 @@
   },
   "Australia": {
     "date": "2020-5-2",
-    "confirmed": 6783,
+    "confirmed": 6781,
     "deaths": 93,
     "recovered": 5796
   },
@@ -283,9 +283,9 @@
   },
   "Malaysia": {
     "date": "2020-5-2",
-    "confirmed": 6071,
+    "confirmed": 6176,
     "deaths": 103,
-    "recovered": 4210
+    "recovered": 4326
   },
   "South Africa": {
     "date": "2020-5-2",
@@ -301,7 +301,7 @@
   },
   "Finland": {
     "date": "2020-5-2",
-    "confirmed": 5051,
+    "confirmed": 5176,
     "deaths": 218,
     "recovered": 3000
   },
@@ -343,9 +343,9 @@
   },
   "Kazakhstan": {
     "date": "2020-5-2",
-    "confirmed": 3671,
+    "confirmed": 3785,
     "deaths": 25,
-    "recovered": 922
+    "recovered": 940
   },
   "Bahrain": {
     "date": "2020-5-2",
@@ -379,9 +379,9 @@
   },
   "Afghanistan": {
     "date": "2020-5-2",
-    "confirmed": 2335,
-    "deaths": 68,
-    "recovered": 310
+    "confirmed": 2469,
+    "deaths": 72,
+    "recovered": 331
   },
   "Armenia": {
     "date": "2020-5-2",
@@ -953,6 +953,12 @@
     "deaths": 3,
     "recovered": 9
   },
+  "Tajikistan": {
+    "date": "2020-5-2",
+    "confirmed": 32,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Angola": {
     "date": "2020-5-2",
     "confirmed": 30,
@@ -1036,12 +1042,6 @@
     "confirmed": 15,
     "deaths": 0,
     "recovered": 8
-  },
-  "Tajikistan": {
-    "date": "2020-5-2",
-    "confirmed": 15,
-    "deaths": 0,
-    "recovered": 0
   },
   "Nicaragua": {
     "date": "2020-5-2",
