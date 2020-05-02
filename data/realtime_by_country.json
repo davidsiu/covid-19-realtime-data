@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-2",
-    "confirmed": 1103461,
-    "deaths": 64943,
+    "confirmed": 1103781,
+    "deaths": 64956,
     "recovered": 164015
   },
   "Spain": {
@@ -63,7 +63,7 @@
     "date": "2020-5-2",
     "confirmed": 83959,
     "deaths": 4637,
-    "recovered": 78573
+    "recovered": 78580
   },
   "Canada": {
     "date": "2020-5-2",
@@ -271,9 +271,9 @@
   },
   "Australia": {
     "date": "2020-5-2",
-    "confirmed": 6778,
+    "confirmed": 6779,
     "deaths": 93,
-    "recovered": 5775
+    "recovered": 5782
   },
   "Panama": {
     "date": "2020-5-2",
@@ -863,6 +863,12 @@
     "deaths": 0,
     "recovered": 52
   },
+  "Bahamas": {
+    "date": "2020-5-2",
+    "confirmed": 82,
+    "deaths": 11,
+    "recovered": 24
+  },
   "Guyana": {
     "date": "2020-5-2",
     "confirmed": 82,
@@ -874,12 +880,6 @@
     "confirmed": 82,
     "deaths": 1,
     "recovered": 55
-  },
-  "Bahamas": {
-    "date": "2020-5-2",
-    "confirmed": 81,
-    "deaths": 11,
-    "recovered": 24
   },
   "Barbados": {
     "date": "2020-5-2",
@@ -1053,7 +1053,7 @@
     "date": "2020-5-2",
     "confirmed": 12,
     "deaths": 1,
-    "recovered": 8
+    "recovered": 9
   },
   "Burundi": {
     "date": "2020-5-2",
