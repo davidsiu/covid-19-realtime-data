@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-2",
-    "confirmed": 1103225,
-    "deaths": 64808,
+    "confirmed": 1103461,
+    "deaths": 64943,
     "recovered": 164015
   },
   "Spain": {
@@ -55,15 +55,15 @@
   },
   "Brazil": {
     "date": "2020-5-2",
-    "confirmed": 92109,
-    "deaths": 6410,
+    "confirmed": 92202,
+    "deaths": 6412,
     "recovered": 38039
   },
   "China": {
     "date": "2020-5-2",
     "confirmed": 83959,
     "deaths": 4637,
-    "recovered": 78568
+    "recovered": 78573
   },
   "Canada": {
     "date": "2020-5-2",
@@ -211,9 +211,9 @@
   },
   "Korea, South": {
     "date": "2020-5-2",
-    "confirmed": 10774,
-    "deaths": 248,
-    "recovered": 9072
+    "confirmed": 10780,
+    "deaths": 250,
+    "recovered": 9123
   },
   "Indonesia": {
     "date": "2020-5-2",
@@ -271,7 +271,7 @@
   },
   "Australia": {
     "date": "2020-5-2",
-    "confirmed": 6773,
+    "confirmed": 6778,
     "deaths": 93,
     "recovered": 5775
   },
@@ -475,9 +475,9 @@
   },
   "New Zealand": {
     "date": "2020-5-2",
-    "confirmed": 1479,
-    "deaths": 19,
-    "recovered": 1252
+    "confirmed": 1485,
+    "deaths": 20,
+    "recovered": 1263
   },
   "Slovenia": {
     "date": "2020-5-2",
@@ -505,9 +505,9 @@
   },
   "Bolivia": {
     "date": "2020-5-2",
-    "confirmed": 1167,
-    "deaths": 62,
-    "recovered": 132
+    "confirmed": 1229,
+    "deaths": 66,
+    "recovered": 134
   },
   "Djibouti": {
     "date": "2020-5-2",
@@ -711,7 +711,13 @@
     "date": "2020-5-2",
     "confirmed": 335,
     "deaths": 10,
-    "recovered": 142
+    "recovered": 148
+  },
+  "Paraguay": {
+    "date": "2020-5-2",
+    "confirmed": 333,
+    "deaths": 10,
+    "recovered": 115
   },
   "Mauritius": {
     "date": "2020-5-2",
@@ -742,12 +748,6 @@
     "confirmed": 270,
     "deaths": 0,
     "recovered": 219
-  },
-  "Paraguay": {
-    "date": "2020-5-2",
-    "confirmed": 266,
-    "deaths": 10,
-    "recovered": 113
   },
   "Guinea-Bissau": {
     "date": "2020-5-2",
@@ -825,7 +825,7 @@
     "date": "2020-5-2",
     "confirmed": 116,
     "deaths": 8,
-    "recovered": 81
+    "recovered": 83
   },
   "Zambia": {
     "date": "2020-5-2",
@@ -879,7 +879,7 @@
     "date": "2020-5-2",
     "confirmed": 81,
     "deaths": 11,
-    "recovered": 25
+    "recovered": 24
   },
   "Barbados": {
     "date": "2020-5-2",
