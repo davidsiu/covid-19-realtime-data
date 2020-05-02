@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-5-2",
-    "confirmed": 1126021,
-    "deaths": 66045,
-    "recovered": 164015
+    "confirmed": 1126519,
+    "deaths": 66051,
+    "recovered": 175382
   },
   "Spain": {
     "date": "2020-5-2",
@@ -31,8 +31,8 @@
   },
   "Germany": {
     "date": "2020-5-2",
-    "confirmed": 164702,
-    "deaths": 6783,
+    "confirmed": 164967,
+    "deaths": 6794,
     "recovered": 129000
   },
   "Turkey": {
@@ -67,8 +67,8 @@
   },
   "Canada": {
     "date": "2020-5-2",
-    "confirmed": 57543,
-    "deaths": 3664,
+    "confirmed": 57605,
+    "deaths": 3671,
     "recovered": 23615
   },
   "Belgium": {
@@ -713,6 +713,12 @@
     "deaths": 10,
     "recovered": 148
   },
+  "Gabon": {
+    "date": "2020-5-2",
+    "confirmed": 335,
+    "deaths": 5,
+    "recovered": 85
+  },
   "Paraguay": {
     "date": "2020-5-2",
     "confirmed": 333,
@@ -736,12 +742,6 @@
     "confirmed": 315,
     "deaths": 1,
     "recovered": 9
-  },
-  "Gabon": {
-    "date": "2020-5-2",
-    "confirmed": 276,
-    "deaths": 3,
-    "recovered": 67
   },
   "Vietnam": {
     "date": "2020-5-2",
@@ -1117,7 +1117,7 @@
   },
   "Comoros": {
     "date": "2020-5-2",
-    "confirmed": 1,
+    "confirmed": 3,
     "deaths": 0,
     "recovered": 0
   }
