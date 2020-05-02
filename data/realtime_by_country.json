@@ -1,9 +1,15 @@
 {
   "US": {
     "date": "2020-5-2",
-    "confirmed": 1102679,
-    "deaths": 64788,
+    "confirmed": 1103115,
+    "deaths": 64804,
     "recovered": 164015
+  },
+  "Spain": {
+    "date": "2020-5-2",
+    "confirmed": 213435,
+    "deaths": 24543,
+    "recovered": 112050
   },
   "Italy": {
     "date": "2020-5-2",
@@ -61,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-2",
-    "confirmed": 56338,
+    "confirmed": 56339,
     "deaths": 3537,
-    "recovered": 22716
+    "recovered": 22764
   },
   "Belgium": {
     "date": "2020-5-2",
@@ -79,7 +85,7 @@
   },
   "Netherlands": {
     "date": "2020-5-2",
-    "confirmed": 39988,
+    "confirmed": 39989,
     "deaths": 4909,
     "recovered": 138
   },
@@ -167,17 +173,17 @@
     "deaths": 93,
     "recovered": 2918
   },
+  "Japan": {
+    "date": "2020-5-2",
+    "confirmed": 14305,
+    "deaths": 455,
+    "recovered": 2975
+  },
   "Qatar": {
     "date": "2020-5-2",
     "confirmed": 14096,
     "deaths": 12,
     "recovered": 1436
-  },
-  "Japan": {
-    "date": "2020-5-2",
-    "confirmed": 14088,
-    "deaths": 430,
-    "recovered": 2460
   },
   "Poland": {
     "date": "2020-5-2",
@@ -265,9 +271,9 @@
   },
   "Australia": {
     "date": "2020-5-2",
-    "confirmed": 6765,
+    "confirmed": 6766,
     "deaths": 93,
-    "recovered": 5747
+    "recovered": 5768
   },
   "Panama": {
     "date": "2020-5-2",
@@ -307,8 +313,8 @@
   },
   "Argentina": {
     "date": "2020-5-2",
-    "confirmed": 4428,
-    "deaths": 220,
+    "confirmed": 4532,
+    "deaths": 225,
     "recovered": 1292
   },
   "Kuwait": {
@@ -845,6 +851,12 @@
     "deaths": 2,
     "recovered": 42
   },
+  "Haiti": {
+    "date": "2020-5-2",
+    "confirmed": 85,
+    "deaths": 8,
+    "recovered": 10
+  },
   "Uganda": {
     "date": "2020-5-2",
     "confirmed": 85,
@@ -875,12 +887,6 @@
     "deaths": 7,
     "recovered": 39
   },
-  "Haiti": {
-    "date": "2020-5-2",
-    "confirmed": 81,
-    "deaths": 8,
-    "recovered": 8
-  },
   "Mozambique": {
     "date": "2020-5-2",
     "confirmed": 79,
@@ -895,7 +901,7 @@
   },
   "Central African Republic": {
     "date": "2020-5-2",
-    "confirmed": 64,
+    "confirmed": 72,
     "deaths": 0,
     "recovered": 10
   },
