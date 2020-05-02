@@ -49,9 +49,9 @@
   },
   "Iran": {
     "date": "2020-5-2",
-    "confirmed": 95646,
-    "deaths": 6091,
-    "recovered": 76318
+    "confirmed": 96448,
+    "deaths": 6156,
+    "recovered": 77350
   },
   "Brazil": {
     "date": "2020-5-2",
@@ -63,7 +63,7 @@
     "date": "2020-5-2",
     "confirmed": 83959,
     "deaths": 4637,
-    "recovered": 78581
+    "recovered": 78586
   },
   "Canada": {
     "date": "2020-5-2",
@@ -169,9 +169,15 @@
   },
   "Austria": {
     "date": "2020-5-2",
-    "confirmed": 15531,
-    "deaths": 589,
+    "confirmed": 15558,
+    "deaths": 596,
     "recovered": 13110
+  },
+  "Qatar": {
+    "date": "2020-5-2",
+    "confirmed": 14872,
+    "deaths": 12,
+    "recovered": 1534
   },
   "Japan": {
     "date": "2020-5-2",
@@ -179,17 +185,11 @@
     "deaths": 455,
     "recovered": 2975
   },
-  "Qatar": {
-    "date": "2020-5-2",
-    "confirmed": 14096,
-    "deaths": 12,
-    "recovered": 1436
-  },
   "Poland": {
     "date": "2020-5-2",
-    "confirmed": 13105,
-    "deaths": 651,
-    "recovered": 3491
+    "confirmed": 13375,
+    "deaths": 664,
+    "recovered": 3762
   },
   "United Arab Emirates": {
     "date": "2020-5-2",
@@ -311,17 +311,17 @@
     "deaths": 172,
     "recovered": 1235
   },
+  "Kuwait": {
+    "date": "2020-5-2",
+    "confirmed": 4619,
+    "deaths": 33,
+    "recovered": 1703
+  },
   "Argentina": {
     "date": "2020-5-2",
     "confirmed": 4532,
     "deaths": 225,
     "recovered": 1292
-  },
-  "Kuwait": {
-    "date": "2020-5-2",
-    "confirmed": 4377,
-    "deaths": 30,
-    "recovered": 1602
   },
   "Algeria": {
     "date": "2020-5-2",
@@ -421,9 +421,9 @@
   },
   "Azerbaijan": {
     "date": "2020-5-2",
-    "confirmed": 1854,
+    "confirmed": 1894,
     "deaths": 25,
-    "recovered": 1365
+    "recovered": 1411
   },
   "Cameroon": {
     "date": "2020-5-2",
@@ -481,9 +481,9 @@
   },
   "Slovenia": {
     "date": "2020-5-2",
-    "confirmed": 1434,
-    "deaths": 92,
-    "recovered": 233
+    "confirmed": 1439,
+    "deaths": 94,
+    "recovered": 239
   },
   "Slovakia": {
     "date": "2020-5-2",
@@ -511,9 +511,9 @@
   },
   "Djibouti": {
     "date": "2020-5-2",
-    "confirmed": 1097,
+    "confirmed": 1112,
     "deaths": 2,
-    "recovered": 672
+    "recovered": 686
   },
   "Senegal": {
     "date": "2020-5-2",
@@ -571,8 +571,8 @@
   },
   "Lebanon": {
     "date": "2020-5-2",
-    "confirmed": 729,
-    "deaths": 24,
+    "confirmed": 733,
+    "deaths": 25,
     "recovered": 192
   },
   "Niger": {
@@ -667,9 +667,9 @@
   },
   "Malta": {
     "date": "2020-5-2",
-    "confirmed": 467,
+    "confirmed": 468,
     "deaths": 4,
-    "recovered": 383
+    "recovered": 379
   },
   "Jordan": {
     "date": "2020-5-2",
@@ -791,17 +791,17 @@
     "deaths": 7,
     "recovered": 21
   },
+  "Madagascar": {
+    "date": "2020-5-2",
+    "confirmed": 135,
+    "deaths": 0,
+    "recovered": 97
+  },
   "Ethiopia": {
     "date": "2020-5-2",
     "confirmed": 133,
     "deaths": 3,
     "recovered": 69
-  },
-  "Madagascar": {
-    "date": "2020-5-2",
-    "confirmed": 132,
-    "deaths": 0,
-    "recovered": 94
   },
   "Togo": {
     "date": "2020-5-2",
@@ -821,17 +821,17 @@
     "deaths": 0,
     "recovered": 120
   },
+  "Zambia": {
+    "date": "2020-5-2",
+    "confirmed": 119,
+    "deaths": 3,
+    "recovered": 75
+  },
   "Trinidad and Tobago": {
     "date": "2020-5-2",
     "confirmed": 116,
     "deaths": 8,
     "recovered": 83
-  },
-  "Zambia": {
-    "date": "2020-5-2",
-    "confirmed": 109,
-    "deaths": 3,
-    "recovered": 74
   },
   "Eswatini": {
     "date": "2020-5-2",
@@ -929,12 +929,6 @@
     "deaths": 3,
     "recovered": 27
   },
-  "Zimbabwe": {
-    "date": "2020-5-2",
-    "confirmed": 40,
-    "deaths": 4,
-    "recovered": 5
-  },
   "Eritrea": {
     "date": "2020-5-2",
     "confirmed": 39,
@@ -952,6 +946,12 @@
     "confirmed": 37,
     "deaths": 3,
     "recovered": 9
+  },
+  "Zimbabwe": {
+    "date": "2020-5-2",
+    "confirmed": 34,
+    "deaths": 4,
+    "recovered": 5
   },
   "Tajikistan": {
     "date": "2020-5-2",
