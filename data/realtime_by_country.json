@@ -35,17 +35,17 @@
     "deaths": 6812,
     "recovered": 130600
   },
+  "Russia": {
+    "date": "2020-5-3",
+    "confirmed": 134687,
+    "deaths": 1280,
+    "recovered": 16639
+  },
   "Turkey": {
     "date": "2020-5-3",
     "confirmed": 124375,
     "deaths": 3336,
     "recovered": 58259
-  },
-  "Russia": {
-    "date": "2020-5-3",
-    "confirmed": 124054,
-    "deaths": 1222,
-    "recovered": 15013
   },
   "Brazil": {
     "date": "2020-5-3",
@@ -169,9 +169,9 @@
   },
   "Austria": {
     "date": "2020-5-3",
-    "confirmed": 15558,
-    "deaths": 596,
-    "recovered": 13180
+    "confirmed": 15597,
+    "deaths": 598,
+    "recovered": 13228
   },
   "Qatar": {
     "date": "2020-5-3",
@@ -235,9 +235,9 @@
   },
   "Philippines": {
     "date": "2020-5-3",
-    "confirmed": 8928,
-    "deaths": 603,
-    "recovered": 1124
+    "confirmed": 9223,
+    "deaths": 607,
+    "recovered": 1214
   },
   "Bangladesh": {
     "date": "2020-5-3",
@@ -373,7 +373,7 @@
   },
   "Oman": {
     "date": "2020-5-3",
-    "confirmed": 2483,
+    "confirmed": 2568,
     "deaths": 12,
     "recovered": 750
   },
@@ -491,17 +491,17 @@
     "deaths": 94,
     "recovered": 239
   },
-  "Slovakia": {
-    "date": "2020-5-3",
-    "confirmed": 1407,
-    "deaths": 24,
-    "recovered": 608
-  },
   "Lithuania": {
     "date": "2020-5-3",
-    "confirmed": 1406,
+    "confirmed": 1410,
     "deaths": 46,
-    "recovered": 632
+    "recovered": 635
+  },
+  "Slovakia": {
+    "date": "2020-5-3",
+    "confirmed": 1408,
+    "deaths": 24,
+    "recovered": 619
   },
   "Cote d'Ivoire": {
     "date": "2020-5-3",
@@ -535,7 +535,7 @@
   },
   "Latvia": {
     "date": "2020-5-3",
-    "confirmed": 871,
+    "confirmed": 879,
     "deaths": 16,
     "recovered": 348
   },
@@ -597,7 +597,7 @@
     "date": "2020-5-3",
     "confirmed": 705,
     "deaths": 7,
-    "recovered": 172
+    "recovered": 182
   },
   "Guatemala": {
     "date": "2020-5-3",
@@ -659,6 +659,12 @@
     "deaths": 1,
     "recovered": 18
   },
+  "El Salvador": {
+    "date": "2020-5-3",
+    "confirmed": 490,
+    "deaths": 11,
+    "recovered": 154
+  },
   "Tanzania": {
     "date": "2020-5-3",
     "confirmed": 480,
@@ -682,12 +688,6 @@
     "confirmed": 460,
     "deaths": 9,
     "recovered": 367
-  },
-  "El Salvador": {
-    "date": "2020-5-3",
-    "confirmed": 446,
-    "deaths": 11,
-    "recovered": 141
   },
   "Kenya": {
     "date": "2020-5-3",
