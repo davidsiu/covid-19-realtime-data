@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-3",
-    "confirmed": 1130115,
-    "deaths": 66224,
+    "confirmed": 1132315,
+    "deaths": 66364,
     "recovered": 175382
   },
   "Spain": {
@@ -311,17 +311,17 @@
     "deaths": 173,
     "recovered": 1256
   },
+  "Argentina": {
+    "date": "2020-5-3",
+    "confirmed": 4681,
+    "deaths": 237,
+    "recovered": 1320
+  },
   "Kuwait": {
     "date": "2020-5-3",
     "confirmed": 4619,
     "deaths": 33,
     "recovered": 1703
-  },
-  "Argentina": {
-    "date": "2020-5-3",
-    "confirmed": 4532,
-    "deaths": 229,
-    "recovered": 1320
   },
   "Algeria": {
     "date": "2020-5-3",
@@ -599,6 +599,12 @@
     "deaths": 7,
     "recovered": 172
   },
+  "Congo (Kinshasa)": {
+    "date": "2020-5-3",
+    "confirmed": 674,
+    "deaths": 33,
+    "recovered": 75
+  },
   "Somalia": {
     "date": "2020-5-3",
     "confirmed": 671,
@@ -622,12 +628,6 @@
     "confirmed": 644,
     "deaths": 16,
     "recovered": 72
-  },
-  "Congo (Kinshasa)": {
-    "date": "2020-5-3",
-    "confirmed": 604,
-    "deaths": 32,
-    "recovered": 75
   },
   "Sudan": {
     "date": "2020-5-3",
@@ -680,7 +680,7 @@
   "El Salvador": {
     "date": "2020-5-3",
     "confirmed": 446,
-    "deaths": 10,
+    "deaths": 11,
     "recovered": 141
   },
   "Kenya": {
@@ -849,7 +849,7 @@
     "date": "2020-5-3",
     "confirmed": 95,
     "deaths": 4,
-    "recovered": 73
+    "recovered": 78
   },
   "Benin": {
     "date": "2020-5-3",
@@ -871,7 +871,7 @@
   },
   "Bahamas": {
     "date": "2020-5-3",
-    "confirmed": 82,
+    "confirmed": 83,
     "deaths": 11,
     "recovered": 24
   },
