@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-4",
-    "confirmed": 1177784,
-    "deaths": 68442,
+    "confirmed": 1178906,
+    "deaths": 68689,
     "recovered": 187180
   },
   "Spain": {
@@ -31,8 +31,8 @@
   },
   "Germany": {
     "date": "2020-5-4",
-    "confirmed": 165914,
-    "deaths": 6935,
+    "confirmed": 166137,
+    "deaths": 6982,
     "recovered": 132700
   },
   "Russia": {
@@ -49,9 +49,9 @@
   },
   "Brazil": {
     "date": "2020-5-4",
-    "confirmed": 105222,
-    "deaths": 7288,
-    "recovered": 42991
+    "confirmed": 107844,
+    "deaths": 7328,
+    "recovered": 45815
   },
   "Iran": {
     "date": "2020-5-4",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-4",
-    "confirmed": 61814,
-    "deaths": 3984,
-    "recovered": 25760
+    "confirmed": 61954,
+    "deaths": 4003,
+    "recovered": 26030
   },
   "Belgium": {
     "date": "2020-5-4",
@@ -251,6 +251,12 @@
     "deaths": 346,
     "recovered": 1771
   },
+  "Colombia": {
+    "date": "2020-5-4",
+    "confirmed": 7973,
+    "deaths": 358,
+    "recovered": 1807
+  },
   "Norway": {
     "date": "2020-5-4",
     "confirmed": 7884,
@@ -262,12 +268,6 @@
     "confirmed": 7799,
     "deaths": 251,
     "recovered": 3786
-  },
-  "Colombia": {
-    "date": "2020-5-4",
-    "confirmed": 7668,
-    "deaths": 340,
-    "recovered": 1722
   },
   "South Africa": {
     "date": "2020-5-4",
@@ -283,7 +283,7 @@
   },
   "Australia": {
     "date": "2020-5-4",
-    "confirmed": 6823,
+    "confirmed": 6825,
     "deaths": 96,
     "recovered": 5863
   },
@@ -529,9 +529,9 @@
   },
   "Tunisia": {
     "date": "2020-5-4",
-    "confirmed": 1013,
-    "deaths": 42,
-    "recovered": 328
+    "confirmed": 1018,
+    "deaths": 43,
+    "recovered": 406
   },
   "Latvia": {
     "date": "2020-5-4",
@@ -857,6 +857,12 @@
     "deaths": 11,
     "recovered": 10
   },
+  "Uganda": {
+    "date": "2020-5-4",
+    "confirmed": 97,
+    "deaths": 0,
+    "recovered": 55
+  },
   "Benin": {
     "date": "2020-5-4",
     "confirmed": 96,
@@ -869,11 +875,11 @@
     "deaths": 4,
     "recovered": 78
   },
-  "Uganda": {
+  "Guyana": {
     "date": "2020-5-4",
-    "confirmed": 89,
-    "deaths": 0,
-    "recovered": 55
+    "confirmed": 92,
+    "deaths": 9,
+    "recovered": 27
   },
   "Central African Republic": {
     "date": "2020-5-4",
@@ -891,13 +897,7 @@
     "date": "2020-5-4",
     "confirmed": 82,
     "deaths": 7,
-    "recovered": 44
-  },
-  "Guyana": {
-    "date": "2020-5-4",
-    "confirmed": 82,
-    "deaths": 9,
-    "recovered": 22
+    "recovered": 46
   },
   "Liechtenstein": {
     "date": "2020-5-4",
