@@ -85,7 +85,7 @@
   },
   "India": {
     "date": "2020-5-4",
-    "confirmed": 42505,
+    "confirmed": 42533,
     "deaths": 1391,
     "recovered": 11775
   },
@@ -278,8 +278,8 @@
   "Australia": {
     "date": "2020-5-4",
     "confirmed": 6823,
-    "deaths": 95,
-    "recovered": 5859
+    "deaths": 96,
+    "recovered": 5863
   },
   "South Africa": {
     "date": "2020-5-4",
@@ -551,17 +551,17 @@
     "deaths": 22,
     "recovered": 381
   },
+  "Kyrgyzstan": {
+    "date": "2020-5-4",
+    "confirmed": 830,
+    "deaths": 10,
+    "recovered": 575
+  },
   "Albania": {
     "date": "2020-5-4",
     "confirmed": 795,
     "deaths": 31,
     "recovered": 531
-  },
-  "Kyrgyzstan": {
-    "date": "2020-5-4",
-    "confirmed": 795,
-    "deaths": 10,
-    "recovered": 564
   },
   "Niger": {
     "date": "2020-5-4",
@@ -653,17 +653,17 @@
     "deaths": 27,
     "recovered": 213
   },
+  "El Salvador": {
+    "date": "2020-5-4",
+    "confirmed": 555,
+    "deaths": 12,
+    "recovered": 180
+  },
   "Maldives": {
     "date": "2020-5-4",
     "confirmed": 527,
     "deaths": 1,
     "recovered": 18
-  },
-  "El Salvador": {
-    "date": "2020-5-4",
-    "confirmed": 490,
-    "deaths": 11,
-    "recovered": 154
   },
   "Tanzania": {
     "date": "2020-5-4",
@@ -935,6 +935,12 @@
     "deaths": 3,
     "recovered": 27
   },
+  "Mongolia": {
+    "date": "2020-5-4",
+    "confirmed": 40,
+    "deaths": 0,
+    "recovered": 12
+  },
   "Eritrea": {
     "date": "2020-5-4",
     "confirmed": 39,
@@ -946,12 +952,6 @@
     "confirmed": 39,
     "deaths": 3,
     "recovered": 9
-  },
-  "Mongolia": {
-    "date": "2020-5-4",
-    "confirmed": 39,
-    "deaths": 0,
-    "recovered": 10
   },
   "Angola": {
     "date": "2020-5-4",
@@ -975,7 +975,7 @@
     "date": "2020-5-4",
     "confirmed": 24,
     "deaths": 0,
-    "recovered": 16
+    "recovered": 20
   },
   "Botswana": {
     "date": "2020-5-4",
@@ -1101,7 +1101,7 @@
     "date": "2020-5-4",
     "confirmed": 8,
     "deaths": 0,
-    "recovered": 0
+    "recovered": 6
   },
   "Bhutan": {
     "date": "2020-5-4",
