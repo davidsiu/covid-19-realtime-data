@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-5",
-    "confirmed": 1194494,
-    "deaths": 70272,
+    "confirmed": 1199238,
+    "deaths": 70646,
     "recovered": 187180
   },
   "Spain": {
@@ -31,7 +31,7 @@
   },
   "Germany": {
     "date": "2020-5-5",
-    "confirmed": 166598,
+    "confirmed": 166696,
     "deaths": 6993,
     "recovered": 135100
   },
@@ -67,15 +67,15 @@
   },
   "Canada": {
     "date": "2020-5-5",
-    "confirmed": 62910,
-    "deaths": 4145,
-    "recovered": 26671
+    "confirmed": 62944,
+    "deaths": 4150,
+    "recovered": 26674
   },
   "Peru": {
     "date": "2020-5-5",
     "confirmed": 51189,
     "deaths": 1444,
-    "recovered": 14427
+    "recovered": 15413
   },
   "Belgium": {
     "date": "2020-5-5",
@@ -269,17 +269,17 @@
     "deaths": 254,
     "recovered": 3999
   },
+  "South Africa": {
+    "date": "2020-5-5",
+    "confirmed": 7572,
+    "deaths": 148,
+    "recovered": 2746
+  },
   "Panama": {
     "date": "2020-5-5",
     "confirmed": 7387,
     "deaths": 203,
     "recovered": 726
-  },
-  "South Africa": {
-    "date": "2020-5-5",
-    "confirmed": 7220,
-    "deaths": 138,
-    "recovered": 2746
   },
   "Egypt": {
     "date": "2020-5-5",
@@ -349,7 +349,7 @@
   },
   "Bahrain": {
     "date": "2020-5-5",
-    "confirmed": 3679,
+    "confirmed": 3720,
     "deaths": 8,
     "recovered": 1762
   },
@@ -437,6 +437,12 @@
     "deaths": 79,
     "recovered": 911
   },
+  "Guinea": {
+    "date": "2020-5-5",
+    "confirmed": 1811,
+    "deaths": 10,
+    "recovered": 498
+  },
   "Iceland": {
     "date": "2020-5-5",
     "confirmed": 1799,
@@ -448,12 +454,6 @@
     "confirmed": 1711,
     "deaths": 55,
     "recovered": 261
-  },
-  "Guinea": {
-    "date": "2020-5-5",
-    "confirmed": 1710,
-    "deaths": 9,
-    "recovered": 450
   },
   "Bulgaria": {
     "date": "2020-5-5",
@@ -823,9 +823,9 @@
   },
   "Zambia": {
     "date": "2020-5-5",
-    "confirmed": 137,
+    "confirmed": 138,
     "deaths": 3,
-    "recovered": 78
+    "recovered": 92
   },
   "Togo": {
     "date": "2020-5-5",
@@ -1077,7 +1077,7 @@
     "date": "2020-5-5",
     "confirmed": 11,
     "deaths": 0,
-    "recovered": 6
+    "recovered": 8
   },
   "Suriname": {
     "date": "2020-5-5",
