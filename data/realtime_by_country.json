@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-7",
-    "confirmed": 1228609,
-    "deaths": 73431,
+    "confirmed": 1229089,
+    "deaths": 73435,
     "recovered": 189910
   },
   "Spain": {
@@ -63,7 +63,7 @@
     "date": "2020-5-7",
     "confirmed": 83974,
     "deaths": 4637,
-    "recovered": 78929
+    "recovered": 78944
   },
   "Canada": {
     "date": "2020-5-7",
@@ -97,14 +97,14 @@
   },
   "Saudi Arabia": {
     "date": "2020-5-7",
-    "confirmed": 31938,
-    "deaths": 209,
-    "recovered": 6783
+    "confirmed": 33731,
+    "deaths": 219,
+    "recovered": 7798
   },
   "Switzerland": {
     "date": "2020-5-7",
     "confirmed": 30126,
-    "deaths": 1805,
+    "deaths": 1808,
     "recovered": 25700
   },
   "Ecuador": {
@@ -200,7 +200,7 @@
   "Romania": {
     "date": "2020-5-7",
     "confirmed": 14499,
-    "deaths": 876,
+    "deaths": 881,
     "recovered": 6144
   },
   "Ukraine": {
@@ -321,7 +321,7 @@
     "date": "2020-5-7",
     "confirmed": 5208,
     "deaths": 273,
-    "recovered": 1524
+    "recovered": 1601
   },
   "Algeria": {
     "date": "2020-5-7",
@@ -331,9 +331,9 @@
   },
   "Kazakhstan": {
     "date": "2020-5-7",
-    "confirmed": 4509,
+    "confirmed": 4530,
     "deaths": 30,
-    "recovered": 1450
+    "recovered": 1470
   },
   "Moldova": {
     "date": "2020-5-7",
@@ -417,7 +417,7 @@
     "date": "2020-5-7",
     "confirmed": 2266,
     "deaths": 10,
-    "recovered": 1592
+    "recovered": 1624
   },
   "Azerbaijan": {
     "date": "2020-5-7",
@@ -475,9 +475,9 @@
   },
   "North Macedonia": {
     "date": "2020-5-7",
-    "confirmed": 1539,
-    "deaths": 88,
-    "recovered": 1057
+    "confirmed": 1572,
+    "deaths": 89,
+    "recovered": 1079
   },
   "Cote d'Ivoire": {
     "date": "2020-5-7",
@@ -533,6 +533,12 @@
     "deaths": 43,
     "recovered": 591
   },
+  "Sudan": {
+    "date": "2020-5-7",
+    "confirmed": 930,
+    "deaths": 52,
+    "recovered": 92
+  },
   "Latvia": {
     "date": "2020-5-7",
     "confirmed": 909,
@@ -569,29 +575,23 @@
     "deaths": 26,
     "recovered": 490
   },
-  "Sudan": {
-    "date": "2020-5-7",
-    "confirmed": 852,
-    "deaths": 49,
-    "recovered": 80
-  },
   "Albania": {
     "date": "2020-5-7",
     "confirmed": 842,
     "deaths": 31,
     "recovered": 605
   },
+  "Sri Lanka": {
+    "date": "2020-5-7",
+    "confirmed": 804,
+    "deaths": 9,
+    "recovered": 232
+  },
   "Guatemala": {
     "date": "2020-5-7",
     "confirmed": 798,
     "deaths": 21,
     "recovered": 86
-  },
-  "Sri Lanka": {
-    "date": "2020-5-7",
-    "confirmed": 797,
-    "deaths": 9,
-    "recovered": 232
   },
   "Lebanon": {
     "date": "2020-5-7",
@@ -641,17 +641,17 @@
     "deaths": 17,
     "recovered": 486
   },
+  "Maldives": {
+    "date": "2020-5-7",
+    "confirmed": 642,
+    "deaths": 2,
+    "recovered": 20
+  },
   "Mali": {
     "date": "2020-5-7",
     "confirmed": 631,
     "deaths": 32,
     "recovered": 261
-  },
-  "Maldives": {
-    "date": "2020-5-7",
-    "confirmed": 617,
-    "deaths": 2,
-    "recovered": 20
   },
   "Georgia": {
     "date": "2020-5-7",
@@ -667,9 +667,9 @@
   },
   "Kenya": {
     "date": "2020-5-7",
-    "confirmed": 582,
-    "deaths": 26,
-    "recovered": 190
+    "confirmed": 607,
+    "deaths": 29,
+    "recovered": 197
   },
   "Malta": {
     "date": "2020-5-7",
@@ -707,6 +707,12 @@
     "deaths": 10,
     "recovered": 142
   },
+  "Taiwan*": {
+    "date": "2020-5-7",
+    "confirmed": 440,
+    "deaths": 6,
+    "recovered": 347
+  },
   "Equatorial Guinea": {
     "date": "2020-5-7",
     "confirmed": 439,
@@ -718,12 +724,6 @@
     "confirmed": 439,
     "deaths": 8,
     "recovered": 99
-  },
-  "Taiwan*": {
-    "date": "2020-5-7",
-    "confirmed": 439,
-    "deaths": 6,
-    "recovered": 339
   },
   "Tajikistan": {
     "date": "2020-5-7",
@@ -775,13 +775,13 @@
   },
   "Sierra Leone": {
     "date": "2020-5-7",
-    "confirmed": 225,
-    "deaths": 14,
+    "confirmed": 231,
+    "deaths": 16,
     "recovered": 54
   },
   "Cabo Verde": {
     "date": "2020-5-7",
-    "confirmed": 191,
+    "confirmed": 218,
     "deaths": 2,
     "recovered": 38
   },
@@ -923,17 +923,17 @@
     "deaths": 0,
     "recovered": 21
   },
+  "South Sudan": {
+    "date": "2020-5-7",
+    "confirmed": 74,
+    "deaths": 0,
+    "recovered": 0
+  },
   "Libya": {
     "date": "2020-5-7",
     "confirmed": 64,
     "deaths": 3,
     "recovered": 24
-  },
-  "South Sudan": {
-    "date": "2020-5-7",
-    "confirmed": 58,
-    "deaths": 0,
-    "recovered": 0
   },
   "Syria": {
     "date": "2020-5-7",
