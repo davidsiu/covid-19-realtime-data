@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-7",
-    "confirmed": 1252911,
-    "deaths": 75447,
+    "confirmed": 1254740,
+    "deaths": 75543,
     "recovered": 195036
   },
   "Spain": {
@@ -19,9 +19,9 @@
   },
   "United Kingdom": {
     "date": "2020-5-7",
-    "confirmed": 207973,
+    "confirmed": 207977,
     "deaths": 30689,
-    "recovered": 963
+    "recovered": 968
   },
   "Russia": {
     "date": "2020-5-7",
@@ -31,9 +31,9 @@
   },
   "France": {
     "date": "2020-5-7",
-    "confirmed": 174914,
+    "confirmed": 174917,
     "deaths": 25990,
-    "recovered": 55135
+    "recovered": 55189
   },
   "Germany": {
     "date": "2020-5-7",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-7",
-    "confirmed": 66089,
-    "deaths": 4535,
-    "recovered": 28985
+    "confirmed": 66168,
+    "deaths": 4539,
+    "recovered": 29242
   },
   "Peru": {
     "date": "2020-5-7",
@@ -187,9 +187,9 @@
   },
   "Japan": {
     "date": "2020-5-7",
-    "confirmed": 15253,
-    "deaths": 556,
-    "recovered": 4496
+    "confirmed": 15477,
+    "deaths": 577,
+    "recovered": 4918
   },
   "Poland": {
     "date": "2020-5-7",
@@ -289,9 +289,9 @@
   },
   "Australia": {
     "date": "2020-5-7",
-    "confirmed": 6897,
+    "confirmed": 6900,
     "deaths": 97,
-    "recovered": 6035
+    "recovered": 6058
   },
   "Kuwait": {
     "date": "2020-5-7",
@@ -671,6 +671,12 @@
     "deaths": 29,
     "recovered": 197
   },
+  "Guinea-Bissau": {
+    "date": "2020-5-7",
+    "confirmed": 564,
+    "deaths": 2,
+    "recovered": 25
+  },
   "Gabon": {
     "date": "2020-5-7",
     "confirmed": 504,
@@ -700,12 +706,6 @@
     "confirmed": 478,
     "deaths": 9,
     "recovered": 57
-  },
-  "Guinea-Bissau": {
-    "date": "2020-5-7",
-    "confirmed": 475,
-    "deaths": 2,
-    "recovered": 24
   },
   "Paraguay": {
     "date": "2020-5-7",
@@ -763,9 +763,9 @@
   },
   "Rwanda": {
     "date": "2020-5-7",
-    "confirmed": 268,
+    "confirmed": 271,
     "deaths": 0,
-    "recovered": 130
+    "recovered": 133
   },
   "Congo (Brazzaville)": {
     "date": "2020-5-7",
@@ -809,17 +809,17 @@
     "deaths": 20,
     "recovered": 79
   },
+  "Sao Tome and Principe": {
+    "date": "2020-5-7",
+    "confirmed": 187,
+    "deaths": 4,
+    "recovered": 4
+  },
   "Burma": {
     "date": "2020-5-7",
     "confirmed": 176,
     "deaths": 6,
     "recovered": 62
-  },
-  "Sao Tome and Principe": {
-    "date": "2020-5-7",
-    "confirmed": 174,
-    "deaths": 3,
-    "recovered": 4
   },
   "Eswatini": {
     "date": "2020-5-7",
@@ -877,7 +877,7 @@
   },
   "Uganda": {
     "date": "2020-5-7",
-    "confirmed": 100,
+    "confirmed": 101,
     "deaths": 0,
     "recovered": 55
   },
