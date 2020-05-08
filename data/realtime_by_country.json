@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-8",
-    "confirmed": 1268520,
-    "deaths": 76101,
+    "confirmed": 1271775,
+    "deaths": 76368,
     "recovered": 195036
   },
   "Spain": {
@@ -37,8 +37,8 @@
   },
   "Germany": {
     "date": "2020-5-8",
-    "confirmed": 169430,
-    "deaths": 7392,
+    "confirmed": 169901,
+    "deaths": 7404,
     "recovered": 141700
   },
   "Brazil": {
@@ -67,15 +67,15 @@
   },
   "Canada": {
     "date": "2020-5-8",
-    "confirmed": 67114,
+    "confirmed": 67154,
     "deaths": 4637,
-    "recovered": 29695
+    "recovered": 29951
   },
   "India": {
     "date": "2020-5-8",
-    "confirmed": 59205,
-    "deaths": 1980,
-    "recovered": 17698
+    "confirmed": 59642,
+    "deaths": 1985,
+    "recovered": 17883
   },
   "Peru": {
     "date": "2020-5-8",
@@ -175,9 +175,9 @@
   },
   "Israel": {
     "date": "2020-5-8",
-    "confirmed": 16409,
+    "confirmed": 16436,
     "deaths": 245,
-    "recovered": 11007
+    "recovered": 11229
   },
   "Austria": {
     "date": "2020-5-8",
@@ -527,17 +527,17 @@
     "deaths": 3,
     "recovered": 799
   },
+  "Sudan": {
+    "date": "2020-5-8",
+    "confirmed": 1111,
+    "deaths": 59,
+    "recovered": 102
+  },
   "Tunisia": {
     "date": "2020-5-8",
     "confirmed": 1026,
     "deaths": 44,
     "recovered": 600
-  },
-  "Sudan": {
-    "date": "2020-5-8",
-    "confirmed": 930,
-    "deaths": 52,
-    "recovered": 92
   },
   "Latvia": {
     "date": "2020-5-8",
@@ -620,7 +620,7 @@
   "El Salvador": {
     "date": "2020-5-8",
     "confirmed": 742,
-    "deaths": 15,
+    "deaths": 16,
     "recovered": 257
   },
   "Burkina Faso": {
@@ -753,7 +753,7 @@
     "date": "2020-5-8",
     "confirmed": 324,
     "deaths": 8,
-    "recovered": 266
+    "recovered": 267
   },
   "Vietnam": {
     "date": "2020-5-8",
@@ -905,6 +905,12 @@
     "deaths": 11,
     "recovered": 26
   },
+  "South Sudan": {
+    "date": "2020-5-8",
+    "confirmed": 90,
+    "deaths": 0,
+    "recovered": 2
+  },
   "Barbados": {
     "date": "2020-5-8",
     "confirmed": 82,
@@ -922,12 +928,6 @@
     "confirmed": 82,
     "deaths": 0,
     "recovered": 27
-  },
-  "South Sudan": {
-    "date": "2020-5-8",
-    "confirmed": 74,
-    "deaths": 0,
-    "recovered": 0
   },
   "Libya": {
     "date": "2020-5-8",
@@ -957,7 +957,7 @@
     "date": "2020-5-8",
     "confirmed": 39,
     "deaths": 0,
-    "recovered": 30
+    "recovered": 37
   },
   "Angola": {
     "date": "2020-5-8",
@@ -975,7 +975,7 @@
     "date": "2020-5-8",
     "confirmed": 34,
     "deaths": 4,
-    "recovered": 5
+    "recovered": 9
   },
   "Antigua and Barbuda": {
     "date": "2020-5-8",
