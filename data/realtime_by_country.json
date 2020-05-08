@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-8",
-    "confirmed": 1271775,
-    "deaths": 76368,
+    "confirmed": 1273887,
+    "deaths": 76475,
     "recovered": 195036
   },
   "Spain": {
@@ -37,14 +37,14 @@
   },
   "Germany": {
     "date": "2020-5-8",
-    "confirmed": 169901,
-    "deaths": 7404,
+    "confirmed": 170114,
+    "deaths": 7445,
     "recovered": 141700
   },
   "Brazil": {
     "date": "2020-5-8",
-    "confirmed": 140023,
-    "deaths": 9600,
+    "confirmed": 141088,
+    "deaths": 9637,
     "recovered": 55350
   },
   "Turkey": {
@@ -67,13 +67,13 @@
   },
   "Canada": {
     "date": "2020-5-8",
-    "confirmed": 67154,
-    "deaths": 4637,
+    "confirmed": 67156,
+    "deaths": 4638,
     "recovered": 29951
   },
   "India": {
     "date": "2020-5-8",
-    "confirmed": 59642,
+    "confirmed": 59693,
     "deaths": 1985,
     "recovered": 17883
   },
@@ -187,9 +187,9 @@
   },
   "Japan": {
     "date": "2020-5-8",
-    "confirmed": 15477,
-    "deaths": 577,
-    "recovered": 4918
+    "confirmed": 15575,
+    "deaths": 590,
+    "recovered": 5146
   },
   "Poland": {
     "date": "2020-5-8",
@@ -321,7 +321,7 @@
     "date": "2020-5-8",
     "confirmed": 5371,
     "deaths": 285,
-    "recovered": 1601
+    "recovered": 1659
   },
   "Algeria": {
     "date": "2020-5-8",
@@ -607,15 +607,21 @@
   },
   "Costa Rica": {
     "date": "2020-5-8",
-    "confirmed": 765,
+    "confirmed": 773,
     "deaths": 6,
-    "recovered": 445
+    "recovered": 461
   },
   "Andorra": {
     "date": "2020-5-8",
     "confirmed": 752,
     "deaths": 47,
     "recovered": 526
+  },
+  "Maldives": {
+    "date": "2020-5-8",
+    "confirmed": 744,
+    "deaths": 3,
+    "recovered": 20
   },
   "El Salvador": {
     "date": "2020-5-8",
@@ -628,12 +634,6 @@
     "confirmed": 736,
     "deaths": 48,
     "recovered": 562
-  },
-  "Maldives": {
-    "date": "2020-5-8",
-    "confirmed": 734,
-    "deaths": 3,
-    "recovered": 20
   },
   "Diamond Princess": {
     "date": "2020-5-8",
@@ -677,6 +677,12 @@
     "deaths": 2,
     "recovered": 25
   },
+  "Paraguay": {
+    "date": "2020-5-8",
+    "confirmed": 563,
+    "deaths": 10,
+    "recovered": 152
+  },
   "Tajikistan": {
     "date": "2020-5-8",
     "confirmed": 522,
@@ -712,12 +718,6 @@
     "confirmed": 480,
     "deaths": 16,
     "recovered": 167
-  },
-  "Paraguay": {
-    "date": "2020-5-8",
-    "confirmed": 462,
-    "deaths": 10,
-    "recovered": 148
   },
   "Taiwan*": {
     "date": "2020-5-8",
@@ -769,21 +769,21 @@
   },
   "Rwanda": {
     "date": "2020-5-8",
-    "confirmed": 271,
+    "confirmed": 273,
     "deaths": 0,
-    "recovered": 133
+    "recovered": 136
+  },
+  "Chad": {
+    "date": "2020-5-8",
+    "confirmed": 260,
+    "deaths": 28,
+    "recovered": 50
   },
   "Sierra Leone": {
     "date": "2020-5-8",
     "confirmed": 257,
     "deaths": 17,
     "recovered": 54
-  },
-  "Chad": {
-    "date": "2020-5-8",
-    "confirmed": 253,
-    "deaths": 27,
-    "recovered": 50
   },
   "Benin": {
     "date": "2020-5-8",
@@ -803,6 +803,12 @@
     "deaths": 5,
     "recovered": 4
   },
+  "Liberia": {
+    "date": "2020-5-8",
+    "confirmed": 199,
+    "deaths": 20,
+    "recovered": 79
+  },
   "Ethiopia": {
     "date": "2020-5-8",
     "confirmed": 194,
@@ -814,12 +820,6 @@
     "confirmed": 193,
     "deaths": 0,
     "recovered": 101
-  },
-  "Liberia": {
-    "date": "2020-5-8",
-    "confirmed": 189,
-    "deaths": 20,
-    "recovered": 79
   },
   "Burma": {
     "date": "2020-5-8",
@@ -871,7 +871,7 @@
   },
   "Nepal": {
     "date": "2020-5-8",
-    "confirmed": 102,
+    "confirmed": 105,
     "deaths": 0,
     "recovered": 30
   },
@@ -903,7 +903,7 @@
     "date": "2020-5-8",
     "confirmed": 92,
     "deaths": 11,
-    "recovered": 26
+    "recovered": 31
   },
   "South Sudan": {
     "date": "2020-5-8",
@@ -913,7 +913,7 @@
   },
   "Barbados": {
     "date": "2020-5-8",
-    "confirmed": 82,
+    "confirmed": 83,
     "deaths": 7,
     "recovered": 53
   },
@@ -939,7 +939,7 @@
     "date": "2020-5-8",
     "confirmed": 47,
     "deaths": 3,
-    "recovered": 27
+    "recovered": 29
   },
   "Malawi": {
     "date": "2020-5-8",
