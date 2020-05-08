@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-8",
-    "confirmed": 1273887,
-    "deaths": 76475,
+    "confirmed": 1279546,
+    "deaths": 76706,
     "recovered": 195036
   },
   "Spain": {
@@ -19,9 +19,9 @@
   },
   "United Kingdom": {
     "date": "2020-5-8",
-    "confirmed": 212626,
+    "confirmed": 212628,
     "deaths": 31315,
-    "recovered": 987
+    "recovered": 988
   },
   "Russia": {
     "date": "2020-5-8",
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-8",
-    "confirmed": 67156,
-    "deaths": 4638,
-    "recovered": 29951
+    "confirmed": 67368,
+    "deaths": 4646,
+    "recovered": 29961
   },
   "India": {
     "date": "2020-5-8",
@@ -81,7 +81,7 @@
     "date": "2020-5-8",
     "confirmed": 58526,
     "deaths": 1627,
-    "recovered": 18388
+    "recovered": 19012
   },
   "Belgium": {
     "date": "2020-5-8",
@@ -257,17 +257,17 @@
     "deaths": 380,
     "recovered": 2286
   },
+  "South Africa": {
+    "date": "2020-5-8",
+    "confirmed": 8895,
+    "deaths": 178,
+    "recovered": 3153
+  },
   "Egypt": {
     "date": "2020-5-8",
     "confirmed": 8476,
     "deaths": 503,
     "recovered": 1945
-  },
-  "South Africa": {
-    "date": "2020-5-8",
-    "confirmed": 8232,
-    "deaths": 161,
-    "recovered": 3153
   },
   "Czechia": {
     "date": "2020-5-8",
@@ -343,9 +343,15 @@
   },
   "Bahrain": {
     "date": "2020-5-8",
-    "confirmed": 4404,
+    "confirmed": 4444,
     "deaths": 8,
-    "recovered": 2027
+    "recovered": 2028
+  },
+  "Ghana": {
+    "date": "2020-5-8",
+    "confirmed": 4012,
+    "deaths": 18,
+    "recovered": 323
   },
   "Luxembourg": {
     "date": "2020-5-8",
@@ -376,12 +382,6 @@
     "confirmed": 3112,
     "deaths": 16,
     "recovered": 1025
-  },
-  "Ghana": {
-    "date": "2020-5-8",
-    "confirmed": 3091,
-    "deaths": 18,
-    "recovered": 303
   },
   "Armenia": {
     "date": "2020-5-8",
@@ -445,9 +445,9 @@
   },
   "Guinea": {
     "date": "2020-5-8",
-    "confirmed": 1927,
+    "confirmed": 2009,
     "deaths": 11,
-    "recovered": 629
+    "recovered": 663
   },
   "Bulgaria": {
     "date": "2020-5-8",
@@ -523,9 +523,9 @@
   },
   "Djibouti": {
     "date": "2020-5-8",
-    "confirmed": 1133,
+    "confirmed": 1135,
     "deaths": 3,
-    "recovered": 799
+    "recovered": 824
   },
   "Sudan": {
     "date": "2020-5-8",
@@ -871,9 +871,9 @@
   },
   "Nepal": {
     "date": "2020-5-8",
-    "confirmed": 105,
+    "confirmed": 102,
     "deaths": 0,
-    "recovered": 30
+    "recovered": 31
   },
   "Uganda": {
     "date": "2020-5-8",
