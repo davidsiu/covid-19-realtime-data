@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-9",
-    "confirmed": 1300079,
-    "deaths": 78320,
+    "confirmed": 1305199,
+    "deaths": 78469,
     "recovered": 198993
   },
   "Spain": {
@@ -31,14 +31,14 @@
   },
   "France": {
     "date": "2020-5-9",
-    "confirmed": 176781,
+    "confirmed": 176782,
     "deaths": 26313,
     "recovered": 56148
   },
   "Germany": {
     "date": "2020-5-9",
-    "confirmed": 171145,
-    "deaths": 7532,
+    "confirmed": 171264,
+    "deaths": 7543,
     "recovered": 143300
   },
   "Brazil": {
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-9",
-    "confirmed": 68814,
-    "deaths": 4816,
-    "recovered": 31073
+    "confirmed": 68838,
+    "deaths": 4819,
+    "recovered": 31078
   },
   "India": {
     "date": "2020-5-9",
@@ -343,9 +343,9 @@
   },
   "Bahrain": {
     "date": "2020-5-9",
-    "confirmed": 4595,
+    "confirmed": 4774,
     "deaths": 8,
-    "recovered": 2049
+    "recovered": 2055
   },
   "Afghanistan": {
     "date": "2020-5-9",
@@ -417,7 +417,7 @@
     "date": "2020-5-9",
     "confirmed": 2349,
     "deaths": 10,
-    "recovered": 1803
+    "recovered": 1846
   },
   "Cameroon": {
     "date": "2020-5-9",
@@ -479,10 +479,16 @@
     "deaths": 60,
     "recovered": 747
   },
+  "Cote d'Ivoire": {
+    "date": "2020-5-9",
+    "confirmed": 1667,
+    "deaths": 21,
+    "recovered": 769
+  },
   "Senegal": {
     "date": "2020-5-9",
     "confirmed": 1634,
-    "deaths": 15,
+    "deaths": 17,
     "recovered": 643
   },
   "North Macedonia": {
@@ -490,12 +496,6 @@
     "confirmed": 1622,
     "deaths": 91,
     "recovered": 1112
-  },
-  "Cote d'Ivoire": {
-    "date": "2020-5-9",
-    "confirmed": 1602,
-    "deaths": 20,
-    "recovered": 754
   },
   "New Zealand": {
     "date": "2020-5-9",
@@ -593,22 +593,28 @@
     "deaths": 9,
     "recovered": 260
   },
+  "Niger": {
+    "date": "2020-5-9",
+    "confirmed": 815,
+    "deaths": 45,
+    "recovered": 617
+  },
   "Lebanon": {
     "date": "2020-5-9",
     "confirmed": 809,
     "deaths": 26,
     "recovered": 234
   },
-  "Niger": {
+  "Maldives": {
     "date": "2020-5-9",
-    "confirmed": 795,
-    "deaths": 44,
-    "recovered": 600
+    "confirmed": 785,
+    "deaths": 3,
+    "recovered": 29
   },
   "El Salvador": {
     "date": "2020-5-9",
     "confirmed": 784,
-    "deaths": 16,
+    "deaths": 17,
     "recovered": 276
   },
   "Costa Rica": {
@@ -616,12 +622,6 @@
     "confirmed": 780,
     "deaths": 6,
     "recovered": 480
-  },
-  "Maldives": {
-    "date": "2020-5-9",
-    "confirmed": 766,
-    "deaths": 3,
-    "recovered": 20
   },
   "Andorra": {
     "date": "2020-5-9",
