@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-9",
-    "confirmed": 1298117,
-    "deaths": 78084,
+    "confirmed": 1300079,
+    "deaths": 78320,
     "recovered": 198993
   },
   "Spain": {
@@ -37,8 +37,8 @@
   },
   "Germany": {
     "date": "2020-5-9",
-    "confirmed": 171021,
-    "deaths": 7525,
+    "confirmed": 171145,
+    "deaths": 7532,
     "recovered": 143300
   },
   "Brazil": {
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-9",
-    "confirmed": 68652,
-    "deaths": 4770,
-    "recovered": 30993
+    "confirmed": 68814,
+    "deaths": 4816,
+    "recovered": 31073
   },
   "India": {
     "date": "2020-5-9",
@@ -613,9 +613,9 @@
   },
   "Costa Rica": {
     "date": "2020-5-9",
-    "confirmed": 773,
+    "confirmed": 780,
     "deaths": 6,
-    "recovered": 461
+    "recovered": 480
   },
   "Maldives": {
     "date": "2020-5-9",
@@ -631,9 +631,9 @@
   },
   "Burkina Faso": {
     "date": "2020-5-9",
-    "confirmed": 744,
+    "confirmed": 748,
     "deaths": 48,
-    "recovered": 566
+    "recovered": 569
   },
   "Diamond Princess": {
     "date": "2020-5-9",
@@ -653,11 +653,23 @@
     "deaths": 37,
     "recovered": 298
   },
+  "Paraguay": {
+    "date": "2020-5-9",
+    "confirmed": 689,
+    "deaths": 10,
+    "recovered": 155
+  },
   "Kenya": {
     "date": "2020-5-9",
     "confirmed": 649,
     "deaths": 30,
     "recovered": 207
+  },
+  "Guinea-Bissau": {
+    "date": "2020-5-9",
+    "confirmed": 641,
+    "deaths": 3,
+    "recovered": 25
   },
   "San Marino": {
     "date": "2020-5-9",
@@ -682,18 +694,6 @@
     "confirmed": 612,
     "deaths": 20,
     "recovered": 0
-  },
-  "Guinea-Bissau": {
-    "date": "2020-5-9",
-    "confirmed": 594,
-    "deaths": 2,
-    "recovered": 25
-  },
-  "Paraguay": {
-    "date": "2020-5-9",
-    "confirmed": 563,
-    "deaths": 10,
-    "recovered": 152
   },
   "Jordan": {
     "date": "2020-5-9",
@@ -755,6 +755,12 @@
     "deaths": 8,
     "recovered": 274
   },
+  "Chad": {
+    "date": "2020-5-9",
+    "confirmed": 322,
+    "deaths": 31,
+    "recovered": 53
+  },
   "Sierra Leone": {
     "date": "2020-5-9",
     "confirmed": 291,
@@ -785,12 +791,6 @@
     "deaths": 0,
     "recovered": 136
   },
-  "Chad": {
-    "date": "2020-5-9",
-    "confirmed": 260,
-    "deaths": 28,
-    "recovered": 50
-  },
   "Zambia": {
     "date": "2020-5-9",
     "confirmed": 252,
@@ -799,7 +799,7 @@
   },
   "Cabo Verde": {
     "date": "2020-5-9",
-    "confirmed": 230,
+    "confirmed": 236,
     "deaths": 2,
     "recovered": 44
   },
