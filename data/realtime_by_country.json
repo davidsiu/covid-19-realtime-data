@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-5-10",
-    "confirmed": 1327720,
-    "deaths": 79495,
-    "recovered": 212534
+    "confirmed": 1328201,
+    "deaths": 79508,
+    "recovered": 216169
   },
   "Spain": {
     "date": "2020-5-10",
@@ -43,8 +43,8 @@
   },
   "Brazil": {
     "date": "2020-5-10",
-    "confirmed": 157695,
-    "deaths": 10757,
+    "confirmed": 162699,
+    "deaths": 11123,
     "recovered": 61685
   },
   "Turkey": {
@@ -67,9 +67,9 @@
   },
   "Canada": {
     "date": "2020-5-10",
-    "confirmed": 69973,
-    "deaths": 4987,
-    "recovered": 31924
+    "confirmed": 70091,
+    "deaths": 4991,
+    "recovered": 32109
   },
   "Peru": {
     "date": "2020-5-10",
@@ -116,8 +116,8 @@
   "Switzerland": {
     "date": "2020-5-10",
     "confirmed": 30305,
-    "deaths": 1830,
-    "recovered": 26400
+    "deaths": 1833,
+    "recovered": 26600
   },
   "Ecuador": {
     "date": "2020-5-10",
@@ -295,7 +295,7 @@
   },
   "Australia": {
     "date": "2020-5-10",
-    "confirmed": 6941,
+    "confirmed": 6942,
     "deaths": 97,
     "recovered": 6163
   },
@@ -311,17 +311,17 @@
     "deaths": 188,
     "recovered": 2554
   },
+  "Argentina": {
+    "date": "2020-5-10",
+    "confirmed": 6021,
+    "deaths": 305,
+    "recovered": 1757
+  },
   "Finland": {
     "date": "2020-5-10",
     "confirmed": 5962,
     "deaths": 267,
     "recovered": 4000
-  },
-  "Argentina": {
-    "date": "2020-5-10",
-    "confirmed": 5776,
-    "deaths": 300,
-    "recovered": 1757
   },
   "Algeria": {
     "date": "2020-5-10",
@@ -869,6 +869,12 @@
     "deaths": 0,
     "recovered": 120
   },
+  "Uganda": {
+    "date": "2020-5-10",
+    "confirmed": 121,
+    "deaths": 0,
+    "recovered": 55
+  },
   "South Sudan": {
     "date": "2020-5-10",
     "confirmed": 120,
@@ -881,12 +887,6 @@
     "deaths": 8,
     "recovered": 107
   },
-  "Uganda": {
-    "date": "2020-5-10",
-    "confirmed": 116,
-    "deaths": 0,
-    "recovered": 55
-  },
   "Nepal": {
     "date": "2020-5-10",
     "confirmed": 110,
@@ -895,7 +895,7 @@
   },
   "Guyana": {
     "date": "2020-5-10",
-    "confirmed": 97,
+    "confirmed": 104,
     "deaths": 10,
     "recovered": 35
   },
