@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-11",
-    "confirmed": 1329885,
-    "deaths": 79531,
+    "confirmed": 1332411,
+    "deaths": 79606,
     "recovered": 216169
   },
   "Spain": {
@@ -13,9 +13,9 @@
   },
   "United Kingdom": {
     "date": "2020-5-11",
-    "confirmed": 224326,
+    "confirmed": 224327,
     "deaths": 32140,
-    "recovered": 1002
+    "recovered": 1007
   },
   "Russia": {
     "date": "2020-5-11",
@@ -73,9 +73,9 @@
   },
   "India": {
     "date": "2020-5-11",
-    "confirmed": 67724,
-    "deaths": 2215,
-    "recovered": 21155
+    "confirmed": 68789,
+    "deaths": 2223,
+    "recovered": 21266
   },
   "Peru": {
     "date": "2020-5-11",
@@ -242,8 +242,8 @@
   "Denmark": {
     "date": "2020-5-11",
     "confirmed": 10711,
-    "deaths": 529,
-    "recovered": 8415
+    "deaths": 533,
+    "recovered": 8526
   },
   "Dominican Republic": {
     "date": "2020-5-11",
@@ -451,8 +451,8 @@
   },
   "Bulgaria": {
     "date": "2020-5-11",
-    "confirmed": 1981,
-    "deaths": 91,
+    "confirmed": 1990,
+    "deaths": 93,
     "recovered": 461
   },
   "Honduras": {
@@ -667,15 +667,21 @@
   },
   "Kenya": {
     "date": "2020-5-11",
-    "confirmed": 672,
-    "deaths": 32,
-    "recovered": 239
+    "confirmed": 700,
+    "deaths": 33,
+    "recovered": 251
   },
   "Gabon": {
     "date": "2020-5-11",
     "confirmed": 661,
     "deaths": 8,
     "recovered": 110
+  },
+  "Tajikistan": {
+    "date": "2020-5-11",
+    "confirmed": 661,
+    "deaths": 21,
+    "recovered": 0
   },
   "Georgia": {
     "date": "2020-5-11",
@@ -688,12 +694,6 @@
     "confirmed": 628,
     "deaths": 41,
     "recovered": 130
-  },
-  "Tajikistan": {
-    "date": "2020-5-11",
-    "confirmed": 612,
-    "deaths": 20,
-    "recovered": 0
   },
   "Jordan": {
     "date": "2020-5-11",
@@ -869,17 +869,17 @@
     "deaths": 1,
     "recovered": 134
   },
+  "Nepal": {
+    "date": "2020-5-11",
+    "confirmed": 134,
+    "deaths": 0,
+    "recovered": 33
+  },
   "Cambodia": {
     "date": "2020-5-11",
     "confirmed": 122,
     "deaths": 0,
     "recovered": 120
-  },
-  "Nepal": {
-    "date": "2020-5-11",
-    "confirmed": 121,
-    "deaths": 0,
-    "recovered": 33
   },
   "Uganda": {
     "date": "2020-5-11",
