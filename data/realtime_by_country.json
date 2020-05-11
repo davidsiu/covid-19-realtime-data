@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-11",
-    "confirmed": 1329260,
-    "deaths": 79526,
+    "confirmed": 1329791,
+    "deaths": 79528,
     "recovered": 216169
   },
   "Spain": {
@@ -39,7 +39,7 @@
     "date": "2020-5-11",
     "confirmed": 171879,
     "deaths": 7569,
-    "recovered": 144400
+    "recovered": 145600
   },
   "Brazil": {
     "date": "2020-5-11",
@@ -105,13 +105,13 @@
     "date": "2020-5-11",
     "confirmed": 35022,
     "deaths": 3465,
-    "recovered": 21824
+    "recovered": 23100
   },
   "Pakistan": {
     "date": "2020-5-11",
-    "confirmed": 30334,
-    "deaths": 659,
-    "recovered": 8063
+    "confirmed": 30941,
+    "deaths": 667,
+    "recovered": 8212
   },
   "Switzerland": {
     "date": "2020-5-11",
@@ -297,7 +297,7 @@
     "date": "2020-5-11",
     "confirmed": 6948,
     "deaths": 97,
-    "recovered": 6167
+    "recovered": 6181
   },
   "Malaysia": {
     "date": "2020-5-11",
@@ -875,6 +875,12 @@
     "deaths": 0,
     "recovered": 55
   },
+  "Nepal": {
+    "date": "2020-5-11",
+    "confirmed": 120,
+    "deaths": 0,
+    "recovered": 31
+  },
   "South Sudan": {
     "date": "2020-5-11",
     "confirmed": 120,
@@ -886,12 +892,6 @@
     "confirmed": 116,
     "deaths": 8,
     "recovered": 107
-  },
-  "Nepal": {
-    "date": "2020-5-11",
-    "confirmed": 110,
-    "deaths": 0,
-    "recovered": 31
   },
   "Guyana": {
     "date": "2020-5-11",
@@ -1091,6 +1091,12 @@
     "deaths": 1,
     "recovered": 9
   },
+  "Bhutan": {
+    "date": "2020-5-11",
+    "confirmed": 9,
+    "deaths": 0,
+    "recovered": 5
+  },
   "MS Zaandam": {
     "date": "2020-5-11",
     "confirmed": 9,
@@ -1108,12 +1114,6 @@
     "confirmed": 8,
     "deaths": 0,
     "recovered": 8
-  },
-  "Bhutan": {
-    "date": "2020-5-11",
-    "confirmed": 7,
-    "deaths": 0,
-    "recovered": 5
   },
   "Western Sahara": {
     "date": "2020-5-11",
