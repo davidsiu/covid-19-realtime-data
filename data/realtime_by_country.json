@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-11",
-    "confirmed": 1329203,
+    "confirmed": 1329225,
     "deaths": 79525,
     "recovered": 216169
   },
@@ -229,9 +229,9 @@
   },
   "Korea, South": {
     "date": "2020-5-11",
-    "confirmed": 10874,
+    "confirmed": 10909,
     "deaths": 256,
-    "recovered": 9610
+    "recovered": 9632
   },
   "Philippines": {
     "date": "2020-5-11",
@@ -295,7 +295,7 @@
   },
   "Australia": {
     "date": "2020-5-11",
-    "confirmed": 6941,
+    "confirmed": 6948,
     "deaths": 97,
     "recovered": 6167
   },
@@ -413,17 +413,17 @@
     "deaths": 114,
     "recovered": 1465
   },
+  "Bolivia": {
+    "date": "2020-5-11",
+    "confirmed": 2556,
+    "deaths": 118,
+    "recovered": 273
+  },
   "Azerbaijan": {
     "date": "2020-5-11",
     "confirmed": 2519,
     "deaths": 32,
     "recovered": 1650
-  },
-  "Bolivia": {
-    "date": "2020-5-11",
-    "confirmed": 2437,
-    "deaths": 114,
-    "recovered": 258
   },
   "Uzbekistan": {
     "date": "2020-5-11",
@@ -449,17 +449,17 @@
     "deaths": 107,
     "recovered": 1106
   },
+  "Honduras": {
+    "date": "2020-5-11",
+    "confirmed": 1972,
+    "deaths": 108,
+    "recovered": 203
+  },
   "Bulgaria": {
     "date": "2020-5-11",
     "confirmed": 1965,
     "deaths": 91,
     "recovered": 444
-  },
-  "Honduras": {
-    "date": "2020-5-11",
-    "confirmed": 1830,
-    "deaths": 108,
-    "recovered": 195
   },
   "Iceland": {
     "date": "2020-5-11",
@@ -499,9 +499,9 @@
   },
   "New Zealand": {
     "date": "2020-5-11",
-    "confirmed": 1494,
+    "confirmed": 1497,
     "deaths": 21,
-    "recovered": 1371
+    "recovered": 1386
   },
   "Lithuania": {
     "date": "2020-5-11",
@@ -539,6 +539,12 @@
     "deaths": 51,
     "recovered": 118
   },
+  "Guatemala": {
+    "date": "2020-5-11",
+    "confirmed": 1052,
+    "deaths": 26,
+    "recovered": 110
+  },
   "Tunisia": {
     "date": "2020-5-11",
     "confirmed": 1032,
@@ -556,12 +562,6 @@
     "confirmed": 991,
     "deaths": 41,
     "recovered": 136
-  },
-  "Guatemala": {
-    "date": "2020-5-11",
-    "confirmed": 967,
-    "deaths": 24,
-    "recovered": 104
   },
   "Latvia": {
     "date": "2020-5-11",
@@ -595,7 +595,7 @@
   },
   "Sri Lanka": {
     "date": "2020-5-11",
-    "confirmed": 856,
+    "confirmed": 863,
     "deaths": 9,
     "recovered": 321
   },
@@ -955,7 +955,7 @@
   },
   "Angola": {
     "date": "2020-5-11",
-    "confirmed": 43,
+    "confirmed": 45,
     "deaths": 2,
     "recovered": 13
   },
