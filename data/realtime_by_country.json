@@ -11,6 +11,12 @@
     "deaths": 26621,
     "recovered": 136166
   },
+  "Russia": {
+    "date": "2020-5-11",
+    "confirmed": 221344,
+    "deaths": 2009,
+    "recovered": 39801
+  },
   "United Kingdom": {
     "date": "2020-5-11",
     "confirmed": 220449,
@@ -22,12 +28,6 @@
     "confirmed": 219070,
     "deaths": 30560,
     "recovered": 105186
-  },
-  "Russia": {
-    "date": "2020-5-11",
-    "confirmed": 209688,
-    "deaths": 1915,
-    "recovered": 34306
   },
   "France": {
     "date": "2020-5-11",
@@ -145,7 +145,7 @@
   },
   "Singapore": {
     "date": "2020-5-11",
-    "confirmed": 23336,
+    "confirmed": 23822,
     "deaths": 20,
     "recovered": 2721
   },
@@ -175,14 +175,14 @@
   },
   "Israel": {
     "date": "2020-5-11",
-    "confirmed": 16477,
-    "deaths": 252,
-    "recovered": 11430
+    "confirmed": 16492,
+    "deaths": 254,
+    "recovered": 11548
   },
   "Poland": {
     "date": "2020-5-11",
-    "confirmed": 15996,
-    "deaths": 800,
+    "confirmed": 16206,
+    "deaths": 803,
     "recovered": 5698
   },
   "Austria": {
@@ -197,17 +197,17 @@
     "deaths": 624,
     "recovered": 8127
   },
+  "Ukraine": {
+    "date": "2020-5-11",
+    "confirmed": 15648,
+    "deaths": 408,
+    "recovered": 3288
+  },
   "Romania": {
     "date": "2020-5-11",
     "confirmed": 15362,
     "deaths": 961,
     "recovered": 7051
-  },
-  "Ukraine": {
-    "date": "2020-5-11",
-    "confirmed": 15232,
-    "deaths": 391,
-    "recovered": 3060
   },
   "Bangladesh": {
     "date": "2020-5-11",
@@ -217,9 +217,15 @@
   },
   "Indonesia": {
     "date": "2020-5-11",
-    "confirmed": 14032,
-    "deaths": 973,
-    "recovered": 2698
+    "confirmed": 14265,
+    "deaths": 991,
+    "recovered": 2881
+  },
+  "Philippines": {
+    "date": "2020-5-11",
+    "confirmed": 11086,
+    "deaths": 726,
+    "recovered": 1999
   },
   "Colombia": {
     "date": "2020-5-11",
@@ -232,12 +238,6 @@
     "confirmed": 10909,
     "deaths": 256,
     "recovered": 9632
-  },
-  "Philippines": {
-    "date": "2020-5-11",
-    "confirmed": 10794,
-    "deaths": 719,
-    "recovered": 1924
   },
   "Denmark": {
     "date": "2020-5-11",
@@ -285,7 +285,7 @@
     "date": "2020-5-11",
     "confirmed": 8123,
     "deaths": 280,
-    "recovered": 4474
+    "recovered": 4482
   },
   "Norway": {
     "date": "2020-5-11",
@@ -344,8 +344,8 @@
   "Moldova": {
     "date": "2020-5-11",
     "confirmed": 4927,
-    "deaths": 169,
-    "recovered": 1958
+    "deaths": 171,
+    "recovered": 1980
   },
   "Afghanistan": {
     "date": "2020-5-11",
@@ -373,9 +373,9 @@
   },
   "Oman": {
     "date": "2020-5-11",
-    "confirmed": 3399,
+    "confirmed": 3573,
     "deaths": 17,
-    "recovered": 1117
+    "recovered": 1211
   },
   "Armenia": {
     "date": "2020-5-11",
@@ -475,9 +475,9 @@
   },
   "Estonia": {
     "date": "2020-5-11",
-    "confirmed": 1739,
-    "deaths": 60,
-    "recovered": 750
+    "confirmed": 1741,
+    "deaths": 61,
+    "recovered": 751
   },
   "Senegal": {
     "date": "2020-5-11",
@@ -505,15 +505,15 @@
   },
   "Lithuania": {
     "date": "2020-5-11",
-    "confirmed": 1479,
+    "confirmed": 1485,
     "deaths": 50,
-    "recovered": 828
+    "recovered": 833
   },
   "Slovakia": {
     "date": "2020-5-11",
     "confirmed": 1457,
     "deaths": 26,
-    "recovered": 941
+    "recovered": 959
   },
   "Slovenia": {
     "date": "2020-5-11",
@@ -597,7 +597,7 @@
     "date": "2020-5-11",
     "confirmed": 863,
     "deaths": 9,
-    "recovered": 321
+    "recovered": 343
   },
   "Lebanon": {
     "date": "2020-5-11",
@@ -851,6 +851,12 @@
     "deaths": 2,
     "recovered": 27
   },
+  "South Sudan": {
+    "date": "2020-5-11",
+    "confirmed": 156,
+    "deaths": 0,
+    "recovered": 2
+  },
   "Central African Republic": {
     "date": "2020-5-11",
     "confirmed": 143,
@@ -880,12 +886,6 @@
     "confirmed": 120,
     "deaths": 0,
     "recovered": 31
-  },
-  "South Sudan": {
-    "date": "2020-5-11",
-    "confirmed": 120,
-    "deaths": 0,
-    "recovered": 2
   },
   "Trinidad and Tobago": {
     "date": "2020-5-11",
