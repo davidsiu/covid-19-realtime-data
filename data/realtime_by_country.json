@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-5-12",
-    "confirmed": 1366350,
-    "deaths": 82105,
-    "recovered": 232733
+    "confirmed": 1367491,
+    "deaths": 82227,
+    "recovered": 230287
   },
   "Russia": {
     "date": "2020-5-12",
@@ -21,7 +21,7 @@
     "date": "2020-5-12",
     "confirmed": 227740,
     "deaths": 32769,
-    "recovered": 1019
+    "recovered": 1020
   },
   "Italy": {
     "date": "2020-5-12",
@@ -37,14 +37,14 @@
   },
   "Brazil": {
     "date": "2020-5-12",
-    "confirmed": 173141,
-    "deaths": 12065,
+    "confirmed": 177589,
+    "deaths": 12400,
     "recovered": 67384
   },
   "Germany": {
     "date": "2020-5-12",
-    "confirmed": 173042,
-    "deaths": 7722,
+    "confirmed": 173171,
+    "deaths": 7738,
     "recovered": 147200
   },
   "Turkey": {
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-5-12",
-    "confirmed": 72367,
-    "deaths": 5297,
-    "recovered": 33735
+    "confirmed": 72419,
+    "deaths": 5299,
+    "recovered": 34055
   },
   "Peru": {
     "date": "2020-5-12",
@@ -223,9 +223,9 @@
   },
   "Colombia": {
     "date": "2020-5-12",
-    "confirmed": 11613,
-    "deaths": 479,
-    "recovered": 2825
+    "confirmed": 12272,
+    "deaths": 493,
+    "recovered": 2971
   },
   "Philippines": {
     "date": "2020-5-12",
@@ -295,9 +295,9 @@
   },
   "Australia": {
     "date": "2020-5-12",
-    "confirmed": 6966,
-    "deaths": 97,
-    "recovered": 6231
+    "confirmed": 6972,
+    "deaths": 98,
+    "recovered": 6259
   },
   "Malaysia": {
     "date": "2020-5-12",
@@ -499,9 +499,9 @@
   },
   "Sudan": {
     "date": "2020-5-12",
-    "confirmed": 1526,
-    "deaths": 74,
-    "recovered": 161
+    "confirmed": 1661,
+    "deaths": 80,
+    "recovered": 173
   },
   "New Zealand": {
     "date": "2020-5-12",
@@ -833,6 +833,12 @@
     "deaths": 5,
     "recovered": 4
   },
+  "Togo": {
+    "date": "2020-5-12",
+    "confirmed": 199,
+    "deaths": 11,
+    "recovered": 92
+  },
   "Madagascar": {
     "date": "2020-5-12",
     "confirmed": 186,
@@ -844,12 +850,6 @@
     "confirmed": 184,
     "deaths": 2,
     "recovered": 28
-  },
-  "Togo": {
-    "date": "2020-5-12",
-    "confirmed": 181,
-    "deaths": 11,
-    "recovered": 89
   },
   "Burma": {
     "date": "2020-5-12",
@@ -895,7 +895,7 @@
   },
   "Guyana": {
     "date": "2020-5-12",
-    "confirmed": 109,
+    "confirmed": 113,
     "deaths": 10,
     "recovered": 36
   },
@@ -1105,7 +1105,7 @@
   },
   "Mauritania": {
     "date": "2020-5-12",
-    "confirmed": 8,
+    "confirmed": 9,
     "deaths": 1,
     "recovered": 6
   },
