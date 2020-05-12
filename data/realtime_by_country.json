@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-12",
-    "confirmed": 1347936,
-    "deaths": 80684,
+    "confirmed": 1348183,
+    "deaths": 80706,
     "recovered": 232733
   },
   "Russia": {
@@ -43,8 +43,8 @@
   },
   "Brazil": {
     "date": "2020-5-12",
-    "confirmed": 169594,
-    "deaths": 11653,
+    "confirmed": 170021,
+    "deaths": 11701,
     "recovered": 67384
   },
   "Turkey": {
@@ -69,7 +69,7 @@
     "date": "2020-5-12",
     "confirmed": 71441,
     "deaths": 2310,
-    "recovered": 23049
+    "recovered": 23059
   },
   "Canada": {
     "date": "2020-5-12",
@@ -97,9 +97,9 @@
   },
   "Saudi Arabia": {
     "date": "2020-5-12",
-    "confirmed": 41014,
-    "deaths": 255,
-    "recovered": 12737
+    "confirmed": 42925,
+    "deaths": 264,
+    "recovered": 15257
   },
   "Mexico": {
     "date": "2020-5-12",
@@ -116,7 +116,7 @@
   "Switzerland": {
     "date": "2020-5-12",
     "confirmed": 30380,
-    "deaths": 1845,
+    "deaths": 1857,
     "recovered": 26800
   },
   "Chile": {
@@ -149,17 +149,17 @@
     "deaths": 14,
     "recovered": 3019
   },
+  "Belarus": {
+    "date": "2020-5-12",
+    "confirmed": 24873,
+    "deaths": 142,
+    "recovered": 6974
+  },
   "Singapore": {
     "date": "2020-5-12",
     "confirmed": 24671,
     "deaths": 21,
     "recovered": 3225
-  },
-  "Belarus": {
-    "date": "2020-5-12",
-    "confirmed": 23906,
-    "deaths": 135,
-    "recovered": 6531
   },
   "Ireland": {
     "date": "2020-5-12",
@@ -314,7 +314,7 @@
   "Argentina": {
     "date": "2020-5-12",
     "confirmed": 6278,
-    "deaths": 314,
+    "deaths": 317,
     "recovered": 1837
   },
   "Finland": {
@@ -427,9 +427,9 @@
   },
   "Uzbekistan": {
     "date": "2020-5-12",
-    "confirmed": 2509,
+    "confirmed": 2519,
     "deaths": 10,
-    "recovered": 1988
+    "recovered": 2010
   },
   "Guinea": {
     "date": "2020-5-12",
@@ -463,9 +463,9 @@
   },
   "Senegal": {
     "date": "2020-5-12",
-    "confirmed": 1886,
+    "confirmed": 1995,
     "deaths": 19,
-    "recovered": 715
+    "recovered": 742
   },
   "Iceland": {
     "date": "2020-5-12",
@@ -493,9 +493,9 @@
   },
   "North Macedonia": {
     "date": "2020-5-12",
-    "confirmed": 1664,
-    "deaths": 91,
-    "recovered": 1200
+    "confirmed": 1674,
+    "deaths": 92,
+    "recovered": 1205
   },
   "Sudan": {
     "date": "2020-5-12",
@@ -599,17 +599,17 @@
     "deaths": 31,
     "recovered": 682
   },
+  "Sri Lanka": {
+    "date": "2020-5-12",
+    "confirmed": 872,
+    "deaths": 9,
+    "recovered": 366
+  },
   "Lebanon": {
     "date": "2020-5-12",
     "confirmed": 870,
     "deaths": 26,
     "recovered": 234
-  },
-  "Sri Lanka": {
-    "date": "2020-5-12",
-    "confirmed": 869,
-    "deaths": 9,
-    "recovered": 366
   },
   "Niger": {
     "date": "2020-5-12",
@@ -653,6 +653,12 @@
     "deaths": 10,
     "recovered": 170
   },
+  "Kenya": {
+    "date": "2020-5-12",
+    "confirmed": 715,
+    "deaths": 36,
+    "recovered": 259
+  },
   "Diamond Princess": {
     "date": "2020-5-12",
     "confirmed": 712,
@@ -670,12 +676,6 @@
     "confirmed": 711,
     "deaths": 19,
     "recovered": 523
-  },
-  "Kenya": {
-    "date": "2020-5-12",
-    "confirmed": 700,
-    "deaths": 33,
-    "recovered": 251
   },
   "Tajikistan": {
     "date": "2020-5-12",
@@ -719,11 +719,17 @@
     "deaths": 9,
     "recovered": 90
   },
+  "Zambia": {
+    "date": "2020-5-12",
+    "confirmed": 441,
+    "deaths": 7,
+    "recovered": 117
+  },
   "Taiwan*": {
     "date": "2020-5-12",
     "confirmed": 440,
     "deaths": 7,
-    "recovered": 368
+    "recovered": 372
   },
   "Equatorial Guinea": {
     "date": "2020-5-12",
@@ -791,23 +797,17 @@
     "deaths": 0,
     "recovered": 150
   },
-  "Zambia": {
+  "Cabo Verde": {
     "date": "2020-5-12",
     "confirmed": 267,
-    "deaths": 7,
-    "recovered": 117
+    "deaths": 2,
+    "recovered": 58
   },
   "Ethiopia": {
     "date": "2020-5-12",
     "confirmed": 261,
     "deaths": 5,
     "recovered": 106
-  },
-  "Cabo Verde": {
-    "date": "2020-5-12",
-    "confirmed": 260,
-    "deaths": 2,
-    "recovered": 58
   },
   "Liberia": {
     "date": "2020-5-12",
