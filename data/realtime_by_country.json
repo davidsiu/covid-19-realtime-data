@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-12",
-    "confirmed": 1347916,
+    "confirmed": 1347936,
     "deaths": 80684,
     "recovered": 232733
   },
@@ -185,6 +185,12 @@
     "deaths": 811,
     "recovered": 5816
   },
+  "Ukraine": {
+    "date": "2020-5-12",
+    "confirmed": 16023,
+    "deaths": 425,
+    "recovered": 3373
+  },
   "Austria": {
     "date": "2020-5-12",
     "confirmed": 15882,
@@ -202,12 +208,6 @@
     "confirmed": 15691,
     "deaths": 239,
     "recovered": 2902
-  },
-  "Ukraine": {
-    "date": "2020-5-12",
-    "confirmed": 15648,
-    "deaths": 408,
-    "recovered": 3288
   },
   "Romania": {
     "date": "2020-5-12",
@@ -329,17 +329,17 @@
     "deaths": 507,
     "recovered": 2841
   },
+  "Kazakhstan": {
+    "date": "2020-5-12",
+    "confirmed": 5240,
+    "deaths": 32,
+    "recovered": 2108
+  },
   "Bahrain": {
     "date": "2020-5-12",
     "confirmed": 5236,
     "deaths": 8,
     "recovered": 2152
-  },
-  "Kazakhstan": {
-    "date": "2020-5-12",
-    "confirmed": 5207,
-    "deaths": 32,
-    "recovered": 2074
   },
   "Moldova": {
     "date": "2020-5-12",
@@ -565,9 +565,9 @@
   },
   "El Salvador": {
     "date": "2020-5-12",
-    "confirmed": 958,
+    "confirmed": 998,
     "deaths": 18,
-    "recovered": 325
+    "recovered": 349
   },
   "Latvia": {
     "date": "2020-5-12",
@@ -685,9 +685,9 @@
   },
   "Georgia": {
     "date": "2020-5-12",
-    "confirmed": 638,
+    "confirmed": 639,
     "deaths": 11,
-    "recovered": 317
+    "recovered": 349
   },
   "San Marino": {
     "date": "2020-5-12",
