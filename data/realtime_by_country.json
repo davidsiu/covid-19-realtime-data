@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-13",
-    "confirmed": 1380465,
-    "deaths": 83249,
+    "confirmed": 1381696,
+    "deaths": 83356,
     "recovered": 230287
   },
   "Russia": {
@@ -69,7 +69,7 @@
     "date": "2020-5-13",
     "confirmed": 78055,
     "deaths": 2551,
-    "recovered": 26392
+    "recovered": 26400
   },
   "Canada": {
     "date": "2020-5-13",
@@ -331,8 +331,8 @@
   },
   "Bahrain": {
     "date": "2020-5-13",
-    "confirmed": 5780,
-    "deaths": 9,
+    "confirmed": 5816,
+    "deaths": 10,
     "recovered": 2195
   },
   "Kazakhstan": {
@@ -569,6 +569,12 @@
     "deaths": 45,
     "recovered": 740
   },
+  "Maldives": {
+    "date": "2020-5-13",
+    "confirmed": 955,
+    "deaths": 4,
+    "recovered": 29
+  },
   "Latvia": {
     "date": "2020-5-13",
     "confirmed": 951,
@@ -584,14 +590,8 @@
   "Cyprus": {
     "date": "2020-5-13",
     "confirmed": 905,
-    "deaths": 16,
+    "deaths": 17,
     "recovered": 449
-  },
-  "Maldives": {
-    "date": "2020-5-13",
-    "confirmed": 904,
-    "deaths": 3,
-    "recovered": 29
   },
   "Sri Lanka": {
     "date": "2020-5-13",
@@ -631,9 +631,9 @@
   },
   "Costa Rica": {
     "date": "2020-5-13",
-    "confirmed": 804,
+    "confirmed": 815,
     "deaths": 7,
-    "recovered": 520
+    "recovered": 527
   },
   "Tajikistan": {
     "date": "2020-5-13",
@@ -659,17 +659,17 @@
     "deaths": 44,
     "recovered": 412
   },
+  "Paraguay": {
+    "date": "2020-5-13",
+    "confirmed": 740,
+    "deaths": 11,
+    "recovered": 182
+  },
   "Kenya": {
     "date": "2020-5-13",
     "confirmed": 737,
     "deaths": 40,
     "recovered": 281
-  },
-  "Paraguay": {
-    "date": "2020-5-13",
-    "confirmed": 737,
-    "deaths": 10,
-    "recovered": 173
   },
   "Uruguay": {
     "date": "2020-5-13",
@@ -743,6 +743,12 @@
     "deaths": 10,
     "recovered": 220
   },
+  "Sierra Leone": {
+    "date": "2020-5-13",
+    "confirmed": 387,
+    "deaths": 26,
+    "recovered": 97
+  },
   "West Bank and Gaza": {
     "date": "2020-5-13",
     "confirmed": 375,
@@ -754,12 +760,6 @@
     "confirmed": 372,
     "deaths": 42,
     "recovered": 78
-  },
-  "Sierra Leone": {
-    "date": "2020-5-13",
-    "confirmed": 338,
-    "deaths": 19,
-    "recovered": 72
   },
   "Congo (Brazzaville)": {
     "date": "2020-5-13",
@@ -829,9 +829,9 @@
   },
   "Liberia": {
     "date": "2020-5-13",
-    "confirmed": 212,
+    "confirmed": 213,
     "deaths": 20,
-    "recovered": 86
+    "recovered": 101
   },
   "Madagascar": {
     "date": "2020-5-13",
