@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-13",
-    "confirmed": 1369376,
-    "deaths": 82356,
+    "confirmed": 1369574,
+    "deaths": 82376,
     "recovered": 230287
   },
   "Russia": {
@@ -809,6 +809,12 @@
     "deaths": 5,
     "recovered": 106
   },
+  "Haiti": {
+    "date": "2020-5-13",
+    "confirmed": 219,
+    "deaths": 18,
+    "recovered": 17
+  },
   "Nepal": {
     "date": "2020-5-13",
     "confirmed": 217,
@@ -820,12 +826,6 @@
     "confirmed": 211,
     "deaths": 20,
     "recovered": 85
-  },
-  "Haiti": {
-    "date": "2020-5-13",
-    "confirmed": 209,
-    "deaths": 16,
-    "recovered": 17
   },
   "Sao Tome and Principe": {
     "date": "2020-5-13",
