@@ -85,9 +85,9 @@
   },
   "Belgium": {
     "date": "2020-5-14",
-    "confirmed": 53981,
-    "deaths": 8843,
-    "recovered": 13937
+    "confirmed": 54288,
+    "deaths": 8903,
+    "recovered": 14111
   },
   "Saudi Arabia": {
     "date": "2020-5-14",
@@ -175,8 +175,8 @@
   },
   "Bangladesh": {
     "date": "2020-5-14",
-    "confirmed": 17822,
-    "deaths": 269,
+    "confirmed": 18863,
+    "deaths": 283,
     "recovered": 3361
   },
   "Poland": {
@@ -193,15 +193,21 @@
   },
   "Israel": {
     "date": "2020-5-14",
-    "confirmed": 16548,
+    "confirmed": 16567,
     "deaths": 264,
-    "recovered": 12232
+    "recovered": 12364
   },
   "Japan": {
     "date": "2020-5-14",
     "confirmed": 16049,
     "deaths": 678,
     "recovered": 8920
+  },
+  "Indonesia": {
+    "date": "2020-5-14",
+    "confirmed": 16006,
+    "deaths": 1043,
+    "recovered": 3518
   },
   "Romania": {
     "date": "2020-5-14",
@@ -214,12 +220,6 @@
     "confirmed": 15997,
     "deaths": 624,
     "recovered": 14304
-  },
-  "Indonesia": {
-    "date": "2020-5-14",
-    "confirmed": 15438,
-    "deaths": 1028,
-    "recovered": 3287
   },
   "Colombia": {
     "date": "2020-5-14",
@@ -307,9 +307,9 @@
   },
   "Malaysia": {
     "date": "2020-5-14",
-    "confirmed": 6779,
-    "deaths": 111,
-    "recovered": 5281
+    "confirmed": 6819,
+    "deaths": 112,
+    "recovered": 5351
   },
   "Morocco": {
     "date": "2020-5-14",
@@ -335,6 +335,12 @@
     "deaths": 10,
     "recovered": 2205
   },
+  "Afghanistan": {
+    "date": "2020-5-14",
+    "confirmed": 5639,
+    "deaths": 136,
+    "recovered": 691
+  },
   "Kazakhstan": {
     "date": "2020-5-14",
     "confirmed": 5571,
@@ -352,12 +358,6 @@
     "confirmed": 5406,
     "deaths": 185,
     "recovered": 2176
-  },
-  "Afghanistan": {
-    "date": "2020-5-14",
-    "confirmed": 5226,
-    "deaths": 132,
-    "recovered": 648
   },
   "Nigeria": {
     "date": "2020-5-14",
@@ -811,7 +811,7 @@
   },
   "Nepal": {
     "date": "2020-5-14",
-    "confirmed": 245,
+    "confirmed": 246,
     "deaths": 0,
     "recovered": 35
   },
