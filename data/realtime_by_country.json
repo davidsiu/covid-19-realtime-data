@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-15",
-    "confirmed": 1417774,
+    "confirmed": 1417777,
     "deaths": 85898,
     "recovered": 246414
   },
@@ -79,7 +79,7 @@
   },
   "Canada": {
     "date": "2020-5-15",
-    "confirmed": 74781,
+    "confirmed": 74782,
     "deaths": 5592,
     "recovered": 36104
   },
@@ -107,17 +107,17 @@
     "deaths": 4477,
     "recovered": 28475
   },
+  "Pakistan": {
+    "date": "2020-5-15",
+    "confirmed": 37218,
+    "deaths": 803,
+    "recovered": 10155
+  },
   "Chile": {
     "date": "2020-5-15",
     "confirmed": 37040,
     "deaths": 368,
     "recovered": 15655
-  },
-  "Pakistan": {
-    "date": "2020-5-15",
-    "confirmed": 35788,
-    "deaths": 770,
-    "recovered": 9695
   },
   "Ecuador": {
     "date": "2020-5-15",
@@ -817,7 +817,7 @@
   },
   "Nepal": {
     "date": "2020-5-15",
-    "confirmed": 249,
+    "confirmed": 258,
     "deaths": 0,
     "recovered": 35
   },
@@ -833,6 +833,12 @@
     "deaths": 7,
     "recovered": 4
   },
+  "South Sudan": {
+    "date": "2020-5-15",
+    "confirmed": 231,
+    "deaths": 1,
+    "recovered": 3
+  },
   "Madagascar": {
     "date": "2020-5-15",
     "confirmed": 230,
@@ -844,12 +850,6 @@
     "confirmed": 215,
     "deaths": 20,
     "recovered": 105
-  },
-  "South Sudan": {
-    "date": "2020-5-15",
-    "confirmed": 203,
-    "deaths": 0,
-    "recovered": 3
   },
   "Eswatini": {
     "date": "2020-5-15",
@@ -905,12 +905,6 @@
     "deaths": 10,
     "recovered": 42
   },
-  "Mongolia": {
-    "date": "2020-5-15",
-    "confirmed": 98,
-    "deaths": 0,
-    "recovered": 15
-  },
   "Bahamas": {
     "date": "2020-5-15",
     "confirmed": 96,
@@ -952,6 +946,12 @@
     "confirmed": 63,
     "deaths": 3,
     "recovered": 24
+  },
+  "Mongolia": {
+    "date": "2020-5-15",
+    "confirmed": 61,
+    "deaths": 0,
+    "recovered": 15
   },
   "Angola": {
     "date": "2020-5-15",
