@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-16",
-    "confirmed": 1442924,
-    "deaths": 87493,
+    "confirmed": 1442657,
+    "deaths": 87530,
     "recovered": 250747
   },
   "Russia": {
@@ -63,7 +63,7 @@
     "date": "2020-5-16",
     "confirmed": 85784,
     "deaths": 2753,
-    "recovered": 30234
+    "recovered": 30258
   },
   "Peru": {
     "date": "2020-5-16",
@@ -79,9 +79,9 @@
   },
   "Canada": {
     "date": "2020-5-16",
-    "confirmed": 75761,
-    "deaths": 5658,
-    "recovered": 36773
+    "confirmed": 75776,
+    "deaths": 5667,
+    "recovered": 36908
   },
   "Belgium": {
     "date": "2020-5-16",
@@ -295,15 +295,15 @@
   },
   "Argentina": {
     "date": "2020-5-16",
-    "confirmed": 7134,
-    "deaths": 353,
+    "confirmed": 7479,
+    "deaths": 356,
     "recovered": 2497
   },
   "Australia": {
     "date": "2020-5-16",
-    "confirmed": 7020,
+    "confirmed": 7031,
     "deaths": 98,
-    "recovered": 6338
+    "recovered": 6348
   },
   "Malaysia": {
     "date": "2020-5-16",
@@ -326,7 +326,7 @@
   "Bahrain": {
     "date": "2020-5-16",
     "confirmed": 6583,
-    "deaths": 11,
+    "deaths": 12,
     "recovered": 2640
   },
   "Finland": {
@@ -577,13 +577,13 @@
   },
   "Tunisia": {
     "date": "2020-5-16",
-    "confirmed": 1032,
+    "confirmed": 1035,
     "deaths": 45,
-    "recovered": 770
+    "recovered": 802
   },
   "Maldives": {
     "date": "2020-5-16",
-    "confirmed": 1020,
+    "confirmed": 1031,
     "deaths": 4,
     "recovered": 49
   },
@@ -797,6 +797,12 @@
     "deaths": 0,
     "recovered": 260
   },
+  "Central African Republic": {
+    "date": "2020-5-16",
+    "confirmed": 301,
+    "deaths": 0,
+    "recovered": 13
+  },
   "Ethiopia": {
     "date": "2020-5-16",
     "confirmed": 287,
@@ -868,12 +874,6 @@
     "confirmed": 181,
     "deaths": 6,
     "recovered": 89
-  },
-  "Central African Republic": {
-    "date": "2020-5-16",
-    "confirmed": 143,
-    "deaths": 0,
-    "recovered": 10
   },
   "Brunei": {
     "date": "2020-5-16",
@@ -979,8 +979,8 @@
   },
   "Mauritania": {
     "date": "2020-5-16",
-    "confirmed": 26,
-    "deaths": 2,
+    "confirmed": 29,
+    "deaths": 3,
     "recovered": 7
   },
   "Antigua and Barbuda": {
