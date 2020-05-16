@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-16",
-    "confirmed": 1442657,
+    "confirmed": 1442819,
     "deaths": 87530,
     "recovered": 250747
   },
@@ -79,8 +79,8 @@
   },
   "Canada": {
     "date": "2020-5-16",
-    "confirmed": 75776,
-    "deaths": 5667,
+    "confirmed": 75959,
+    "deaths": 5679,
     "recovered": 36908
   },
   "Belgium": {
@@ -95,17 +95,17 @@
     "deaths": 292,
     "recovered": 21869
   },
+  "Mexico": {
+    "date": "2020-5-16",
+    "confirmed": 45032,
+    "deaths": 4767,
+    "recovered": 30451
+  },
   "Netherlands": {
     "date": "2020-5-16",
     "confirmed": 43880,
     "deaths": 5662,
     "recovered": 159
-  },
-  "Mexico": {
-    "date": "2020-5-16",
-    "confirmed": 42595,
-    "deaths": 4477,
-    "recovered": 28475
   },
   "Chile": {
     "date": "2020-5-16",
@@ -259,9 +259,9 @@
   },
   "Korea, South": {
     "date": "2020-5-16",
-    "confirmed": 11018,
-    "deaths": 260,
-    "recovered": 9821
+    "confirmed": 11037,
+    "deaths": 262,
+    "recovered": 9851
   },
   "Denmark": {
     "date": "2020-5-16",
@@ -277,8 +277,8 @@
   },
   "Panama": {
     "date": "2020-5-16",
-    "confirmed": 9118,
-    "deaths": 260,
+    "confirmed": 9268,
+    "deaths": 266,
     "recovered": 6080
   },
   "Czechia": {
@@ -301,9 +301,9 @@
   },
   "Australia": {
     "date": "2020-5-16",
-    "confirmed": 7031,
+    "confirmed": 7032,
     "deaths": 98,
-    "recovered": 6348
+    "recovered": 6353
   },
   "Malaysia": {
     "date": "2020-5-16",
@@ -355,9 +355,9 @@
   },
   "Ghana": {
     "date": "2020-5-16",
-    "confirmed": 5530,
-    "deaths": 24,
-    "recovered": 674
+    "confirmed": 5638,
+    "deaths": 28,
+    "recovered": 1460
   },
   "Nigeria": {
     "date": "2020-5-16",
@@ -383,17 +383,17 @@
     "deaths": 104,
     "recovered": 3682
   },
+  "Bolivia": {
+    "date": "2020-5-16",
+    "confirmed": 3577,
+    "deaths": 164,
+    "recovered": 434
+  },
   "Hungary": {
     "date": "2020-5-16",
     "confirmed": 3417,
     "deaths": 442,
     "recovered": 1287
-  },
-  "Bolivia": {
-    "date": "2020-5-16",
-    "confirmed": 3372,
-    "deaths": 152,
-    "recovered": 356
   },
   "Iraq": {
     "date": "2020-5-16",
@@ -439,9 +439,9 @@
   },
   "Honduras": {
     "date": "2020-5-16",
-    "confirmed": 2318,
-    "deaths": 133,
-    "recovered": 253
+    "confirmed": 2460,
+    "deaths": 134,
+    "recovered": 264
   },
   "Senegal": {
     "date": "2020-5-16",
@@ -519,7 +519,7 @@
     "date": "2020-5-16",
     "confirmed": 1498,
     "deaths": 21,
-    "recovered": 1421
+    "recovered": 1428
   },
   "Slovakia": {
     "date": "2020-5-16",
@@ -721,9 +721,9 @@
   },
   "Jamaica": {
     "date": "2020-5-16",
-    "confirmed": 509,
+    "confirmed": 511,
     "deaths": 9,
-    "recovered": 118
+    "recovered": 121
   },
   "Tanzania": {
     "date": "2020-5-16",
@@ -733,9 +733,9 @@
   },
   "Venezuela": {
     "date": "2020-5-16",
-    "confirmed": 455,
+    "confirmed": 459,
     "deaths": 10,
-    "recovered": 220
+    "recovered": 229
   },
   "Sierra Leone": {
     "date": "2020-5-16",
@@ -793,9 +793,15 @@
   },
   "Vietnam": {
     "date": "2020-5-16",
-    "confirmed": 313,
+    "confirmed": 314,
     "deaths": 0,
     "recovered": 260
+  },
+  "Haiti": {
+    "date": "2020-5-16",
+    "confirmed": 310,
+    "deaths": 20,
+    "recovered": 29
   },
   "Central African Republic": {
     "date": "2020-5-16",
@@ -814,12 +820,6 @@
     "confirmed": 287,
     "deaths": 0,
     "recovered": 177
-  },
-  "Haiti": {
-    "date": "2020-5-16",
-    "confirmed": 273,
-    "deaths": 20,
-    "recovered": 18
   },
   "Nepal": {
     "date": "2020-5-16",
@@ -893,17 +893,17 @@
     "deaths": 0,
     "recovered": 42
   },
+  "Guyana": {
+    "date": "2020-5-16",
+    "confirmed": 116,
+    "deaths": 10,
+    "recovered": 43
+  },
   "Trinidad and Tobago": {
     "date": "2020-5-16",
     "confirmed": 116,
     "deaths": 8,
     "recovered": 107
-  },
-  "Guyana": {
-    "date": "2020-5-16",
-    "confirmed": 113,
-    "deaths": 10,
-    "recovered": 42
   },
   "Yemen": {
     "date": "2020-5-16",
