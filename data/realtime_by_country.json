@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-16",
-    "confirmed": 1444870,
-    "deaths": 87595,
+    "confirmed": 1445867,
+    "deaths": 87643,
     "recovered": 250747
   },
   "Russia": {
@@ -13,8 +13,8 @@
   },
   "United Kingdom": {
     "date": "2020-5-16",
-    "confirmed": 238004,
-    "deaths": 34078,
+    "confirmed": 241454,
+    "deaths": 34546,
     "recovered": 1049
   },
   "Spain": {
@@ -296,7 +296,7 @@
   "Argentina": {
     "date": "2020-5-16",
     "confirmed": 7479,
-    "deaths": 356,
+    "deaths": 363,
     "recovered": 2497
   },
   "Australia": {
@@ -481,15 +481,15 @@
   },
   "Cuba": {
     "date": "2020-5-16",
-    "confirmed": 1840,
+    "confirmed": 1862,
     "deaths": 79,
-    "recovered": 1425
+    "recovered": 1460
   },
   "Iceland": {
     "date": "2020-5-16",
     "confirmed": 1802,
     "deaths": 10,
-    "recovered": 1782
+    "recovered": 1786
   },
   "Estonia": {
     "date": "2020-5-16",
@@ -575,17 +575,17 @@
     "deaths": 14,
     "recovered": 783
   },
+  "Maldives": {
+    "date": "2020-5-16",
+    "confirmed": 1078,
+    "deaths": 4,
+    "recovered": 49
+  },
   "Tunisia": {
     "date": "2020-5-16",
     "confirmed": 1035,
     "deaths": 45,
     "recovered": 802
-  },
-  "Maldives": {
-    "date": "2020-5-16",
-    "confirmed": 1031,
-    "deaths": 4,
-    "recovered": 49
   },
   "Latvia": {
     "date": "2020-5-16",
@@ -893,6 +893,12 @@
     "deaths": 0,
     "recovered": 122
   },
+  "Yemen": {
+    "date": "2020-5-16",
+    "confirmed": 122,
+    "deaths": 18,
+    "recovered": 1
+  },
   "Mozambique": {
     "date": "2020-5-16",
     "confirmed": 119,
@@ -910,12 +916,6 @@
     "confirmed": 116,
     "deaths": 8,
     "recovered": 107
-  },
-  "Yemen": {
-    "date": "2020-5-16",
-    "confirmed": 106,
-    "deaths": 15,
-    "recovered": 1
   },
   "Bahamas": {
     "date": "2020-5-16",
