@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-5-18",
-    "confirmed": 1504244,
-    "deaths": 90193,
-    "recovered": 272265
+    "confirmed": 1504386,
+    "deaths": 90194,
+    "recovered": 283178
   },
   "Russia": {
     "date": "2020-5-18",
@@ -425,17 +425,17 @@
     "deaths": 165,
     "recovered": 1374
   },
+  "Guinea": {
+    "date": "2020-5-18",
+    "confirmed": 2796,
+    "deaths": 16,
+    "recovered": 1263
+  },
   "Uzbekistan": {
     "date": "2020-5-18",
     "confirmed": 2791,
     "deaths": 13,
     "recovered": 2314
-  },
-  "Guinea": {
-    "date": "2020-5-18",
-    "confirmed": 2658,
-    "deaths": 16,
-    "recovered": 1133
   },
   "Honduras": {
     "date": "2020-5-18",
@@ -587,6 +587,12 @@
     "deaths": 45,
     "recovered": 816
   },
+  "Guinea-Bissau": {
+    "date": "2020-5-18",
+    "confirmed": 1032,
+    "deaths": 4,
+    "recovered": 38
+  },
   "Latvia": {
     "date": "2020-5-18",
     "confirmed": 1009,
@@ -598,12 +604,6 @@
     "confirmed": 992,
     "deaths": 9,
     "recovered": 559
-  },
-  "Guinea-Bissau": {
-    "date": "2020-5-18",
-    "confirmed": 990,
-    "deaths": 4,
-    "recovered": 26
   },
   "Kosovo": {
     "date": "2020-5-18",
@@ -769,7 +769,7 @@
   },
   "West Bank and Gaza": {
     "date": "2020-5-18",
-    "confirmed": 386,
+    "confirmed": 388,
     "deaths": 2,
     "recovered": 337
   },
