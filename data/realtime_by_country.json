@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-18",
-    "confirmed": 1506732,
-    "deaths": 90236,
+    "confirmed": 1506840,
+    "deaths": 90309,
     "recovered": 283178
   },
   "Russia": {
@@ -11,17 +11,17 @@
     "deaths": 2722,
     "recovered": 70209
   },
-  "United Kingdom": {
-    "date": "2020-5-18",
-    "confirmed": 247706,
-    "deaths": 34876,
-    "recovered": 1069
-  },
   "Brazil": {
     "date": "2020-5-18",
-    "confirmed": 245595,
-    "deaths": 16370,
-    "recovered": 94122
+    "confirmed": 254220,
+    "deaths": 16792,
+    "recovered": 100459
+  },
+  "United Kingdom": {
+    "date": "2020-5-18",
+    "confirmed": 247709,
+    "deaths": 34876,
+    "recovered": 1090
   },
   "Spain": {
     "date": "2020-5-18",
@@ -135,7 +135,7 @@
     "date": "2020-5-18",
     "confirmed": 30597,
     "deaths": 1886,
-    "recovered": 27500
+    "recovered": 27600
   },
   "Belarus": {
     "date": "2020-5-18",
@@ -215,17 +215,17 @@
     "deaths": 286,
     "recovered": 7298
   },
+  "Japan": {
+    "date": "2020-5-18",
+    "confirmed": 16305,
+    "deaths": 749,
+    "recovered": 11564
+  },
   "Colombia": {
     "date": "2020-5-18",
     "confirmed": 16295,
     "deaths": 592,
     "recovered": 3903
-  },
-  "Japan": {
-    "date": "2020-5-18",
-    "confirmed": 16285,
-    "deaths": 744,
-    "recovered": 11153
   },
   "Austria": {
     "date": "2020-5-18",
@@ -283,21 +283,21 @@
   },
   "Czechia": {
     "date": "2020-5-18",
-    "confirmed": 8527,
-    "deaths": 298,
-    "recovered": 5633
+    "confirmed": 8586,
+    "deaths": 297,
+    "recovered": 5641
+  },
+  "Argentina": {
+    "date": "2020-5-18",
+    "confirmed": 8371,
+    "deaths": 382,
+    "recovered": 2625
   },
   "Norway": {
     "date": "2020-5-18",
     "confirmed": 8257,
     "deaths": 233,
     "recovered": 32
-  },
-  "Argentina": {
-    "date": "2020-5-18",
-    "confirmed": 8068,
-    "deaths": 374,
-    "recovered": 2625
   },
   "Algeria": {
     "date": "2020-5-18",
@@ -321,7 +321,7 @@
     "date": "2020-5-18",
     "confirmed": 7062,
     "deaths": 99,
-    "recovered": 6394
+    "recovered": 6396
   },
   "Morocco": {
     "date": "2020-5-18",
@@ -347,17 +347,17 @@
     "deaths": 300,
     "recovered": 5000
   },
+  "Nigeria": {
+    "date": "2020-5-18",
+    "confirmed": 6175,
+    "deaths": 191,
+    "recovered": 1644
+  },
   "Moldova": {
     "date": "2020-5-18",
     "confirmed": 6138,
     "deaths": 217,
     "recovered": 2425
-  },
-  "Nigeria": {
-    "date": "2020-5-18",
-    "confirmed": 5959,
-    "deaths": 182,
-    "recovered": 1594
   },
   "Ghana": {
     "date": "2020-5-18",
@@ -549,7 +549,7 @@
     "date": "2020-5-18",
     "confirmed": 1466,
     "deaths": 104,
-    "recovered": 274
+    "recovered": 1335
   },
   "Somalia": {
     "date": "2020-5-18",
@@ -637,15 +637,9 @@
   },
   "Niger": {
     "date": "2020-5-18",
-    "confirmed": 904,
-    "deaths": 54,
-    "recovered": 698
-  },
-  "Uruguay": {
-    "date": "2020-5-18",
-    "confirmed": 884,
-    "deaths": 20,
-    "recovered": 564
+    "confirmed": 909,
+    "deaths": 55,
+    "recovered": 714
   },
   "Mali": {
     "date": "2020-5-18",
@@ -682,6 +676,12 @@
     "confirmed": 761,
     "deaths": 7,
     "recovered": 192
+  },
+  "Uruguay": {
+    "date": "2020-5-18",
+    "confirmed": 737,
+    "deaths": 20,
+    "recovered": 569
   },
   "Equatorial Guinea": {
     "date": "2020-5-18",
@@ -725,6 +725,12 @@
     "deaths": 10,
     "recovered": 241
   },
+  "Haiti": {
+    "date": "2020-5-18",
+    "confirmed": 533,
+    "deaths": 21,
+    "recovered": 21
+  },
   "Jamaica": {
     "date": "2020-5-18",
     "confirmed": 520,
@@ -748,12 +754,6 @@
     "confirmed": 509,
     "deaths": 21,
     "recovered": 183
-  },
-  "Haiti": {
-    "date": "2020-5-18",
-    "confirmed": 456,
-    "deaths": 20,
-    "recovered": 21
   },
   "Taiwan*": {
     "date": "2020-5-18",
@@ -807,7 +807,7 @@
     "date": "2020-5-18",
     "confirmed": 328,
     "deaths": 3,
-    "recovered": 84
+    "recovered": 85
   },
   "Central African Republic": {
     "date": "2020-5-18",
