@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-19",
-    "confirmed": 1509202,
-    "deaths": 90373,
+    "confirmed": 1510988,
+    "deaths": 90432,
     "recovered": 283178
   },
   "Russia": {
@@ -61,9 +61,9 @@
   },
   "India": {
     "date": "2020-5-19",
-    "confirmed": 102287,
+    "confirmed": 102335,
     "deaths": 3169,
-    "recovered": 39658
+    "recovered": 39674
   },
   "Peru": {
     "date": "2020-5-19",
@@ -81,7 +81,7 @@
     "date": "2020-5-19",
     "confirmed": 79411,
     "deaths": 5960,
-    "recovered": 39251
+    "recovered": 39511
   },
   "Saudi Arabia": {
     "date": "2020-5-19",
@@ -146,7 +146,7 @@
   "Switzerland": {
     "date": "2020-5-19",
     "confirmed": 30618,
-    "deaths": 1886,
+    "deaths": 1890,
     "recovered": 27600
   },
   "Portugal": {
@@ -295,7 +295,7 @@
   },
   "Norway": {
     "date": "2020-5-19",
-    "confirmed": 8257,
+    "confirmed": 8264,
     "deaths": 233,
     "recovered": 32
   },
@@ -339,7 +339,7 @@
     "date": "2020-5-19",
     "confirmed": 6751,
     "deaths": 35,
-    "recovered": 3469
+    "recovered": 3572
   },
   "Finland": {
     "date": "2020-5-19",
@@ -356,8 +356,8 @@
   "Moldova": {
     "date": "2020-5-19",
     "confirmed": 6138,
-    "deaths": 217,
-    "recovered": 2425
+    "deaths": 219,
+    "recovered": 2508
   },
   "Ghana": {
     "date": "2020-5-19",
@@ -368,7 +368,7 @@
   "Oman": {
     "date": "2020-5-19",
     "confirmed": 5671,
-    "deaths": 26,
+    "deaths": 27,
     "recovered": 1574
   },
   "Armenia": {
@@ -779,6 +779,12 @@
     "deaths": 2,
     "recovered": 346
   },
+  "Central African Republic": {
+    "date": "2020-5-19",
+    "confirmed": 366,
+    "deaths": 0,
+    "recovered": 18
+  },
   "Ethiopia": {
     "date": "2020-5-19",
     "confirmed": 365,
@@ -808,12 +814,6 @@
     "confirmed": 328,
     "deaths": 3,
     "recovered": 85
-  },
-  "Central African Republic": {
-    "date": "2020-5-19",
-    "confirmed": 327,
-    "deaths": 0,
-    "recovered": 13
   },
   "Madagascar": {
     "date": "2020-5-19",
