@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-19",
-    "confirmed": 1508598,
-    "deaths": 90353,
+    "confirmed": 1508867,
+    "deaths": 90367,
     "recovered": 283178
   },
   "Russia": {
@@ -61,8 +61,8 @@
   },
   "India": {
     "date": "2020-5-19",
-    "confirmed": 101139,
-    "deaths": 3163,
+    "confirmed": 101261,
+    "deaths": 3164,
     "recovered": 39233
   },
   "Peru": {
@@ -389,17 +389,17 @@
     "deaths": 107,
     "recovered": 3715
   },
+  "Hungary": {
+    "date": "2020-5-19",
+    "confirmed": 3556,
+    "deaths": 467,
+    "recovered": 1412
+  },
   "Iraq": {
     "date": "2020-5-19",
     "confirmed": 3554,
     "deaths": 127,
     "recovered": 2310
-  },
-  "Hungary": {
-    "date": "2020-5-19",
-    "confirmed": 3535,
-    "deaths": 462,
-    "recovered": 1400
   },
   "Cameroon": {
     "date": "2020-5-19",
@@ -415,7 +415,7 @@
   },
   "Thailand": {
     "date": "2020-5-19",
-    "confirmed": 3031,
+    "confirmed": 3033,
     "deaths": 56,
     "recovered": 2857
   },
@@ -424,6 +424,12 @@
     "confirmed": 2836,
     "deaths": 165,
     "recovered": 1374
+  },
+  "Uzbekistan": {
+    "date": "2020-5-19",
+    "confirmed": 2802,
+    "deaths": 13,
+    "recovered": 2314
   },
   "Honduras": {
     "date": "2020-5-19",
@@ -436,12 +442,6 @@
     "confirmed": 2796,
     "deaths": 16,
     "recovered": 1263
-  },
-  "Uzbekistan": {
-    "date": "2020-5-19",
-    "confirmed": 2791,
-    "deaths": 13,
-    "recovered": 2314
   },
   "Sudan": {
     "date": "2020-5-19",
