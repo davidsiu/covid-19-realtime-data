@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-20",
-    "confirmed": 1527723,
-    "deaths": 91872,
+    "confirmed": 1527895,
+    "deaths": 91878,
     "recovered": 289392
   },
   "Russia": {
@@ -97,9 +97,9 @@
   },
   "Mexico": {
     "date": "2020-5-20",
-    "confirmed": 51633,
-    "deaths": 5332,
-    "recovered": 35388
+    "confirmed": 54346,
+    "deaths": 5666,
+    "recovered": 37325
   },
   "Chile": {
     "date": "2020-5-20",
@@ -227,17 +227,17 @@
     "deaths": 278,
     "recovered": 13435
   },
+  "Japan": {
+    "date": "2020-5-20",
+    "confirmed": 16367,
+    "deaths": 768,
+    "recovered": 11564
+  },
   "Austria": {
     "date": "2020-5-20",
     "confirmed": 16321,
     "deaths": 632,
     "recovered": 14678
-  },
-  "Japan": {
-    "date": "2020-5-20",
-    "confirmed": 16305,
-    "deaths": 749,
-    "recovered": 11564
   },
   "Egypt": {
     "date": "2020-5-20",
@@ -265,9 +265,9 @@
   },
   "Korea, South": {
     "date": "2020-5-20",
-    "confirmed": 11078,
+    "confirmed": 11110,
     "deaths": 263,
-    "recovered": 9938
+    "recovered": 10066
   },
   "Serbia": {
     "date": "2020-5-20",
@@ -537,7 +537,7 @@
     "date": "2020-5-20",
     "confirmed": 1503,
     "deaths": 21,
-    "recovered": 1442
+    "recovered": 1447
   },
   "Gabon": {
     "date": "2020-5-20",
@@ -583,9 +583,9 @@
   },
   "Tunisia": {
     "date": "2020-5-20",
-    "confirmed": 1043,
-    "deaths": 46,
-    "recovered": 819
+    "confirmed": 1044,
+    "deaths": 47,
+    "recovered": 826
   },
   "Guinea-Bissau": {
     "date": "2020-5-20",
@@ -595,7 +595,7 @@
   },
   "Sri Lanka": {
     "date": "2020-5-20",
-    "confirmed": 1023,
+    "confirmed": 1027,
     "deaths": 9,
     "recovered": 569
   },
@@ -683,6 +683,12 @@
     "deaths": 51,
     "recovered": 628
   },
+  "Venezuela": {
+    "date": "2020-5-20",
+    "confirmed": 749,
+    "deaths": 10,
+    "recovered": 253
+  },
   "Uruguay": {
     "date": "2020-5-20",
     "confirmed": 738,
@@ -712,12 +718,6 @@
     "confirmed": 649,
     "deaths": 9,
     "recovered": 417
-  },
-  "Venezuela": {
-    "date": "2020-5-20",
-    "confirmed": 618,
-    "deaths": 10,
-    "recovered": 253
   },
   "Malta": {
     "date": "2020-5-20",
@@ -943,7 +943,7 @@
   },
   "Barbados": {
     "date": "2020-5-20",
-    "confirmed": 88,
+    "confirmed": 90,
     "deaths": 7,
     "recovered": 68
   },
