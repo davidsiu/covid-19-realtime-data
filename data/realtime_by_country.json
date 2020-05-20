@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-20",
-    "confirmed": 1527355,
-    "deaths": 91845,
+    "confirmed": 1527723,
+    "deaths": 91872,
     "recovered": 289392
   },
   "Russia": {
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2020-5-20",
-    "confirmed": 271628,
-    "deaths": 17971,
+    "confirmed": 271885,
+    "deaths": 17983,
     "recovered": 106794
   },
   "United Kingdom": {
@@ -81,7 +81,7 @@
     "date": "2020-5-20",
     "confirmed": 80493,
     "deaths": 6028,
-    "recovered": 40063
+    "recovered": 40069
   },
   "Saudi Arabia": {
     "date": "2020-5-20",
@@ -731,6 +731,12 @@
     "deaths": 56,
     "recovered": 139
   },
+  "Sierra Leone": {
+    "date": "2020-5-20",
+    "confirmed": 534,
+    "deaths": 33,
+    "recovered": 167
+  },
   "Haiti": {
     "date": "2020-5-20",
     "confirmed": 533,
@@ -741,13 +747,7 @@
     "date": "2020-5-20",
     "confirmed": 520,
     "deaths": 9,
-    "recovered": 131
-  },
-  "Sierra Leone": {
-    "date": "2020-5-20",
-    "confirmed": 519,
-    "deaths": 33,
-    "recovered": 148
+    "recovered": 145
   },
   "Tanzania": {
     "date": "2020-5-20",
@@ -853,8 +853,8 @@
   },
   "Sao Tome and Principe": {
     "date": "2020-5-20",
-    "confirmed": 246,
-    "deaths": 7,
+    "confirmed": 251,
+    "deaths": 8,
     "recovered": 4
   },
   "Liberia": {
