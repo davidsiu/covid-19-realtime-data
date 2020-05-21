@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-21",
-    "confirmed": 1550959,
-    "deaths": 93406,
+    "confirmed": 1551102,
+    "deaths": 93416,
     "recovered": 294312
   },
   "Russia": {
@@ -79,9 +79,9 @@
   },
   "Canada": {
     "date": "2020-5-21",
-    "confirmed": 81549,
-    "deaths": 6147,
-    "recovered": 40769
+    "confirmed": 81570,
+    "deaths": 6150,
+    "recovered": 40793
   },
   "Saudi Arabia": {
     "date": "2020-5-21",
@@ -89,17 +89,17 @@
     "deaths": 339,
     "recovered": 33478
   },
+  "Mexico": {
+    "date": "2020-5-21",
+    "confirmed": 56594,
+    "deaths": 6090,
+    "recovered": 38419
+  },
   "Belgium": {
     "date": "2020-5-21",
     "confirmed": 55983,
     "deaths": 9150,
     "recovered": 14847
-  },
-  "Mexico": {
-    "date": "2020-5-21",
-    "confirmed": 54346,
-    "deaths": 5666,
-    "recovered": 36913
   },
   "Chile": {
     "date": "2020-5-21",
@@ -325,9 +325,9 @@
   },
   "Australia": {
     "date": "2020-5-21",
-    "confirmed": 7083,
+    "confirmed": 7084,
     "deaths": 100,
-    "recovered": 6462
+    "recovered": 6470
   },
   "Malaysia": {
     "date": "2020-5-21",
@@ -361,9 +361,9 @@
   },
   "Ghana": {
     "date": "2020-5-21",
-    "confirmed": 6096,
+    "confirmed": 6269,
     "deaths": 31,
-    "recovered": 1773
+    "recovered": 1898
   },
   "Oman": {
     "date": "2020-5-21",
@@ -589,9 +589,9 @@
   },
   "Tunisia": {
     "date": "2020-5-21",
-    "confirmed": 1044,
+    "confirmed": 1045,
     "deaths": 47,
-    "recovered": 826
+    "recovered": 862
   },
   "Kenya": {
     "date": "2020-5-21",
@@ -773,6 +773,12 @@
     "deaths": 15,
     "recovered": 132
   },
+  "Central African Republic": {
+    "date": "2020-5-21",
+    "confirmed": 418,
+    "deaths": 0,
+    "recovered": 18
+  },
   "West Bank and Gaza": {
     "date": "2020-5-21",
     "confirmed": 398,
@@ -790,12 +796,6 @@
     "confirmed": 371,
     "deaths": 2,
     "recovered": 131
-  },
-  "Central African Republic": {
-    "date": "2020-5-21",
-    "confirmed": 366,
-    "deaths": 0,
-    "recovered": 18
   },
   "Cabo Verde": {
     "date": "2020-5-21",
@@ -929,17 +929,17 @@
     "deaths": 8,
     "recovered": 107
   },
+  "Bahamas": {
+    "date": "2020-5-21",
+    "confirmed": 97,
+    "deaths": 11,
+    "recovered": 43
+  },
   "Monaco": {
     "date": "2020-5-21",
     "confirmed": 97,
     "deaths": 4,
     "recovered": 90
-  },
-  "Bahamas": {
-    "date": "2020-5-21",
-    "confirmed": 96,
-    "deaths": 11,
-    "recovered": 43
   },
   "Barbados": {
     "date": "2020-5-21",
