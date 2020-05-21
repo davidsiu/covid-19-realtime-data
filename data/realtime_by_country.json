@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-21",
-    "confirmed": 1555537,
-    "deaths": 93558,
+    "confirmed": 1556749,
+    "deaths": 93606,
     "recovered": 294312
   },
   "Russia": {
@@ -25,8 +25,8 @@
   },
   "Spain": {
     "date": "2020-5-21",
-    "confirmed": 232555,
-    "deaths": 27888,
+    "confirmed": 233037,
+    "deaths": 27940,
     "recovered": 150376
   },
   "Italy": {
@@ -61,8 +61,8 @@
   },
   "India": {
     "date": "2020-5-21",
-    "confirmed": 113461,
-    "deaths": 3457,
+    "confirmed": 114478,
+    "deaths": 3465,
     "recovered": 46002
   },
   "Peru": {
@@ -79,7 +79,7 @@
   },
   "Canada": {
     "date": "2020-5-21",
-    "confirmed": 81575,
+    "confirmed": 81605,
     "deaths": 6150,
     "recovered": 40793
   },
@@ -158,8 +158,8 @@
   "Singapore": {
     "date": "2020-5-21",
     "confirmed": 29812,
-    "deaths": 22,
-    "recovered": 11207
+    "deaths": 23,
+    "recovered": 12117
   },
   "Bangladesh": {
     "date": "2020-5-21",
@@ -247,8 +247,8 @@
   },
   "Dominican Republic": {
     "date": "2020-5-21",
-    "confirmed": 13477,
-    "deaths": 446,
+    "confirmed": 13657,
+    "deaths": 448,
     "recovered": 7142
   },
   "Philippines": {
@@ -461,6 +461,12 @@
     "deaths": 140,
     "recovered": 1596
   },
+  "Tajikistan": {
+    "date": "2020-5-21",
+    "confirmed": 2350,
+    "deaths": 44,
+    "recovered": 470
+  },
   "Bulgaria": {
     "date": "2020-5-21",
     "confirmed": 2331,
@@ -484,12 +490,6 @@
     "confirmed": 2231,
     "deaths": 29,
     "recovered": 1083
-  },
-  "Tajikistan": {
-    "date": "2020-5-21",
-    "confirmed": 2140,
-    "deaths": 41,
-    "recovered": 470
   },
   "Cuba": {
     "date": "2020-5-21",
@@ -877,7 +877,7 @@
   },
   "Mozambique": {
     "date": "2020-5-21",
-    "confirmed": 156,
+    "confirmed": 162,
     "deaths": 0,
     "recovered": 48
   },
@@ -919,7 +919,7 @@
   },
   "Cambodia": {
     "date": "2020-5-21",
-    "confirmed": 122,
+    "confirmed": 123,
     "deaths": 0,
     "recovered": 122
   },
@@ -953,17 +953,17 @@
     "deaths": 1,
     "recovered": 55
   },
+  "Libya": {
+    "date": "2020-5-21",
+    "confirmed": 71,
+    "deaths": 3,
+    "recovered": 35
+  },
   "Malawi": {
     "date": "2020-5-21",
     "confirmed": 71,
     "deaths": 3,
     "recovered": 27
-  },
-  "Libya": {
-    "date": "2020-5-21",
-    "confirmed": 69,
-    "deaths": 3,
-    "recovered": 35
   },
   "Angola": {
     "date": "2020-5-21",
