@@ -44,8 +44,8 @@
   "Germany": {
     "date": "2020-5-22",
     "confirmed": 179021,
-    "deaths": 8203,
-    "recovered": 158087
+    "deaths": 8212,
+    "recovered": 158427
   },
   "Turkey": {
     "date": "2020-5-22",
@@ -185,17 +185,17 @@
     "deaths": 1278,
     "recovered": 4838
   },
+  "Ukraine": {
+    "date": "2020-5-22",
+    "confirmed": 20148,
+    "deaths": 588,
+    "recovered": 6585
+  },
   "Poland": {
     "date": "2020-5-22",
     "confirmed": 20143,
     "deaths": 972,
     "recovered": 8452
-  },
-  "Ukraine": {
-    "date": "2020-5-22",
-    "confirmed": 19706,
-    "deaths": 579,
-    "recovered": 6227
   },
   "South Africa": {
     "date": "2020-5-22",
@@ -223,9 +223,9 @@
   },
   "Israel": {
     "date": "2020-5-22",
-    "confirmed": 16683,
+    "confirmed": 16690,
     "deaths": 279,
-    "recovered": 13724
+    "recovered": 13915
   },
   "Japan": {
     "date": "2020-5-22",
@@ -439,7 +439,7 @@
   },
   "Uzbekistan": {
     "date": "2020-5-22",
-    "confirmed": 2967,
+    "confirmed": 3006,
     "deaths": 13,
     "recovered": 2407
   },
@@ -461,6 +461,12 @@
     "deaths": 48,
     "recovered": 222
   },
+  "Bulgaria": {
+    "date": "2020-5-22",
+    "confirmed": 2372,
+    "deaths": 125,
+    "recovered": 769
+  },
   "Bosnia and Herzegovina": {
     "date": "2020-5-22",
     "confirmed": 2350,
@@ -472,12 +478,6 @@
     "confirmed": 2350,
     "deaths": 44,
     "recovered": 1008
-  },
-  "Bulgaria": {
-    "date": "2020-5-22",
-    "confirmed": 2331,
-    "deaths": 120,
-    "recovered": 727
   },
   "Cote d'Ivoire": {
     "date": "2020-5-22",
@@ -703,9 +703,9 @@
   },
   "Georgia": {
     "date": "2020-5-22",
-    "confirmed": 721,
+    "confirmed": 723,
     "deaths": 12,
-    "recovered": 485
+    "recovered": 495
   },
   "Diamond Princess": {
     "date": "2020-5-22",
