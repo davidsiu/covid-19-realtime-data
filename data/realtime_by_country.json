@@ -1,9 +1,15 @@
 {
   "US": {
     "date": "2020-5-22",
-    "confirmed": 1598631,
-    "deaths": 95847,
-    "recovered": 298418
+    "confirmed": 1599740,
+    "deaths": 95886,
+    "recovered": 350135
+  },
+  "Brazil": {
+    "date": "2020-5-22",
+    "confirmed": 330890,
+    "deaths": 21048,
+    "recovered": 135430
   },
   "Russia": {
     "date": "2020-5-22",
@@ -11,17 +17,11 @@
     "deaths": 3249,
     "recovered": 99825
   },
-  "Brazil": {
-    "date": "2020-5-22",
-    "confirmed": 310087,
-    "deaths": 20047,
-    "recovered": 125960
-  },
   "United Kingdom": {
     "date": "2020-5-22",
-    "confirmed": 255541,
+    "confirmed": 255544,
     "deaths": 36475,
-    "recovered": 1141
+    "recovered": 1142
   },
   "Spain": {
     "date": "2020-5-22",
@@ -79,9 +79,9 @@
   },
   "Canada": {
     "date": "2020-5-22",
-    "confirmed": 83836,
-    "deaths": 6353,
-    "recovered": 42497
+    "confirmed": 83917,
+    "deaths": 6356,
+    "recovered": 42588
   },
   "Saudi Arabia": {
     "date": "2020-5-22",
@@ -211,9 +211,9 @@
   },
   "Colombia": {
     "date": "2020-5-22",
-    "confirmed": 18330,
-    "deaths": 652,
-    "recovered": 4431
+    "confirmed": 19131,
+    "deaths": 682,
+    "recovered": 4575
   },
   "Romania": {
     "date": "2020-5-22",
@@ -275,17 +275,17 @@
     "deaths": 237,
     "recovered": 5541
   },
-  "Panama": {
-    "date": "2020-5-22",
-    "confirmed": 10116,
-    "deaths": 291,
-    "recovered": 6245
-  },
   "Argentina": {
     "date": "2020-5-22",
-    "confirmed": 9931,
-    "deaths": 419,
+    "confirmed": 10649,
+    "deaths": 433,
     "recovered": 3062
+  },
+  "Panama": {
+    "date": "2020-5-22",
+    "confirmed": 10267,
+    "deaths": 295,
+    "recovered": 6275
   },
   "Afghanistan": {
     "date": "2020-5-22",
@@ -295,9 +295,9 @@
   },
   "Czechia": {
     "date": "2020-5-22",
-    "confirmed": 8770,
+    "confirmed": 8813,
     "deaths": 312,
-    "recovered": 6019
+    "recovered": 6025
   },
   "Bahrain": {
     "date": "2020-5-22",
@@ -307,7 +307,7 @@
   },
   "Norway": {
     "date": "2020-5-22",
-    "confirmed": 8322,
+    "confirmed": 8332,
     "deaths": 235,
     "recovered": 7727
   },
@@ -329,6 +329,12 @@
     "deaths": 197,
     "recovered": 4377
   },
+  "Nigeria": {
+    "date": "2020-5-22",
+    "confirmed": 7261,
+    "deaths": 221,
+    "recovered": 2007
+  },
   "Malaysia": {
     "date": "2020-5-22",
     "confirmed": 7137,
@@ -340,12 +346,6 @@
     "confirmed": 7095,
     "deaths": 101,
     "recovered": 6479
-  },
-  "Nigeria": {
-    "date": "2020-5-22",
-    "confirmed": 7016,
-    "deaths": 211,
-    "recovered": 1907
   },
   "Moldova": {
     "date": "2020-5-22",
@@ -428,7 +428,7 @@
   "Guinea": {
     "date": "2020-5-22",
     "confirmed": 3067,
-    "deaths": 18,
+    "deaths": 19,
     "recovered": 1575
   },
   "Thailand": {
@@ -527,6 +527,12 @@
     "deaths": 10,
     "recovered": 1791
   },
+  "Gabon": {
+    "date": "2020-5-22",
+    "confirmed": 1728,
+    "deaths": 12,
+    "recovered": 402
+  },
   "El Salvador": {
     "date": "2020-5-22",
     "confirmed": 1725,
@@ -544,12 +550,6 @@
     "confirmed": 1594,
     "deaths": 61,
     "recovered": 204
-  },
-  "Gabon": {
-    "date": "2020-5-22",
-    "confirmed": 1567,
-    "deaths": 12,
-    "recovered": 365
   },
   "New Zealand": {
     "date": "2020-5-22",
@@ -589,7 +589,7 @@
   },
   "Guinea-Bissau": {
     "date": "2020-5-22",
-    "confirmed": 1109,
+    "confirmed": 1114,
     "deaths": 6,
     "recovered": 42
   },
@@ -691,9 +691,9 @@
   },
   "Uruguay": {
     "date": "2020-5-22",
-    "confirmed": 749,
+    "confirmed": 753,
     "deaths": 20,
-    "recovered": 594
+    "recovered": 603
   },
   "Haiti": {
     "date": "2020-5-22",
@@ -881,17 +881,17 @@
     "deaths": 6,
     "recovered": 116
   },
+  "Uganda": {
+    "date": "2020-5-22",
+    "confirmed": 175,
+    "deaths": 0,
+    "recovered": 68
+  },
   "Mozambique": {
     "date": "2020-5-22",
     "confirmed": 164,
     "deaths": 0,
     "recovered": 48
-  },
-  "Uganda": {
-    "date": "2020-5-22",
-    "confirmed": 160,
-    "deaths": 0,
-    "recovered": 66
   },
   "Brunei": {
     "date": "2020-5-22",
