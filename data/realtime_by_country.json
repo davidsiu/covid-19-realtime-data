@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-5-23",
-    "confirmed": 1618471,
-    "deaths": 96875,
-    "recovered": 350135
+    "confirmed": 1618948,
+    "deaths": 96983,
+    "recovered": 361239
   },
   "Russia": {
     "date": "2020-5-23",
@@ -37,13 +37,13 @@
   },
   "France": {
     "date": "2020-5-23",
-    "confirmed": 182018,
+    "confirmed": 182036,
     "deaths": 28218,
-    "recovered": 63986
+    "recovered": 63988
   },
   "Germany": {
     "date": "2020-5-23",
-    "confirmed": 179945,
+    "confirmed": 179986,
     "deaths": 8261,
     "recovered": 159716
   },
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-5-23",
-    "confirmed": 85090,
-    "deaths": 6453,
-    "recovered": 43250
+    "confirmed": 85149,
+    "deaths": 6466,
+    "recovered": 43318
   },
   "China": {
     "date": "2020-5-23",
@@ -211,9 +211,9 @@
   },
   "Colombia": {
     "date": "2020-5-23",
-    "confirmed": 19131,
-    "deaths": 682,
-    "recovered": 4575
+    "confirmed": 20177,
+    "deaths": 705,
+    "recovered": 4718
   },
   "Romania": {
     "date": "2020-5-23",
@@ -263,6 +263,12 @@
     "deaths": 561,
     "recovered": 10034
   },
+  "Argentina": {
+    "date": "2020-5-23",
+    "confirmed": 11353,
+    "deaths": 445,
+    "recovered": 3530
+  },
   "Korea, South": {
     "date": "2020-5-23",
     "confirmed": 11165,
@@ -274,12 +280,6 @@
     "confirmed": 11092,
     "deaths": 238,
     "recovered": 5699
-  },
-  "Argentina": {
-    "date": "2020-5-23",
-    "confirmed": 10649,
-    "deaths": 439,
-    "recovered": 3530
   },
   "Panama": {
     "date": "2020-5-23",
@@ -725,6 +725,12 @@
     "deaths": 42,
     "recovered": 266
   },
+  "South Sudan": {
+    "date": "2020-5-23",
+    "confirmed": 655,
+    "deaths": 8,
+    "recovered": 6
+  },
   "Chad": {
     "date": "2020-5-23",
     "confirmed": 648,
@@ -748,12 +754,6 @@
     "confirmed": 584,
     "deaths": 3,
     "recovered": 70
-  },
-  "South Sudan": {
-    "date": "2020-5-23",
-    "confirmed": 563,
-    "deaths": 6,
-    "recovered": 6
   },
   "Central African Republic": {
     "date": "2020-5-23",
@@ -883,7 +883,7 @@
   },
   "Uganda": {
     "date": "2020-5-23",
-    "confirmed": 175,
+    "confirmed": 198,
     "deaths": 0,
     "recovered": 68
   },
