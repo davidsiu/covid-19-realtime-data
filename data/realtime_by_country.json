@@ -44,8 +44,8 @@
   "Germany": {
     "date": "2020-5-23",
     "confirmed": 179710,
-    "deaths": 8228,
-    "recovered": 159064
+    "deaths": 8241,
+    "recovered": 159364
   },
   "Turkey": {
     "date": "2020-5-23",
@@ -143,17 +143,17 @@
     "deaths": 3925,
     "recovered": 4971
   },
+  "Singapore": {
+    "date": "2020-5-23",
+    "confirmed": 31068,
+    "deaths": 23,
+    "recovered": 12995
+  },
   "Switzerland": {
     "date": "2020-5-23",
     "confirmed": 30707,
     "deaths": 1903,
     "recovered": 27900
-  },
-  "Singapore": {
-    "date": "2020-5-23",
-    "confirmed": 30426,
-    "deaths": 23,
-    "recovered": 12995
   },
   "Bangladesh": {
     "date": "2020-5-23",
@@ -189,7 +189,7 @@
     "date": "2020-5-23",
     "confirmed": 20619,
     "deaths": 982,
-    "recovered": 8731
+    "recovered": 8977
   },
   "Ukraine": {
     "date": "2020-5-23",
@@ -359,23 +359,23 @@
     "deaths": 34,
     "recovered": 1821
   },
+  "Ghana": {
+    "date": "2020-5-23",
+    "confirmed": 6617,
+    "deaths": 31,
+    "recovered": 1976
+  },
   "Finland": {
     "date": "2020-5-23",
     "confirmed": 6537,
     "deaths": 306,
     "recovered": 4800
   },
-  "Ghana": {
-    "date": "2020-5-23",
-    "confirmed": 6486,
-    "deaths": 31,
-    "recovered": 1951
-  },
   "Armenia": {
     "date": "2020-5-23",
-    "confirmed": 5928,
-    "deaths": 74,
-    "recovered": 2874
+    "confirmed": 6302,
+    "deaths": 77,
+    "recovered": 2936
   },
   "Bolivia": {
     "date": "2020-5-23",
@@ -515,6 +515,12 @@
     "deaths": 81,
     "recovered": 1631
   },
+  "El Salvador": {
+    "date": "2020-5-23",
+    "confirmed": 1819,
+    "deaths": 33,
+    "recovered": 570
+  },
   "Estonia": {
     "date": "2020-5-23",
     "confirmed": 1807,
@@ -532,12 +538,6 @@
     "confirmed": 1728,
     "deaths": 12,
     "recovered": 402
-  },
-  "El Salvador": {
-    "date": "2020-5-23",
-    "confirmed": 1725,
-    "deaths": 33,
-    "recovered": 570
   },
   "Lithuania": {
     "date": "2020-5-23",
@@ -613,7 +613,7 @@
   },
   "Latvia": {
     "date": "2020-5-23",
-    "confirmed": 1030,
+    "confirmed": 1046,
     "deaths": 22,
     "recovered": 712
   },
@@ -703,9 +703,9 @@
   },
   "Georgia": {
     "date": "2020-5-23",
-    "confirmed": 723,
+    "confirmed": 728,
     "deaths": 12,
-    "recovered": 495
+    "recovered": 509
   },
   "Diamond Princess": {
     "date": "2020-5-23",
