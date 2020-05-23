@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-23",
-    "confirmed": 1600481,
-    "deaths": 95921,
+    "confirmed": 1600723,
+    "deaths": 95972,
     "recovered": 350135
   },
   "Brazil": {
@@ -37,9 +37,9 @@
   },
   "France": {
     "date": "2020-5-23",
-    "confirmed": 182002,
+    "confirmed": 182015,
     "deaths": 28218,
-    "recovered": 63976
+    "recovered": 63986
   },
   "Germany": {
     "date": "2020-5-23",
@@ -81,7 +81,7 @@
     "date": "2020-5-23",
     "confirmed": 83945,
     "deaths": 6359,
-    "recovered": 42610
+    "recovered": 42608
   },
   "Saudi Arabia": {
     "date": "2020-5-23",
@@ -89,17 +89,17 @@
     "deaths": 364,
     "recovered": 39003
   },
+  "Mexico": {
+    "date": "2020-5-23",
+    "confirmed": 62527,
+    "deaths": 6989,
+    "recovered": 42191
+  },
   "Chile": {
     "date": "2020-5-23",
     "confirmed": 61857,
     "deaths": 630,
     "recovered": 25342
-  },
-  "Mexico": {
-    "date": "2020-5-23",
-    "confirmed": 59567,
-    "deaths": 6510,
-    "recovered": 40152
   },
   "Belgium": {
     "date": "2020-5-23",
@@ -227,17 +227,17 @@
     "deaths": 279,
     "recovered": 13915
   },
+  "Japan": {
+    "date": "2020-5-23",
+    "confirmed": 16513,
+    "deaths": 796,
+    "recovered": 13005
+  },
   "Austria": {
     "date": "2020-5-23",
     "confirmed": 16436,
     "deaths": 635,
     "recovered": 15005
-  },
-  "Japan": {
-    "date": "2020-5-23",
-    "confirmed": 16424,
-    "deaths": 777,
-    "recovered": 12672
   },
   "Egypt": {
     "date": "2020-5-23",
@@ -641,6 +641,12 @@
     "deaths": 11,
     "recovered": 165
   },
+  "Venezuela": {
+    "date": "2020-5-23",
+    "confirmed": 944,
+    "deaths": 10,
+    "recovered": 262
+  },
   "Niger": {
     "date": "2020-5-23",
     "confirmed": 937,
@@ -664,12 +670,6 @@
     "confirmed": 911,
     "deaths": 10,
     "recovered": 600
-  },
-  "Venezuela": {
-    "date": "2020-5-23",
-    "confirmed": 882,
-    "deaths": 10,
-    "recovered": 262
   },
   "Paraguay": {
     "date": "2020-5-23",
@@ -831,7 +831,7 @@
     "date": "2020-5-23",
     "confirmed": 324,
     "deaths": 0,
-    "recovered": 266
+    "recovered": 267
   },
   "Rwanda": {
     "date": "2020-5-23",
