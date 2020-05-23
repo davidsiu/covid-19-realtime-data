@@ -143,6 +143,12 @@
     "deaths": 3925,
     "recovered": 4971
   },
+  "Bangladesh": {
+    "date": "2020-5-23",
+    "confirmed": 32078,
+    "deaths": 452,
+    "recovered": 6486
+  },
   "Singapore": {
     "date": "2020-5-23",
     "confirmed": 31068,
@@ -154,12 +160,6 @@
     "confirmed": 30707,
     "deaths": 1903,
     "recovered": 27900
-  },
-  "Bangladesh": {
-    "date": "2020-5-23",
-    "confirmed": 30205,
-    "deaths": 432,
-    "recovered": 6190
   },
   "Portugal": {
     "date": "2020-5-23",
@@ -179,17 +179,17 @@
     "deaths": 1592,
     "recovered": 21060
   },
+  "Indonesia": {
+    "date": "2020-5-23",
+    "confirmed": 21745,
+    "deaths": 1351,
+    "recovered": 5249
+  },
   "Poland": {
     "date": "2020-5-23",
     "confirmed": 20838,
     "deaths": 990,
     "recovered": 8977
-  },
-  "Indonesia": {
-    "date": "2020-5-23",
-    "confirmed": 20796,
-    "deaths": 1326,
-    "recovered": 5057
   },
   "Ukraine": {
     "date": "2020-5-23",
@@ -235,9 +235,9 @@
   },
   "Austria": {
     "date": "2020-5-23",
-    "confirmed": 16436,
-    "deaths": 635,
-    "recovered": 15005
+    "confirmed": 16486,
+    "deaths": 639,
+    "recovered": 15037
   },
   "Egypt": {
     "date": "2020-5-23",
@@ -335,11 +335,17 @@
     "deaths": 221,
     "recovered": 2007
   },
+  "Oman": {
+    "date": "2020-5-23",
+    "confirmed": 7257,
+    "deaths": 34,
+    "recovered": 1848
+  },
   "Malaysia": {
     "date": "2020-5-23",
-    "confirmed": 7137,
+    "confirmed": 7185,
     "deaths": 115,
-    "recovered": 5859
+    "recovered": 5912
   },
   "Australia": {
     "date": "2020-5-23",
@@ -353,12 +359,6 @@
     "deaths": 237,
     "recovered": 3369
   },
-  "Oman": {
-    "date": "2020-5-23",
-    "confirmed": 6794,
-    "deaths": 34,
-    "recovered": 1821
-  },
   "Ghana": {
     "date": "2020-5-23",
     "confirmed": 6617,
@@ -367,7 +367,7 @@
   },
   "Finland": {
     "date": "2020-5-23",
-    "confirmed": 6537,
+    "confirmed": 6568,
     "deaths": 306,
     "recovered": 4800
   },
@@ -499,7 +499,7 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-5-23",
-    "confirmed": 1945,
+    "confirmed": 2025,
     "deaths": 63,
     "recovered": 312
   },
@@ -583,7 +583,7 @@
   },
   "Kenya": {
     "date": "2020-5-23",
-    "confirmed": 1161,
+    "confirmed": 1192,
     "deaths": 50,
     "recovered": 380
   },
