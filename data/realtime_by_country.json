@@ -44,8 +44,8 @@
   "Germany": {
     "date": "2020-5-25",
     "confirmed": 180328,
-    "deaths": 8283,
-    "recovered": 160281
+    "deaths": 8287,
+    "recovered": 160881
   },
   "Turkey": {
     "date": "2020-5-25",
@@ -151,7 +151,7 @@
   },
   "Singapore": {
     "date": "2020-5-25",
-    "confirmed": 31616,
+    "confirmed": 31960,
     "deaths": 23,
     "recovered": 14876
   },
@@ -195,7 +195,7 @@
     "date": "2020-5-25",
     "confirmed": 21326,
     "deaths": 996,
-    "recovered": 9194
+    "recovered": 9276
   },
   "Kuwait": {
     "date": "2020-5-25",
@@ -203,17 +203,17 @@
     "deaths": 156,
     "recovered": 6117
   },
+  "Ukraine": {
+    "date": "2020-5-25",
+    "confirmed": 21245,
+    "deaths": 623,
+    "recovered": 7234
+  },
   "Colombia": {
     "date": "2020-5-25",
     "confirmed": 21175,
     "deaths": 727,
     "recovered": 5016
-  },
-  "Ukraine": {
-    "date": "2020-5-25",
-    "confirmed": 20986,
-    "deaths": 617,
-    "recovered": 7108
   },
   "Romania": {
     "date": "2020-5-25",
@@ -353,6 +353,12 @@
     "deaths": 102,
     "recovered": 6531
   },
+  "Armenia": {
+    "date": "2020-5-25",
+    "confirmed": 7113,
+    "deaths": 87,
+    "recovered": 3145
+  },
   "Moldova": {
     "date": "2020-5-25",
     "confirmed": 7093,
@@ -364,12 +370,6 @@
     "confirmed": 6683,
     "deaths": 32,
     "recovered": 1998
-  },
-  "Armenia": {
-    "date": "2020-5-25",
-    "confirmed": 6661,
-    "deaths": 81,
-    "recovered": 3064
   },
   "Finland": {
     "date": "2020-5-25",
@@ -529,9 +529,9 @@
   },
   "Estonia": {
     "date": "2020-5-25",
-    "confirmed": 1823,
-    "deaths": 64,
-    "recovered": 1532
+    "confirmed": 1824,
+    "deaths": 65,
+    "recovered": 1538
   },
   "Iceland": {
     "date": "2020-5-25",
@@ -619,7 +619,7 @@
   },
   "Latvia": {
     "date": "2020-5-25",
-    "confirmed": 1047,
+    "confirmed": 1049,
     "deaths": 22,
     "recovered": 712
   },
@@ -703,9 +703,9 @@
   },
   "Georgia": {
     "date": "2020-5-25",
-    "confirmed": 730,
+    "confirmed": 731,
     "deaths": 12,
-    "recovered": 522
+    "recovered": 526
   },
   "Diamond Princess": {
     "date": "2020-5-25",
