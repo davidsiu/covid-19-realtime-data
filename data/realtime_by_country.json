@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-26",
-    "confirmed": 1662302,
-    "deaths": 98220,
+    "confirmed": 1662768,
+    "deaths": 98223,
     "recovered": 379157
   },
   "Brazil": {
@@ -55,7 +55,7 @@
   },
   "India": {
     "date": "2020-5-26",
-    "confirmed": 144950,
+    "confirmed": 145456,
     "deaths": 4172,
     "recovered": 60706
   },
@@ -73,7 +73,7 @@
   },
   "Canada": {
     "date": "2020-5-26",
-    "confirmed": 87119,
+    "confirmed": 87122,
     "deaths": 6655,
     "recovered": 44651
   },
@@ -101,17 +101,17 @@
     "deaths": 7633,
     "recovered": 49452
   },
+  "Pakistan": {
+    "date": "2020-5-26",
+    "confirmed": 57705,
+    "deaths": 1197,
+    "recovered": 18314
+  },
   "Belgium": {
     "date": "2020-5-26",
     "confirmed": 57342,
     "deaths": 9312,
     "recovered": 15297
-  },
-  "Pakistan": {
-    "date": "2020-5-26",
-    "confirmed": 56349,
-    "deaths": 1167,
-    "recovered": 17482
   },
   "Netherlands": {
     "date": "2020-5-26",
@@ -571,9 +571,9 @@
   },
   "Kyrgyzstan": {
     "date": "2020-5-26",
-    "confirmed": 1433,
+    "confirmed": 1468,
     "deaths": 16,
-    "recovered": 992
+    "recovered": 1015
   },
   "Maldives": {
     "date": "2020-5-26",
@@ -611,6 +611,12 @@
     "deaths": 26,
     "recovered": 688
   },
+  "Haiti": {
+    "date": "2020-5-26",
+    "confirmed": 1063,
+    "deaths": 31,
+    "recovered": 22
+  },
   "Mali": {
     "date": "2020-5-26",
     "confirmed": 1059,
@@ -646,12 +652,6 @@
     "confirmed": 1004,
     "deaths": 32,
     "recovered": 795
-  },
-  "Haiti": {
-    "date": "2020-5-26",
-    "confirmed": 958,
-    "deaths": 27,
-    "recovered": 22
   },
   "Costa Rica": {
     "date": "2020-5-26",
