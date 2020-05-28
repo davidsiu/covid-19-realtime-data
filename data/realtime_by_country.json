@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-28",
-    "confirmed": 1700350,
-    "deaths": 100467,
+    "confirmed": 1702911,
+    "deaths": 100576,
     "recovered": 391508
   },
   "Brazil": {
@@ -25,8 +25,8 @@
   },
   "Spain": {
     "date": "2020-5-28",
-    "confirmed": 236259,
-    "deaths": 27117,
+    "confirmed": 236769,
+    "deaths": 27118,
     "recovered": 150376
   },
   "Italy": {
@@ -44,20 +44,20 @@
   "Germany": {
     "date": "2020-5-28",
     "confirmed": 181918,
-    "deaths": 8449,
-    "recovered": 163047
+    "deaths": 8463,
+    "recovered": 163152
+  },
+  "India": {
+    "date": "2020-5-28",
+    "confirmed": 160310,
+    "deaths": 4560,
+    "recovered": 68713
   },
   "Turkey": {
     "date": "2020-5-28",
     "confirmed": 159797,
     "deaths": 4431,
     "recovered": 122793
-  },
-  "India": {
-    "date": "2020-5-28",
-    "confirmed": 159138,
-    "deaths": 4542,
-    "recovered": 67983
   },
   "Iran": {
     "date": "2020-5-28",
@@ -170,7 +170,7 @@
   "Switzerland": {
     "date": "2020-5-28",
     "confirmed": 30796,
-    "deaths": 1917,
+    "deaths": 1919,
     "recovered": 28300
   },
   "South Africa": {
@@ -224,7 +224,7 @@
   "Romania": {
     "date": "2020-5-28",
     "confirmed": 18791,
-    "deaths": 1229,
+    "deaths": 1231,
     "recovered": 12629
   },
   "Israel": {
@@ -347,6 +347,12 @@
     "deaths": 280,
     "recovered": 689
   },
+  "Moldova": {
+    "date": "2020-5-28",
+    "confirmed": 7725,
+    "deaths": 282,
+    "recovered": 4123
+  },
   "Morocco": {
     "date": "2020-5-28",
     "confirmed": 7636,
@@ -358,12 +364,6 @@
     "confirmed": 7629,
     "deaths": 115,
     "recovered": 6169
-  },
-  "Moldova": {
-    "date": "2020-5-28",
-    "confirmed": 7537,
-    "deaths": 276,
-    "recovered": 4123
   },
   "Ghana": {
     "date": "2020-5-28",
@@ -383,17 +383,17 @@
     "deaths": 313,
     "recovered": 5500
   },
+  "Iraq": {
+    "date": "2020-5-28",
+    "confirmed": 5457,
+    "deaths": 179,
+    "recovered": 2971
+  },
   "Cameroon": {
     "date": "2020-5-28",
     "confirmed": 5436,
     "deaths": 175,
     "recovered": 1996
-  },
-  "Iraq": {
-    "date": "2020-5-28",
-    "confirmed": 5135,
-    "deaths": 175,
-    "recovered": 2904
   },
   "Honduras": {
     "date": "2020-5-28",
@@ -441,7 +441,7 @@
     "date": "2020-5-28",
     "confirmed": 3437,
     "deaths": 14,
-    "recovered": 2685
+    "recovered": 2694
   },
   "Senegal": {
     "date": "2020-5-28",
@@ -577,7 +577,7 @@
   },
   "Sri Lanka": {
     "date": "2020-5-28",
-    "confirmed": 1486,
+    "confirmed": 1503,
     "deaths": 10,
     "recovered": 745
   },
