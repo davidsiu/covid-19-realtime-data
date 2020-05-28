@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-28",
-    "confirmed": 1711313,
-    "deaths": 101129,
+    "confirmed": 1712816,
+    "deaths": 101196,
     "recovered": 391508
   },
   "Brazil": {
@@ -37,9 +37,9 @@
   },
   "France": {
     "date": "2020-5-28",
-    "confirmed": 183038,
-    "deaths": 28599,
-    "recovered": 66702
+    "confirmed": 186364,
+    "deaths": 28665,
+    "recovered": 67309
   },
   "Germany": {
     "date": "2020-5-28",
@@ -49,9 +49,9 @@
   },
   "India": {
     "date": "2020-5-28",
-    "confirmed": 165362,
+    "confirmed": 165386,
     "deaths": 4711,
-    "recovered": 70788
+    "recovered": 70920
   },
   "Turkey": {
     "date": "2020-5-28",
@@ -73,8 +73,8 @@
   },
   "Canada": {
     "date": "2020-5-28",
-    "confirmed": 89710,
-    "deaths": 6956,
+    "confirmed": 89715,
+    "deaths": 6958,
     "recovered": 46781
   },
   "Chile": {
@@ -295,9 +295,9 @@
   },
   "Bahrain": {
     "date": "2020-5-28",
-    "confirmed": 9977,
+    "confirmed": 10052,
     "deaths": 15,
-    "recovered": 5295
+    "recovered": 5419
   },
   "Kazakhstan": {
     "date": "2020-5-28",
@@ -665,17 +665,17 @@
     "deaths": 5,
     "recovered": 187
   },
+  "Costa Rica": {
+    "date": "2020-5-28",
+    "confirmed": 1000,
+    "deaths": 10,
+    "recovered": 646
+  },
   "South Sudan": {
     "date": "2020-5-28",
     "confirmed": 994,
     "deaths": 10,
     "recovered": 6
-  },
-  "Costa Rica": {
-    "date": "2020-5-28",
-    "confirmed": 984,
-    "deaths": 10,
-    "recovered": 639
   },
   "Niger": {
     "date": "2020-5-28",
@@ -817,9 +817,9 @@
   },
   "Togo": {
     "date": "2020-5-28",
-    "confirmed": 395,
+    "confirmed": 422,
     "deaths": 13,
-    "recovered": 183
+    "recovered": 197
   },
   "Cabo Verde": {
     "date": "2020-5-28",
@@ -829,9 +829,15 @@
   },
   "Rwanda": {
     "date": "2020-5-28",
-    "confirmed": 346,
+    "confirmed": 349,
     "deaths": 0,
     "recovered": 245
+  },
+  "Mauritania": {
+    "date": "2020-5-28",
+    "confirmed": 346,
+    "deaths": 19,
+    "recovered": 15
   },
   "Mauritius": {
     "date": "2020-5-28",
@@ -850,12 +856,6 @@
     "confirmed": 324,
     "deaths": 9,
     "recovered": 315
-  },
-  "Mauritania": {
-    "date": "2020-5-28",
-    "confirmed": 292,
-    "deaths": 16,
-    "recovered": 15
   },
   "Uganda": {
     "date": "2020-5-28",
