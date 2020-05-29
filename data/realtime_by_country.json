@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-5-29",
-    "confirmed": 1740599,
-    "deaths": 102516,
-    "recovered": 399991
+    "confirmed": 1743235,
+    "deaths": 102686,
+    "recovered": 406446
   },
   "Brazil": {
     "date": "2020-5-29",
@@ -19,9 +19,9 @@
   },
   "United Kingdom": {
     "date": "2020-5-29",
-    "confirmed": 272606,
+    "confirmed": 272607,
     "deaths": 38243,
-    "recovered": 1171
+    "recovered": 1172
   },
   "Spain": {
     "date": "2020-5-29",
@@ -73,9 +73,9 @@
   },
   "Canada": {
     "date": "2020-5-29",
-    "confirmed": 90861,
-    "deaths": 7054,
-    "recovered": 47631
+    "confirmed": 90881,
+    "deaths": 7063,
+    "recovered": 47821
   },
   "Chile": {
     "date": "2020-5-29",
@@ -439,9 +439,9 @@
   },
   "Guinea": {
     "date": "2020-5-29",
-    "confirmed": 3553,
+    "confirmed": 3656,
     "deaths": 22,
-    "recovered": 1950
+    "recovered": 2000
   },
   "Uzbekistan": {
     "date": "2020-5-29",
@@ -481,9 +481,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-5-29",
-    "confirmed": 2641,
+    "confirmed": 2750,
     "deaths": 32,
-    "recovered": 1326
+    "recovered": 1370
   },
   "Bosnia and Herzegovina": {
     "date": "2020-5-29",
@@ -569,17 +569,17 @@
     "deaths": 10,
     "recovered": 754
   },
+  "Maldives": {
+    "date": "2020-5-29",
+    "confirmed": 1547,
+    "deaths": 5,
+    "recovered": 197
+  },
   "Slovakia": {
     "date": "2020-5-29",
     "confirmed": 1520,
     "deaths": 28,
     "recovered": 1338
-  },
-  "Maldives": {
-    "date": "2020-5-29",
-    "confirmed": 1513,
-    "deaths": 5,
-    "recovered": 197
   },
   "New Zealand": {
     "date": "2020-5-29",
@@ -611,6 +611,12 @@
     "deaths": 12,
     "recovered": 200
   },
+  "Guinea-Bissau": {
+    "date": "2020-5-29",
+    "confirmed": 1256,
+    "deaths": 8,
+    "recovered": 42
+  },
   "Mali": {
     "date": "2020-5-29",
     "confirmed": 1226,
@@ -622,12 +628,6 @@
     "confirmed": 1212,
     "deaths": 6,
     "recovered": 206
-  },
-  "Guinea-Bissau": {
-    "date": "2020-5-29",
-    "confirmed": 1195,
-    "deaths": 8,
-    "recovered": 42
   },
   "Lebanon": {
     "date": "2020-5-29",
@@ -705,7 +705,7 @@
     "date": "2020-5-29",
     "confirmed": 847,
     "deaths": 53,
-    "recovered": 719
+    "recovered": 720
   },
   "Sierra Leone": {
     "date": "2020-5-29",
@@ -815,17 +815,17 @@
     "deaths": 7,
     "recovered": 420
   },
+  "Togo": {
+    "date": "2020-5-29",
+    "confirmed": 428,
+    "deaths": 13,
+    "recovered": 202
+  },
   "Mauritania": {
     "date": "2020-5-29",
     "confirmed": 423,
     "deaths": 20,
     "recovered": 21
-  },
-  "Togo": {
-    "date": "2020-5-29",
-    "confirmed": 422,
-    "deaths": 13,
-    "recovered": 197
   },
   "Cabo Verde": {
     "date": "2020-5-29",
@@ -835,15 +835,21 @@
   },
   "Rwanda": {
     "date": "2020-5-29",
-    "confirmed": 349,
+    "confirmed": 355,
     "deaths": 0,
-    "recovered": 245
+    "recovered": 247
   },
   "Mauritius": {
     "date": "2020-5-29",
     "confirmed": 335,
     "deaths": 10,
     "recovered": 322
+  },
+  "Uganda": {
+    "date": "2020-5-29",
+    "confirmed": 329,
+    "deaths": 0,
+    "recovered": 72
   },
   "Vietnam": {
     "date": "2020-5-29",
@@ -856,12 +862,6 @@
     "confirmed": 324,
     "deaths": 9,
     "recovered": 315
-  },
-  "Uganda": {
-    "date": "2020-5-29",
-    "confirmed": 317,
-    "deaths": 0,
-    "recovered": 69
   },
   "Yemen": {
     "date": "2020-5-29",
@@ -941,17 +941,17 @@
     "deaths": 4,
     "recovered": 43
   },
+  "Libya": {
+    "date": "2020-5-29",
+    "confirmed": 118,
+    "deaths": 5,
+    "recovered": 41
+  },
   "Trinidad and Tobago": {
     "date": "2020-5-29",
     "confirmed": 116,
     "deaths": 8,
     "recovered": 108
-  },
-  "Libya": {
-    "date": "2020-5-29",
-    "confirmed": 105,
-    "deaths": 5,
-    "recovered": 41
   },
   "Bahamas": {
     "date": "2020-5-29",
@@ -985,7 +985,7 @@
   },
   "Angola": {
     "date": "2020-5-29",
-    "confirmed": 74,
+    "confirmed": 81,
     "deaths": 4,
     "recovered": 18
   },
