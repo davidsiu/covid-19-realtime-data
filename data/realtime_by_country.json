@@ -43,15 +43,15 @@
   },
   "Germany": {
     "date": "2020-5-29",
-    "confirmed": 182450,
+    "confirmed": 182559,
     "deaths": 8472,
-    "recovered": 164080
+    "recovered": 164120
   },
   "India": {
     "date": "2020-5-29",
     "confirmed": 167442,
     "deaths": 4797,
-    "recovered": 71369
+    "recovered": 71385
   },
   "Turkey": {
     "date": "2020-5-29",
@@ -61,9 +61,9 @@
   },
   "Iran": {
     "date": "2020-5-29",
-    "confirmed": 143849,
-    "deaths": 7627,
-    "recovered": 112988
+    "confirmed": 146668,
+    "deaths": 7677,
+    "recovered": 114931
   },
   "Peru": {
     "date": "2020-5-29",
@@ -87,7 +87,7 @@
     "date": "2020-5-29",
     "confirmed": 84119,
     "deaths": 4638,
-    "recovered": 79379
+    "recovered": 79380
   },
   "Mexico": {
     "date": "2020-5-29",
@@ -115,9 +115,9 @@
   },
   "Qatar": {
     "date": "2020-5-29",
-    "confirmed": 50914,
-    "deaths": 33,
-    "recovered": 15399
+    "confirmed": 52907,
+    "deaths": 36,
+    "recovered": 20604
   },
   "Netherlands": {
     "date": "2020-5-29",
@@ -241,9 +241,9 @@
   },
   "Japan": {
     "date": "2020-5-29",
-    "confirmed": 16636,
+    "confirmed": 16647,
     "deaths": 886,
-    "recovered": 14107
+    "recovered": 14168
   },
   "Dominican Republic": {
     "date": "2020-5-29",
@@ -305,17 +305,17 @@
     "deaths": 37,
     "recovered": 4900
   },
+  "Oman": {
+    "date": "2020-5-29",
+    "confirmed": 9820,
+    "deaths": 40,
+    "recovered": 2396
+  },
   "Czechia": {
     "date": "2020-5-29",
     "confirmed": 9143,
     "deaths": 319,
     "recovered": 6464
-  },
-  "Oman": {
-    "date": "2020-5-29",
-    "confirmed": 9009,
-    "deaths": 40,
-    "recovered": 2177
   },
   "Algeria": {
     "date": "2020-5-29",
@@ -367,9 +367,9 @@
   },
   "Ghana": {
     "date": "2020-5-29",
-    "confirmed": 7303,
+    "confirmed": 7616,
     "deaths": 34,
-    "recovered": 2412
+    "recovered": 2421
   },
   "Australia": {
     "date": "2020-5-29",
@@ -451,9 +451,9 @@
   },
   "Senegal": {
     "date": "2020-5-29",
-    "confirmed": 3348,
-    "deaths": 39,
-    "recovered": 1686
+    "confirmed": 3429,
+    "deaths": 41,
+    "recovered": 1738
   },
   "Thailand": {
     "date": "2020-5-29",
@@ -485,17 +485,17 @@
     "deaths": 32,
     "recovered": 1326
   },
+  "Bosnia and Herzegovina": {
+    "date": "2020-5-29",
+    "confirmed": 2485,
+    "deaths": 153,
+    "recovered": 1803
+  },
   "Bulgaria": {
     "date": "2020-5-29",
     "confirmed": 2485,
     "deaths": 136,
     "recovered": 1016
-  },
-  "Bosnia and Herzegovina": {
-    "date": "2020-5-29",
-    "confirmed": 2462,
-    "deaths": 153,
-    "recovered": 1781
   },
   "Gabon": {
     "date": "2020-5-29",
@@ -591,7 +591,7 @@
     "date": "2020-5-29",
     "confirmed": 1473,
     "deaths": 108,
-    "recovered": 1356
+    "recovered": 1357
   },
   "Haiti": {
     "date": "2020-5-29",
@@ -604,6 +604,12 @@
     "confirmed": 1325,
     "deaths": 11,
     "recovered": 302
+  },
+  "Nepal": {
+    "date": "2020-5-29",
+    "confirmed": 1212,
+    "deaths": 6,
+    "recovered": 206
   },
   "Guinea-Bissau": {
     "date": "2020-5-29",
@@ -619,9 +625,9 @@
   },
   "Lebanon": {
     "date": "2020-5-29",
-    "confirmed": 1168,
+    "confirmed": 1172,
     "deaths": 26,
-    "recovered": 699
+    "recovered": 705
   },
   "Albania": {
     "date": "2020-5-29",
@@ -658,12 +664,6 @@
     "confirmed": 1043,
     "deaths": 12,
     "recovered": 165
-  },
-  "Nepal": {
-    "date": "2020-5-29",
-    "confirmed": 1042,
-    "deaths": 5,
-    "recovered": 187
   },
   "Costa Rica": {
     "date": "2020-5-29",
@@ -761,23 +761,23 @@
     "deaths": 13,
     "recovered": 651
   },
+  "Madagascar": {
+    "date": "2020-5-29",
+    "confirmed": 698,
+    "deaths": 5,
+    "recovered": 164
+  },
   "San Marino": {
     "date": "2020-5-29",
     "confirmed": 670,
     "deaths": 42,
     "recovered": 322
   },
-  "Madagascar": {
-    "date": "2020-5-29",
-    "confirmed": 656,
-    "deaths": 2,
-    "recovered": 154
-  },
   "Malta": {
     "date": "2020-5-29",
     "confirmed": 616,
     "deaths": 8,
-    "recovered": 501
+    "recovered": 514
   },
   "Congo (Brazzaville)": {
     "date": "2020-5-29",
@@ -903,7 +903,7 @@
     "date": "2020-5-29",
     "confirmed": 203,
     "deaths": 4,
-    "recovered": 37
+    "recovered": 42
   },
   "Mongolia": {
     "date": "2020-5-29",
