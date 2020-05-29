@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-29",
-    "confirmed": 1721753,
-    "deaths": 101616,
+    "confirmed": 1721750,
+    "deaths": 101617,
     "recovered": 399991
   },
   "Brazil": {
@@ -179,6 +179,12 @@
     "deaths": 577,
     "recovered": 14370
   },
+  "Colombia": {
+    "date": "2020-5-29",
+    "confirmed": 25406,
+    "deaths": 855,
+    "recovered": 6687
+  },
   "Ireland": {
     "date": "2020-5-29",
     "confirmed": 24841,
@@ -190,12 +196,6 @@
     "confirmed": 24538,
     "deaths": 1496,
     "recovered": 6240
-  },
-  "Colombia": {
-    "date": "2020-5-29",
-    "confirmed": 24141,
-    "deaths": 833,
-    "recovered": 6132
   },
   "Kuwait": {
     "date": "2020-5-29",
@@ -513,7 +513,7 @@
     "date": "2020-5-29",
     "confirmed": 2194,
     "deaths": 39,
-    "recovered": 1002
+    "recovered": 1015
   },
   "North Macedonia": {
     "date": "2020-5-29",
@@ -593,17 +593,17 @@
     "deaths": 108,
     "recovered": 1356
   },
+  "Haiti": {
+    "date": "2020-5-29",
+    "confirmed": 1443,
+    "deaths": 35,
+    "recovered": 22
+  },
   "Venezuela": {
     "date": "2020-5-29",
     "confirmed": 1325,
     "deaths": 11,
     "recovered": 302
-  },
-  "Haiti": {
-    "date": "2020-5-29",
-    "confirmed": 1320,
-    "deaths": 34,
-    "recovered": 22
   },
   "Guinea-Bissau": {
     "date": "2020-5-29",
