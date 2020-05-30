@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-30",
-    "confirmed": 1759725,
-    "deaths": 103389,
+    "confirmed": 1760740,
+    "deaths": 103472,
     "recovered": 406446
   },
   "Brazil": {
@@ -49,9 +49,9 @@
   },
   "India": {
     "date": "2020-5-30",
-    "confirmed": 181796,
+    "confirmed": 181827,
     "deaths": 5185,
-    "recovered": 86896
+    "recovered": 86936
   },
   "Turkey": {
     "date": "2020-5-30",
@@ -79,9 +79,9 @@
   },
   "Canada": {
     "date": "2020-5-30",
-    "confirmed": 91486,
-    "deaths": 7141,
-    "recovered": 48269
+    "confirmed": 91502,
+    "deaths": 7143,
+    "recovered": 48300
   },
   "Mexico": {
     "date": "2020-5-30",
@@ -443,17 +443,17 @@
     "deaths": 22,
     "recovered": 2000
   },
+  "Uzbekistan": {
+    "date": "2020-5-30",
+    "confirmed": 3546,
+    "deaths": 14,
+    "recovered": 2783
+  },
   "Senegal": {
     "date": "2020-5-30",
     "confirmed": 3535,
     "deaths": 42,
     "recovered": 1761
-  },
-  "Uzbekistan": {
-    "date": "2020-5-30",
-    "confirmed": 3523,
-    "deaths": 14,
-    "recovered": 2783
   },
   "Djibouti": {
     "date": "2020-5-30",
@@ -673,9 +673,9 @@
   },
   "Costa Rica": {
     "date": "2020-5-30",
-    "confirmed": 1022,
+    "confirmed": 1047,
     "deaths": 10,
-    "recovered": 653
+    "recovered": 658
   },
   "South Sudan": {
     "date": "2020-5-30",
@@ -797,6 +797,12 @@
     "deaths": 21,
     "recovered": 183
   },
+  "Mauritania": {
+    "date": "2020-5-30",
+    "confirmed": 483,
+    "deaths": 20,
+    "recovered": 21
+  },
   "Sao Tome and Principe": {
     "date": "2020-5-30",
     "confirmed": 463,
@@ -821,12 +827,6 @@
     "deaths": 13,
     "recovered": 202
   },
-  "Mauritania": {
-    "date": "2020-5-30",
-    "confirmed": 423,
-    "deaths": 20,
-    "recovered": 21
-  },
   "Cabo Verde": {
     "date": "2020-5-30",
     "confirmed": 421,
@@ -835,9 +835,9 @@
   },
   "Rwanda": {
     "date": "2020-5-30",
-    "confirmed": 355,
+    "confirmed": 359,
     "deaths": 0,
-    "recovered": 247
+    "recovered": 250
   },
   "Mauritius": {
     "date": "2020-5-30",
@@ -920,7 +920,7 @@
   "Guyana": {
     "date": "2020-5-30",
     "confirmed": 150,
-    "deaths": 11,
+    "deaths": 12,
     "recovered": 67
   },
   "Brunei": {
@@ -967,7 +967,7 @@
   },
   "Monaco": {
     "date": "2020-5-30",
-    "confirmed": 98,
+    "confirmed": 99,
     "deaths": 4,
     "recovered": 90
   },
@@ -977,17 +977,17 @@
     "deaths": 7,
     "recovered": 76
   },
+  "Angola": {
+    "date": "2020-5-30",
+    "confirmed": 84,
+    "deaths": 4,
+    "recovered": 18
+  },
   "Liechtenstein": {
     "date": "2020-5-30",
     "confirmed": 82,
     "deaths": 1,
     "recovered": 55
-  },
-  "Angola": {
-    "date": "2020-5-30",
-    "confirmed": 81,
-    "deaths": 4,
-    "recovered": 18
   },
   "Burundi": {
     "date": "2020-5-30",
