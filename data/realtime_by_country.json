@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-30",
-    "confirmed": 1745606,
+    "confirmed": 1745636,
     "deaths": 102798,
     "recovered": 406446
   },
@@ -75,13 +75,19 @@
     "date": "2020-5-30",
     "confirmed": 90909,
     "deaths": 7063,
-    "recovered": 47903
+    "recovered": 47905
   },
   "Chile": {
     "date": "2020-5-30",
     "confirmed": 90638,
     "deaths": 944,
     "recovered": 38598
+  },
+  "Mexico": {
+    "date": "2020-5-30",
+    "confirmed": 84627,
+    "deaths": 9415,
+    "recovered": 59003
   },
   "China": {
     "date": "2020-5-30",
@@ -94,12 +100,6 @@
     "confirmed": 81766,
     "deaths": 458,
     "recovered": 57013
-  },
-  "Mexico": {
-    "date": "2020-5-30",
-    "confirmed": 81400,
-    "deaths": 9044,
-    "recovered": 56041
   },
   "Pakistan": {
     "date": "2020-5-30",
@@ -271,9 +271,9 @@
   },
   "Panama": {
     "date": "2020-5-30",
-    "confirmed": 12131,
-    "deaths": 320,
-    "recovered": 7379
+    "confirmed": 12531,
+    "deaths": 326,
+    "recovered": 7540
   },
   "Denmark": {
     "date": "2020-5-30",
@@ -319,9 +319,9 @@
   },
   "Czechia": {
     "date": "2020-5-30",
-    "confirmed": 9180,
+    "confirmed": 9196,
     "deaths": 319,
-    "recovered": 6498
+    "recovered": 6500
   },
   "Algeria": {
     "date": "2020-5-30",
@@ -373,9 +373,9 @@
   },
   "Australia": {
     "date": "2020-5-30",
-    "confirmed": 7173,
+    "confirmed": 7184,
     "deaths": 103,
-    "recovered": 6582
+    "recovered": 6584
   },
   "Finland": {
     "date": "2020-5-30",
@@ -721,9 +721,9 @@
   },
   "Uruguay": {
     "date": "2020-5-30",
-    "confirmed": 811,
+    "confirmed": 816,
     "deaths": 22,
-    "recovered": 654
+    "recovered": 680
   },
   "Andorra": {
     "date": "2020-5-30",
@@ -955,9 +955,9 @@
   },
   "Bahamas": {
     "date": "2020-5-30",
-    "confirmed": 101,
+    "confirmed": 102,
     "deaths": 11,
-    "recovered": 47
+    "recovered": 48
   },
   "Monaco": {
     "date": "2020-5-30",
@@ -1013,6 +1013,12 @@
     "deaths": 0,
     "recovered": 6
   },
+  "Saint Vincent and the Grenadines": {
+    "date": "2020-5-30",
+    "confirmed": 26,
+    "deaths": 0,
+    "recovered": 14
+  },
   "Antigua and Barbuda": {
     "date": "2020-5-30",
     "confirmed": 25,
@@ -1023,13 +1029,7 @@
     "date": "2020-5-30",
     "confirmed": 25,
     "deaths": 1,
-    "recovered": 19
-  },
-  "Saint Vincent and the Grenadines": {
-    "date": "2020-5-30",
-    "confirmed": 25,
-    "deaths": 0,
-    "recovered": 14
+    "recovered": 20
   },
   "Timor-Leste": {
     "date": "2020-5-30",
