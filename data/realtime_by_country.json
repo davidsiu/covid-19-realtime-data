@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-5-30",
-    "confirmed": 1760740,
-    "deaths": 103472,
+    "confirmed": 1764671,
+    "deaths": 103605,
     "recovered": 406446
   },
   "Brazil": {
@@ -79,9 +79,9 @@
   },
   "Canada": {
     "date": "2020-5-30",
-    "confirmed": 91502,
-    "deaths": 7143,
-    "recovered": 48300
+    "confirmed": 91640,
+    "deaths": 7151,
+    "recovered": 48470
   },
   "Mexico": {
     "date": "2020-5-30",
@@ -296,7 +296,7 @@
   "Bahrain": {
     "date": "2020-5-30",
     "confirmed": 10793,
-    "deaths": 15,
+    "deaths": 16,
     "recovered": 5826
   },
   "Oman": {
@@ -407,17 +407,17 @@
     "deaths": 199,
     "recovered": 528
   },
+  "Sudan": {
+    "date": "2020-5-30",
+    "confirmed": 4800,
+    "deaths": 262,
+    "recovered": 1272
+  },
   "Guatemala": {
     "date": "2020-5-30",
     "confirmed": 4607,
     "deaths": 90,
     "recovered": 648
-  },
-  "Sudan": {
-    "date": "2020-5-30",
-    "confirmed": 4521,
-    "deaths": 233,
-    "recovered": 816
   },
   "Luxembourg": {
     "date": "2020-5-30",
@@ -481,9 +481,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-5-30",
-    "confirmed": 2750,
-    "deaths": 32,
-    "recovered": 1370
+    "confirmed": 2799,
+    "deaths": 33,
+    "recovered": 1385
   },
   "Gabon": {
     "date": "2020-5-30",
@@ -567,7 +567,7 @@
     "date": "2020-5-30",
     "confirmed": 1633,
     "deaths": 5,
-    "recovered": 230
+    "recovered": 386
   },
   "Sri Lanka": {
     "date": "2020-5-30",
@@ -689,23 +689,23 @@
     "deaths": 11,
     "recovered": 466
   },
+  "Central African Republic": {
+    "date": "2020-5-30",
+    "confirmed": 962,
+    "deaths": 1,
+    "recovered": 23
+  },
   "Niger": {
     "date": "2020-5-30",
-    "confirmed": 955,
+    "confirmed": 956,
     "deaths": 64,
-    "recovered": 813
+    "recovered": 818
   },
   "Cyprus": {
     "date": "2020-5-30",
     "confirmed": 944,
     "deaths": 17,
     "recovered": 790
-  },
-  "Central African Republic": {
-    "date": "2020-5-30",
-    "confirmed": 874,
-    "deaths": 1,
-    "recovered": 23
   },
   "Sierra Leone": {
     "date": "2020-5-30",
@@ -805,7 +805,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2020-5-30",
-    "confirmed": 463,
+    "confirmed": 479,
     "deaths": 12,
     "recovered": 68
   },
@@ -836,7 +836,7 @@
   "Rwanda": {
     "date": "2020-5-30",
     "confirmed": 359,
-    "deaths": 0,
+    "deaths": 1,
     "recovered": 250
   },
   "Mauritius": {
@@ -929,6 +929,12 @@
     "deaths": 2,
     "recovered": 138
   },
+  "Libya": {
+    "date": "2020-5-30",
+    "confirmed": 130,
+    "deaths": 5,
+    "recovered": 50
+  },
   "Cambodia": {
     "date": "2020-5-30",
     "confirmed": 125,
@@ -940,12 +946,6 @@
     "confirmed": 122,
     "deaths": 4,
     "recovered": 43
-  },
-  "Libya": {
-    "date": "2020-5-30",
-    "confirmed": 118,
-    "deaths": 5,
-    "recovered": 41
   },
   "Trinidad and Tobago": {
     "date": "2020-5-30",
