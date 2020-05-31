@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-5-31",
-    "confirmed": 1769772,
+    "confirmed": 1769776,
     "deaths": 103768,
     "recovered": 416461
   },
@@ -21,7 +21,7 @@
     "date": "2020-5-31",
     "confirmed": 274219,
     "deaths": 38458,
-    "recovered": 1186
+    "recovered": 1187
   },
   "Spain": {
     "date": "2020-5-31",
@@ -91,9 +91,9 @@
   },
   "China": {
     "date": "2020-5-31",
-    "confirmed": 84127,
+    "confirmed": 84128,
     "deaths": 4638,
-    "recovered": 79384
+    "recovered": 79386
   },
   "Saudi Arabia": {
     "date": "2020-5-31",
@@ -283,9 +283,9 @@
   },
   "Korea, South": {
     "date": "2020-5-31",
-    "confirmed": 11441,
-    "deaths": 269,
-    "recovered": 10398
+    "confirmed": 11468,
+    "deaths": 270,
+    "recovered": 10405
   },
   "Serbia": {
     "date": "2020-5-31",
@@ -373,9 +373,9 @@
   },
   "Australia": {
     "date": "2020-5-31",
-    "confirmed": 7185,
+    "confirmed": 7192,
     "deaths": 103,
-    "recovered": 6607
+    "recovered": 6614
   },
   "Finland": {
     "date": "2020-5-31",
@@ -415,9 +415,9 @@
   },
   "Guatemala": {
     "date": "2020-5-31",
-    "confirmed": 4607,
-    "deaths": 90,
-    "recovered": 648
+    "confirmed": 4739,
+    "deaths": 102,
+    "recovered": 706
   },
   "Luxembourg": {
     "date": "2020-5-31",
@@ -506,8 +506,8 @@
   "El Salvador": {
     "date": "2020-5-31",
     "confirmed": 2395,
-    "deaths": 44,
-    "recovered": 1026
+    "deaths": 46,
+    "recovered": 1031
   },
   "Croatia": {
     "date": "2020-5-31",
@@ -545,6 +545,12 @@
     "deaths": 67,
     "recovered": 1622
   },
+  "Haiti": {
+    "date": "2020-5-31",
+    "confirmed": 1865,
+    "deaths": 41,
+    "recovered": 24
+  },
   "Iceland": {
     "date": "2020-5-31",
     "confirmed": 1806,
@@ -571,15 +577,9 @@
   },
   "Sri Lanka": {
     "date": "2020-5-31",
-    "confirmed": 1613,
+    "confirmed": 1620,
     "deaths": 10,
     "recovered": 781
-  },
-  "Haiti": {
-    "date": "2020-5-31",
-    "confirmed": 1584,
-    "deaths": 35,
-    "recovered": 22
   },
   "Slovakia": {
     "date": "2020-5-31",
@@ -949,7 +949,7 @@
   },
   "Trinidad and Tobago": {
     "date": "2020-5-31",
-    "confirmed": 116,
+    "confirmed": 117,
     "deaths": 8,
     "recovered": 108
   },
@@ -1085,17 +1085,17 @@
     "deaths": 0,
     "recovered": 15
   },
+  "Suriname": {
+    "date": "2020-5-31",
+    "confirmed": 14,
+    "deaths": 1,
+    "recovered": 9
+  },
   "Holy See": {
     "date": "2020-5-31",
     "confirmed": 12,
     "deaths": 0,
     "recovered": 2
-  },
-  "Suriname": {
-    "date": "2020-5-31",
-    "confirmed": 12,
-    "deaths": 1,
-    "recovered": 9
   },
   "Seychelles": {
     "date": "2020-5-31",
