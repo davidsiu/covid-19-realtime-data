@@ -203,23 +203,23 @@
     "deaths": 1651,
     "recovered": 22089
   },
+  "Ukraine": {
+    "date": "2020-5-31",
+    "confirmed": 23672,
+    "deaths": 708,
+    "recovered": 9538
+  },
   "Poland": {
     "date": "2020-5-31",
     "confirmed": 23571,
     "deaths": 1061,
-    "recovered": 11016
+    "recovered": 11271
   },
   "Egypt": {
     "date": "2020-5-31",
     "confirmed": 23449,
     "deaths": 913,
     "recovered": 5693
-  },
-  "Ukraine": {
-    "date": "2020-5-31",
-    "confirmed": 23204,
-    "deaths": 696,
-    "recovered": 9311
   },
   "Romania": {
     "date": "2020-5-31",
@@ -247,7 +247,7 @@
   },
   "Japan": {
     "date": "2020-5-31",
-    "confirmed": 16716,
+    "confirmed": 16721,
     "deaths": 894,
     "recovered": 14269
   },
@@ -308,7 +308,7 @@
   "Oman": {
     "date": "2020-5-31",
     "confirmed": 10423,
-    "deaths": 42,
+    "deaths": 43,
     "recovered": 2396
   },
   "Nigeria": {
@@ -323,6 +323,12 @@
     "deaths": 310,
     "recovered": 889
   },
+  "Armenia": {
+    "date": "2020-5-31",
+    "confirmed": 9282,
+    "deaths": 131,
+    "recovered": 3386
+  },
   "Algeria": {
     "date": "2020-5-31",
     "confirmed": 9267,
@@ -331,15 +337,9 @@
   },
   "Czechia": {
     "date": "2020-5-31",
-    "confirmed": 9230,
+    "confirmed": 9233,
     "deaths": 319,
     "recovered": 6546
-  },
-  "Armenia": {
-    "date": "2020-5-31",
-    "confirmed": 8927,
-    "deaths": 127,
-    "recovered": 3317
   },
   "Norway": {
     "date": "2020-5-31",
@@ -427,9 +427,9 @@
   },
   "Hungary": {
     "date": "2020-5-31",
-    "confirmed": 3867,
-    "deaths": 524,
-    "recovered": 2142
+    "confirmed": 3876,
+    "deaths": 526,
+    "recovered": 2147
   },
   "Tajikistan": {
     "date": "2020-5-31",
@@ -541,9 +541,9 @@
   },
   "Estonia": {
     "date": "2020-5-31",
-    "confirmed": 1865,
-    "deaths": 67,
-    "recovered": 1622
+    "confirmed": 1869,
+    "deaths": 68,
+    "recovered": 1624
   },
   "Haiti": {
     "date": "2020-5-31",
@@ -649,7 +649,7 @@
   },
   "Latvia": {
     "date": "2020-5-31",
-    "confirmed": 1065,
+    "confirmed": 1066,
     "deaths": 24,
     "recovered": 745
   },
@@ -811,7 +811,7 @@
   },
   "West Bank and Gaza": {
     "date": "2020-5-31",
-    "confirmed": 447,
+    "confirmed": 448,
     "deaths": 3,
     "recovered": 368
   },
