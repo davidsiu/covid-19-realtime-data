@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-1",
-    "confirmed": 1788762,
-    "deaths": 104356,
+    "confirmed": 1789368,
+    "deaths": 104357,
     "recovered": 444758
   },
   "Brazil": {
@@ -53,17 +53,17 @@
     "deaths": 8540,
     "recovered": 165352
   },
+  "Peru": {
+    "date": "2020-6-1",
+    "confirmed": 164476,
+    "deaths": 4506,
+    "recovered": 67208
+  },
   "Turkey": {
     "date": "2020-6-1",
     "confirmed": 163942,
     "deaths": 4540,
     "recovered": 127973
-  },
-  "Peru": {
-    "date": "2020-6-1",
-    "confirmed": 155671,
-    "deaths": 4371,
-    "recovered": 66447
   },
   "Iran": {
     "date": "2020-6-1",
@@ -85,9 +85,9 @@
   },
   "Mexico": {
     "date": "2020-6-1",
-    "confirmed": 87512,
-    "deaths": 9779,
-    "recovered": 61247
+    "confirmed": 90664,
+    "deaths": 9930,
+    "recovered": 63772
   },
   "Saudi Arabia": {
     "date": "2020-6-1",
@@ -291,7 +291,7 @@
     "date": "2020-6-1",
     "confirmed": 11437,
     "deaths": 49,
-    "recovered": 2396
+    "recovered": 2682
   },
   "Serbia": {
     "date": "2020-6-1",
@@ -593,6 +593,12 @@
     "deaths": 28,
     "recovered": 1366
   },
+  "Venezuela": {
+    "date": "2020-6-1",
+    "confirmed": 1510,
+    "deaths": 14,
+    "recovered": 302
+  },
   "New Zealand": {
     "date": "2020-6-1",
     "confirmed": 1504,
@@ -604,12 +610,6 @@
     "confirmed": 1473,
     "deaths": 108,
     "recovered": 1358
-  },
-  "Venezuela": {
-    "date": "2020-6-1",
-    "confirmed": 1459,
-    "deaths": 14,
-    "recovered": 302
   },
   "Equatorial Guinea": {
     "date": "2020-6-1",
@@ -979,7 +979,7 @@
   },
   "Angola": {
     "date": "2020-6-1",
-    "confirmed": 84,
+    "confirmed": 86,
     "deaths": 4,
     "recovered": 18
   },
@@ -1049,6 +1049,12 @@
     "deaths": 0,
     "recovered": 18
   },
+  "Suriname": {
+    "date": "2020-6-1",
+    "confirmed": 23,
+    "deaths": 1,
+    "recovered": 9
+  },
   "Laos": {
     "date": "2020-6-1",
     "confirmed": 19,
@@ -1084,12 +1090,6 @@
     "confirmed": 15,
     "deaths": 0,
     "recovered": 15
-  },
-  "Suriname": {
-    "date": "2020-6-1",
-    "confirmed": 15,
-    "deaths": 1,
-    "recovered": 9
   },
   "Holy See": {
     "date": "2020-6-1",
