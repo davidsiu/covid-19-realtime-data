@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-1",
-    "confirmed": 1789364,
-    "deaths": 104358,
+    "confirmed": 1790172,
+    "deaths": 104381,
     "recovered": 444758
   },
   "Brazil": {
@@ -97,9 +97,9 @@
   },
   "China": {
     "date": "2020-6-1",
-    "confirmed": 84135,
+    "confirmed": 84146,
     "deaths": 4638,
-    "recovered": 79388
+    "recovered": 79389
   },
   "Pakistan": {
     "date": "2020-6-1",
@@ -319,9 +319,9 @@
   },
   "Bolivia": {
     "date": "2020-6-1",
-    "confirmed": 9592,
-    "deaths": 310,
-    "recovered": 889
+    "confirmed": 9982,
+    "deaths": 313,
+    "recovered": 968
   },
   "Algeria": {
     "date": "2020-6-1",
@@ -355,9 +355,9 @@
   },
   "Ghana": {
     "date": "2020-6-1",
-    "confirmed": 7881,
+    "confirmed": 8070,
     "deaths": 36,
-    "recovered": 2841
+    "recovered": 2947
   },
   "Malaysia": {
     "date": "2020-6-1",
@@ -403,9 +403,9 @@
   },
   "Honduras": {
     "date": "2020-6-1",
-    "confirmed": 5094,
-    "deaths": 201,
-    "recovered": 536
+    "confirmed": 5202,
+    "deaths": 212,
+    "recovered": 537
   },
   "Guatemala": {
     "date": "2020-6-1",
@@ -521,6 +521,12 @@
     "deaths": 133,
     "recovered": 1552
   },
+  "Haiti": {
+    "date": "2020-6-1",
+    "confirmed": 2124,
+    "deaths": 44,
+    "recovered": 24
+  },
   "Cuba": {
     "date": "2020-6-1",
     "confirmed": 2045,
@@ -544,12 +550,6 @@
     "confirmed": 1869,
     "deaths": 68,
     "recovered": 1624
-  },
-  "Haiti": {
-    "date": "2020-6-1",
-    "confirmed": 1865,
-    "deaths": 41,
-    "recovered": 24
   },
   "Iceland": {
     "date": "2020-6-1",
