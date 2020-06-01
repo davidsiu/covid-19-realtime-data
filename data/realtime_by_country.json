@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-1",
-    "confirmed": 1798298,
-    "deaths": 104658,
+    "confirmed": 1799747,
+    "deaths": 104702,
     "recovered": 444758
   },
   "Brazil": {
@@ -79,7 +79,7 @@
   },
   "Canada": {
     "date": "2020-6-1",
-    "confirmed": 93020,
+    "confirmed": 93028,
     "deaths": 7397,
     "recovered": 49613
   },
@@ -197,17 +197,17 @@
     "deaths": 1641,
     "recovered": 7637
   },
+  "Egypt": {
+    "date": "2020-6-1",
+    "confirmed": 26384,
+    "deaths": 1005,
+    "recovered": 6447
+  },
   "Ireland": {
     "date": "2020-6-1",
     "confirmed": 25062,
     "deaths": 1652,
     "recovered": 22089
-  },
-  "Egypt": {
-    "date": "2020-6-1",
-    "confirmed": 24985,
-    "deaths": 959,
-    "recovered": 6037
   },
   "Poland": {
     "date": "2020-6-1",
@@ -551,6 +551,12 @@
     "deaths": 68,
     "recovered": 1625
   },
+  "Maldives": {
+    "date": "2020-6-1",
+    "confirmed": 1829,
+    "deaths": 6,
+    "recovered": 488
+  },
   "Kyrgyzstan": {
     "date": "2020-6-1",
     "confirmed": 1817,
@@ -568,12 +574,6 @@
     "confirmed": 1806,
     "deaths": 10,
     "recovered": 1794
-  },
-  "Maldives": {
-    "date": "2020-6-1",
-    "confirmed": 1773,
-    "deaths": 6,
-    "recovered": 453
   },
   "Lithuania": {
     "date": "2020-6-1",
@@ -653,6 +653,12 @@
     "deaths": 7,
     "recovered": 912
   },
+  "Costa Rica": {
+    "date": "2020-6-1",
+    "confirmed": 1084,
+    "deaths": 10,
+    "recovered": 676
+  },
   "Tunisia": {
     "date": "2020-6-1",
     "confirmed": 1084,
@@ -676,12 +682,6 @@
     "confirmed": 1064,
     "deaths": 30,
     "recovered": 829
-  },
-  "Costa Rica": {
-    "date": "2020-6-1",
-    "confirmed": 1056,
-    "deaths": 10,
-    "recovered": 669
   },
   "Paraguay": {
     "date": "2020-6-1",
@@ -785,17 +785,17 @@
     "deaths": 20,
     "recovered": 179
   },
+  "Mauritania": {
+    "date": "2020-6-1",
+    "confirmed": 588,
+    "deaths": 23,
+    "recovered": 27
+  },
   "Jamaica": {
     "date": "2020-6-1",
     "confirmed": 586,
     "deaths": 9,
     "recovered": 311
-  },
-  "Mauritania": {
-    "date": "2020-6-1",
-    "confirmed": 530,
-    "deaths": 23,
-    "recovered": 27
   },
   "Tanzania": {
     "date": "2020-6-1",
@@ -835,9 +835,9 @@
   },
   "Togo": {
     "date": "2020-6-1",
-    "confirmed": 442,
+    "confirmed": 443,
     "deaths": 13,
-    "recovered": 211
+    "recovered": 215
   },
   "Rwanda": {
     "date": "2020-6-1",
