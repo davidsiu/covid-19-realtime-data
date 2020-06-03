@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-6-3",
-    "confirmed": 1831435,
+    "confirmed": 1831730,
     "deaths": 106180,
     "recovered": 463868
   },
@@ -37,7 +37,7 @@
   },
   "India": {
     "date": "2020-6-3",
-    "confirmed": 207183,
+    "confirmed": 207191,
     "deaths": 5829,
     "recovered": 100285
   },
@@ -77,17 +77,17 @@
     "deaths": 1188,
     "recovered": 21325
   },
+  "Mexico": {
+    "date": "2020-6-3",
+    "confirmed": 97326,
+    "deaths": 10637,
+    "recovered": 69749
+  },
   "Canada": {
     "date": "2020-6-3",
     "confirmed": 93958,
     "deaths": 7476,
     "recovered": 50722
-  },
-  "Mexico": {
-    "date": "2020-6-3",
-    "confirmed": 93435,
-    "deaths": 10167,
-    "recovered": 66965
   },
   "Saudi Arabia": {
     "date": "2020-6-3",
@@ -265,7 +265,7 @@
   },
   "Afghanistan": {
     "date": "2020-6-3",
-    "confirmed": 16492,
+    "confirmed": 16509,
     "deaths": 270,
     "recovered": 1450
   },
@@ -379,9 +379,9 @@
   },
   "Australia": {
     "date": "2020-6-3",
-    "confirmed": 7221,
+    "confirmed": 7228,
     "deaths": 102,
-    "recovered": 6626
+    "recovered": 6632
   },
   "Finland": {
     "date": "2020-6-3",
@@ -569,6 +569,12 @@
     "deaths": 7,
     "recovered": 608
   },
+  "Venezuela": {
+    "date": "2020-6-3",
+    "confirmed": 1819,
+    "deaths": 18,
+    "recovered": 334
+  },
   "Iceland": {
     "date": "2020-6-3",
     "confirmed": 1806,
@@ -586,12 +592,6 @@
     "confirmed": 1682,
     "deaths": 71,
     "recovered": 1249
-  },
-  "Venezuela": {
-    "date": "2020-6-3",
-    "confirmed": 1662,
-    "deaths": 17,
-    "recovered": 302
   },
   "Slovakia": {
     "date": "2020-6-3",
