@@ -37,7 +37,7 @@
   },
   "India": {
     "date": "2020-6-3",
-    "confirmed": 208479,
+    "confirmed": 208543,
     "deaths": 5834,
     "recovered": 100419
   },
@@ -175,7 +175,7 @@
   },
   "Switzerland": {
     "date": "2020-6-3",
-    "confirmed": 30874,
+    "confirmed": 30893,
     "deaths": 1920,
     "recovered": 28600
   },
@@ -385,7 +385,7 @@
   },
   "Finland": {
     "date": "2020-6-3",
-    "confirmed": 6887,
+    "confirmed": 6911,
     "deaths": 320,
     "recovered": 5500
   },
@@ -463,9 +463,9 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-6-3",
-    "confirmed": 3326,
-    "deaths": 72,
-    "recovered": 482
+    "confirmed": 3495,
+    "deaths": 75,
+    "recovered": 492
   },
   "Thailand": {
     "date": "2020-6-3",
@@ -505,9 +505,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-6-3",
-    "confirmed": 2535,
+    "confirmed": 2551,
     "deaths": 157,
-    "recovered": 1910
+    "recovered": 1939
   },
   "Haiti": {
     "date": "2020-6-3",
@@ -517,21 +517,21 @@
   },
   "North Macedonia": {
     "date": "2020-6-3",
-    "confirmed": 2391,
-    "deaths": 141,
-    "recovered": 1595
+    "confirmed": 2492,
+    "deaths": 145,
+    "recovered": 1605
+  },
+  "Nepal": {
+    "date": "2020-6-3",
+    "confirmed": 2300,
+    "deaths": 9,
+    "recovered": 278
   },
   "Croatia": {
     "date": "2020-6-3",
     "confirmed": 2246,
     "deaths": 103,
     "recovered": 2088
-  },
-  "Nepal": {
-    "date": "2020-6-3",
-    "confirmed": 2099,
-    "deaths": 8,
-    "recovered": 266
   },
   "Kenya": {
     "date": "2020-6-3",
@@ -673,8 +673,8 @@
   },
   "Tunisia": {
     "date": "2020-6-3",
-    "confirmed": 1086,
-    "deaths": 48,
+    "confirmed": 1087,
+    "deaths": 49,
     "recovered": 965
   },
   "Latvia": {
@@ -713,6 +713,12 @@
     "deaths": 17,
     "recovered": 790
   },
+  "Madagascar": {
+    "date": "2020-6-3",
+    "confirmed": 908,
+    "deaths": 6,
+    "recovered": 195
+  },
   "Sierra Leone": {
     "date": "2020-6-3",
     "confirmed": 896,
@@ -724,12 +730,6 @@
     "confirmed": 881,
     "deaths": 53,
     "recovered": 720
-  },
-  "Madagascar": {
-    "date": "2020-6-3",
-    "confirmed": 845,
-    "deaths": 6,
-    "recovered": 185
   },
   "Andorra": {
     "date": "2020-6-3",
@@ -781,9 +781,9 @@
   },
   "Malta": {
     "date": "2020-6-3",
-    "confirmed": 620,
+    "confirmed": 622,
     "deaths": 9,
-    "recovered": 554
+    "recovered": 562
   },
   "Congo (Brazzaville)": {
     "date": "2020-6-3",
