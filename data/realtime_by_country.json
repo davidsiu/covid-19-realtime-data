@@ -37,9 +37,15 @@
   },
   "India": {
     "date": "2020-6-4",
-    "confirmed": 216824,
+    "confirmed": 216919,
     "deaths": 6088,
-    "recovered": 104071
+    "recovered": 104107
+  },
+  "France": {
+    "date": "2020-6-4",
+    "confirmed": 188802,
+    "deaths": 29024,
+    "recovered": 69573
   },
   "Germany": {
     "date": "2020-6-4",
@@ -65,12 +71,6 @@
     "deaths": 8012,
     "recovered": 125206
   },
-  "France": {
-    "date": "2020-6-4",
-    "confirmed": 114400,
-    "deaths": 29024,
-    "recovered": 69573
-  },
   "Chile": {
     "date": "2020-6-4",
     "confirmed": 113628,
@@ -95,17 +95,17 @@
     "deaths": 579,
     "recovered": 68159
   },
+  "Pakistan": {
+    "date": "2020-6-4",
+    "confirmed": 85264,
+    "deaths": 1770,
+    "recovered": 30128
+  },
   "China": {
     "date": "2020-6-4",
     "confirmed": 84160,
     "deaths": 4638,
     "recovered": 79404
-  },
-  "Pakistan": {
-    "date": "2020-6-4",
-    "confirmed": 80463,
-    "deaths": 1688,
-    "recovered": 28923
   },
   "Qatar": {
     "date": "2020-6-4",
