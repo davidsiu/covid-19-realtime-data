@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-4",
-    "confirmed": 1851530,
-    "deaths": 107148,
+    "confirmed": 1851520,
+    "deaths": 107175,
     "recovered": 479258
   },
   "Brazil": {
@@ -85,9 +85,9 @@
   },
   "Canada": {
     "date": "2020-6-4",
-    "confirmed": 94619,
-    "deaths": 7578,
-    "recovered": 51491
+    "confirmed": 94641,
+    "deaths": 7579,
+    "recovered": 51506
   },
   "Saudi Arabia": {
     "date": "2020-6-4",
@@ -97,9 +97,9 @@
   },
   "China": {
     "date": "2020-6-4",
-    "confirmed": 84159,
+    "confirmed": 84160,
     "deaths": 4638,
-    "recovered": 79400
+    "recovered": 79404
   },
   "Pakistan": {
     "date": "2020-6-4",
@@ -287,17 +287,23 @@
     "deaths": 20,
     "recovered": 7410
   },
+  "Kazakhstan": {
+    "date": "2020-6-4",
+    "confirmed": 12067,
+    "deaths": 48,
+    "recovered": 6240
+  },
   "Denmark": {
     "date": "2020-6-4",
     "confirmed": 11971,
     "deaths": 580,
     "recovered": 10750
   },
-  "Kazakhstan": {
+  "Bolivia": {
     "date": "2020-6-4",
-    "confirmed": 11796,
-    "deaths": 48,
-    "recovered": 6240
+    "confirmed": 11638,
+    "deaths": 400,
+    "recovered": 1507
   },
   "Korea, South": {
     "date": "2020-6-4",
@@ -316,12 +322,6 @@
     "confirmed": 11166,
     "deaths": 315,
     "recovered": 3329
-  },
-  "Bolivia": {
-    "date": "2020-6-4",
-    "confirmed": 10991,
-    "deaths": 376,
-    "recovered": 1298
   },
   "Armenia": {
     "date": "2020-6-4",
@@ -401,17 +401,17 @@
     "deaths": 76,
     "recovered": 3665
   },
+  "Guatemala": {
+    "date": "2020-6-4",
+    "confirmed": 5760,
+    "deaths": 143,
+    "recovered": 929
+  },
   "Honduras": {
     "date": "2020-6-4",
     "confirmed": 5690,
     "deaths": 234,
     "recovered": 617
-  },
-  "Guatemala": {
-    "date": "2020-6-4",
-    "confirmed": 5586,
-    "deaths": 123,
-    "recovered": 824
   },
   "Sudan": {
     "date": "2020-6-4",
@@ -551,6 +551,12 @@
     "deaths": 83,
     "recovered": 1830
   },
+  "Venezuela": {
+    "date": "2020-6-4",
+    "confirmed": 1952,
+    "deaths": 20,
+    "recovered": 334
+  },
   "Estonia": {
     "date": "2020-6-4",
     "confirmed": 1880,
@@ -569,12 +575,6 @@
     "deaths": 7,
     "recovered": 644
   },
-  "Venezuela": {
-    "date": "2020-6-4",
-    "confirmed": 1819,
-    "deaths": 18,
-    "recovered": 334
-  },
   "Iceland": {
     "date": "2020-6-4",
     "confirmed": 1806,
@@ -583,7 +583,7 @@
   },
   "Sri Lanka": {
     "date": "2020-6-4",
-    "confirmed": 1735,
+    "confirmed": 1749,
     "deaths": 11,
     "recovered": 836
   },
