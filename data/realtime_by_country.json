@@ -49,7 +49,7 @@
   },
   "Germany": {
     "date": "2020-6-5",
-    "confirmed": 184472,
+    "confirmed": 184924,
     "deaths": 8635,
     "recovered": 167909
   },
@@ -105,7 +105,7 @@
     "date": "2020-6-5",
     "confirmed": 84171,
     "deaths": 4638,
-    "recovered": 79415
+    "recovered": 79416
   },
   "Qatar": {
     "date": "2020-6-5",
@@ -129,7 +129,7 @@
     "date": "2020-6-5",
     "confirmed": 47148,
     "deaths": 6009,
-    "recovered": 180
+    "recovered": 181
   },
   "Belarus": {
     "date": "2020-6-5",
@@ -155,17 +155,17 @@
     "deaths": 848,
     "recovered": 21311
   },
+  "Singapore": {
+    "date": "2020-6-5",
+    "confirmed": 37183,
+    "deaths": 24,
+    "recovered": 23904
+  },
   "United Arab Emirates": {
     "date": "2020-6-5",
     "confirmed": 37018,
     "deaths": 273,
     "recovered": 19572
-  },
-  "Singapore": {
-    "date": "2020-6-5",
-    "confirmed": 36922,
-    "deaths": 24,
-    "recovered": 23904
   },
   "Colombia": {
     "date": "2020-6-5",
@@ -219,7 +219,7 @@
     "date": "2020-6-5",
     "confirmed": 25048,
     "deaths": 1117,
-    "recovered": 12227
+    "recovered": 12410
   },
   "Philippines": {
     "date": "2020-6-5",
@@ -305,6 +305,12 @@
     "deaths": 582,
     "recovered": 10820
   },
+  "Armenia": {
+    "date": "2020-6-5",
+    "confirmed": 11817,
+    "deaths": 183,
+    "recovered": 3513
+  },
   "Korea, South": {
     "date": "2020-6-5",
     "confirmed": 11668,
@@ -322,12 +328,6 @@
     "confirmed": 11516,
     "deaths": 323,
     "recovered": 3535
-  },
-  "Armenia": {
-    "date": "2020-6-5",
-    "confirmed": 11221,
-    "deaths": 176,
-    "recovered": 3468
   },
   "Algeria": {
     "date": "2020-6-5",
@@ -449,17 +449,17 @@
     "deaths": 23,
     "recovered": 2512
   },
+  "Hungary": {
+    "date": "2020-6-5",
+    "confirmed": 3970,
+    "deaths": 542,
+    "recovered": 2245
+  },
   "Uzbekistan": {
     "date": "2020-6-5",
     "confirmed": 3965,
     "deaths": 16,
     "recovered": 3087
-  },
-  "Hungary": {
-    "date": "2020-6-5",
-    "confirmed": 3954,
-    "deaths": 539,
-    "recovered": 2205
   },
   "Congo (Kinshasa)": {
     "date": "2020-6-5",
@@ -589,9 +589,9 @@
   },
   "Lithuania": {
     "date": "2020-6-5",
-    "confirmed": 1687,
+    "confirmed": 1694,
     "deaths": 71,
-    "recovered": 1273
+    "recovered": 1302
   },
   "Ethiopia": {
     "date": "2020-6-5",
@@ -691,9 +691,9 @@
   },
   "Latvia": {
     "date": "2020-6-5",
-    "confirmed": 1082,
+    "confirmed": 1085,
     "deaths": 25,
-    "recovered": 760
+    "recovered": 781
   },
   "South Sudan": {
     "date": "2020-6-5",
@@ -843,7 +843,7 @@
     "date": "2020-6-5",
     "confirmed": 443,
     "deaths": 7,
-    "recovered": 428
+    "recovered": 429
   },
   "Rwanda": {
     "date": "2020-6-5",
