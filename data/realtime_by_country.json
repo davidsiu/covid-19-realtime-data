@@ -59,17 +59,17 @@
     "deaths": 8666,
     "recovered": 168908
   },
+  "Iran": {
+    "date": "2020-6-6",
+    "confirmed": 169425,
+    "deaths": 8209,
+    "recovered": 132038
+  },
   "Turkey": {
     "date": "2020-6-6",
     "confirmed": 168340,
     "deaths": 4648,
     "recovered": 133400
-  },
-  "Iran": {
-    "date": "2020-6-6",
-    "confirmed": 167156,
-    "deaths": 8134,
-    "recovered": 129741
   },
   "Chile": {
     "date": "2020-6-6",
@@ -259,9 +259,9 @@
   },
   "Japan": {
     "date": "2020-6-6",
-    "confirmed": 16998,
-    "deaths": 916,
-    "recovered": 14899
+    "confirmed": 17000,
+    "deaths": 915,
+    "recovered": 14927
   },
   "Austria": {
     "date": "2020-6-6",
@@ -473,6 +473,12 @@
     "deaths": 36,
     "recovered": 1604
   },
+  "Nepal": {
+    "date": "2020-6-6",
+    "confirmed": 3235,
+    "deaths": 13,
+    "recovered": 365
+  },
   "Thailand": {
     "date": "2020-6-6",
     "confirmed": 3104,
@@ -502,12 +508,6 @@
     "confirmed": 2924,
     "deaths": 50,
     "recovered": 24
-  },
-  "Nepal": {
-    "date": "2020-6-6",
-    "confirmed": 2912,
-    "deaths": 11,
-    "recovered": 333
   },
   "North Macedonia": {
     "date": "2020-6-6",
@@ -563,6 +563,12 @@
     "deaths": 22,
     "recovered": 1360
   },
+  "Ethiopia": {
+    "date": "2020-6-6",
+    "confirmed": 1934,
+    "deaths": 20,
+    "recovered": 281
+  },
   "Estonia": {
     "date": "2020-6-6",
     "confirmed": 1931,
@@ -572,7 +578,7 @@
   "Maldives": {
     "date": "2020-6-6",
     "confirmed": 1883,
-    "deaths": 7,
+    "deaths": 8,
     "recovered": 717
   },
   "Iceland": {
@@ -581,15 +587,9 @@
     "deaths": 10,
     "recovered": 1794
   },
-  "Ethiopia": {
-    "date": "2020-6-6",
-    "confirmed": 1805,
-    "deaths": 19,
-    "recovered": 262
-  },
   "Sri Lanka": {
     "date": "2020-6-6",
-    "confirmed": 1801,
+    "confirmed": 1804,
     "deaths": 11,
     "recovered": 891
   },
@@ -787,9 +787,9 @@
   },
   "Malta": {
     "date": "2020-6-6",
-    "confirmed": 625,
+    "confirmed": 627,
     "deaths": 9,
-    "recovered": 583
+    "recovered": 596
   },
   "Jamaica": {
     "date": "2020-6-6",
@@ -1019,6 +1019,12 @@
     "deaths": 0,
     "recovered": 39
   },
+  "Namibia": {
+    "date": "2020-6-6",
+    "confirmed": 29,
+    "deaths": 0,
+    "recovered": 16
+  },
   "Antigua and Barbuda": {
     "date": "2020-6-6",
     "confirmed": 26,
@@ -1036,12 +1042,6 @@
     "confirmed": 26,
     "deaths": 0,
     "recovered": 15
-  },
-  "Namibia": {
-    "date": "2020-6-6",
-    "confirmed": 25,
-    "deaths": 0,
-    "recovered": 16
   },
   "Timor-Leste": {
     "date": "2020-6-6",
