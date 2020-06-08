@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-8",
-    "confirmed": 1946555,
-    "deaths": 116933,
+    "confirmed": 1950023,
+    "deaths": 110689,
     "recovered": 506367
   },
   "Brazil": {
@@ -25,9 +25,9 @@
   },
   "India": {
     "date": "2020-6-8",
-    "confirmed": 260093,
-    "deaths": 7263,
-    "recovered": 125641
+    "confirmed": 264246,
+    "deaths": 7449,
+    "recovered": 127991
   },
   "Spain": {
     "date": "2020-6-8",
@@ -37,9 +37,9 @@
   },
   "Italy": {
     "date": "2020-6-8",
-    "confirmed": 234998,
-    "deaths": 33899,
-    "recovered": 165837
+    "confirmed": 235278,
+    "deaths": 33964,
+    "recovered": 166584
   },
   "Peru": {
     "date": "2020-6-8",
@@ -97,9 +97,9 @@
   },
   "Canada": {
     "date": "2020-6-8",
-    "confirmed": 97208,
-    "deaths": 7877,
-    "recovered": 54697
+    "confirmed": 97402,
+    "deaths": 7883,
+    "recovered": 54988
   },
   "China": {
     "date": "2020-6-8",
@@ -211,8 +211,8 @@
   },
   "Poland": {
     "date": "2020-6-8",
-    "confirmed": 26780,
-    "deaths": 1161,
+    "confirmed": 27160,
+    "deaths": 1166,
     "recovered": 12998
   },
   "Ireland": {
@@ -247,9 +247,9 @@
   },
   "Dominican Republic": {
     "date": "2020-6-8",
-    "confirmed": 19600,
-    "deaths": 538,
-    "recovered": 12007
+    "confirmed": 20126,
+    "deaths": 539,
+    "recovered": 12158
   },
   "Israel": {
     "date": "2020-6-8",
@@ -337,27 +337,27 @@
   },
   "Algeria": {
     "date": "2020-6-8",
-    "confirmed": 10154,
-    "deaths": 707,
-    "recovered": 6717
+    "confirmed": 10265,
+    "deaths": 715,
+    "recovered": 6799
   },
   "Moldova": {
     "date": "2020-6-8",
-    "confirmed": 9700,
-    "deaths": 346,
+    "confirmed": 9807,
+    "deaths": 353,
     "recovered": 5738
+  },
+  "Czechia": {
+    "date": "2020-6-8",
+    "confirmed": 9670,
+    "deaths": 328,
+    "recovered": 6979
   },
   "Ghana": {
     "date": "2020-6-8",
     "confirmed": 9638,
     "deaths": 44,
     "recovered": 3636
-  },
-  "Czechia": {
-    "date": "2020-6-8",
-    "confirmed": 9629,
-    "deaths": 328,
-    "recovered": 6896
   },
   "Norway": {
     "date": "2020-6-8",
@@ -457,9 +457,9 @@
   },
   "Luxembourg": {
     "date": "2020-6-8",
-    "confirmed": 4039,
+    "confirmed": 4040,
     "deaths": 110,
-    "recovered": 3899
+    "recovered": 3901
   },
   "Hungary": {
     "date": "2020-6-8",
@@ -511,7 +511,7 @@
   },
   "Greece": {
     "date": "2020-6-8",
-    "confirmed": 2997,
+    "confirmed": 3049,
     "deaths": 180,
     "recovered": 1374
   },
@@ -583,7 +583,7 @@
   },
   "Sri Lanka": {
     "date": "2020-6-8",
-    "confirmed": 1845,
+    "confirmed": 1857,
     "deaths": 11,
     "recovered": 990
   },
@@ -713,17 +713,17 @@
     "deaths": 55,
     "recovered": 108
   },
+  "Sierra Leone": {
+    "date": "2020-6-8",
+    "confirmed": 1001,
+    "deaths": 49,
+    "recovered": 611
+  },
   "Niger": {
     "date": "2020-6-8",
     "confirmed": 973,
     "deaths": 65,
     "recovered": 867
-  },
-  "Sierra Leone": {
-    "date": "2020-6-8",
-    "confirmed": 969,
-    "deaths": 48,
-    "recovered": 608
   },
   "Cyprus": {
     "date": "2020-6-8",
@@ -741,7 +741,7 @@
     "date": "2020-6-8",
     "confirmed": 852,
     "deaths": 51,
-    "recovered": 744
+    "recovered": 751
   },
   "Uruguay": {
     "date": "2020-6-8",
@@ -763,7 +763,7 @@
   },
   "Georgia": {
     "date": "2020-6-8",
-    "confirmed": 810,
+    "confirmed": 812,
     "deaths": 13,
     "recovered": 683
   },
@@ -859,9 +859,9 @@
   },
   "Mozambique": {
     "date": "2020-6-8",
-    "confirmed": 424,
+    "confirmed": 433,
     "deaths": 2,
-    "recovered": 127
+    "recovered": 131
   },
   "Liberia": {
     "date": "2020-6-8",
@@ -929,6 +929,12 @@
     "deaths": 12,
     "recovered": 80
   },
+  "Syria": {
+    "date": "2020-6-8",
+    "confirmed": 144,
+    "deaths": 6,
+    "recovered": 62
+  },
   "Brunei": {
     "date": "2020-6-8",
     "confirmed": 141,
@@ -940,12 +946,6 @@
     "confirmed": 141,
     "deaths": 2,
     "recovered": 67
-  },
-  "Syria": {
-    "date": "2020-6-8",
-    "confirmed": 141,
-    "deaths": 6,
-    "recovered": 58
   },
   "Cambodia": {
     "date": "2020-6-8",
