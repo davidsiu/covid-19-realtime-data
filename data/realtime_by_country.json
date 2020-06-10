@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-10",
-    "confirmed": 1987897,
-    "deaths": 112223,
+    "confirmed": 1988491,
+    "deaths": 112311,
     "recovered": 524855
   },
   "Brazil": {
@@ -10,12 +10,6 @@
     "confirmed": 739503,
     "deaths": 38406,
     "recovered": 396737
-  },
-  "India": {
-    "date": "2020-6-10",
-    "confirmed": 556650,
-    "deaths": 15542,
-    "recovered": 272228
   },
   "Russia": {
     "date": "2020-6-10",
@@ -29,6 +23,12 @@
     "deaths": 41213,
     "recovered": 1261
   },
+  "India": {
+    "date": "2020-6-10",
+    "confirmed": 276583,
+    "deaths": 7745,
+    "recovered": 135206
+  },
   "Spain": {
     "date": "2020-6-10",
     "confirmed": 242280,
@@ -40,12 +40,6 @@
     "confirmed": 235763,
     "deaths": 34114,
     "recovered": 169939
-  },
-  "Pakistan": {
-    "date": "2020-6-10",
-    "confirmed": 227404,
-    "deaths": 4510,
-    "recovered": 72616
   },
   "Peru": {
     "date": "2020-6-10",
@@ -62,8 +56,8 @@
   "Germany": {
     "date": "2020-6-10",
     "confirmed": 186522,
-    "deaths": 8749,
-    "recovered": 170559
+    "deaths": 8751,
+    "recovered": 170587
   },
   "Iran": {
     "date": "2020-6-10",
@@ -89,6 +83,12 @@
     "deaths": 14649,
     "recovered": 90748
   },
+  "Pakistan": {
+    "date": "2020-6-10",
+    "confirmed": 113702,
+    "deaths": 2255,
+    "recovered": 36308
+  },
   "Saudi Arabia": {
     "date": "2020-6-10",
     "confirmed": 112288,
@@ -97,7 +97,7 @@
   },
   "Canada": {
     "date": "2020-6-10",
-    "confirmed": 98453,
+    "confirmed": 98456,
     "deaths": 8022,
     "recovered": 56623
   },
@@ -315,7 +315,7 @@
     "date": "2020-6-10",
     "confirmed": 13319,
     "deaths": 61,
-    "recovered": 8138
+    "recovered": 8345
   },
   "Denmark": {
     "date": "2020-6-10",
@@ -635,6 +635,12 @@
     "deaths": 109,
     "recovered": 1359
   },
+  "Nicaragua": {
+    "date": "2020-6-10",
+    "confirmed": 1464,
+    "deaths": 55,
+    "recovered": 953
+  },
   "Guinea-Bissau": {
     "date": "2020-6-10",
     "confirmed": 1389,
@@ -694,12 +700,6 @@
     "confirmed": 1162,
     "deaths": 61,
     "recovered": 139
-  },
-  "Nicaragua": {
-    "date": "2020-6-10",
-    "confirmed": 1118,
-    "deaths": 46,
-    "recovered": 370
   },
   "Latvia": {
     "date": "2020-6-10",
@@ -863,17 +863,17 @@
     "deaths": 7,
     "recovered": 431
   },
+  "Eswatini": {
+    "date": "2020-6-10",
+    "confirmed": 398,
+    "deaths": 3,
+    "recovered": 236
+  },
   "Liberia": {
     "date": "2020-6-10",
     "confirmed": 397,
     "deaths": 31,
     "recovered": 200
-  },
-  "Eswatini": {
-    "date": "2020-6-10",
-    "confirmed": 371,
-    "deaths": 3,
-    "recovered": 232
   },
   "Libya": {
     "date": "2020-6-10",
