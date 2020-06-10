@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-10",
-    "confirmed": 1990112,
-    "deaths": 112441,
+    "confirmed": 1992136,
+    "deaths": 112513,
     "recovered": 524855
   },
   "Brazil": {
@@ -97,9 +97,9 @@
   },
   "Canada": {
     "date": "2020-6-10",
-    "confirmed": 98510,
+    "confirmed": 98514,
     "deaths": 8026,
-    "recovered": 56709
+    "recovered": 56711
   },
   "China": {
     "date": "2020-6-10",
@@ -175,9 +175,9 @@
   },
   "Egypt": {
     "date": "2020-6-10",
-    "confirmed": 36829,
-    "deaths": 1306,
-    "recovered": 9786
+    "confirmed": 38284,
+    "deaths": 1342,
+    "recovered": 10289
   },
   "Portugal": {
     "date": "2020-6-10",
@@ -259,7 +259,7 @@
   },
   "Israel": {
     "date": "2020-6-10",
-    "confirmed": 18268,
+    "confirmed": 18355,
     "deaths": 299,
     "recovered": 15168
   },
@@ -641,6 +641,12 @@
     "deaths": 55,
     "recovered": 953
   },
+  "Costa Rica": {
+    "date": "2020-6-10",
+    "confirmed": 1461,
+    "deaths": 12,
+    "recovered": 722
+  },
   "Guinea-Bissau": {
     "date": "2020-6-10",
     "confirmed": 1389,
@@ -652,12 +658,6 @@
     "confirmed": 1388,
     "deaths": 30,
     "recovered": 832
-  },
-  "Costa Rica": {
-    "date": "2020-6-10",
-    "confirmed": 1375,
-    "deaths": 11,
-    "recovered": 717
   },
   "Albania": {
     "date": "2020-6-10",
@@ -673,9 +673,9 @@
   },
   "Kosovo": {
     "date": "2020-6-10",
-    "confirmed": 1263,
+    "confirmed": 1298,
     "deaths": 31,
-    "recovered": 912
+    "recovered": 913
   },
   "Paraguay": {
     "date": "2020-6-10",
@@ -817,21 +817,21 @@
   },
   "Yemen": {
     "date": "2020-6-10",
-    "confirmed": 524,
-    "deaths": 127,
+    "confirmed": 560,
+    "deaths": 129,
     "recovered": 23
+  },
+  "Togo": {
+    "date": "2020-6-10",
+    "confirmed": 522,
+    "deaths": 13,
+    "recovered": 265
   },
   "Tanzania": {
     "date": "2020-6-10",
     "confirmed": 509,
     "deaths": 21,
     "recovered": 183
-  },
-  "Togo": {
-    "date": "2020-6-10",
-    "confirmed": 501,
-    "deaths": 13,
-    "recovered": 260
   },
   "West Bank and Gaza": {
     "date": "2020-6-10",
@@ -985,7 +985,7 @@
   },
   "Barbados": {
     "date": "2020-6-10",
-    "confirmed": 92,
+    "confirmed": 96,
     "deaths": 7,
     "recovered": 81
   },
