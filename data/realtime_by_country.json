@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-6-10",
-    "confirmed": 1977007,
-    "deaths": 111876,
+    "confirmed": 1979089,
+    "deaths": 111979,
     "recovered": 524855
   },
   "Brazil": {
     "date": "2020-6-10",
     "confirmed": 739503,
     "deaths": 38406,
-    "recovered": 389488
+    "recovered": 396687
   },
   "Russia": {
     "date": "2020-6-10",
@@ -103,9 +103,9 @@
   },
   "China": {
     "date": "2020-6-10",
-    "confirmed": 84195,
+    "confirmed": 84198,
     "deaths": 4638,
-    "recovered": 79446
+    "recovered": 79451
   },
   "Qatar": {
     "date": "2020-6-10",
@@ -263,6 +263,12 @@
     "deaths": 299,
     "recovered": 15159
   },
+  "Panama": {
+    "date": "2020-6-10",
+    "confirmed": 17233,
+    "deaths": 403,
+    "recovered": 10561
+  },
   "Japan": {
     "date": "2020-6-10",
     "confirmed": 17111,
@@ -274,12 +280,6 @@
     "confirmed": 16979,
     "deaths": 672,
     "recovered": 15875
-  },
-  "Panama": {
-    "date": "2020-6-10",
-    "confirmed": 16854,
-    "deaths": 398,
-    "recovered": 10401
   },
   "Bahrain": {
     "date": "2020-6-10",
@@ -331,9 +331,9 @@
   },
   "Korea, South": {
     "date": "2020-6-10",
-    "confirmed": 11852,
-    "deaths": 274,
-    "recovered": 10589
+    "confirmed": 11902,
+    "deaths": 276,
+    "recovered": 10611
   },
   "Algeria": {
     "date": "2020-6-10",
@@ -391,9 +391,9 @@
   },
   "Guatemala": {
     "date": "2020-6-10",
-    "confirmed": 7502,
-    "deaths": 267,
-    "recovered": 1323
+    "confirmed": 7866,
+    "deaths": 289,
+    "recovered": 1413
   },
   "Australia": {
     "date": "2020-6-10",
@@ -500,8 +500,8 @@
   "El Salvador": {
     "date": "2020-6-10",
     "confirmed": 3191,
-    "deaths": 58,
-    "recovered": 1413
+    "deaths": 60,
+    "recovered": 1419
   },
   "Thailand": {
     "date": "2020-6-10",
@@ -535,8 +535,8 @@
   },
   "Venezuela": {
     "date": "2020-6-10",
-    "confirmed": 2473,
-    "deaths": 22,
+    "confirmed": 2632,
+    "deaths": 23,
     "recovered": 487
   },
   "Somalia": {
@@ -799,7 +799,7 @@
   },
   "Jamaica": {
     "date": "2020-6-10",
-    "confirmed": 599,
+    "confirmed": 605,
     "deaths": 10,
     "recovered": 405
   },
