@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-6-11",
-    "confirmed": 2008905,
-    "deaths": 113168,
+    "confirmed": 2009238,
+    "deaths": 113209,
     "recovered": 533504
   },
   "Brazil": {
     "date": "2020-6-11",
     "confirmed": 772416,
     "deaths": 39680,
-    "recovered": 413916
+    "recovered": 419335
   },
   "Russia": {
     "date": "2020-6-11",
@@ -73,9 +73,9 @@
   },
   "Chile": {
     "date": "2020-6-11",
-    "confirmed": 148456,
-    "deaths": 2475,
-    "recovered": 121780
+    "confirmed": 154092,
+    "deaths": 2648,
+    "recovered": 126444
   },
   "Mexico": {
     "date": "2020-6-11",
@@ -99,7 +99,7 @@
     "date": "2020-6-11",
     "confirmed": 98887,
     "deaths": 8062,
-    "recovered": 57673
+    "recovered": 57675
   },
   "China": {
     "date": "2020-6-11",
@@ -201,7 +201,7 @@
     "date": "2020-6-11",
     "confirmed": 31044,
     "deaths": 1937,
-    "recovered": 28700
+    "recovered": 28800
   },
   "Ukraine": {
     "date": "2020-6-11",
@@ -223,8 +223,8 @@
   },
   "Ireland": {
     "date": "2020-6-11",
-    "confirmed": 25231,
-    "deaths": 1695,
+    "confirmed": 25238,
+    "deaths": 1703,
     "recovered": 22698
   },
   "Philippines": {
@@ -315,7 +315,7 @@
     "date": "2020-6-11",
     "confirmed": 13558,
     "deaths": 67,
-    "recovered": 8531
+    "recovered": 8593
   },
   "Denmark": {
     "date": "2020-6-11",
@@ -569,17 +569,17 @@
     "deaths": 26,
     "recovered": 1630
   },
+  "Maldives": {
+    "date": "2020-6-11",
+    "confirmed": 1976,
+    "deaths": 8,
+    "recovered": 1153
+  },
   "Estonia": {
     "date": "2020-6-11",
     "confirmed": 1965,
     "deaths": 69,
     "recovered": 1697
-  },
-  "Maldives": {
-    "date": "2020-6-11",
-    "confirmed": 1962,
-    "deaths": 8,
-    "recovered": 1121
   },
   "Central African Republic": {
     "date": "2020-6-11",
@@ -607,9 +607,9 @@
   },
   "Mali": {
     "date": "2020-6-11",
-    "confirmed": 1667,
-    "deaths": 96,
-    "recovered": 948
+    "confirmed": 1722,
+    "deaths": 97,
+    "recovered": 989
   },
   "South Sudan": {
     "date": "2020-6-11",
@@ -721,7 +721,7 @@
   },
   "Cyprus": {
     "date": "2020-6-11",
-    "confirmed": 974,
+    "confirmed": 975,
     "deaths": 18,
     "recovered": 807
   },
@@ -857,6 +857,12 @@
     "deaths": 4,
     "recovered": 55
   },
+  "Eswatini": {
+    "date": "2020-6-11",
+    "confirmed": 449,
+    "deaths": 3,
+    "recovered": 238
+  },
   "Taiwan*": {
     "date": "2020-6-11",
     "confirmed": 443,
@@ -868,12 +874,6 @@
     "confirmed": 410,
     "deaths": 31,
     "recovered": 206
-  },
-  "Eswatini": {
-    "date": "2020-6-11",
-    "confirmed": 398,
-    "deaths": 3,
-    "recovered": 236
   },
   "Libya": {
     "date": "2020-6-11",
