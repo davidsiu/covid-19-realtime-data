@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-14",
-    "confirmed": 2074082,
-    "deaths": 115402,
+    "confirmed": 2074526,
+    "deaths": 115436,
     "recovered": 556606
   },
   "Brazil": {
@@ -45,7 +45,7 @@
     "date": "2020-6-14",
     "confirmed": 220749,
     "deaths": 6308,
-    "recovered": 107133
+    "recovered": 111724
   },
   "France": {
     "date": "2020-6-14",
@@ -109,9 +109,9 @@
   },
   "China": {
     "date": "2020-6-14",
-    "confirmed": 84229,
+    "confirmed": 84286,
     "deaths": 4638,
-    "recovered": 79473
+    "recovered": 79475
   },
   "Qatar": {
     "date": "2020-6-14",
@@ -275,6 +275,12 @@
     "deaths": 549,
     "recovered": 7515
   },
+  "Bolivia": {
+    "date": "2020-6-14",
+    "confirmed": 17842,
+    "deaths": 585,
+    "recovered": 2768
+  },
   "Bahrain": {
     "date": "2020-6-14",
     "confirmed": 17713,
@@ -283,21 +289,15 @@
   },
   "Japan": {
     "date": "2020-6-14",
-    "confirmed": 17292,
+    "confirmed": 17293,
     "deaths": 927,
-    "recovered": 15459
+    "recovered": 15458
   },
   "Austria": {
     "date": "2020-6-14",
     "confirmed": 17078,
     "deaths": 677,
     "recovered": 16012
-  },
-  "Bolivia": {
-    "date": "2020-6-14",
-    "confirmed": 16929,
-    "deaths": 559,
-    "recovered": 2431
   },
   "Armenia": {
     "date": "2020-6-14",
@@ -403,9 +403,9 @@
   },
   "Australia": {
     "date": "2020-6-14",
-    "confirmed": 7311,
+    "confirmed": 7320,
     "deaths": 102,
-    "recovered": 6812
+    "recovered": 6815
   },
   "Finland": {
     "date": "2020-6-14",
@@ -467,6 +467,12 @@
     "deaths": 41,
     "recovered": 2823
   },
+  "Haiti": {
+    "date": "2020-6-14",
+    "confirmed": 4165,
+    "deaths": 70,
+    "recovered": 24
+  },
   "Hungary": {
     "date": "2020-6-14",
     "confirmed": 4064,
@@ -478,12 +484,6 @@
     "confirmed": 4063,
     "deaths": 110,
     "recovered": 3922
-  },
-  "Haiti": {
-    "date": "2020-6-14",
-    "confirmed": 3941,
-    "deaths": 64,
-    "recovered": 24
   },
   "North Macedonia": {
     "date": "2020-6-14",
@@ -1113,7 +1113,7 @@
     "date": "2020-6-14",
     "confirmed": 9,
     "deaths": 1,
-    "recovered": 6
+    "recovered": 8
   },
   "Papua New Guinea": {
     "date": "2020-6-14",
