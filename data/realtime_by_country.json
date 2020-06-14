@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-14",
-    "confirmed": 2088986,
-    "deaths": 115619,
+    "confirmed": 2090358,
+    "deaths": 115645,
     "recovered": 556606
   },
   "Brazil": {
@@ -45,19 +45,19 @@
     "date": "2020-6-14",
     "confirmed": 225132,
     "deaths": 6498,
-    "recovered": 111724
+    "recovered": 115579
   },
   "France": {
     "date": "2020-6-14",
-    "confirmed": 193746,
-    "deaths": 29401,
-    "recovered": 72931
+    "confirmed": 194153,
+    "deaths": 29410,
+    "recovered": 72982
   },
   "Germany": {
     "date": "2020-6-14",
     "confirmed": 187518,
     "deaths": 8801,
-    "recovered": 172024
+    "recovered": 172089
   },
   "Iran": {
     "date": "2020-6-14",
@@ -97,7 +97,7 @@
   },
   "Canada": {
     "date": "2020-6-14",
-    "confirmed": 100254,
+    "confirmed": 100255,
     "deaths": 8211,
     "recovered": 60448
   },
@@ -151,21 +151,21 @@
   },
   "Colombia": {
     "date": "2020-6-14",
-    "confirmed": 48880,
+    "confirmed": 48896,
     "deaths": 1670,
     "recovered": 19460
   },
   "Ecuador": {
     "date": "2020-6-14",
-    "confirmed": 46356,
-    "deaths": 3874,
-    "recovered": 22865
+    "confirmed": 46751,
+    "deaths": 3896,
+    "recovered": 23064
   },
   "Egypt": {
     "date": "2020-6-14",
-    "confirmed": 42980,
-    "deaths": 1484,
-    "recovered": 11529
+    "confirmed": 44598,
+    "deaths": 1575,
+    "recovered": 11931
   },
   "United Arab Emirates": {
     "date": "2020-6-14",
@@ -278,7 +278,7 @@
   "Bahrain": {
     "date": "2020-6-14",
     "confirmed": 18227,
-    "deaths": 41,
+    "deaths": 42,
     "recovered": 12818
   },
   "Bolivia": {
@@ -989,6 +989,12 @@
     "deaths": 7,
     "recovered": 83
   },
+  "Eritrea": {
+    "date": "2020-6-14",
+    "confirmed": 96,
+    "deaths": 0,
+    "recovered": 39
+  },
   "Burundi": {
     "date": "2020-6-14",
     "confirmed": 85,
@@ -1006,12 +1012,6 @@
     "confirmed": 66,
     "deaths": 0,
     "recovered": 21
-  },
-  "Eritrea": {
-    "date": "2020-6-14",
-    "confirmed": 65,
-    "deaths": 0,
-    "recovered": 39
   },
   "Botswana": {
     "date": "2020-6-14",
