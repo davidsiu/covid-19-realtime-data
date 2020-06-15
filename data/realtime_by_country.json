@@ -365,6 +365,12 @@
     "deaths": 119,
     "recovered": 5583
   },
+  "Cameroon": {
+    "date": "2020-6-15",
+    "confirmed": 9864,
+    "deaths": 276,
+    "recovered": 5570
+  },
   "Guatemala": {
     "date": "2020-6-15",
     "confirmed": 9845,
@@ -382,12 +388,6 @@
     "confirmed": 8793,
     "deaths": 212,
     "recovered": 7765
-  },
-  "Cameroon": {
-    "date": "2020-6-15",
-    "confirmed": 8681,
-    "deaths": 212,
-    "recovered": 4836
   },
   "Norway": {
     "date": "2020-6-15",
@@ -425,6 +425,12 @@
     "deaths": 19,
     "recovered": 974
   },
+  "Uzbekistan": {
+    "date": "2020-6-15",
+    "confirmed": 5103,
+    "deaths": 19,
+    "recovered": 3943
+  },
   "Senegal": {
     "date": "2020-6-15",
     "confirmed": 5090,
@@ -436,12 +442,6 @@
     "confirmed": 5084,
     "deaths": 45,
     "recovered": 2505
-  },
-  "Uzbekistan": {
-    "date": "2020-6-15",
-    "confirmed": 5080,
-    "deaths": 19,
-    "recovered": 3943
   },
   "Tajikistan": {
     "date": "2020-6-15",
@@ -841,9 +841,9 @@
   },
   "Togo": {
     "date": "2020-6-15",
-    "confirmed": 530,
+    "confirmed": 531,
     "deaths": 13,
-    "recovered": 291
+    "recovered": 299
   },
   "Tanzania": {
     "date": "2020-6-15",
