@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-15",
-    "confirmed": 2105482,
-    "deaths": 115998,
+    "confirmed": 2107632,
+    "deaths": 116029,
     "recovered": 561816
   },
   "Brazil": {
@@ -25,7 +25,7 @@
   },
   "United Kingdom": {
     "date": "2020-6-15",
-    "confirmed": 298312,
+    "confirmed": 298315,
     "deaths": 41821,
     "recovered": 1284
   },
@@ -97,9 +97,9 @@
   },
   "Canada": {
     "date": "2020-6-15",
-    "confirmed": 100600,
-    "deaths": 8231,
-    "recovered": 61260
+    "confirmed": 100694,
+    "deaths": 8226,
+    "recovered": 61391
   },
   "Bangladesh": {
     "date": "2020-6-15",
@@ -163,9 +163,9 @@
   },
   "Egypt": {
     "date": "2020-6-15",
-    "confirmed": 44598,
-    "deaths": 1575,
-    "recovered": 11931
+    "confirmed": 46289,
+    "deaths": 1672,
+    "recovered": 12329
   },
   "United Arab Emirates": {
     "date": "2020-6-15",
@@ -425,6 +425,12 @@
     "deaths": 19,
     "recovered": 1041
   },
+  "Cote d'Ivoire": {
+    "date": "2020-6-15",
+    "confirmed": 5439,
+    "deaths": 46,
+    "recovered": 2590
+  },
   "Uzbekistan": {
     "date": "2020-6-15",
     "confirmed": 5263,
@@ -442,12 +448,6 @@
     "confirmed": 5097,
     "deaths": 50,
     "recovered": 3503
-  },
-  "Cote d'Ivoire": {
-    "date": "2020-6-15",
-    "confirmed": 5084,
-    "deaths": 45,
-    "recovered": 2505
   },
   "Congo (Kinshasa)": {
     "date": "2020-6-15",
@@ -805,7 +805,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2020-6-15",
-    "confirmed": 661,
+    "confirmed": 662,
     "deaths": 12,
     "recovered": 177
   },
@@ -859,7 +859,7 @@
   },
   "West Bank and Gaza": {
     "date": "2020-6-15",
-    "confirmed": 501,
+    "confirmed": 505,
     "deaths": 3,
     "recovered": 415
   },
@@ -907,7 +907,7 @@
   },
   "Montenegro": {
     "date": "2020-6-15",
-    "confirmed": 325,
+    "confirmed": 326,
     "deaths": 9,
     "recovered": 315
   },
