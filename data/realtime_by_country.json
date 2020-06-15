@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-15",
-    "confirmed": 2093448,
-    "deaths": 115730,
+    "confirmed": 2093508,
+    "deaths": 115732,
     "recovered": 561816
   },
   "Brazil": {
@@ -109,7 +109,7 @@
   },
   "China": {
     "date": "2020-6-15",
-    "confirmed": 84296,
+    "confirmed": 84335,
     "deaths": 4638,
     "recovered": 79476
   },
@@ -257,17 +257,17 @@
     "deaths": 1410,
     "recovered": 15719
   },
+  "Panama": {
+    "date": "2020-6-15",
+    "confirmed": 21418,
+    "deaths": 437,
+    "recovered": 13766
+  },
   "Iraq": {
     "date": "2020-6-15",
     "confirmed": 20209,
     "deaths": 607,
     "recovered": 8121
-  },
-  "Panama": {
-    "date": "2020-6-15",
-    "confirmed": 20059,
-    "deaths": 429,
-    "recovered": 13759
   },
   "Israel": {
     "date": "2020-6-15",
@@ -535,9 +535,9 @@
   },
   "Venezuela": {
     "date": "2020-6-15",
-    "confirmed": 2904,
-    "deaths": 24,
-    "recovered": 487
+    "confirmed": 2978,
+    "deaths": 25,
+    "recovered": 835
   },
   "Bosnia and Herzegovina": {
     "date": "2020-6-15",
@@ -817,7 +817,7 @@
   },
   "Jamaica": {
     "date": "2020-6-15",
-    "confirmed": 615,
+    "confirmed": 617,
     "deaths": 10,
     "recovered": 420
   },
@@ -869,6 +869,12 @@
     "deaths": 32,
     "recovered": 219
   },
+  "Libya": {
+    "date": "2020-6-15",
+    "confirmed": 454,
+    "deaths": 10,
+    "recovered": 63
+  },
   "Taiwan*": {
     "date": "2020-6-15",
     "confirmed": 443,
@@ -880,12 +886,6 @@
     "confirmed": 442,
     "deaths": 6,
     "recovered": 228
-  },
-  "Libya": {
-    "date": "2020-6-15",
-    "confirmed": 418,
-    "deaths": 8,
-    "recovered": 62
   },
   "Zimbabwe": {
     "date": "2020-6-15",
