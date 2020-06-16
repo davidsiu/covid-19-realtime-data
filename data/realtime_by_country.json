@@ -111,7 +111,7 @@
     "date": "2020-6-16",
     "confirmed": 84378,
     "deaths": 4638,
-    "recovered": 79489
+    "recovered": 79491
   },
   "Qatar": {
     "date": "2020-6-16",
@@ -133,9 +133,15 @@
   },
   "Belarus": {
     "date": "2020-6-16",
-    "confirmed": 54680,
-    "deaths": 312,
-    "recovered": 30420
+    "confirmed": 55369,
+    "deaths": 318,
+    "recovered": 31273
+  },
+  "Sweden": {
+    "date": "2020-6-16",
+    "confirmed": 53323,
+    "deaths": 4939,
+    "recovered": null
   },
   "Colombia": {
     "date": "2020-6-16",
@@ -143,16 +149,10 @@
     "deaths": 1808,
     "recovered": 19985
   },
-  "Sweden": {
-    "date": "2020-6-16",
-    "confirmed": 52383,
-    "deaths": 4891,
-    "recovered": null
-  },
   "Netherlands": {
     "date": "2020-6-16",
-    "confirmed": 49155,
-    "deaths": 6084,
+    "confirmed": 49294,
+    "deaths": 6089,
     "recovered": 186
   },
   "Ecuador": {
@@ -325,9 +325,9 @@
   },
   "Serbia": {
     "date": "2020-6-16",
-    "confirmed": 12310,
-    "deaths": 254,
-    "recovered": 11511
+    "confirmed": 12367,
+    "deaths": 255,
+    "recovered": 11561
   },
   "Korea, South": {
     "date": "2020-6-16",
@@ -511,9 +511,9 @@
   },
   "Ethiopia": {
     "date": "2020-6-16",
-    "confirmed": 3521,
-    "deaths": 60,
-    "recovered": 620
+    "confirmed": 3630,
+    "deaths": 61,
+    "recovered": 738
   },
   "Bulgaria": {
     "date": "2020-6-16",
@@ -571,7 +571,7 @@
   },
   "Croatia": {
     "date": "2020-6-16",
-    "confirmed": 2254,
+    "confirmed": 2255,
     "deaths": 107,
     "recovered": 2140
   },
