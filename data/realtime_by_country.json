@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2020-6-17",
-    "confirmed": 2157768,
-    "deaths": 117622,
-    "recovered": 583503
+    "confirmed": 2159446,
+    "deaths": 117663,
+    "recovered": 592191
   },
   "Brazil": {
     "date": "2020-6-17",
-    "confirmed": 923189,
-    "deaths": 45241,
+    "confirmed": 955377,
+    "deaths": 46510,
     "recovered": 494526
   },
   "Russia": {
@@ -97,9 +97,9 @@
   },
   "Canada": {
     "date": "2020-6-17",
-    "confirmed": 101397,
+    "confirmed": 101478,
     "deaths": 8312,
-    "recovered": 63262
+    "recovered": 63280
   },
   "Bangladesh": {
     "date": "2020-6-17",
@@ -293,6 +293,12 @@
     "deaths": 302,
     "recovered": 6814
   },
+  "Nigeria": {
+    "date": "2020-6-17",
+    "confirmed": 17735,
+    "deaths": 469,
+    "recovered": 5967
+  },
   "Japan": {
     "date": "2020-6-17",
     "confirmed": 17530,
@@ -304,12 +310,6 @@
     "confirmed": 17203,
     "deaths": 687,
     "recovered": 16099
-  },
-  "Nigeria": {
-    "date": "2020-6-17",
-    "confirmed": 17148,
-    "deaths": 455,
-    "recovered": 5623
   },
   "Kazakhstan": {
     "date": "2020-6-17",
@@ -853,7 +853,7 @@
   },
   "West Bank and Gaza": {
     "date": "2020-6-17",
-    "confirmed": 553,
+    "confirmed": 555,
     "deaths": 3,
     "recovered": 415
   },
