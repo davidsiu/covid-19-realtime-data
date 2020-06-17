@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-17",
-    "confirmed": 2134973,
-    "deaths": 116854,
+    "confirmed": 2136208,
+    "deaths": 116905,
     "recovered": 583503
   },
   "Brazil": {
@@ -27,7 +27,7 @@
     "date": "2020-6-17",
     "confirmed": 299600,
     "deaths": 42054,
-    "recovered": 1292
+    "recovered": 1293
   },
   "Spain": {
     "date": "2020-6-17",
@@ -79,9 +79,9 @@
   },
   "Mexico": {
     "date": "2020-6-17",
-    "confirmed": 150264,
-    "deaths": 17580,
-    "recovered": 112292
+    "confirmed": 154863,
+    "deaths": 18310,
+    "recovered": 115394
   },
   "Pakistan": {
     "date": "2020-6-17",
@@ -197,17 +197,17 @@
     "deaths": 303,
     "recovered": 28206
   },
+  "Argentina": {
+    "date": "2020-6-17",
+    "confirmed": 34159,
+    "deaths": 878,
+    "recovered": 10174
+  },
   "Ukraine": {
     "date": "2020-6-17",
     "confirmed": 33209,
     "deaths": 922,
     "recovered": 15054
-  },
-  "Argentina": {
-    "date": "2020-6-17",
-    "confirmed": 32785,
-    "deaths": 862,
-    "recovered": 10174
   },
   "Switzerland": {
     "date": "2020-6-17",
@@ -265,8 +265,8 @@
   },
   "Panama": {
     "date": "2020-6-17",
-    "confirmed": 21422,
-    "deaths": 448,
+    "confirmed": 21962,
+    "deaths": 457,
     "recovered": 13766
   },
   "Bahrain": {
@@ -409,9 +409,9 @@
   },
   "Australia": {
     "date": "2020-6-17",
-    "confirmed": 7368,
+    "confirmed": 7370,
     "deaths": 102,
-    "recovered": 6856
+    "recovered": 6857
   },
   "Finland": {
     "date": "2020-6-17",
@@ -521,6 +521,12 @@
     "deaths": 181,
     "recovered": 1817
   },
+  "Venezuela": {
+    "date": "2020-6-17",
+    "confirmed": 3150,
+    "deaths": 27,
+    "recovered": 835
+  },
   "Greece": {
     "date": "2020-6-17",
     "confirmed": 3148,
@@ -538,12 +544,6 @@
     "confirmed": 3085,
     "deaths": 168,
     "recovered": 2178
-  },
-  "Venezuela": {
-    "date": "2020-6-17",
-    "confirmed": 3062,
-    "deaths": 26,
-    "recovered": 835
   },
   "Somalia": {
     "date": "2020-6-17",
