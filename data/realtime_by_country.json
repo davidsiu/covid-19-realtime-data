@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-20",
-    "confirmed": 2219119,
-    "deaths": 119086,
+    "confirmed": 2219675,
+    "deaths": 119097,
     "recovered": 606715
   },
   "Brazil": {
@@ -79,9 +79,9 @@
   },
   "Mexico": {
     "date": "2020-6-20",
-    "confirmed": 165455,
-    "deaths": 19747,
-    "recovered": 122180
+    "confirmed": 170485,
+    "deaths": 20394,
+    "recovered": 126438
   },
   "Pakistan": {
     "date": "2020-6-20",
@@ -185,6 +185,12 @@
     "deaths": 26,
     "recovered": 33459
   },
+  "Argentina": {
+    "date": "2020-6-20",
+    "confirmed": 39570,
+    "deaths": 979,
+    "recovered": 11851
+  },
   "Kuwait": {
     "date": "2020-6-20",
     "confirmed": 38678,
@@ -196,12 +202,6 @@
     "confirmed": 38464,
     "deaths": 1527,
     "recovered": 24477
-  },
-  "Argentina": {
-    "date": "2020-6-20",
-    "confirmed": 37510,
-    "deaths": 954,
-    "recovered": 11851
   },
   "Ukraine": {
     "date": "2020-6-20",
@@ -217,7 +217,7 @@
   },
   "Switzerland": {
     "date": "2020-6-20",
-    "confirmed": 31217,
+    "confirmed": 31235,
     "deaths": 1956,
     "recovered": 28900
   },
@@ -257,17 +257,17 @@
     "deaths": 647,
     "recovered": 14605
   },
+  "Panama": {
+    "date": "2020-6-20",
+    "confirmed": 24274,
+    "deaths": 485,
+    "recovered": 14359
+  },
   "Romania": {
     "date": "2020-6-20",
     "confirmed": 23400,
     "deaths": 1484,
     "recovered": 16555
-  },
-  "Panama": {
-    "date": "2020-6-20",
-    "confirmed": 23351,
-    "deaths": 475,
-    "recovered": 13782
   },
   "Bolivia": {
     "date": "2020-6-20",
@@ -781,7 +781,7 @@
   },
   "Cabo Verde": {
     "date": "2020-6-20",
-    "confirmed": 849,
+    "confirmed": 848,
     "deaths": 8,
     "recovered": 377
   },
@@ -871,9 +871,9 @@
   },
   "Libya": {
     "date": "2020-6-20",
-    "confirmed": 510,
+    "confirmed": 520,
     "deaths": 10,
-    "recovered": 81
+    "recovered": 83
   },
   "Tanzania": {
     "date": "2020-6-20",
@@ -1059,7 +1059,7 @@
     "date": "2020-6-20",
     "confirmed": 22,
     "deaths": 2,
-    "recovered": 16
+    "recovered": 17
   },
   "Laos": {
     "date": "2020-6-20",
