@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-21",
-    "confirmed": 2254630,
-    "deaths": 119714,
+    "confirmed": 2254855,
+    "deaths": 119719,
     "recovered": 617460
   },
   "Brazil": {
@@ -121,9 +121,9 @@
   },
   "China": {
     "date": "2020-6-21",
-    "confirmed": 84525,
+    "confirmed": 84551,
     "deaths": 4639,
-    "recovered": 79532
+    "recovered": 79534
   },
   "Colombia": {
     "date": "2020-6-21",
@@ -271,9 +271,9 @@
   },
   "Bolivia": {
     "date": "2020-6-21",
-    "confirmed": 22476,
-    "deaths": 715,
-    "recovered": 4670
+    "confirmed": 23512,
+    "deaths": 740,
+    "recovered": 5086
   },
   "Bahrain": {
     "date": "2020-6-21",
@@ -353,6 +353,12 @@
     "deaths": 280,
     "recovered": 10868
   },
+  "Honduras": {
+    "date": "2020-6-21",
+    "confirmed": 12306,
+    "deaths": 358,
+    "recovered": 1275
+  },
   "Azerbaijan": {
     "date": "2020-6-21",
     "confirmed": 12238,
@@ -370,12 +376,6 @@
     "confirmed": 11610,
     "deaths": 301,
     "recovered": 7702
-  },
-  "Honduras": {
-    "date": "2020-6-21",
-    "confirmed": 11258,
-    "deaths": 349,
-    "recovered": 1214
   },
   "Czechia": {
     "date": "2020-6-21",
@@ -415,7 +415,7 @@
   },
   "Australia": {
     "date": "2020-6-21",
-    "confirmed": 7460,
+    "confirmed": 7461,
     "deaths": 102,
     "recovered": 6896
   },
@@ -673,7 +673,7 @@
   },
   "New Zealand": {
     "date": "2020-6-21",
-    "confirmed": 1509,
+    "confirmed": 1511,
     "deaths": 22,
     "recovered": 1482
   },
@@ -809,17 +809,17 @@
     "deaths": 2,
     "recovered": 357
   },
+  "Sao Tome and Principe": {
+    "date": "2020-6-21",
+    "confirmed": 698,
+    "deaths": 12,
+    "recovered": 203
+  },
   "San Marino": {
     "date": "2020-6-21",
     "confirmed": 696,
     "deaths": 42,
     "recovered": 610
-  },
-  "Sao Tome and Principe": {
-    "date": "2020-6-21",
-    "confirmed": 693,
-    "deaths": 12,
-    "recovered": 199
   },
   "Mozambique": {
     "date": "2020-6-21",
@@ -1027,8 +1027,8 @@
   },
   "Gambia": {
     "date": "2020-6-21",
-    "confirmed": 36,
-    "deaths": 1,
+    "confirmed": 37,
+    "deaths": 2,
     "recovered": 24
   },
   "Saint Vincent and the Grenadines": {
