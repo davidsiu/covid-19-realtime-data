@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-22",
-    "confirmed": 2286457,
-    "deaths": 120036,
+    "confirmed": 2289168,
+    "deaths": 120044,
     "recovered": 622133
   },
   "Brazil": {
@@ -49,9 +49,9 @@
   },
   "Italy": {
     "date": "2020-6-22",
-    "confirmed": 238499,
-    "deaths": 34634,
-    "recovered": 182893
+    "confirmed": 238720,
+    "deaths": 34657,
+    "recovered": 183426
   },
   "Iran": {
     "date": "2020-6-22",
@@ -103,9 +103,9 @@
   },
   "Canada": {
     "date": "2020-6-22",
-    "confirmed": 103119,
+    "confirmed": 103189,
     "deaths": 8485,
-    "recovered": 65301
+    "recovered": 65529
   },
   "South Africa": {
     "date": "2020-6-22",
@@ -121,7 +121,7 @@
   },
   "China": {
     "date": "2020-6-22",
-    "confirmed": 84603,
+    "confirmed": 84610,
     "deaths": 4639,
     "recovered": 79536
   },
@@ -309,7 +309,7 @@
     "date": "2020-6-22",
     "confirmed": 17732,
     "deaths": 120,
-    "recovered": 10897
+    "recovered": 11158
   },
   "Austria": {
     "date": "2020-6-22",
@@ -365,23 +365,23 @@
     "deaths": 280,
     "recovered": 10881
   },
+  "Algeria": {
+    "date": "2020-6-22",
+    "confirmed": 11920,
+    "deaths": 852,
+    "recovered": 8559
+  },
   "Cameroon": {
     "date": "2020-6-22",
     "confirmed": 11892,
     "deaths": 303,
     "recovered": 7710
   },
-  "Algeria": {
-    "date": "2020-6-22",
-    "confirmed": 11771,
-    "deaths": 845,
-    "recovered": 8422
-  },
   "Czechia": {
     "date": "2020-6-22",
-    "confirmed": 10498,
+    "confirmed": 10523,
     "deaths": 336,
-    "recovered": 7505
+    "recovered": 7537
   },
   "Morocco": {
     "date": "2020-6-22",
@@ -505,9 +505,9 @@
   },
   "Luxembourg": {
     "date": "2020-6-22",
-    "confirmed": 4120,
+    "confirmed": 4121,
     "deaths": 110,
-    "recovered": 3956
+    "recovered": 3959
   },
   "Hungary": {
     "date": "2020-6-22",
@@ -719,17 +719,23 @@
     "deaths": 30,
     "recovered": 903
   },
+  "Congo (Brazzaville)": {
+    "date": "2020-6-22",
+    "confirmed": 1087,
+    "deaths": 37,
+    "recovered": 456
+  },
+  "Jordan": {
+    "date": "2020-6-22",
+    "confirmed": 1042,
+    "deaths": 9,
+    "recovered": 751
+  },
   "Niger": {
     "date": "2020-6-22",
     "confirmed": 1036,
     "deaths": 67,
     "recovered": 911
-  },
-  "Jordan": {
-    "date": "2020-6-22",
-    "confirmed": 1033,
-    "deaths": 9,
-    "recovered": 739
   },
   "Cyprus": {
     "date": "2020-6-22",
@@ -766,12 +772,6 @@
     "confirmed": 890,
     "deaths": 8,
     "recovered": 413
-  },
-  "Congo (Brazzaville)": {
-    "date": "2020-6-22",
-    "confirmed": 883,
-    "deaths": 27,
-    "recovered": 391
   },
   "Uruguay": {
     "date": "2020-6-22",
