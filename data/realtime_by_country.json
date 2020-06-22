@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-22",
-    "confirmed": 2306247,
-    "deaths": 120351,
+    "confirmed": 2310334,
+    "deaths": 120384,
     "recovered": 640198
   },
   "Brazil": {
@@ -103,9 +103,9 @@
   },
   "Canada": {
     "date": "2020-6-22",
-    "confirmed": 103386,
-    "deaths": 8493,
-    "recovered": 65698
+    "confirmed": 103418,
+    "deaths": 8494,
+    "recovered": 65721
   },
   "South Africa": {
     "date": "2020-6-22",
@@ -241,7 +241,7 @@
   },
   "Afghanistan": {
     "date": "2020-6-22",
-    "confirmed": 29143,
+    "confirmed": 29157,
     "deaths": 598,
     "recovered": 8841
   },
@@ -287,17 +287,17 @@
     "deaths": 307,
     "recovered": 15761
   },
+  "Nigeria": {
+    "date": "2020-6-22",
+    "confirmed": 20919,
+    "deaths": 525,
+    "recovered": 7109
+  },
   "Armenia": {
     "date": "2020-6-22",
     "confirmed": 20588,
     "deaths": 360,
     "recovered": 9131
-  },
-  "Nigeria": {
-    "date": "2020-6-22",
-    "confirmed": 20244,
-    "deaths": 518,
-    "recovered": 6879
   },
   "Japan": {
     "date": "2020-6-22",
@@ -365,17 +365,17 @@
     "deaths": 280,
     "recovered": 10881
   },
+  "Cameroon": {
+    "date": "2020-6-22",
+    "confirmed": 12041,
+    "deaths": 308,
+    "recovered": 7740
+  },
   "Algeria": {
     "date": "2020-6-22",
     "confirmed": 11920,
     "deaths": 852,
     "recovered": 8559
-  },
-  "Cameroon": {
-    "date": "2020-6-22",
-    "confirmed": 11892,
-    "deaths": 303,
-    "recovered": 7710
   },
   "Czechia": {
     "date": "2020-6-22",
@@ -485,6 +485,12 @@
     "deaths": 125,
     "recovered": 1680
   },
+  "Gabon": {
+    "date": "2020-6-22",
+    "confirmed": 4739,
+    "deaths": 39,
+    "recovered": 2002
+  },
   "Ethiopia": {
     "date": "2020-6-22",
     "confirmed": 4663,
@@ -496,12 +502,6 @@
     "confirmed": 4599,
     "deaths": 48,
     "recovered": 3952
-  },
-  "Gabon": {
-    "date": "2020-6-22",
-    "confirmed": 4428,
-    "deaths": 34,
-    "recovered": 1750
   },
   "Luxembourg": {
     "date": "2020-6-22",
@@ -775,9 +775,9 @@
   },
   "Uruguay": {
     "date": "2020-6-22",
-    "confirmed": 876,
+    "confirmed": 882,
     "deaths": 25,
-    "recovered": 814
+    "recovered": 815
   },
   "Chad": {
     "date": "2020-6-22",
@@ -993,7 +993,7 @@
     "date": "2020-6-22",
     "confirmed": 101,
     "deaths": 4,
-    "recovered": 94
+    "recovered": 95
   },
   "Barbados": {
     "date": "2020-6-22",
@@ -1097,6 +1097,12 @@
     "deaths": 0,
     "recovered": 12
   },
+  "Lesotho": {
+    "date": "2020-6-22",
+    "confirmed": 12,
+    "deaths": 0,
+    "recovered": 2
+  },
   "Seychelles": {
     "date": "2020-6-22",
     "confirmed": 11,
@@ -1120,11 +1126,5 @@
     "confirmed": 9,
     "deaths": 0,
     "recovered": 8
-  },
-  "Lesotho": {
-    "date": "2020-6-22",
-    "confirmed": 4,
-    "deaths": 0,
-    "recovered": 2
   }
 }
