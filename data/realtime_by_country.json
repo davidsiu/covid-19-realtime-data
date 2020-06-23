@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-23",
-    "confirmed": 2310786,
-    "deaths": 120393,
+    "confirmed": 2311997,
+    "deaths": 120402,
     "recovered": 640198
   },
   "Brazil": {
@@ -127,9 +127,9 @@
   },
   "Colombia": {
     "date": "2020-6-23",
-    "confirmed": 68836,
-    "deaths": 2353,
-    "recovered": 27412
+    "confirmed": 71367,
+    "deaths": 2426,
+    "recovered": 29024
   },
   "Belgium": {
     "date": "2020-6-23",
@@ -299,17 +299,17 @@
     "deaths": 360,
     "recovered": 9131
   },
-  "Japan": {
-    "date": "2020-6-23",
-    "confirmed": 17814,
-    "deaths": 955,
-    "recovered": 15957
-  },
   "Kazakhstan": {
     "date": "2020-6-23",
-    "confirmed": 17732,
+    "confirmed": 18231,
     "deaths": 127,
     "recovered": 11158
+  },
+  "Japan": {
+    "date": "2020-6-23",
+    "confirmed": 17816,
+    "deaths": 955,
+    "recovered": 15957
   },
   "Austria": {
     "date": "2020-6-23",
@@ -335,6 +335,12 @@
     "deaths": 547,
     "recovered": 2818
   },
+  "Honduras": {
+    "date": "2020-6-23",
+    "confirmed": 13356,
+    "deaths": 395,
+    "recovered": 1362
+  },
   "Azerbaijan": {
     "date": "2020-6-23",
     "confirmed": 13207,
@@ -346,12 +352,6 @@
     "confirmed": 12990,
     "deaths": 262,
     "recovered": 11997
-  },
-  "Honduras": {
-    "date": "2020-6-23",
-    "confirmed": 12772,
-    "deaths": 363,
-    "recovered": 1293
   },
   "Denmark": {
     "date": "2020-6-23",
@@ -915,11 +915,11 @@
     "date": "2020-6-23",
     "confirmed": 319,
     "deaths": 8,
-    "recovered": 106
+    "recovered": 132
   },
   "Burma": {
     "date": "2020-6-23",
-    "confirmed": 290,
+    "confirmed": 291,
     "deaths": 6,
     "recovered": 200
   },
