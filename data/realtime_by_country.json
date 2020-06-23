@@ -131,6 +131,12 @@
     "deaths": 2426,
     "recovered": 29024
   },
+  "Sweden": {
+    "date": "2020-6-23",
+    "confirmed": 60837,
+    "deaths": 5161,
+    "recovered": null
+  },
   "Belgium": {
     "date": "2020-6-23",
     "confirmed": 60810,
@@ -142,12 +148,6 @@
     "confirmed": 59487,
     "deaths": 357,
     "recovered": 38688
-  },
-  "Sweden": {
-    "date": "2020-6-23",
-    "confirmed": 58932,
-    "deaths": 5122,
-    "recovered": null
   },
   "Egypt": {
     "date": "2020-6-23",
@@ -163,8 +163,8 @@
   },
   "Netherlands": {
     "date": "2020-6-23",
-    "confirmed": 49866,
-    "deaths": 6109,
+    "confirmed": 49930,
+    "deaths": 6114,
     "recovered": 186
   },
   "Indonesia": {
@@ -175,9 +175,9 @@
   },
   "United Arab Emirates": {
     "date": "2020-6-23",
-    "confirmed": 45303,
-    "deaths": 303,
-    "recovered": 33046
+    "confirmed": 45683,
+    "deaths": 305,
+    "recovered": 33703
   },
   "Argentina": {
     "date": "2020-6-23",
@@ -199,9 +199,9 @@
   },
   "Portugal": {
     "date": "2020-6-23",
-    "confirmed": 39392,
-    "deaths": 1534,
-    "recovered": 25548
+    "confirmed": 39737,
+    "deaths": 1540,
+    "recovered": 25829
   },
   "Ukraine": {
     "date": "2020-6-23",
@@ -355,9 +355,9 @@
   },
   "Denmark": {
     "date": "2020-6-23",
-    "confirmed": 12727,
-    "deaths": 602,
-    "recovered": 11547
+    "confirmed": 12761,
+    "deaths": 603,
+    "recovered": 11593
   },
   "Korea, South": {
     "date": "2020-6-23",
@@ -433,9 +433,9 @@
   },
   "Uzbekistan": {
     "date": "2020-6-23",
-    "confirmed": 6500,
+    "confirmed": 6535,
     "deaths": 19,
-    "recovered": 4450
+    "recovered": 4520
   },
   "Senegal": {
     "date": "2020-6-23",
@@ -529,9 +529,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-6-23",
-    "confirmed": 3525,
-    "deaths": 171,
-    "recovered": 2270
+    "confirmed": 3588,
+    "deaths": 172,
+    "recovered": 2285
   },
   "Kyrgyzstan": {
     "date": "2020-6-23",
@@ -571,7 +571,7 @@
   },
   "Croatia": {
     "date": "2020-6-23",
-    "confirmed": 2336,
+    "confirmed": 2366,
     "deaths": 107,
     "recovered": 2142
   },
