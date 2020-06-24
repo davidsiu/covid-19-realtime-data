@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-24",
-    "confirmed": 2366961,
-    "deaths": 121746,
+    "confirmed": 2369806,
+    "deaths": 121846,
     "recovered": 647548
   },
   "Brazil": {
@@ -109,9 +109,9 @@
   },
   "Canada": {
     "date": "2020-6-24",
-    "confirmed": 103926,
+    "confirmed": 103934,
     "deaths": 8532,
-    "recovered": 66368
+    "recovered": 66369
   },
   "Qatar": {
     "date": "2020-6-24",
@@ -151,9 +151,9 @@
   },
   "Egypt": {
     "date": "2020-6-24",
-    "confirmed": 58141,
-    "deaths": 2365,
-    "recovered": 15535
+    "confirmed": 59561,
+    "deaths": 2450,
+    "recovered": 15935
   },
   "Ecuador": {
     "date": "2020-6-24",
@@ -559,9 +559,9 @@
   },
   "Central African Republic": {
     "date": "2020-6-24",
-    "confirmed": 3051,
-    "deaths": 37,
-    "recovered": 522
+    "confirmed": 3099,
+    "deaths": 38,
+    "recovered": 572
   },
   "Somalia": {
     "date": "2020-6-24",
@@ -613,9 +613,9 @@
   },
   "Mali": {
     "date": "2020-6-24",
-    "confirmed": 2001,
+    "confirmed": 2005,
     "deaths": 112,
-    "recovered": 1333
+    "recovered": 1354
   },
   "Sri Lanka": {
     "date": "2020-6-24",
@@ -761,6 +761,12 @@
     "deaths": 19,
     "recovered": 824
   },
+  "Malawi": {
+    "date": "2020-6-24",
+    "confirmed": 941,
+    "deaths": 11,
+    "recovered": 259
+  },
   "Burkina Faso": {
     "date": "2020-6-24",
     "confirmed": 919,
@@ -797,23 +803,17 @@
     "deaths": 52,
     "recovered": 797
   },
-  "Malawi": {
+  "Rwanda": {
     "date": "2020-6-24",
-    "confirmed": 848,
-    "deaths": 11,
-    "recovered": 259
+    "confirmed": 830,
+    "deaths": 2,
+    "recovered": 376
   },
   "Uganda": {
     "date": "2020-6-24",
     "confirmed": 805,
     "deaths": 0,
     "recovered": 717
-  },
-  "Rwanda": {
-    "date": "2020-6-24",
-    "confirmed": 798,
-    "deaths": 2,
-    "recovered": 371
   },
   "Mozambique": {
     "date": "2020-6-24",
@@ -949,7 +949,7 @@
   },
   "Angola": {
     "date": "2020-6-24",
-    "confirmed": 189,
+    "confirmed": 197,
     "deaths": 10,
     "recovered": 77
   },
@@ -961,7 +961,7 @@
   },
   "Eritrea": {
     "date": "2020-6-24",
-    "confirmed": 143,
+    "confirmed": 144,
     "deaths": 0,
     "recovered": 39
   },
@@ -1109,6 +1109,12 @@
     "deaths": 0,
     "recovered": 11
   },
+  "Papua New Guinea": {
+    "date": "2020-6-24",
+    "confirmed": 10,
+    "deaths": 0,
+    "recovered": 8
+  },
   "Western Sahara": {
     "date": "2020-6-24",
     "confirmed": 10,
@@ -1120,11 +1126,5 @@
     "confirmed": 9,
     "deaths": 2,
     "recovered": null
-  },
-  "Papua New Guinea": {
-    "date": "2020-6-24",
-    "confirmed": 9,
-    "deaths": 0,
-    "recovered": 8
   }
 }
