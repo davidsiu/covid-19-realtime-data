@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-25",
-    "confirmed": 2398491,
-    "deaths": 122238,
+    "confirmed": 2404781,
+    "deaths": 122320,
     "recovered": 656161
   },
   "Brazil": {
@@ -62,8 +62,8 @@
   "France": {
     "date": "2020-6-25",
     "confirmed": 197885,
-    "deaths": 29734,
-    "recovered": 75251
+    "deaths": 29755,
+    "recovered": 75475
   },
   "Mexico": {
     "date": "2020-6-25",
@@ -74,20 +74,20 @@
   "Germany": {
     "date": "2020-6-25",
     "confirmed": 193371,
-    "deaths": 8937,
-    "recovered": 176692
+    "deaths": 8940,
+    "recovered": 176764
+  },
+  "Turkey": {
+    "date": "2020-6-25",
+    "confirmed": 193115,
+    "deaths": 5046,
+    "recovered": 165706
   },
   "Pakistan": {
     "date": "2020-6-25",
     "confirmed": 192970,
     "deaths": 3903,
     "recovered": 81307
-  },
-  "Turkey": {
-    "date": "2020-6-25",
-    "confirmed": 191657,
-    "deaths": 5025,
-    "recovered": 164234
   },
   "Saudi Arabia": {
     "date": "2020-6-25",
@@ -157,9 +157,9 @@
   },
   "Ecuador": {
     "date": "2020-6-25",
-    "confirmed": 51643,
-    "deaths": 4274,
-    "recovered": 24991
+    "confirmed": 53156,
+    "deaths": 4343,
+    "recovered": 26097
   },
   "Indonesia": {
     "date": "2020-6-25",
@@ -278,7 +278,7 @@
   "Bahrain": {
     "date": "2020-6-25",
     "confirmed": 23570,
-    "deaths": 70,
+    "deaths": 71,
     "recovered": 17977
   },
   "Armenia": {
@@ -379,9 +379,9 @@
   },
   "Morocco": {
     "date": "2020-6-25",
-    "confirmed": 11279,
-    "deaths": 216,
-    "recovered": 8488
+    "confirmed": 11338,
+    "deaths": 217,
+    "recovered": 8500
   },
   "Nepal": {
     "date": "2020-6-25",
@@ -425,17 +425,17 @@
     "deaths": 104,
     "recovered": 6942
   },
+  "Uzbekistan": {
+    "date": "2020-6-25",
+    "confirmed": 7177,
+    "deaths": 20,
+    "recovered": 4877
+  },
   "Finland": {
     "date": "2020-6-25",
     "confirmed": 7172,
     "deaths": 327,
     "recovered": 6600
-  },
-  "Uzbekistan": {
-    "date": "2020-6-25",
-    "confirmed": 7087,
-    "deaths": 20,
-    "recovered": 4724
   },
   "Congo (Kinshasa)": {
     "date": "2020-6-25",
@@ -551,17 +551,17 @@
     "deaths": 191,
     "recovered": 1374
   },
+  "Central African Republic": {
+    "date": "2020-6-25",
+    "confirmed": 3244,
+    "deaths": 40,
+    "recovered": 607
+  },
   "Thailand": {
     "date": "2020-6-25",
     "confirmed": 3158,
     "deaths": 58,
     "recovered": 3038
-  },
-  "Central African Republic": {
-    "date": "2020-6-25",
-    "confirmed": 3099,
-    "deaths": 38,
-    "recovered": 572
   },
   "Somalia": {
     "date": "2020-6-25",
@@ -671,6 +671,12 @@
     "deaths": 28,
     "recovered": 1452
   },
+  "Paraguay": {
+    "date": "2020-6-25",
+    "confirmed": 1569,
+    "deaths": 13,
+    "recovered": 976
+  },
   "Guinea-Bissau": {
     "date": "2020-6-25",
     "confirmed": 1556,
@@ -682,12 +688,6 @@
     "confirmed": 1547,
     "deaths": 109,
     "recovered": 1376
-  },
-  "Paraguay": {
-    "date": "2020-6-25",
-    "confirmed": 1528,
-    "deaths": 13,
-    "recovered": 944
   },
   "New Zealand": {
     "date": "2020-6-25",
@@ -703,9 +703,9 @@
   },
   "West Bank and Gaza": {
     "date": "2020-6-25",
-    "confirmed": 1362,
+    "confirmed": 1382,
     "deaths": 3,
-    "recovered": 442
+    "recovered": 446
   },
   "Sierra Leone": {
     "date": "2020-6-25",
@@ -769,9 +769,9 @@
   },
   "Malawi": {
     "date": "2020-6-25",
-    "confirmed": 941,
-    "deaths": 11,
-    "recovered": 259
+    "confirmed": 960,
+    "deaths": 12,
+    "recovered": 260
   },
   "Burkina Faso": {
     "date": "2020-6-25",
@@ -941,17 +941,17 @@
     "deaths": 0,
     "recovered": 169
   },
+  "Angola": {
+    "date": "2020-6-25",
+    "confirmed": 212,
+    "deaths": 10,
+    "recovered": 81
+  },
   "Guyana": {
     "date": "2020-6-25",
     "confirmed": 209,
     "deaths": 12,
     "recovered": 107
-  },
-  "Angola": {
-    "date": "2020-6-25",
-    "confirmed": 197,
-    "deaths": 10,
-    "recovered": 77
   },
   "Burundi": {
     "date": "2020-6-25",
@@ -995,6 +995,12 @@
     "deaths": 4,
     "recovered": 95
   },
+  "Namibia": {
+    "date": "2020-6-25",
+    "confirmed": 102,
+    "deaths": 0,
+    "recovered": 21
+  },
   "Barbados": {
     "date": "2020-6-25",
     "confirmed": 97,
@@ -1006,12 +1012,6 @@
     "confirmed": 92,
     "deaths": 1,
     "recovered": 25
-  },
-  "Namibia": {
-    "date": "2020-6-25",
-    "confirmed": 90,
-    "deaths": 0,
-    "recovered": 21
   },
   "Liechtenstein": {
     "date": "2020-6-25",
