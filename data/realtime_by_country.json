@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-6-26",
-    "confirmed": 2453044,
-    "deaths": 124891,
-    "recovered": 663562
+    "confirmed": 2461444,
+    "deaths": 124960,
+    "recovered": 670809
   },
   "Brazil": {
     "date": "2020-6-26",
@@ -103,15 +103,15 @@
   },
   "South Africa": {
     "date": "2020-6-26",
-    "confirmed": 118375,
-    "deaths": 2292,
-    "recovered": 59974
+    "confirmed": 124590,
+    "deaths": 2340,
+    "recovered": 64111
   },
   "Canada": {
     "date": "2020-6-26",
-    "confirmed": 104472,
-    "deaths": 8570,
-    "recovered": 66978
+    "confirmed": 104589,
+    "deaths": 8571,
+    "recovered": 67182
   },
   "Qatar": {
     "date": "2020-6-26",
@@ -127,9 +127,9 @@
   },
   "Colombia": {
     "date": "2020-6-26",
-    "confirmed": 80784,
+    "confirmed": 80811,
     "deaths": 2786,
-    "recovered": 33408
+    "recovered": 33410
   },
   "Sweden": {
     "date": "2020-6-26",
@@ -277,9 +277,9 @@
   },
   "Bahrain": {
     "date": "2020-6-26",
-    "confirmed": 24081,
+    "confirmed": 24805,
     "deaths": 73,
-    "recovered": 18501
+    "recovered": 19137
   },
   "Armenia": {
     "date": "2020-6-26",
@@ -302,8 +302,8 @@
   "Kazakhstan": {
     "date": "2020-6-26",
     "confirmed": 19750,
-    "deaths": 140,
-    "recovered": 12220
+    "deaths": 150,
+    "recovered": 12548
   },
   "Japan": {
     "date": "2020-6-26",
@@ -397,27 +397,27 @@
   },
   "Sudan": {
     "date": "2020-6-26",
-    "confirmed": 9084,
-    "deaths": 559,
-    "recovered": 3912
+    "confirmed": 9257,
+    "deaths": 572,
+    "recovered": 4014
   },
   "Norway": {
     "date": "2020-6-26",
-    "confirmed": 8828,
+    "confirmed": 8832,
     "deaths": 249,
     "recovered": 8138
+  },
+  "Cote d'Ivoire": {
+    "date": "2020-6-26",
+    "confirmed": 8739,
+    "deaths": 64,
+    "recovered": 3587
   },
   "Malaysia": {
     "date": "2020-6-26",
     "confirmed": 8606,
     "deaths": 121,
     "recovered": 8294
-  },
-  "Cote d'Ivoire": {
-    "date": "2020-6-26",
-    "confirmed": 8334,
-    "deaths": 60,
-    "recovered": 3487
   },
   "Australia": {
     "date": "2020-6-26",
@@ -487,9 +487,9 @@
   },
   "Guinea": {
     "date": "2020-6-26",
-    "confirmed": 5174,
+    "confirmed": 5260,
     "deaths": 29,
-    "recovered": 3861
+    "recovered": 4155
   },
   "Gabon": {
     "date": "2020-6-26",
@@ -511,9 +511,9 @@
   },
   "Bulgaria": {
     "date": "2020-6-26",
-    "confirmed": 4408,
-    "deaths": 211,
-    "recovered": 2370
+    "confirmed": 4513,
+    "deaths": 215,
+    "recovered": 2457
   },
   "Kyrgyzstan": {
     "date": "2020-6-26",
@@ -553,9 +553,9 @@
   },
   "Central African Republic": {
     "date": "2020-6-26",
-    "confirmed": 3244,
+    "confirmed": 3340,
     "deaths": 40,
-    "recovered": 607
+    "recovered": 661
   },
   "Thailand": {
     "date": "2020-6-26",
@@ -659,6 +659,12 @@
     "deaths": 78,
     "recovered": 1501
   },
+  "Paraguay": {
+    "date": "2020-6-26",
+    "confirmed": 1711,
+    "deaths": 13,
+    "recovered": 1013
+  },
   "Lebanon": {
     "date": "2020-6-26",
     "confirmed": 1697,
@@ -670,12 +676,6 @@
     "confirmed": 1643,
     "deaths": 28,
     "recovered": 1455
-  },
-  "Paraguay": {
-    "date": "2020-6-26",
-    "confirmed": 1569,
-    "deaths": 13,
-    "recovered": 976
   },
   "Slovenia": {
     "date": "2020-6-26",
@@ -901,9 +901,9 @@
   },
   "Suriname": {
     "date": "2020-6-26",
-    "confirmed": 373,
+    "confirmed": 389,
     "deaths": 10,
-    "recovered": 176
+    "recovered": 181
   },
   "Vietnam": {
     "date": "2020-6-26",
@@ -931,7 +931,7 @@
   },
   "Syria": {
     "date": "2020-6-26",
-    "confirmed": 254,
+    "confirmed": 255,
     "deaths": 8,
     "recovered": 102
   },
@@ -975,7 +975,7 @@
     "date": "2020-6-26",
     "confirmed": 130,
     "deaths": 0,
-    "recovered": 127
+    "recovered": 128
   },
   "Trinidad and Tobago": {
     "date": "2020-6-26",
@@ -1005,7 +1005,7 @@
     "date": "2020-6-26",
     "confirmed": 97,
     "deaths": 7,
-    "recovered": 85
+    "recovered": 90
   },
   "Botswana": {
     "date": "2020-6-26",
