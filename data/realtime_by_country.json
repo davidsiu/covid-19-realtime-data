@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-27",
-    "confirmed": 2467874,
-    "deaths": 125039,
+    "confirmed": 2469441,
+    "deaths": 125081,
     "recovered": 670809
   },
   "Brazil": {
@@ -317,11 +317,23 @@
     "deaths": 700,
     "recovered": 16371
   },
+  "Moldova": {
+    "date": "2020-6-27",
+    "confirmed": 16080,
+    "deaths": 521,
+    "recovered": 8963
+  },
   "Honduras": {
     "date": "2020-6-27",
     "confirmed": 15994,
     "deaths": 471,
     "recovered": 1678
+  },
+  "Azerbaijan": {
+    "date": "2020-6-27",
+    "confirmed": 15890,
+    "deaths": 193,
+    "recovered": 8719
   },
   "Ghana": {
     "date": "2020-6-27",
@@ -334,18 +346,6 @@
     "confirmed": 15828,
     "deaths": 672,
     "recovered": 3028
-  },
-  "Moldova": {
-    "date": "2020-6-27",
-    "confirmed": 15776,
-    "deaths": 515,
-    "recovered": 8765
-  },
-  "Azerbaijan": {
-    "date": "2020-6-27",
-    "confirmed": 15369,
-    "deaths": 187,
-    "recovered": 8364
   },
   "Serbia": {
     "date": "2020-6-27",
@@ -458,8 +458,8 @@
   "Kenya": {
     "date": "2020-6-27",
     "confirmed": 5811,
-    "deaths": 137,
-    "recovered": 1905
+    "deaths": 141,
+    "recovered": 1936
   },
   "Tajikistan": {
     "date": "2020-6-27",
@@ -589,9 +589,9 @@
   },
   "Cuba": {
     "date": "2020-6-27",
-    "confirmed": 2325,
-    "deaths": 85,
-    "recovered": 2180
+    "confirmed": 2330,
+    "deaths": 86,
+    "recovered": 2187
   },
   "Maldives": {
     "date": "2020-6-27",
@@ -921,7 +921,7 @@
     "date": "2020-6-27",
     "confirmed": 293,
     "deaths": 6,
-    "recovered": 215
+    "recovered": 216
   },
   "Comoros": {
     "date": "2020-6-27",
@@ -931,7 +931,7 @@
   },
   "Syria": {
     "date": "2020-6-27",
-    "confirmed": 255,
+    "confirmed": 256,
     "deaths": 9,
     "recovered": 102
   },
