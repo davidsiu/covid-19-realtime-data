@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-27",
-    "confirmed": 2462472,
-    "deaths": 124978,
+    "confirmed": 2467510,
+    "deaths": 125045,
     "recovered": 670809
   },
   "Brazil": {
@@ -27,7 +27,7 @@
     "date": "2020-6-27",
     "confirmed": 310836,
     "deaths": 43498,
-    "recovered": 1361
+    "recovered": 1363
   },
   "Peru": {
     "date": "2020-6-27",
@@ -61,9 +61,9 @@
   },
   "Mexico": {
     "date": "2020-6-27",
-    "confirmed": 202951,
-    "deaths": 25060,
-    "recovered": 152362
+    "confirmed": 208392,
+    "deaths": 25779,
+    "recovered": 156827
   },
   "France": {
     "date": "2020-6-27",
@@ -245,17 +245,17 @@
     "deaths": 683,
     "recovered": 10306
   },
+  "Panama": {
+    "date": "2020-6-27",
+    "confirmed": 29905,
+    "deaths": 575,
+    "recovered": 15270
+  },
   "Dominican Republic": {
     "date": "2020-6-27",
     "confirmed": 29764,
     "deaths": 712,
     "recovered": 16357
-  },
-  "Panama": {
-    "date": "2020-6-27",
-    "confirmed": 29037,
-    "deaths": 564,
-    "recovered": 14800
   },
   "Bolivia": {
     "date": "2020-6-27",
@@ -827,6 +827,12 @@
     "deaths": 8,
     "recovered": 367
   },
+  "Libya": {
+    "date": "2020-6-27",
+    "confirmed": 713,
+    "deaths": 18,
+    "recovered": 142
+  },
   "Diamond Princess": {
     "date": "2020-6-27",
     "confirmed": 712,
@@ -838,12 +844,6 @@
     "confirmed": 712,
     "deaths": 13,
     "recovered": 219
-  },
-  "Libya": {
-    "date": "2020-6-27",
-    "confirmed": 698,
-    "deaths": 18,
-    "recovered": 140
   },
   "San Marino": {
     "date": "2020-6-27",
@@ -871,9 +871,9 @@
   },
   "Togo": {
     "date": "2020-6-27",
-    "confirmed": 588,
+    "confirmed": 591,
     "deaths": 14,
-    "recovered": 394
+    "recovered": 395
   },
   "Zimbabwe": {
     "date": "2020-6-27",
@@ -953,17 +953,17 @@
     "deaths": 10,
     "recovered": 81
   },
+  "Eritrea": {
+    "date": "2020-6-27",
+    "confirmed": 167,
+    "deaths": 0,
+    "recovered": 53
+  },
   "Burundi": {
     "date": "2020-6-27",
     "confirmed": 144,
     "deaths": 1,
     "recovered": 93
-  },
-  "Eritrea": {
-    "date": "2020-6-27",
-    "confirmed": 144,
-    "deaths": 0,
-    "recovered": 39
   },
   "Brunei": {
     "date": "2020-6-27",
@@ -1043,6 +1043,12 @@
     "deaths": 0,
     "recovered": 29
   },
+  "Lesotho": {
+    "date": "2020-6-27",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 4
+  },
   "Timor-Leste": {
     "date": "2020-6-27",
     "confirmed": 24,
@@ -1084,12 +1090,6 @@
     "confirmed": 18,
     "deaths": 0,
     "recovered": 18
-  },
-  "Lesotho": {
-    "date": "2020-6-27",
-    "confirmed": 17,
-    "deaths": 0,
-    "recovered": 2
   },
   "Saint Kitts and Nevis": {
     "date": "2020-6-27",
