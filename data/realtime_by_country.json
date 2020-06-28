@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-28",
-    "confirmed": 2510728,
-    "deaths": 125538,
+    "confirmed": 2511725,
+    "deaths": 125559,
     "recovered": 679308
   },
   "Brazil": {
@@ -91,7 +91,7 @@
   },
   "Saudi Arabia": {
     "date": "2020-6-28",
-    "confirmed": 182483,
+    "confirmed": 182493,
     "deaths": 1551,
     "recovered": 124755
   },
@@ -158,8 +158,8 @@
   "Argentina": {
     "date": "2020-6-28",
     "confirmed": 57744,
-    "deaths": 1207,
-    "recovered": 19143
+    "deaths": 1217,
+    "recovered": 20134
   },
   "Ecuador": {
     "date": "2020-6-28",
@@ -185,6 +185,12 @@
     "deaths": 311,
     "recovered": 35834
   },
+  "Iraq": {
+    "date": "2020-6-28",
+    "confirmed": 45402,
+    "deaths": 1756,
+    "recovered": 21122
+  },
   "Kuwait": {
     "date": "2020-6-28",
     "confirmed": 44942,
@@ -202,12 +208,6 @@
     "confirmed": 43459,
     "deaths": 26,
     "recovered": 37163
-  },
-  "Iraq": {
-    "date": "2020-6-28",
-    "confirmed": 43262,
-    "deaths": 1660,
-    "recovered": 19938
   },
   "Portugal": {
     "date": "2020-6-28",
@@ -337,8 +337,8 @@
   },
   "Moldova": {
     "date": "2020-6-28",
-    "confirmed": 16080,
-    "deaths": 526,
+    "confirmed": 16250,
+    "deaths": 530,
     "recovered": 9081
   },
   "Azerbaijan": {
@@ -449,6 +449,12 @@
     "deaths": 105,
     "recovered": 4291
   },
+  "North Macedonia": {
+    "date": "2020-6-28",
+    "confirmed": 6080,
+    "deaths": 286,
+    "recovered": 2315
+  },
   "Kenya": {
     "date": "2020-6-28",
     "confirmed": 6070,
@@ -461,17 +467,11 @@
     "deaths": 152,
     "recovered": 3557
   },
-  "North Macedonia": {
-    "date": "2020-6-28",
-    "confirmed": 5906,
-    "deaths": 277,
-    "recovered": 2236
-  },
   "Tajikistan": {
     "date": "2020-6-28",
-    "confirmed": 5799,
+    "confirmed": 5849,
     "deaths": 52,
-    "recovered": 4391
+    "recovered": 4448
   },
   "Haiti": {
     "date": "2020-6-28",
@@ -481,9 +481,9 @@
   },
   "Ethiopia": {
     "date": "2020-6-28",
-    "confirmed": 5570,
-    "deaths": 94,
-    "recovered": 2015
+    "confirmed": 5689,
+    "deaths": 98,
+    "recovered": 2132
   },
   "Guinea": {
     "date": "2020-6-28",
