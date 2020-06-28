@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-6-28",
-    "confirmed": 2510151,
+    "confirmed": 2510281,
     "deaths": 125539,
     "recovered": 679308
   },
@@ -119,17 +119,17 @@
     "deaths": 110,
     "recovered": 77225
   },
+  "Colombia": {
+    "date": "2020-6-28",
+    "confirmed": 88813,
+    "deaths": 3076,
+    "recovered": 36335
+  },
   "China": {
     "date": "2020-6-28",
     "confirmed": 84743,
     "deaths": 4641,
     "recovered": 79591
-  },
-  "Colombia": {
-    "date": "2020-6-28",
-    "confirmed": 84660,
-    "deaths": 2946,
-    "recovered": 34999
   },
   "Sweden": {
     "date": "2020-6-28",
@@ -307,7 +307,7 @@
   },
   "Japan": {
     "date": "2020-6-28",
-    "confirmed": 18254,
+    "confirmed": 18268,
     "deaths": 971,
     "recovered": 16293
   },
@@ -419,17 +419,17 @@
     "deaths": 121,
     "recovered": 8308
   },
+  "Uzbekistan": {
+    "date": "2020-6-28",
+    "confirmed": 7725,
+    "deaths": 20,
+    "recovered": 5240
+  },
   "Australia": {
     "date": "2020-6-28",
     "confirmed": 7686,
     "deaths": 104,
     "recovered": 6993
-  },
-  "Uzbekistan": {
-    "date": "2020-6-28",
-    "confirmed": 7682,
-    "deaths": 20,
-    "recovered": 5240
   },
   "Finland": {
     "date": "2020-6-28",
@@ -503,6 +503,12 @@
     "deaths": 42,
     "recovered": 1327
   },
+  "Kyrgyzstan": {
+    "date": "2020-6-28",
+    "confirmed": 4748,
+    "deaths": 47,
+    "recovered": 2242
+  },
   "Djibouti": {
     "date": "2020-6-28",
     "confirmed": 4643,
@@ -514,12 +520,6 @@
     "confirmed": 4625,
     "deaths": 216,
     "recovered": 2475
-  },
-  "Kyrgyzstan": {
-    "date": "2020-6-28",
-    "confirmed": 4513,
-    "deaths": 46,
-    "recovered": 2212
   },
   "Luxembourg": {
     "date": "2020-6-28",
@@ -1021,7 +1021,7 @@
   },
   "Bhutan": {
     "date": "2020-6-28",
-    "confirmed": 75,
+    "confirmed": 76,
     "deaths": 0,
     "recovered": 38
   },
