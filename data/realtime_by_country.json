@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-28",
-    "confirmed": 2507930,
-    "deaths": 125504,
+    "confirmed": 2508705,
+    "deaths": 125511,
     "recovered": 679308
   },
   "Brazil": {
@@ -121,7 +121,7 @@
   },
   "China": {
     "date": "2020-6-28",
-    "confirmed": 84742,
+    "confirmed": 84743,
     "deaths": 4641,
     "recovered": 79591
   },
@@ -239,6 +239,12 @@
     "deaths": 1962,
     "recovered": 29100
   },
+  "Bolivia": {
+    "date": "2020-6-28",
+    "confirmed": 30676,
+    "deaths": 970,
+    "recovered": 8158
+  },
   "Panama": {
     "date": "2020-6-28",
     "confirmed": 30658,
@@ -256,12 +262,6 @@
     "confirmed": 30616,
     "deaths": 703,
     "recovered": 10674
-  },
-  "Bolivia": {
-    "date": "2020-6-28",
-    "confirmed": 29423,
-    "deaths": 934,
-    "recovered": 7736
   },
   "Romania": {
     "date": "2020-6-28",
@@ -419,17 +419,17 @@
     "deaths": 121,
     "recovered": 8308
   },
+  "Australia": {
+    "date": "2020-6-28",
+    "confirmed": 7686,
+    "deaths": 104,
+    "recovered": 6979
+  },
   "Uzbekistan": {
     "date": "2020-6-28",
     "confirmed": 7682,
     "deaths": 20,
     "recovered": 5240
-  },
-  "Australia": {
-    "date": "2020-6-28",
-    "confirmed": 7645,
-    "deaths": 104,
-    "recovered": 6979
   },
   "Finland": {
     "date": "2020-6-28",
@@ -817,9 +817,9 @@
   },
   "Mozambique": {
     "date": "2020-6-28",
-    "confirmed": 816,
+    "confirmed": 839,
     "deaths": 5,
-    "recovered": 223
+    "recovered": 225
   },
   "Eswatini": {
     "date": "2020-6-28",
