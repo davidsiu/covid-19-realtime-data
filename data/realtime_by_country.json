@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-6-28",
-    "confirmed": 2510281,
+    "confirmed": 2510323,
     "deaths": 125539,
     "recovered": 679308
   },
@@ -121,7 +121,7 @@
   },
   "Colombia": {
     "date": "2020-6-28",
-    "confirmed": 88813,
+    "confirmed": 88817,
     "deaths": 3076,
     "recovered": 36335
   },
@@ -191,6 +191,12 @@
     "deaths": 344,
     "recovered": 34586
   },
+  "Ukraine": {
+    "date": "2020-6-28",
+    "confirmed": 43849,
+    "deaths": 1140,
+    "recovered": 19583
+  },
   "Iraq": {
     "date": "2020-6-28",
     "confirmed": 43262,
@@ -202,12 +208,6 @@
     "confirmed": 43246,
     "deaths": 26,
     "recovered": 37163
-  },
-  "Ukraine": {
-    "date": "2020-6-28",
-    "confirmed": 42932,
-    "deaths": 1121,
-    "recovered": 19350
   },
   "Portugal": {
     "date": "2020-6-28",
@@ -239,6 +239,12 @@
     "deaths": 1962,
     "recovered": 29100
   },
+  "Afghanistan": {
+    "date": "2020-6-28",
+    "confirmed": 30967,
+    "deaths": 729,
+    "recovered": 12588
+  },
   "Bolivia": {
     "date": "2020-6-28",
     "confirmed": 30676,
@@ -256,12 +262,6 @@
     "confirmed": 30619,
     "deaths": 718,
     "recovered": 16666
-  },
-  "Afghanistan": {
-    "date": "2020-6-28",
-    "confirmed": 30616,
-    "deaths": 703,
-    "recovered": 10674
   },
   "Romania": {
     "date": "2020-6-28",
@@ -476,8 +476,8 @@
   "El Salvador": {
     "date": "2020-6-28",
     "confirmed": 5727,
-    "deaths": 143,
-    "recovered": 3447
+    "deaths": 152,
+    "recovered": 3471
   },
   "Ethiopia": {
     "date": "2020-6-28",
