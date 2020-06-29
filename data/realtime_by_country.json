@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-6-29",
-    "confirmed": 2544418,
-    "deaths": 125768,
+    "confirmed": 2547621,
+    "deaths": 125793,
     "recovered": 685164
   },
   "Brazil": {
     "date": "2020-6-29",
     "confirmed": 1344143,
     "deaths": 57622,
-    "recovered": 727715
+    "recovered": 746018
   },
   "Russia": {
     "date": "2020-6-29",
@@ -61,9 +61,9 @@
   },
   "Mexico": {
     "date": "2020-6-29",
-    "confirmed": 212802,
-    "deaths": 26381,
-    "recovered": 160721
+    "confirmed": 216852,
+    "deaths": 26648,
+    "recovered": 164646
   },
   "Pakistan": {
     "date": "2020-6-29",
@@ -73,7 +73,7 @@
   },
   "France": {
     "date": "2020-6-29",
-    "confirmed": 199474,
+    "confirmed": 199476,
     "deaths": 29781,
     "recovered": 75774
   },
@@ -157,8 +157,8 @@
   },
   "Argentina": {
     "date": "2020-6-29",
-    "confirmed": 57744,
-    "deaths": 1217,
+    "confirmed": 59933,
+    "deaths": 1232,
     "recovered": 20134
   },
   "Ecuador": {
@@ -233,6 +233,12 @@
     "deaths": 1438,
     "recovered": 20548
   },
+  "Panama": {
+    "date": "2020-6-29",
+    "confirmed": 31686,
+    "deaths": 604,
+    "recovered": 15470
+  },
   "Switzerland": {
     "date": "2020-6-29",
     "confirmed": 31617,
@@ -256,12 +262,6 @@
     "confirmed": 30676,
     "deaths": 970,
     "recovered": 8158
-  },
-  "Panama": {
-    "date": "2020-6-29",
-    "confirmed": 30658,
-    "deaths": 592,
-    "recovered": 15370
   },
   "Romania": {
     "date": "2020-6-29",
@@ -427,7 +427,7 @@
   },
   "Australia": {
     "date": "2020-6-29",
-    "confirmed": 7686,
+    "confirmed": 7693,
     "deaths": 104,
     "recovered": 6993
   },
@@ -491,17 +491,17 @@
     "deaths": 31,
     "recovered": 4282
   },
+  "Venezuela": {
+    "date": "2020-6-29",
+    "confirmed": 5297,
+    "deaths": 44,
+    "recovered": 1649
+  },
   "Gabon": {
     "date": "2020-6-29",
     "confirmed": 5209,
     "deaths": 40,
     "recovered": 2327
-  },
-  "Venezuela": {
-    "date": "2020-6-29",
-    "confirmed": 5130,
-    "deaths": 42,
-    "recovered": 1327
   },
   "Kyrgyzstan": {
     "date": "2020-6-29",
@@ -835,9 +835,9 @@
   },
   "Libya": {
     "date": "2020-6-29",
-    "confirmed": 727,
-    "deaths": 18,
-    "recovered": 171
+    "confirmed": 762,
+    "deaths": 21,
+    "recovered": 196
   },
   "Sao Tome and Principe": {
     "date": "2020-6-29",
