@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-6-30",
-    "confirmed": 2588020,
+    "confirmed": 2588022,
     "deaths": 126131,
     "recovered": 705203
   },
@@ -9,7 +9,7 @@
     "date": "2020-6-30",
     "confirmed": 1368195,
     "deaths": 58314,
-    "recovered": 754558
+    "recovered": 757811
   },
   "Russia": {
     "date": "2020-6-30",
@@ -239,6 +239,12 @@
     "deaths": 620,
     "recovered": 15595
   },
+  "Bolivia": {
+    "date": "2020-6-30",
+    "confirmed": 32125,
+    "deaths": 1071,
+    "recovered": 8928
+  },
   "Dominican Republic": {
     "date": "2020-6-30",
     "confirmed": 31816,
@@ -250,12 +256,6 @@
     "confirmed": 31652,
     "deaths": 1962,
     "recovered": 29100
-  },
-  "Bolivia": {
-    "date": "2020-6-30",
-    "confirmed": 31524,
-    "deaths": 1014,
-    "recovered": 8517
   },
   "Afghanistan": {
     "date": "2020-6-30",
@@ -301,7 +301,7 @@
   },
   "Kazakhstan": {
     "date": "2020-6-30",
-    "confirmed": 21327,
+    "confirmed": 21819,
     "deaths": 188,
     "recovered": 13008
   },
@@ -323,6 +323,12 @@
     "deaths": 703,
     "recovered": 16420
   },
+  "Guatemala": {
+    "date": "2020-6-30",
+    "confirmed": 17409,
+    "deaths": 746,
+    "recovered": 3170
+  },
   "Ghana": {
     "date": "2020-6-30",
     "confirmed": 17351,
@@ -334,12 +340,6 @@
     "confirmed": 16968,
     "deaths": 206,
     "recovered": 9369
-  },
-  "Guatemala": {
-    "date": "2020-6-30",
-    "confirmed": 16930,
-    "deaths": 727,
-    "recovered": 3152
   },
   "Moldova": {
     "date": "2020-6-30",
@@ -373,9 +373,9 @@
   },
   "Korea, South": {
     "date": "2020-6-30",
-    "confirmed": 12757,
+    "confirmed": 12800,
     "deaths": 282,
-    "recovered": 11429
+    "recovered": 11537
   },
   "Cameroon": {
     "date": "2020-6-30",
@@ -467,17 +467,17 @@
     "deaths": 164,
     "recovered": 3648
   },
+  "Haiti": {
+    "date": "2020-6-30",
+    "confirmed": 5920,
+    "deaths": 104,
+    "recovered": 787
+  },
   "Tajikistan": {
     "date": "2020-6-30",
     "confirmed": 5900,
     "deaths": 52,
     "recovered": 4506
-  },
-  "Haiti": {
-    "date": "2020-6-30",
-    "confirmed": 5847,
-    "deaths": 104,
-    "recovered": 787
   },
   "Ethiopia": {
     "date": "2020-6-30",
@@ -851,17 +851,17 @@
     "deaths": 13,
     "recovered": 651
   },
+  "Jamaica": {
+    "date": "2020-6-30",
+    "confirmed": 698,
+    "deaths": 10,
+    "recovered": 553
+  },
   "San Marino": {
     "date": "2020-6-30",
     "confirmed": 698,
     "deaths": 42,
     "recovered": 656
-  },
-  "Jamaica": {
-    "date": "2020-6-30",
-    "confirmed": 696,
-    "deaths": 10,
-    "recovered": 552
   },
   "Malta": {
     "date": "2020-6-30",
