@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-30",
-    "confirmed": 2618480,
-    "deaths": 126628,
+    "confirmed": 2620250,
+    "deaths": 127272,
     "recovered": 705203
   },
   "Brazil": {
@@ -31,9 +31,9 @@
   },
   "Peru": {
     "date": "2020-6-30",
-    "confirmed": 282365,
-    "deaths": 9504,
-    "recovered": 171159
+    "confirmed": 285213,
+    "deaths": 9677,
+    "recovered": 174535
   },
   "Chile": {
     "date": "2020-6-30",
@@ -95,23 +95,23 @@
     "deaths": 1649,
     "recovered": 130766
   },
+  "South Africa": {
+    "date": "2020-6-30",
+    "confirmed": 151209,
+    "deaths": 2657,
+    "recovered": 73543
+  },
   "Bangladesh": {
     "date": "2020-6-30",
     "confirmed": 145483,
     "deaths": 1847,
     "recovered": 59624
   },
-  "South Africa": {
-    "date": "2020-6-30",
-    "confirmed": 144264,
-    "deaths": 2529,
-    "recovered": 70614
-  },
   "Canada": {
     "date": "2020-6-30",
-    "confirmed": 105984,
+    "confirmed": 105991,
     "deaths": 8646,
-    "recovered": 69007
+    "recovered": 69012
   },
   "Qatar": {
     "date": "2020-6-30",
@@ -139,9 +139,9 @@
   },
   "Egypt": {
     "date": "2020-6-30",
-    "confirmed": 66754,
-    "deaths": 2872,
-    "recovered": 17951
+    "confirmed": 68311,
+    "deaths": 2953,
+    "recovered": 18460
   },
   "Argentina": {
     "date": "2020-6-30",
@@ -287,17 +287,17 @@
     "deaths": 1736,
     "recovered": 23364
   },
+  "Israel": {
+    "date": "2020-6-30",
+    "confirmed": 25244,
+    "deaths": 320,
+    "recovered": 17341
+  },
   "Nigeria": {
     "date": "2020-6-30",
     "confirmed": 25133,
     "deaths": 573,
     "recovered": 9402
-  },
-  "Israel": {
-    "date": "2020-6-30",
-    "confirmed": 25041,
-    "deaths": 320,
-    "recovered": 17318
   },
   "Kazakhstan": {
     "date": "2020-6-30",
@@ -395,17 +395,17 @@
     "deaths": 349,
     "recovered": 7770
   },
+  "Cote d'Ivoire": {
+    "date": "2020-6-30",
+    "confirmed": 9499,
+    "deaths": 68,
+    "recovered": 4273
+  },
   "Sudan": {
     "date": "2020-6-30",
     "confirmed": 9257,
     "deaths": 572,
     "recovered": 4014
-  },
-  "Cote d'Ivoire": {
-    "date": "2020-6-30",
-    "confirmed": 9214,
-    "deaths": 66,
-    "recovered": 3996
   },
   "Norway": {
     "date": "2020-6-30",
@@ -499,9 +499,9 @@
   },
   "Guinea": {
     "date": "2020-6-30",
-    "confirmed": 5351,
-    "deaths": 31,
-    "recovered": 4296
+    "confirmed": 5391,
+    "deaths": 33,
+    "recovered": 4326
   },
   "Kyrgyzstan": {
     "date": "2020-6-30",
@@ -551,17 +551,17 @@
     "deaths": 47,
     "recovered": 787
   },
+  "Costa Rica": {
+    "date": "2020-6-30",
+    "confirmed": 3459,
+    "deaths": 16,
+    "recovered": 1436
+  },
   "Greece": {
     "date": "2020-6-30",
     "confirmed": 3409,
     "deaths": 192,
     "recovered": 1374
-  },
-  "Costa Rica": {
-    "date": "2020-6-30",
-    "confirmed": 3269,
-    "deaths": 16,
-    "recovered": 1394
   },
   "Thailand": {
     "date": "2020-6-30",
@@ -596,7 +596,7 @@
   "West Bank and Gaza": {
     "date": "2020-6-30",
     "confirmed": 2428,
-    "deaths": 6,
+    "deaths": 7,
     "recovered": 451
   },
   "Maldives": {
@@ -697,8 +697,8 @@
   },
   "Zambia": {
     "date": "2020-6-30",
-    "confirmed": 1568,
-    "deaths": 22,
+    "confirmed": 1594,
+    "deaths": 24,
     "recovered": 1329
   },
   "New Zealand": {
@@ -877,9 +877,9 @@
   },
   "Zimbabwe": {
     "date": "2020-6-30",
-    "confirmed": 574,
+    "confirmed": 591,
     "deaths": 7,
-    "recovered": 152
+    "recovered": 162
   },
   "Montenegro": {
     "date": "2020-6-30",
@@ -917,6 +917,12 @@
     "deaths": 10,
     "recovered": 326
   },
+  "Comoros": {
+    "date": "2020-6-30",
+    "confirmed": 303,
+    "deaths": 7,
+    "recovered": 200
+  },
   "Burma": {
     "date": "2020-6-30",
     "confirmed": 299,
@@ -934,12 +940,6 @@
     "confirmed": 279,
     "deaths": 9,
     "recovered": 105
-  },
-  "Comoros": {
-    "date": "2020-6-30",
-    "confirmed": 272,
-    "deaths": 7,
-    "recovered": 161
   },
   "Guyana": {
     "date": "2020-6-30",
@@ -959,17 +959,17 @@
     "deaths": 0,
     "recovered": 175
   },
+  "Namibia": {
+    "date": "2020-6-30",
+    "confirmed": 205,
+    "deaths": 0,
+    "recovered": 24
+  },
   "Eritrea": {
     "date": "2020-6-30",
     "confirmed": 203,
     "deaths": 0,
     "recovered": 53
-  },
-  "Namibia": {
-    "date": "2020-6-30",
-    "confirmed": 203,
-    "deaths": 0,
-    "recovered": 24
   },
   "Burundi": {
     "date": "2020-6-30",
