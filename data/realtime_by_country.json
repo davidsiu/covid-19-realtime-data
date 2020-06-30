@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-6-30",
-    "confirmed": 2587154,
-    "deaths": 126127,
+    "confirmed": 2588020,
+    "deaths": 126131,
     "recovered": 705203
   },
   "Brazil": {
@@ -27,7 +27,7 @@
     "date": "2020-6-30",
     "confirmed": 313470,
     "deaths": 43659,
-    "recovered": 1367
+    "recovered": 1368
   },
   "Peru": {
     "date": "2020-6-30",
@@ -127,9 +127,9 @@
   },
   "China": {
     "date": "2020-6-30",
-    "confirmed": 84761,
+    "confirmed": 84780,
     "deaths": 4641,
-    "recovered": 79611
+    "recovered": 79619
   },
   "Sweden": {
     "date": "2020-6-30",
@@ -485,6 +485,12 @@
     "deaths": 103,
     "recovered": 2430
   },
+  "Venezuela": {
+    "date": "2020-6-30",
+    "confirmed": 5530,
+    "deaths": 48,
+    "recovered": 1649
+  },
   "Gabon": {
     "date": "2020-6-30",
     "confirmed": 5394,
@@ -496,12 +502,6 @@
     "confirmed": 5351,
     "deaths": 31,
     "recovered": 4296
-  },
-  "Venezuela": {
-    "date": "2020-6-30",
-    "confirmed": 5297,
-    "deaths": 44,
-    "recovered": 1649
   },
   "Kyrgyzstan": {
     "date": "2020-6-30",
