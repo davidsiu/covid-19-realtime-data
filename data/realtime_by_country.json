@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2020-7-1",
-    "confirmed": 2677168,
-    "deaths": 127930,
-    "recovered": 720631
+    "confirmed": 2678202,
+    "deaths": 127970,
+    "recovered": 729994
   },
   "Brazil": {
     "date": "2020-7-1",
-    "confirmed": 1402041,
-    "deaths": 59594,
+    "confirmed": 1448753,
+    "deaths": 60632,
     "recovered": 788318
   },
   "Russia": {
@@ -25,9 +25,9 @@
   },
   "United Kingdom": {
     "date": "2020-7-1",
-    "confirmed": 314991,
+    "confirmed": 314992,
     "deaths": 43991,
-    "recovered": 1370
+    "recovered": 1372
   },
   "Peru": {
     "date": "2020-7-1",
@@ -109,8 +109,8 @@
   },
   "Canada": {
     "date": "2020-7-1",
-    "confirmed": 106199,
-    "deaths": 8674,
+    "confirmed": 106209,
+    "deaths": 8675,
     "recovered": 69325
   },
   "Colombia": {
@@ -221,6 +221,12 @@
     "deaths": 185,
     "recovered": 24162
   },
+  "Kazakhstan": {
+    "date": "2020-7-1",
+    "confirmed": 41065,
+    "deaths": 188,
+    "recovered": 24482
+  },
   "Philippines": {
     "date": "2020-7-1",
     "confirmed": 38511,
@@ -298,12 +304,6 @@
     "confirmed": 25477,
     "deaths": 1738,
     "recovered": 23364
-  },
-  "Kazakhstan": {
-    "date": "2020-7-1",
-    "confirmed": 22308,
-    "deaths": 188,
-    "recovered": 13845
   },
   "Honduras": {
     "date": "2020-7-1",
@@ -409,8 +409,8 @@
   },
   "Norway": {
     "date": "2020-7-1",
-    "confirmed": 8887,
-    "deaths": 250,
+    "confirmed": 8896,
+    "deaths": 251,
     "recovered": 8138
   },
   "Uzbekistan": {
@@ -511,9 +511,9 @@
   },
   "Bulgaria": {
     "date": "2020-7-1",
-    "confirmed": 4989,
-    "deaths": 230,
-    "recovered": 2676
+    "confirmed": 5154,
+    "deaths": 232,
+    "recovered": 2722
   },
   "Djibouti": {
     "date": "2020-7-1",
@@ -548,7 +548,7 @@
   "Costa Rica": {
     "date": "2020-7-1",
     "confirmed": 3753,
-    "deaths": 16,
+    "deaths": 17,
     "recovered": 1516
   },
   "Central African Republic": {
@@ -569,17 +569,17 @@
     "deaths": 58,
     "recovered": 3059
   },
+  "Kosovo": {
+    "date": "2020-7-1",
+    "confirmed": 2991,
+    "deaths": 54,
+    "recovered": 1644
+  },
   "Somalia": {
     "date": "2020-7-1",
     "confirmed": 2924,
     "deaths": 90,
-    "recovered": 910
-  },
-  "Kosovo": {
-    "date": "2020-7-1",
-    "confirmed": 2878,
-    "deaths": 51,
-    "recovered": 1577
+    "recovered": 932
   },
   "Croatia": {
     "date": "2020-7-1",
@@ -999,7 +999,7 @@
     "date": "2020-7-1",
     "confirmed": 104,
     "deaths": 11,
-    "recovered": 87
+    "recovered": 89
   },
   "Monaco": {
     "date": "2020-7-1",
