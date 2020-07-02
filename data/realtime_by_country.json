@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-2",
-    "confirmed": 2686928,
-    "deaths": 128064,
+    "confirmed": 2688246,
+    "deaths": 128104,
     "recovered": 729994
   },
   "Brazil": {
@@ -73,9 +73,9 @@
   },
   "France": {
     "date": "2020-7-2",
-    "confirmed": 202981,
-    "deaths": 29864,
-    "recovered": 76674
+    "confirmed": 203640,
+    "deaths": 29878,
+    "recovered": 76927
   },
   "Turkey": {
     "date": "2020-7-2",
@@ -92,7 +92,7 @@
   "Germany": {
     "date": "2020-7-2",
     "confirmed": 196370,
-    "deaths": 9001,
+    "deaths": 9004,
     "recovered": 179800
   },
   "South Africa": {
@@ -209,6 +209,12 @@
     "deaths": 26,
     "recovered": 39011
   },
+  "Portugal": {
+    "date": "2020-7-2",
+    "confirmed": 42782,
+    "deaths": 1587,
+    "recovered": 28097
+  },
   "Kazakhstan": {
     "date": "2020-7-2",
     "confirmed": 42574,
@@ -220,12 +226,6 @@
     "confirmed": 42555,
     "deaths": 188,
     "recovered": 25318
-  },
-  "Portugal": {
-    "date": "2020-7-2",
-    "confirmed": 42454,
-    "deaths": 1579,
-    "recovered": 27798
   },
   "Philippines": {
     "date": "2020-7-2",
@@ -344,8 +344,8 @@
   "Moldova": {
     "date": "2020-7-2",
     "confirmed": 16898,
-    "deaths": 549,
-    "recovered": 9594
+    "deaths": 551,
+    "recovered": 9846
   },
   "Serbia": {
     "date": "2020-7-2",
@@ -463,9 +463,9 @@
   },
   "North Macedonia": {
     "date": "2020-7-2",
-    "confirmed": 6454,
-    "deaths": 306,
-    "recovered": 2598
+    "confirmed": 6625,
+    "deaths": 321,
+    "recovered": 2748
   },
   "Kyrgyzstan": {
     "date": "2020-7-2",
@@ -479,17 +479,17 @@
     "deaths": 54,
     "recovered": 1649
   },
+  "Tajikistan": {
+    "date": "2020-7-2",
+    "confirmed": 6058,
+    "deaths": 52,
+    "recovered": 4690
+  },
   "Haiti": {
     "date": "2020-7-2",
     "confirmed": 6040,
     "deaths": 107,
     "recovered": 1032
-  },
-  "Tajikistan": {
-    "date": "2020-7-2",
-    "confirmed": 6005,
-    "deaths": 52,
-    "recovered": 4627
   },
   "Ethiopia": {
     "date": "2020-7-2",
@@ -619,9 +619,9 @@
   },
   "Cuba": {
     "date": "2020-7-2",
-    "confirmed": 2348,
+    "confirmed": 2353,
     "deaths": 86,
-    "recovered": 2218
+    "recovered": 2221
   },
   "Paraguay": {
     "date": "2020-7-2",
@@ -915,7 +915,7 @@
     "date": "2020-7-2",
     "confirmed": 341,
     "deaths": 10,
-    "recovered": 326
+    "recovered": 330
   },
   "Syria": {
     "date": "2020-7-2",
