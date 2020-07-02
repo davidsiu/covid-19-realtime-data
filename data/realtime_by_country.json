@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-7-2",
-    "confirmed": 2686249,
+    "confirmed": 2686258,
     "deaths": 128062,
     "recovered": 729994
   },
@@ -19,9 +19,9 @@
   },
   "India": {
     "date": "2020-7-2",
-    "confirmed": 585493,
-    "deaths": 17400,
-    "recovered": 347979
+    "confirmed": 604641,
+    "deaths": 17834,
+    "recovered": 359860
   },
   "United Kingdom": {
     "date": "2020-7-2",
@@ -67,9 +67,9 @@
   },
   "Pakistan": {
     "date": "2020-7-2",
-    "confirmed": 213470,
-    "deaths": 4395,
-    "recovered": 100802
+    "confirmed": 217809,
+    "deaths": 4473,
+    "recovered": 104694
   },
   "France": {
     "date": "2020-7-2",
@@ -209,6 +209,12 @@
     "deaths": 26,
     "recovered": 39011
   },
+  "Kazakhstan": {
+    "date": "2020-7-2",
+    "confirmed": 42574,
+    "deaths": 188,
+    "recovered": 25319
+  },
   "Portugal": {
     "date": "2020-7-2",
     "confirmed": 42454,
@@ -220,12 +226,6 @@
     "confirmed": 41194,
     "deaths": 185,
     "recovered": 24162
-  },
-  "Kazakhstan": {
-    "date": "2020-7-2",
-    "confirmed": 41065,
-    "deaths": 188,
-    "recovered": 25319
   },
   "Philippines": {
     "date": "2020-7-2",
@@ -319,7 +319,7 @@
   },
   "Japan": {
     "date": "2020-7-2",
-    "confirmed": 18738,
+    "confirmed": 18838,
     "deaths": 976,
     "recovered": 16563
   },
@@ -467,6 +467,12 @@
     "deaths": 306,
     "recovered": 2598
   },
+  "Kyrgyzstan": {
+    "date": "2020-7-2",
+    "confirmed": 6261,
+    "deaths": 66,
+    "recovered": 2530
+  },
   "Venezuela": {
     "date": "2020-7-2",
     "confirmed": 6062,
@@ -475,9 +481,9 @@
   },
   "Haiti": {
     "date": "2020-7-2",
-    "confirmed": 6021,
+    "confirmed": 6040,
     "deaths": 107,
-    "recovered": 931
+    "recovered": 1032
   },
   "Tajikistan": {
     "date": "2020-7-2",
@@ -490,12 +496,6 @@
     "confirmed": 5846,
     "deaths": 103,
     "recovered": 2430
-  },
-  "Kyrgyzstan": {
-    "date": "2020-7-2",
-    "confirmed": 5735,
-    "deaths": 62,
-    "recovered": 2443
   },
   "Gabon": {
     "date": "2020-7-2",
@@ -963,7 +963,7 @@
     "date": "2020-7-2",
     "confirmed": 220,
     "deaths": 0,
-    "recovered": 176
+    "recovered": 177
   },
   "Eritrea": {
     "date": "2020-7-2",
@@ -1029,7 +1029,7 @@
     "date": "2020-7-2",
     "confirmed": 77,
     "deaths": 0,
-    "recovered": 48
+    "recovered": 50
   },
   "Antigua and Barbuda": {
     "date": "2020-7-2",
