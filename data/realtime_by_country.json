@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-7-3",
-    "confirmed": 2780916,
-    "deaths": 129227,
-    "recovered": 781970
+    "confirmed": 2786178,
+    "deaths": 129275,
+    "recovered": 790404
   },
   "Brazil": {
     "date": "2020-7-3",
@@ -109,9 +109,9 @@
   },
   "Canada": {
     "date": "2020-7-3",
-    "confirmed": 106873,
+    "confirmed": 106896,
     "deaths": 8721,
-    "recovered": 70196
+    "recovered": 70200
   },
   "Colombia": {
     "date": "2020-7-3",
@@ -269,6 +269,12 @@
     "deaths": 1965,
     "recovered": 29200
   },
+  "Bahrain": {
+    "date": "2020-7-3",
+    "confirmed": 28410,
+    "deaths": 95,
+    "recovered": 23318
+  },
   "Romania": {
     "date": "2020-7-3",
     "confirmed": 28166,
@@ -280,12 +286,6 @@
     "confirmed": 28055,
     "deaths": 326,
     "recovered": 17669
-  },
-  "Bahrain": {
-    "date": "2020-7-3",
-    "confirmed": 27837,
-    "deaths": 95,
-    "recovered": 22583
   },
   "Armenia": {
     "date": "2020-7-3",
@@ -701,6 +701,12 @@
     "deaths": 30,
     "recovered": 1348
   },
+  "Congo (Brazzaville)": {
+    "date": "2020-7-3",
+    "confirmed": 1557,
+    "deaths": 44,
+    "recovered": 501
+  },
   "New Zealand": {
     "date": "2020-7-3",
     "confirmed": 1530,
@@ -724,12 +730,6 @@
     "confirmed": 1382,
     "deaths": 15,
     "recovered": 629
-  },
-  "Congo (Brazzaville)": {
-    "date": "2020-7-3",
-    "confirmed": 1382,
-    "deaths": 41,
-    "recovered": 486
   },
   "Yemen": {
     "date": "2020-7-3",
@@ -769,9 +769,9 @@
   },
   "Rwanda": {
     "date": "2020-7-3",
-    "confirmed": 1063,
+    "confirmed": 1081,
     "deaths": 3,
-    "recovered": 493
+    "recovered": 512
   },
   "Cyprus": {
     "date": "2020-7-3",
@@ -841,9 +841,9 @@
   },
   "Sao Tome and Principe": {
     "date": "2020-7-3",
-    "confirmed": 717,
+    "confirmed": 719,
     "deaths": 13,
-    "recovered": 260
+    "recovered": 267
   },
   "Jamaica": {
     "date": "2020-7-3",
@@ -889,9 +889,9 @@
   },
   "Suriname": {
     "date": "2020-7-3",
-    "confirmed": 547,
+    "confirmed": 561,
     "deaths": 13,
-    "recovered": 254
+    "recovered": 267
   },
   "Tanzania": {
     "date": "2020-7-3",
@@ -949,7 +949,7 @@
   },
   "Guyana": {
     "date": "2020-7-3",
-    "confirmed": 250,
+    "confirmed": 256,
     "deaths": 14,
     "recovered": 117
   },
