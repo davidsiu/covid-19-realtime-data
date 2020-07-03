@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-7-3",
-    "confirmed": 2786178,
-    "deaths": 129275,
+    "confirmed": 2788395,
+    "deaths": 129306,
     "recovered": 790404
   },
   "Brazil": {
     "date": "2020-7-3",
-    "confirmed": 1496858,
+    "confirmed": 1539081,
     "deaths": 61884,
-    "recovered": 960837
+    "recovered": 978042
   },
   "Russia": {
     "date": "2020-7-3",
@@ -39,7 +39,7 @@
     "date": "2020-7-3",
     "confirmed": 285787,
     "deaths": 44216,
-    "recovered": 1373
+    "recovered": 1375
   },
   "Spain": {
     "date": "2020-7-3",
@@ -131,6 +131,12 @@
     "deaths": 4641,
     "recovered": 79670
   },
+  "Argentina": {
+    "date": "2020-7-3",
+    "confirmed": 72786,
+    "deaths": 1437,
+    "recovered": 25224
+  },
   "Egypt": {
     "date": "2020-7-3",
     "confirmed": 72711,
@@ -142,12 +148,6 @@
     "confirmed": 71419,
     "deaths": 5420,
     "recovered": null
-  },
-  "Argentina": {
-    "date": "2020-7-3",
-    "confirmed": 69941,
-    "deaths": 1403,
-    "recovered": 25224
   },
   "Belarus": {
     "date": "2020-7-3",
@@ -169,9 +169,9 @@
   },
   "Ecuador": {
     "date": "2020-7-3",
-    "confirmed": 59468,
-    "deaths": 4639,
-    "recovered": 28032
+    "confirmed": 60657,
+    "deaths": 4700,
+    "recovered": 28391
   },
   "Iraq": {
     "date": "2020-7-3",
@@ -305,17 +305,17 @@
     "deaths": 1740,
     "recovered": 23364
   },
+  "Guatemala": {
+    "date": "2020-7-3",
+    "confirmed": 21293,
+    "deaths": 880,
+    "recovered": 3315
+  },
   "Honduras": {
     "date": "2020-7-3",
     "confirmed": 21120,
     "deaths": 591,
     "recovered": 2190
-  },
-  "Guatemala": {
-    "date": "2020-7-3",
-    "confirmed": 20072,
-    "deaths": 843,
-    "recovered": 3279
   },
   "Azerbaijan": {
     "date": "2020-7-3",
@@ -677,17 +677,17 @@
     "deaths": 79,
     "recovered": 1539
   },
+  "Guinea-Bissau": {
+    "date": "2020-7-3",
+    "confirmed": 1765,
+    "deaths": 25,
+    "recovered": 676
+  },
   "Slovakia": {
     "date": "2020-7-3",
     "confirmed": 1720,
     "deaths": 28,
     "recovered": 1466
-  },
-  "Guinea-Bissau": {
-    "date": "2020-7-3",
-    "confirmed": 1654,
-    "deaths": 24,
-    "recovered": 317
   },
   "Slovenia": {
     "date": "2020-7-3",
@@ -957,7 +957,7 @@
     "date": "2020-7-3",
     "confirmed": 227,
     "deaths": 1,
-    "recovered": 28
+    "recovered": 29
   },
   "Mongolia": {
     "date": "2020-7-3",
