@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-4",
-    "confirmed": 2818588,
-    "deaths": 129584,
+    "confirmed": 2825756,
+    "deaths": 129601,
     "recovered": 883561
   },
   "Brazil": {
@@ -269,6 +269,12 @@
     "deaths": 1965,
     "recovered": 29200
   },
+  "Israel": {
+    "date": "2020-7-4",
+    "confirmed": 29032,
+    "deaths": 330,
+    "recovered": 17773
+  },
   "Romania": {
     "date": "2020-7-4",
     "confirmed": 28582,
@@ -278,14 +284,8 @@
   "Bahrain": {
     "date": "2020-7-4",
     "confirmed": 28410,
-    "deaths": 95,
+    "deaths": 96,
     "recovered": 23318
-  },
-  "Israel": {
-    "date": "2020-7-4",
-    "confirmed": 28055,
-    "deaths": 326,
-    "recovered": 17669
   },
   "Armenia": {
     "date": "2020-7-4",
@@ -401,17 +401,17 @@
     "deaths": 70,
     "recovered": 4726
   },
+  "Uzbekistan": {
+    "date": "2020-7-4",
+    "confirmed": 9708,
+    "deaths": 31,
+    "recovered": 6425
+  },
   "Sudan": {
     "date": "2020-7-4",
     "confirmed": 9663,
     "deaths": 604,
     "recovered": 4624
-  },
-  "Uzbekistan": {
-    "date": "2020-7-4",
-    "confirmed": 9611,
-    "deaths": 31,
-    "recovered": 6306
   },
   "Norway": {
     "date": "2020-7-4",
@@ -533,17 +533,17 @@
     "deaths": 129,
     "recovered": 1765
   },
+  "Costa Rica": {
+    "date": "2020-7-4",
+    "confirmed": 4621,
+    "deaths": 18,
+    "recovered": 1721
+  },
   "Luxembourg": {
     "date": "2020-7-4",
     "confirmed": 4476,
     "deaths": 110,
     "recovered": 4016
-  },
-  "Costa Rica": {
-    "date": "2020-7-4",
-    "confirmed": 4311,
-    "deaths": 18,
-    "recovered": 1657
   },
   "Hungary": {
     "date": "2020-7-4",
@@ -637,9 +637,9 @@
   },
   "Mali": {
     "date": "2020-7-4",
-    "confirmed": 2285,
-    "deaths": 117,
-    "recovered": 1507
+    "confirmed": 2303,
+    "deaths": 118,
+    "recovered": 1516
   },
   "Sri Lanka": {
     "date": "2020-7-4",
@@ -753,7 +753,7 @@
     "date": "2020-7-4",
     "confirmed": 1150,
     "deaths": 10,
-    "recovered": 903
+    "recovered": 902
   },
   "Latvia": {
     "date": "2020-7-4",
