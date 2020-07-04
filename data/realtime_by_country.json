@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-7-4",
-    "confirmed": 2793034,
-    "deaths": 129430,
+    "confirmed": 2793435,
+    "deaths": 129432,
     "recovered": 790404
   },
   "Brazil": {
     "date": "2020-7-4",
     "confirmed": 1539081,
     "deaths": 61884,
-    "recovered": 978042
+    "recovered": 984615
   },
   "Russia": {
     "date": "2020-7-4",
@@ -109,9 +109,9 @@
   },
   "Canada": {
     "date": "2020-7-4",
-    "confirmed": 106953,
-    "deaths": 8721,
-    "recovered": 70227
+    "confirmed": 106962,
+    "deaths": 8722,
+    "recovered": 70232
   },
   "Colombia": {
     "date": "2020-7-4",
@@ -127,9 +127,9 @@
   },
   "China": {
     "date": "2020-7-4",
-    "confirmed": 84835,
+    "confirmed": 84838,
     "deaths": 4641,
-    "recovered": 79670
+    "recovered": 79679
   },
   "Argentina": {
     "date": "2020-7-4",
@@ -233,6 +233,12 @@
     "deaths": 1280,
     "recovered": 11073
   },
+  "Panama": {
+    "date": "2020-7-4",
+    "confirmed": 35995,
+    "deaths": 698,
+    "recovered": 16945
+  },
   "Bolivia": {
     "date": "2020-7-4",
     "confirmed": 35528,
@@ -244,12 +250,6 @@
     "confirmed": 35405,
     "deaths": 1507,
     "recovered": 22651
-  },
-  "Panama": {
-    "date": "2020-7-4",
-    "confirmed": 35237,
-    "deaths": 667,
-    "recovered": 16445
   },
   "Dominican Republic": {
     "date": "2020-7-4",
@@ -379,9 +379,9 @@
   },
   "Korea, South": {
     "date": "2020-7-4",
-    "confirmed": 12967,
-    "deaths": 282,
-    "recovered": 11759
+    "confirmed": 13030,
+    "deaths": 283,
+    "recovered": 11811
   },
   "Cameroon": {
     "date": "2020-7-4",
@@ -475,8 +475,8 @@
   },
   "Venezuela": {
     "date": "2020-7-4",
-    "confirmed": 6273,
-    "deaths": 57,
+    "confirmed": 6537,
+    "deaths": 59,
     "recovered": 2100
   },
   "Haiti": {
@@ -839,17 +839,17 @@
     "deaths": 37,
     "recovered": 346
   },
+  "Jamaica": {
+    "date": "2020-7-4",
+    "confirmed": 721,
+    "deaths": 10,
+    "recovered": 565
+  },
   "Sao Tome and Principe": {
     "date": "2020-7-4",
     "confirmed": 719,
     "deaths": 13,
     "recovered": 267
-  },
-  "Jamaica": {
-    "date": "2020-7-4",
-    "confirmed": 715,
-    "deaths": 10,
-    "recovered": 560
   },
   "Diamond Princess": {
     "date": "2020-7-4",
