@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-4",
-    "confirmed": 2793022,
-    "deaths": 129405,
+    "confirmed": 2793034,
+    "deaths": 129430,
     "recovered": 790404
   },
   "Brazil": {
@@ -47,17 +47,17 @@
     "deaths": 28385,
     "recovered": 150376
   },
+  "Mexico": {
+    "date": "2020-7-4",
+    "confirmed": 245251,
+    "deaths": 29843,
+    "recovered": 189345
+  },
   "Italy": {
     "date": "2020-7-4",
     "confirmed": 241184,
     "deaths": 34833,
     "recovered": 191467
-  },
-  "Mexico": {
-    "date": "2020-7-4",
-    "confirmed": 238511,
-    "deaths": 29189,
-    "recovered": 183757
   },
   "Iran": {
     "date": "2020-7-4",
@@ -109,9 +109,9 @@
   },
   "Canada": {
     "date": "2020-7-4",
-    "confirmed": 106896,
+    "confirmed": 106953,
     "deaths": 8721,
-    "recovered": 70200
+    "recovered": 70227
   },
   "Colombia": {
     "date": "2020-7-4",
@@ -213,7 +213,7 @@
     "date": "2020-7-4",
     "confirmed": 44075,
     "deaths": 188,
-    "recovered": 14777
+    "recovered": 15276
   },
   "Oman": {
     "date": "2020-7-4",
@@ -317,6 +317,12 @@
     "deaths": 591,
     "recovered": 2190
   },
+  "Ghana": {
+    "date": "2020-7-4",
+    "confirmed": 19388,
+    "deaths": 117,
+    "recovered": 14330
+  },
   "Azerbaijan": {
     "date": "2020-7-4",
     "confirmed": 19267,
@@ -328,12 +334,6 @@
     "confirmed": 19185,
     "deaths": 977,
     "recovered": 16721
-  },
-  "Ghana": {
-    "date": "2020-7-4",
-    "confirmed": 18134,
-    "deaths": 117,
-    "recovered": 13550
   },
   "Austria": {
     "date": "2020-7-4",
@@ -427,9 +427,9 @@
   },
   "Australia": {
     "date": "2020-7-4",
-    "confirmed": 8255,
+    "confirmed": 8260,
     "deaths": 104,
-    "recovered": 7320
+    "recovered": 7319
   },
   "Congo (Kinshasa)": {
     "date": "2020-7-4",
@@ -973,9 +973,9 @@
   },
   "Burundi": {
     "date": "2020-7-4",
-    "confirmed": 170,
+    "confirmed": 191,
     "deaths": 1,
-    "recovered": 115
+    "recovered": 118
   },
   "Brunei": {
     "date": "2020-7-4",
@@ -1033,7 +1033,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2020-7-4",
-    "confirmed": 69,
+    "confirmed": 68,
     "deaths": 3,
     "recovered": 23
   },
