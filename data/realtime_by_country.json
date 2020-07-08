@@ -37,7 +37,7 @@
   },
   "United Kingdom": {
     "date": "2020-7-8",
-    "confirmed": 287874,
+    "confirmed": 287880,
     "deaths": 44476,
     "recovered": 1375
   },
@@ -97,8 +97,8 @@
   },
   "Germany": {
     "date": "2020-7-8",
-    "confirmed": 198343,
-    "deaths": 9032,
+    "confirmed": 198382,
+    "deaths": 9040,
     "recovered": 182661
   },
   "Bangladesh": {
@@ -185,6 +185,12 @@
     "deaths": 326,
     "recovered": 41714
   },
+  "Ukraine": {
+    "date": "2020-7-8",
+    "confirmed": 51429,
+    "deaths": 1322,
+    "recovered": 23896
+  },
   "Kuwait": {
     "date": "2020-7-8",
     "confirmed": 51245,
@@ -202,12 +208,6 @@
     "confirmed": 50907,
     "deaths": 6151,
     "recovered": 187
-  },
-  "Ukraine": {
-    "date": "2020-7-8",
-    "confirmed": 50622,
-    "deaths": 1299,
-    "recovered": 22970
   },
   "Oman": {
     "date": "2020-7-8",
@@ -259,9 +259,9 @@
   },
   "Afghanistan": {
     "date": "2020-7-8",
-    "confirmed": 33384,
-    "deaths": 920,
-    "recovered": 20179
+    "confirmed": 33594,
+    "deaths": 936,
+    "recovered": 20305
   },
   "Switzerland": {
     "date": "2020-7-8",
@@ -331,7 +331,7 @@
   },
   "Japan": {
     "date": "2020-7-8",
-    "confirmed": 20055,
+    "confirmed": 20059,
     "deaths": 981,
     "recovered": 17057
   },
@@ -423,7 +423,7 @@
     "date": "2020-7-8",
     "confirmed": 8886,
     "deaths": 106,
-    "recovered": 7487
+    "recovered": 7488
   },
   "Malaysia": {
     "date": "2020-7-8",
@@ -431,17 +431,17 @@
     "deaths": 121,
     "recovered": 8481
   },
+  "Kyrgyzstan": {
+    "date": "2020-7-8",
+    "confirmed": 8486,
+    "deaths": 112,
+    "recovered": 2983
+  },
   "El Salvador": {
     "date": "2020-7-8",
     "confirmed": 8307,
     "deaths": 229,
-    "recovered": 4929
-  },
-  "Kyrgyzstan": {
-    "date": "2020-7-8",
-    "confirmed": 8279,
-    "deaths": 107,
-    "recovered": 2967
+    "recovered": 4955
   },
   "Kenya": {
     "date": "2020-7-8",
@@ -553,9 +553,9 @@
   },
   "Hungary": {
     "date": "2020-7-8",
-    "confirmed": 4205,
+    "confirmed": 4210,
     "deaths": 589,
-    "recovered": 2874
+    "recovered": 2885
   },
   "Central African Republic": {
     "date": "2020-7-8",
@@ -817,9 +817,9 @@
   },
   "Georgia": {
     "date": "2020-7-8",
-    "confirmed": 958,
+    "confirmed": 963,
     "deaths": 15,
-    "recovered": 838
+    "recovered": 841
   },
   "Liberia": {
     "date": "2020-7-8",
