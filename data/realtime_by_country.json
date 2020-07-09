@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-9",
-    "confirmed": 3054695,
-    "deaths": 132299,
+    "confirmed": 3054699,
+    "deaths": 132300,
     "recovered": 953420
   },
   "Brazil": {
@@ -13,9 +13,9 @@
   },
   "India": {
     "date": "2020-7-9",
-    "confirmed": 742417,
-    "deaths": 20642,
-    "recovered": 456831
+    "confirmed": 767296,
+    "deaths": 21129,
+    "recovered": 476378
   },
   "Russia": {
     "date": "2020-7-9",
@@ -67,9 +67,9 @@
   },
   "Pakistan": {
     "date": "2020-7-9",
-    "confirmed": 237489,
-    "deaths": 4922,
-    "recovered": 140965
+    "confirmed": 240848,
+    "deaths": 4983,
+    "recovered": 145311
   },
   "South Africa": {
     "date": "2020-7-9",
@@ -413,17 +413,23 @@
     "deaths": 636,
     "recovered": 5074
   },
+  "Australia": {
+    "date": "2020-7-9",
+    "confirmed": 9056,
+    "deaths": 106,
+    "recovered": 7573
+  },
   "Norway": {
     "date": "2020-7-9",
     "confirmed": 8950,
     "deaths": 251,
     "recovered": 8138
   },
-  "Australia": {
+  "Kyrgyzstan": {
     "date": "2020-7-9",
-    "confirmed": 8899,
-    "deaths": 106,
-    "recovered": 7489
+    "confirmed": 8847,
+    "deaths": 116,
+    "recovered": 3053
   },
   "Malaysia": {
     "date": "2020-7-9",
@@ -442,12 +448,6 @@
     "confirmed": 8528,
     "deaths": 169,
     "recovered": 2593
-  },
-  "Kyrgyzstan": {
-    "date": "2020-7-9",
-    "confirmed": 8486,
-    "deaths": 112,
-    "recovered": 2983
   },
   "Venezuela": {
     "date": "2020-7-9",
@@ -518,7 +518,7 @@
   "Costa Rica": {
     "date": "2020-7-9",
     "confirmed": 5836,
-    "deaths": 24,
+    "deaths": 25,
     "recovered": 1929
   },
   "Guinea": {
