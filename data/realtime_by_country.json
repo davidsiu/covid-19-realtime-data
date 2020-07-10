@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-10",
-    "confirmed": 3156234,
-    "deaths": 133746,
+    "confirmed": 3158183,
+    "deaths": 133777,
     "recovered": 969111
   },
   "Brazil": {
@@ -485,6 +485,12 @@
     "deaths": 124,
     "recovered": 2430
   },
+  "Costa Rica": {
+    "date": "2020-7-10",
+    "confirmed": 6845,
+    "deaths": 26,
+    "recovered": 2110
+  },
   "Bulgaria": {
     "date": "2020-7-10",
     "confirmed": 6672,
@@ -496,12 +502,6 @@
     "confirmed": 6582,
     "deaths": 130,
     "recovered": 2459
-  },
-  "Costa Rica": {
-    "date": "2020-7-10",
-    "confirmed": 6485,
-    "deaths": 26,
-    "recovered": 2023
   },
   "Tajikistan": {
     "date": "2020-7-10",
@@ -517,9 +517,9 @@
   },
   "Guinea": {
     "date": "2020-7-10",
-    "confirmed": 5881,
-    "deaths": 36,
-    "recovered": 4672
+    "confirmed": 5969,
+    "deaths": 37,
+    "recovered": 4732
   },
   "Gabon": {
     "date": "2020-7-10",
@@ -863,6 +863,12 @@
     "deaths": 14,
     "recovered": 284
   },
+  "Suriname": {
+    "date": "2020-7-10",
+    "confirmed": 726,
+    "deaths": 17,
+    "recovered": 468
+  },
   "Diamond Princess": {
     "date": "2020-7-10",
     "confirmed": 712,
@@ -880,12 +886,6 @@
     "confirmed": 699,
     "deaths": 42,
     "recovered": 656
-  },
-  "Suriname": {
-    "date": "2020-7-10",
-    "confirmed": 699,
-    "deaths": 17,
-    "recovered": 456
   },
   "Malta": {
     "date": "2020-7-10",
@@ -1099,7 +1099,7 @@
   },
   "Saint Kitts and Nevis": {
     "date": "2020-7-10",
-    "confirmed": 16,
+    "confirmed": 17,
     "deaths": 0,
     "recovered": 15
   },
