@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-10",
-    "confirmed": 3117901,
-    "deaths": 133287,
+    "confirmed": 3117946,
+    "deaths": 133290,
     "recovered": 969111
   },
   "Brazil": {
@@ -13,9 +13,9 @@
   },
   "India": {
     "date": "2020-7-10",
-    "confirmed": 767296,
-    "deaths": 21129,
-    "recovered": 476378
+    "confirmed": 793769,
+    "deaths": 21603,
+    "recovered": 495490
   },
   "Russia": {
     "date": "2020-7-10",
@@ -331,7 +331,7 @@
   },
   "Japan": {
     "date": "2020-7-10",
-    "confirmed": 20615,
+    "confirmed": 20617,
     "deaths": 982,
     "recovered": 17412
   },
@@ -415,9 +415,15 @@
   },
   "Australia": {
     "date": "2020-7-10",
-    "confirmed": 9074,
+    "confirmed": 9374,
     "deaths": 106,
     "recovered": 7576
+  },
+  "Kyrgyzstan": {
+    "date": "2020-7-10",
+    "confirmed": 9358,
+    "deaths": 122,
+    "recovered": 3134
   },
   "Kenya": {
     "date": "2020-7-10",
@@ -430,12 +436,6 @@
     "confirmed": 8965,
     "deaths": 252,
     "recovered": 8138
-  },
-  "Kyrgyzstan": {
-    "date": "2020-7-10",
-    "confirmed": 8847,
-    "deaths": 116,
-    "recovered": 3053
   },
   "El Salvador": {
     "date": "2020-7-10",
@@ -1061,6 +1061,12 @@
     "deaths": 0,
     "recovered": 29
   },
+  "Fiji": {
+    "date": "2020-7-10",
+    "confirmed": 26,
+    "deaths": 0,
+    "recovered": 18
+  },
   "Timor-Leste": {
     "date": "2020-7-10",
     "confirmed": 24,
@@ -1078,12 +1084,6 @@
     "confirmed": 22,
     "deaths": 0,
     "recovered": 19
-  },
-  "Fiji": {
-    "date": "2020-7-10",
-    "confirmed": 21,
-    "deaths": 0,
-    "recovered": 18
   },
   "Laos": {
     "date": "2020-7-10",
