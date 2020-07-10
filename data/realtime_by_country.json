@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-10",
-    "confirmed": 3111902,
-    "deaths": 133195,
+    "confirmed": 3112540,
+    "deaths": 133209,
     "recovered": 969111
   },
   "Brazil": {
@@ -43,9 +43,9 @@
   },
   "Mexico": {
     "date": "2020-7-10",
-    "confirmed": 275003,
-    "deaths": 32796,
-    "recovered": 214316
+    "confirmed": 282283,
+    "deaths": 33526,
+    "recovered": 219628
   },
   "Spain": {
     "date": "2020-7-10",
@@ -241,9 +241,9 @@
   },
   "Panama": {
     "date": "2020-7-10",
-    "confirmed": 41251,
-    "deaths": 819,
-    "recovered": 19469
+    "confirmed": 42216,
+    "deaths": 839,
+    "recovered": 20437
   },
   "Dominican Republic": {
     "date": "2020-7-10",
@@ -331,7 +331,7 @@
   },
   "Japan": {
     "date": "2020-7-10",
-    "confirmed": 20613,
+    "confirmed": 20614,
     "deaths": 982,
     "recovered": 17411
   },
@@ -415,9 +415,9 @@
   },
   "Australia": {
     "date": "2020-7-10",
-    "confirmed": 9059,
+    "confirmed": 9073,
     "deaths": 106,
-    "recovered": 7575
+    "recovered": 7576
   },
   "Kenya": {
     "date": "2020-7-10",
@@ -959,17 +959,17 @@
     "deaths": 16,
     "recovered": 125
   },
+  "Eritrea": {
+    "date": "2020-7-10",
+    "confirmed": 232,
+    "deaths": 0,
+    "recovered": 107
+  },
   "Mongolia": {
     "date": "2020-7-10",
     "confirmed": 227,
     "deaths": 0,
     "recovered": 197
-  },
-  "Eritrea": {
-    "date": "2020-7-10",
-    "confirmed": 215,
-    "deaths": 0,
-    "recovered": 56
   },
   "Burundi": {
     "date": "2020-7-10",
@@ -989,17 +989,23 @@
     "deaths": 0,
     "recovered": 131
   },
+  "Lesotho": {
+    "date": "2020-7-10",
+    "confirmed": 134,
+    "deaths": 1,
+    "recovered": 11
+  },
   "Trinidad and Tobago": {
     "date": "2020-7-10",
     "confirmed": 133,
     "deaths": 8,
-    "recovered": 117
+    "recovered": 120
   },
   "Monaco": {
     "date": "2020-7-10",
     "confirmed": 108,
     "deaths": 4,
-    "recovered": 95
+    "recovered": 96
   },
   "Bahamas": {
     "date": "2020-7-10",
@@ -1013,15 +1019,9 @@
     "deaths": 7,
     "recovered": 90
   },
-  "Lesotho": {
-    "date": "2020-7-10",
-    "confirmed": 91,
-    "deaths": 0,
-    "recovered": 11
-  },
   "Seychelles": {
     "date": "2020-7-10",
-    "confirmed": 91,
+    "confirmed": 94,
     "deaths": 0,
     "recovered": 11
   },
