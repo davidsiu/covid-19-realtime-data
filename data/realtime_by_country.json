@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-7-11",
-    "confirmed": 3225721,
-    "deaths": 134580,
+    "confirmed": 3228884,
+    "deaths": 134600,
     "recovered": 983185
   },
   "Brazil": {
     "date": "2020-7-11",
     "confirmed": 1800827,
     "deaths": 70398,
-    "recovered": 1217361
+    "recovered": 1236436
   },
   "India": {
     "date": "2020-7-11",
@@ -47,6 +47,12 @@
     "deaths": 34191,
     "recovered": 225356
   },
+  "South Africa": {
+    "date": "2020-7-11",
+    "confirmed": 264184,
+    "deaths": 3971,
+    "recovered": 127715
+  },
   "Iran": {
     "date": "2020-7-11",
     "confirmed": 255117,
@@ -58,12 +64,6 @@
     "confirmed": 253908,
     "deaths": 28403,
     "recovered": 150376
-  },
-  "South Africa": {
-    "date": "2020-7-11",
-    "confirmed": 250687,
-    "deaths": 3860,
-    "recovered": 118232
   },
   "Pakistan": {
     "date": "2020-7-11",
@@ -139,9 +139,9 @@
   },
   "Egypt": {
     "date": "2020-7-11",
-    "confirmed": 80235,
-    "deaths": 3702,
-    "recovered": 23274
+    "confirmed": 81158,
+    "deaths": 3769,
+    "recovered": 23876
   },
   "Iraq": {
     "date": "2020-7-11",
@@ -271,9 +271,9 @@
   },
   "Switzerland": {
     "date": "2020-7-11",
-    "confirmed": 32798,
-    "deaths": 1966,
-    "recovered": 29400
+    "confirmed": 32817,
+    "deaths": 1968,
+    "recovered": 29500
   },
   "Romania": {
     "date": "2020-7-11",
@@ -397,9 +397,9 @@
   },
   "Uzbekistan": {
     "date": "2020-7-11",
-    "confirmed": 12402,
+    "confirmed": 12513,
     "deaths": 57,
-    "recovered": 7540
+    "recovered": 7723
   },
   "Cote d'Ivoire": {
     "date": "2020-7-11",
@@ -749,17 +749,17 @@
     "deaths": 18,
     "recovered": 656
   },
+  "Rwanda": {
+    "date": "2020-7-11",
+    "confirmed": 1299,
+    "deaths": 4,
+    "recovered": 663
+  },
   "Benin": {
     "date": "2020-7-11",
     "confirmed": 1285,
     "deaths": 23,
     "recovered": 333
-  },
-  "Rwanda": {
-    "date": "2020-7-11",
-    "confirmed": 1252,
-    "deaths": 3,
-    "recovered": 635
   },
   "Tunisia": {
     "date": "2020-7-11",
@@ -1001,17 +1001,17 @@
     "deaths": 8,
     "recovered": 120
   },
+  "Monaco": {
+    "date": "2020-7-11",
+    "confirmed": 109,
+    "deaths": 4,
+    "recovered": 96
+  },
   "Bahamas": {
     "date": "2020-7-11",
     "confirmed": 108,
     "deaths": 11,
     "recovered": 89
-  },
-  "Monaco": {
-    "date": "2020-7-11",
-    "confirmed": 108,
-    "deaths": 4,
-    "recovered": 96
   },
   "Seychelles": {
     "date": "2020-7-11",
