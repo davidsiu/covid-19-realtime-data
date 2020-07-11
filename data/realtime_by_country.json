@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-7-11",
-    "confirmed": 3184681,
+    "confirmed": 3184722,
     "deaths": 134097,
     "recovered": 983185
   },
@@ -98,7 +98,7 @@
   "Germany": {
     "date": "2020-7-11",
     "confirmed": 199332,
-    "deaths": 9063,
+    "deaths": 9068,
     "recovered": 184028
   },
   "Bangladesh": {
@@ -191,6 +191,12 @@
     "deaths": 330,
     "recovered": 43969
   },
+  "Ukraine": {
+    "date": "2020-7-11",
+    "confirmed": 53916,
+    "deaths": 1389,
+    "recovered": 26495
+  },
   "Oman": {
     "date": "2020-7-11",
     "confirmed": 53614,
@@ -202,12 +208,6 @@
     "confirmed": 53580,
     "deaths": 383,
     "recovered": 43214
-  },
-  "Ukraine": {
-    "date": "2020-7-11",
-    "confirmed": 53116,
-    "deaths": 1362,
-    "recovered": 25634
   },
   "Philippines": {
     "date": "2020-7-11",
@@ -281,6 +281,12 @@
     "deaths": 104,
     "recovered": 27213
   },
+  "Armenia": {
+    "date": "2020-7-11",
+    "confirmed": 31392,
+    "deaths": 559,
+    "recovered": 19419
+  },
   "Romania": {
     "date": "2020-7-11",
     "confirmed": 31381,
@@ -292,12 +298,6 @@
     "confirmed": 31323,
     "deaths": 709,
     "recovered": 12795
-  },
-  "Armenia": {
-    "date": "2020-7-11",
-    "confirmed": 30903,
-    "deaths": 546,
-    "recovered": 18709
   },
   "Guatemala": {
     "date": "2020-7-11",
@@ -391,9 +391,9 @@
   },
   "Czechia": {
     "date": "2020-7-11",
-    "confirmed": 13001,
+    "confirmed": 13062,
     "deaths": 352,
-    "recovered": 8208
+    "recovered": 8209
   },
   "Uzbekistan": {
     "date": "2020-7-11",
@@ -775,7 +775,7 @@
   },
   "Latvia": {
     "date": "2020-7-11",
-    "confirmed": 1165,
+    "confirmed": 1173,
     "deaths": 30,
     "recovered": 1019
   },
