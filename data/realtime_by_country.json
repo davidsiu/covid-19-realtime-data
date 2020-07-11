@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-11",
-    "confirmed": 3187270,
-    "deaths": 134117,
+    "confirmed": 3188982,
+    "deaths": 134130,
     "recovered": 983185
   },
   "Brazil": {
@@ -133,15 +133,21 @@
   },
   "China": {
     "date": "2020-7-11",
-    "confirmed": 84992,
+    "confirmed": 85064,
     "deaths": 4641,
-    "recovered": 79802
+    "recovered": 79865
   },
   "Egypt": {
     "date": "2020-7-11",
     "confirmed": 80235,
     "deaths": 3702,
     "recovered": 23274
+  },
+  "Iraq": {
+    "date": "2020-7-11",
+    "confirmed": 75194,
+    "deaths": 3055,
+    "recovered": 43079
   },
   "Sweden": {
     "date": "2020-7-11",
@@ -154,12 +160,6 @@
     "confirmed": 74018,
     "deaths": 3535,
     "recovered": 34719
-  },
-  "Iraq": {
-    "date": "2020-7-11",
-    "confirmed": 72460,
-    "deaths": 2960,
-    "recovered": 41380
   },
   "Ecuador": {
     "date": "2020-7-11",
@@ -221,17 +221,17 @@
     "deaths": 6156,
     "recovered": 192
   },
+  "Portugal": {
+    "date": "2020-7-11",
+    "confirmed": 46221,
+    "deaths": 1654,
+    "recovered": 30655
+  },
   "Singapore": {
     "date": "2020-7-11",
     "confirmed": 45783,
     "deaths": 26,
     "recovered": 41780
-  },
-  "Portugal": {
-    "date": "2020-7-11",
-    "confirmed": 45679,
-    "deaths": 1646,
-    "recovered": 30350
   },
   "Bolivia": {
     "date": "2020-7-11",
@@ -331,7 +331,7 @@
   },
   "Japan": {
     "date": "2020-7-11",
-    "confirmed": 21407,
+    "confirmed": 21427,
     "deaths": 982,
     "recovered": 17494
   },
@@ -511,9 +511,9 @@
   },
   "Tajikistan": {
     "date": "2020-7-11",
-    "confirmed": 6457,
+    "confirmed": 6506,
     "deaths": 55,
-    "recovered": 5115
+    "recovered": 5176
   },
   "Guinea": {
     "date": "2020-7-11",
@@ -637,9 +637,9 @@
   },
   "Cuba": {
     "date": "2020-7-11",
-    "confirmed": 2413,
-    "deaths": 86,
-    "recovered": 2249
+    "confirmed": 2420,
+    "deaths": 87,
+    "recovered": 2254
   },
   "Mali": {
     "date": "2020-7-11",
@@ -913,7 +913,7 @@
   },
   "Taiwan*": {
     "date": "2020-7-11",
-    "confirmed": 449,
+    "confirmed": 451,
     "deaths": 7,
     "recovered": 438
   },
@@ -937,9 +937,9 @@
   },
   "Burma": {
     "date": "2020-7-11",
-    "confirmed": 326,
+    "confirmed": 330,
     "deaths": 6,
-    "recovered": 256
+    "recovered": 260
   },
   "Botswana": {
     "date": "2020-7-11",
