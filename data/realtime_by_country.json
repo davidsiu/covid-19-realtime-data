@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-12",
-    "confirmed": 3245158,
-    "deaths": 134764,
+    "confirmed": 3245925,
+    "deaths": 134777,
     "recovered": 995576
   },
   "Brazil": {
@@ -221,6 +221,12 @@
     "deaths": 6156,
     "recovered": 193
   },
+  "Bolivia": {
+    "date": "2020-7-12",
+    "confirmed": 47200,
+    "deaths": 1754,
+    "recovered": 14333
+  },
   "Portugal": {
     "date": "2020-7-12",
     "confirmed": 46221,
@@ -232,12 +238,6 @@
     "confirmed": 45783,
     "deaths": 26,
     "recovered": 42026
-  },
-  "Bolivia": {
-    "date": "2020-7-12",
-    "confirmed": 45565,
-    "deaths": 1702,
-    "recovered": 13918
   },
   "Panama": {
     "date": "2020-7-12",
