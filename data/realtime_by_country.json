@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-14",
-    "confirmed": 3406945,
-    "deaths": 136244,
+    "confirmed": 3407798,
+    "deaths": 136252,
     "recovered": 1031939
   },
   "Brazil": {
@@ -253,9 +253,9 @@
   },
   "Israel": {
     "date": "2020-7-14",
-    "confirmed": 41235,
-    "deaths": 368,
-    "recovered": 19474
+    "confirmed": 42360,
+    "deaths": 371,
+    "recovered": 19665
   },
   "Poland": {
     "date": "2020-7-14",
@@ -269,17 +269,17 @@
     "deaths": 1048,
     "recovered": 21454
   },
+  "Bahrain": {
+    "date": "2020-7-14",
+    "confirmed": 34078,
+    "deaths": 111,
+    "recovered": 29753
+  },
   "Romania": {
     "date": "2020-7-14",
     "confirmed": 33585,
     "deaths": 1931,
     "recovered": 21803
-  },
-  "Bahrain": {
-    "date": "2020-7-14",
-    "confirmed": 33476,
-    "deaths": 109,
-    "recovered": 29099
   },
   "Nigeria": {
     "date": "2020-7-14",
@@ -523,9 +523,9 @@
   },
   "Guinea": {
     "date": "2020-7-14",
-    "confirmed": 6141,
-    "deaths": 37,
-    "recovered": 4862
+    "confirmed": 6200,
+    "deaths": 38,
+    "recovered": 4951
   },
   "Gabon": {
     "date": "2020-7-14",
@@ -565,9 +565,9 @@
   },
   "Central African Republic": {
     "date": "2020-7-14",
-    "confirmed": 4321,
+    "confirmed": 4356,
     "deaths": 53,
-    "recovered": 1208
+    "recovered": 1229
   },
   "Hungary": {
     "date": "2020-7-14",
@@ -599,6 +599,12 @@
     "deaths": 58,
     "recovered": 3091
   },
+  "Nicaragua": {
+    "date": "2020-7-14",
+    "confirmed": 3147,
+    "deaths": 99,
+    "recovered": 2282
+  },
   "Somalia": {
     "date": "2020-7-14",
     "confirmed": 3076,
@@ -616,12 +622,6 @@
     "confirmed": 2980,
     "deaths": 25,
     "recovered": 1293
-  },
-  "Nicaragua": {
-    "date": "2020-7-14",
-    "confirmed": 2846,
-    "deaths": 91,
-    "recovered": 1993
   },
   "Maldives": {
     "date": "2020-7-14",
@@ -797,6 +797,12 @@
     "deaths": 68,
     "recovered": 992
   },
+  "Zimbabwe": {
+    "date": "2020-7-14",
+    "confirmed": 1064,
+    "deaths": 20,
+    "recovered": 343
+  },
   "Uganda": {
     "date": "2020-7-14",
     "confirmed": 1040,
@@ -808,12 +814,6 @@
     "confirmed": 1037,
     "deaths": 53,
     "recovered": 873
-  },
-  "Zimbabwe": {
-    "date": "2020-7-14",
-    "confirmed": 1034,
-    "deaths": 19,
-    "recovered": 343
   },
   "Liberia": {
     "date": "2020-7-14",
@@ -901,7 +901,7 @@
   },
   "Angola": {
     "date": "2020-7-14",
-    "confirmed": 525,
+    "confirmed": 541,
     "deaths": 26,
     "recovered": 118
   },
