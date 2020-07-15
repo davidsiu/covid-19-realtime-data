@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-15",
-    "confirmed": 3434636,
-    "deaths": 136493,
+    "confirmed": 3448625,
+    "deaths": 136699,
     "recovered": 1049098
   },
   "Brazil": {
@@ -49,8 +49,8 @@
   },
   "United Kingdom": {
     "date": "2020-7-15",
-    "confirmed": 292931,
-    "deaths": 45053,
+    "confirmed": 293469,
+    "deaths": 45138,
     "recovered": 1386
   },
   "Iran": {
@@ -97,9 +97,9 @@
   },
   "Germany": {
     "date": "2020-7-15",
-    "confirmed": 200744,
+    "confirmed": 200746,
     "deaths": 9079,
-    "recovered": 185120
+    "recovered": 185409
   },
   "Bangladesh": {
     "date": "2020-7-15",
@@ -109,13 +109,13 @@
   },
   "Colombia": {
     "date": "2020-7-15",
-    "confirmed": 154277,
-    "deaths": 5787,
-    "recovered": 65809
+    "confirmed": 159898,
+    "deaths": 5969,
+    "recovered": 68773
   },
   "Canada": {
     "date": "2020-7-15",
-    "confirmed": 110350,
+    "confirmed": 110357,
     "deaths": 8845,
     "recovered": 73713
   },
@@ -233,6 +233,12 @@
     "deaths": 960,
     "recovered": 24667
   },
+  "Dominican Republic": {
+    "date": "2020-7-15",
+    "confirmed": 47671,
+    "deaths": 929,
+    "recovered": 23459
+  },
   "Portugal": {
     "date": "2020-7-15",
     "confirmed": 47426,
@@ -243,13 +249,7 @@
     "date": "2020-7-15",
     "confirmed": 46878,
     "deaths": 27,
-    "recovered": 42737
-  },
-  "Dominican Republic": {
-    "date": "2020-7-15",
-    "confirmed": 46305,
-    "deaths": 910,
-    "recovered": 23134
+    "recovered": 42988
   },
   "Israel": {
     "date": "2020-7-15",
@@ -397,9 +397,9 @@
   },
   "Denmark": {
     "date": "2020-7-15",
-    "confirmed": 13262,
+    "confirmed": 13293,
     "deaths": 610,
-    "recovered": 12361
+    "recovered": 12383
   },
   "Cote d'Ivoire": {
     "date": "2020-7-15",
@@ -631,7 +631,7 @@
   },
   "Sri Lanka": {
     "date": "2020-7-15",
-    "confirmed": 2668,
+    "confirmed": 2671,
     "deaths": 11,
     "recovered": 2001
   },
@@ -761,6 +761,12 @@
     "deaths": 26,
     "recovered": 557
   },
+  "Mozambique": {
+    "date": "2020-7-15",
+    "confirmed": 1330,
+    "deaths": 9,
+    "recovered": 375
+  },
   "Tunisia": {
     "date": "2020-7-15",
     "confirmed": 1306,
@@ -772,12 +778,6 @@
     "confirmed": 1287,
     "deaths": 24,
     "recovered": 330
-  },
-  "Mozambique": {
-    "date": "2020-7-15",
-    "confirmed": 1268,
-    "deaths": 9,
-    "recovered": 373
   },
   "Jordan": {
     "date": "2020-7-15",
