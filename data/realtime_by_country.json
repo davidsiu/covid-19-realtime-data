@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-16",
-    "confirmed": 3533317,
-    "deaths": 137846,
+    "confirmed": 3536658,
+    "deaths": 137897,
     "recovered": 1075882
   },
   "Brazil": {
@@ -29,6 +29,12 @@
     "deaths": 12417,
     "recovered": 226400
   },
+  "South Africa": {
+    "date": "2020-7-16",
+    "confirmed": 324221,
+    "deaths": 4669,
+    "recovered": 165591
+  },
   "Chile": {
     "date": "2020-7-16",
     "confirmed": 323698,
@@ -40,12 +46,6 @@
     "confirmed": 317635,
     "deaths": 36906,
     "recovered": 252368
-  },
-  "South Africa": {
-    "date": "2020-7-16",
-    "confirmed": 311049,
-    "deaths": 4453,
-    "recovered": 160693
   },
   "United Kingdom": {
     "date": "2020-7-16",
@@ -325,8 +325,8 @@
   },
   "Ireland": {
     "date": "2020-7-16",
-    "confirmed": 25683,
-    "deaths": 1748,
+    "confirmed": 25698,
+    "deaths": 1749,
     "recovered": 23364
   },
   "Japan": {
