@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-16",
-    "confirmed": 3549451,
-    "deaths": 138072,
+    "confirmed": 3556403,
+    "deaths": 138141,
     "recovered": 1075882
   },
   "Brazil": {
@@ -25,9 +25,9 @@
   },
   "Peru": {
     "date": "2020-7-16",
-    "confirmed": 337751,
-    "deaths": 12417,
-    "recovered": 226400
+    "confirmed": 341586,
+    "deaths": 12615,
+    "recovered": 230994
   },
   "South Africa": {
     "date": "2020-7-16",
@@ -121,9 +121,9 @@
   },
   "Canada": {
     "date": "2020-7-16",
-    "confirmed": 110923,
+    "confirmed": 110974,
     "deaths": 8869,
-    "recovered": 74310
+    "recovered": 74313
   },
   "Qatar": {
     "date": "2020-7-16",
@@ -137,17 +137,17 @@
     "deaths": 3522,
     "recovered": 54316
   },
+  "Egypt": {
+    "date": "2020-7-16",
+    "confirmed": 85771,
+    "deaths": 4120,
+    "recovered": 26691
+  },
   "China": {
     "date": "2020-7-16",
     "confirmed": 85314,
     "deaths": 4644,
     "recovered": 80018
-  },
-  "Egypt": {
-    "date": "2020-7-16",
-    "confirmed": 84843,
-    "deaths": 4067,
-    "recovered": 26135
   },
   "Indonesia": {
     "date": "2020-7-16",
@@ -263,6 +263,12 @@
     "deaths": 1605,
     "recovered": 28928
   },
+  "Bahrain": {
+    "date": "2020-7-16",
+    "confirmed": 35084,
+    "deaths": 121,
+    "recovered": 30809
+  },
   "Afghanistan": {
     "date": "2020-7-16",
     "confirmed": 35070,
@@ -274,12 +280,6 @@
     "confirmed": 35003,
     "deaths": 1971,
     "recovered": 22189
-  },
-  "Bahrain": {
-    "date": "2020-7-16",
-    "confirmed": 34560,
-    "deaths": 121,
-    "recovered": 30320
   },
   "Nigeria": {
     "date": "2020-7-16",
@@ -297,7 +297,7 @@
     "date": "2020-7-16",
     "confirmed": 33290,
     "deaths": 1969,
-    "recovered": 29800
+    "recovered": 29900
   },
   "Guatemala": {
     "date": "2020-7-16",
@@ -389,17 +389,17 @@
     "deaths": 291,
     "recovered": 12396
   },
+  "Cote d'Ivoire": {
+    "date": "2020-7-16",
+    "confirmed": 13554,
+    "deaths": 87,
+    "recovered": 7363
+  },
   "Czechia": {
     "date": "2020-7-16",
     "confirmed": 13551,
     "deaths": 355,
     "recovered": 8629
-  },
-  "Cote d'Ivoire": {
-    "date": "2020-7-16",
-    "confirmed": 13403,
-    "deaths": 87,
-    "recovered": 7146
   },
   "Denmark": {
     "date": "2020-7-16",
@@ -545,17 +545,17 @@
     "deaths": 149,
     "recovered": 2830
   },
+  "Luxembourg": {
+    "date": "2020-7-16",
+    "confirmed": 5285,
+    "deaths": 111,
+    "recovered": 4275
+  },
   "Kosovo": {
     "date": "2020-7-16",
     "confirmed": 5237,
     "deaths": 112,
     "recovered": 2462
-  },
-  "Luxembourg": {
-    "date": "2020-7-16",
-    "confirmed": 5122,
-    "deaths": 111,
-    "recovered": 4247
   },
   "Djibouti": {
     "date": "2020-7-16",
@@ -629,17 +629,17 @@
     "deaths": 15,
     "recovered": 2321
   },
+  "Malawi": {
+    "date": "2020-7-16",
+    "confirmed": 2712,
+    "deaths": 51,
+    "recovered": 1073
+  },
   "Sri Lanka": {
     "date": "2020-7-16",
     "confirmed": 2686,
     "deaths": 11,
     "recovered": 2007
-  },
-  "Malawi": {
-    "date": "2020-7-16",
-    "confirmed": 2614,
-    "deaths": 43,
-    "recovered": 1005
   },
   "Lebanon": {
     "date": "2020-7-16",
@@ -751,9 +751,9 @@
   },
   "Rwanda": {
     "date": "2020-7-16",
-    "confirmed": 1435,
+    "confirmed": 1473,
     "deaths": 4,
-    "recovered": 752
+    "recovered": 770
   },
   "Mozambique": {
     "date": "2020-7-16",
@@ -847,21 +847,21 @@
   },
   "Chad": {
     "date": "2020-7-16",
-    "confirmed": 885,
+    "confirmed": 886,
     "deaths": 75,
     "recovered": 799
+  },
+  "Suriname": {
+    "date": "2020-7-16",
+    "confirmed": 886,
+    "deaths": 18,
+    "recovered": 581
   },
   "Andorra": {
     "date": "2020-7-16",
     "confirmed": 862,
     "deaths": 52,
     "recovered": 803
-  },
-  "Suriname": {
-    "date": "2020-7-16",
-    "confirmed": 849,
-    "deaths": 18,
-    "recovered": 573
   },
   "Jamaica": {
     "date": "2020-7-16",
@@ -901,8 +901,8 @@
   },
   "Angola": {
     "date": "2020-7-16",
-    "confirmed": 576,
-    "deaths": 27,
+    "confirmed": 607,
+    "deaths": 28,
     "recovered": 124
   },
   "Tanzania": {
