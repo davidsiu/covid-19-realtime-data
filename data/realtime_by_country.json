@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-7-17",
-    "confirmed": 3563848,
-    "deaths": 138267,
+    "confirmed": 3570037,
+    "deaths": 138291,
     "recovered": 1090645
   },
   "Brazil": {
     "date": "2020-7-17",
     "confirmed": 2012151,
     "deaths": 76688,
-    "recovered": 1387537
+    "recovered": 1390176
   },
   "India": {
     "date": "2020-7-17",
@@ -35,21 +35,21 @@
     "deaths": 4669,
     "recovered": 165591
   },
+  "Mexico": {
+    "date": "2020-7-17",
+    "confirmed": 324041,
+    "deaths": 37574,
+    "recovered": 257681
+  },
   "Chile": {
     "date": "2020-7-17",
     "confirmed": 323698,
     "deaths": 7290,
     "recovered": 295301
   },
-  "Mexico": {
-    "date": "2020-7-17",
-    "confirmed": 317635,
-    "deaths": 36906,
-    "recovered": 252368
-  },
   "United Kingdom": {
     "date": "2020-7-17",
-    "confirmed": 294112,
+    "confirmed": 294114,
     "deaths": 45204,
     "recovered": 1386
   },
@@ -223,15 +223,15 @@
   },
   "Netherlands": {
     "date": "2020-7-17",
-    "confirmed": 51570,
+    "confirmed": 51572,
     "deaths": 6156,
-    "recovered": 193
+    "recovered": 194
   },
   "Panama": {
     "date": "2020-7-17",
-    "confirmed": 49243,
-    "deaths": 982,
-    "recovered": 25417
+    "confirmed": 50373,
+    "deaths": 1000,
+    "recovered": 25842
   },
   "Dominican Republic": {
     "date": "2020-7-17",
@@ -383,6 +383,12 @@
     "deaths": 75,
     "recovered": 8783
   },
+  "Czechia": {
+    "date": "2020-7-17",
+    "confirmed": 13612,
+    "deaths": 355,
+    "recovered": 8640
+  },
   "Korea, South": {
     "date": "2020-7-17",
     "confirmed": 13612,
@@ -394,12 +400,6 @@
     "confirmed": 13554,
     "deaths": 87,
     "recovered": 7363
-  },
-  "Czechia": {
-    "date": "2020-7-17",
-    "confirmed": 13551,
-    "deaths": 355,
-    "recovered": 8629
   },
   "Denmark": {
     "date": "2020-7-17",
