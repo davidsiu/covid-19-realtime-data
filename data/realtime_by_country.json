@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-17",
-    "confirmed": 3576430,
-    "deaths": 138360,
+    "confirmed": 3576593,
+    "deaths": 138362,
     "recovered": 1090645
   },
   "Brazil": {
@@ -71,17 +71,17 @@
     "deaths": 28416,
     "recovered": 150376
   },
+  "Saudi Arabia": {
+    "date": "2020-7-17",
+    "confirmed": 245851,
+    "deaths": 2407,
+    "recovered": 191161
+  },
   "Italy": {
     "date": "2020-7-17",
     "confirmed": 243736,
     "deaths": 35017,
     "recovered": 196246
-  },
-  "Saudi Arabia": {
-    "date": "2020-7-17",
-    "confirmed": 243238,
-    "deaths": 2370,
-    "recovered": 187622
   },
   "Turkey": {
     "date": "2020-7-17",
@@ -223,8 +223,8 @@
   },
   "Netherlands": {
     "date": "2020-7-17",
-    "confirmed": 51572,
-    "deaths": 6156,
+    "confirmed": 51675,
+    "deaths": 6157,
     "recovered": 194
   },
   "Panama": {
@@ -349,9 +349,9 @@
   },
   "Serbia": {
     "date": "2020-7-17",
-    "confirmed": 19717,
-    "deaths": 442,
-    "recovered": 14417
+    "confirmed": 20109,
+    "deaths": 452,
+    "recovered": 14799
   },
   "Austria": {
     "date": "2020-7-17",
@@ -361,9 +361,9 @@
   },
   "Nepal": {
     "date": "2020-7-17",
-    "confirmed": 17344,
-    "deaths": 39,
-    "recovered": 11249
+    "confirmed": 17445,
+    "deaths": 40,
+    "recovered": 11534
   },
   "Morocco": {
     "date": "2020-7-17",
@@ -451,7 +451,7 @@
   },
   "Norway": {
     "date": "2020-7-17",
-    "confirmed": 9015,
+    "confirmed": 9018,
     "deaths": 255,
     "recovered": 8138
   },
@@ -689,6 +689,12 @@
     "deaths": 28,
     "recovered": 1523
   },
+  "Cabo Verde": {
+    "date": "2020-7-17",
+    "confirmed": 1939,
+    "deaths": 19,
+    "recovered": 902
+  },
   "Guinea-Bissau": {
     "date": "2020-7-17",
     "confirmed": 1927,
@@ -718,12 +724,6 @@
     "confirmed": 1895,
     "deaths": 42,
     "recovered": 1412
-  },
-  "Cabo Verde": {
-    "date": "2020-7-17",
-    "confirmed": 1894,
-    "deaths": 19,
-    "recovered": 902
   },
   "Sierra Leone": {
     "date": "2020-7-17",
@@ -805,9 +805,9 @@
   },
   "Liberia": {
     "date": "2020-7-17",
-    "confirmed": 1070,
-    "deaths": 68,
-    "recovered": 486
+    "confirmed": 1085,
+    "deaths": 69,
+    "recovered": 496
   },
   "Uganda": {
     "date": "2020-7-17",
@@ -859,7 +859,7 @@
   },
   "Andorra": {
     "date": "2020-7-17",
-    "confirmed": 877,
+    "confirmed": 880,
     "deaths": 52,
     "recovered": 803
   },
