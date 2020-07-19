@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-19",
-    "confirmed": 3712604,
-    "deaths": 140120,
+    "confirmed": 3715166,
+    "deaths": 140131,
     "recovered": 1122720
   },
   "Brazil": {
@@ -221,6 +221,12 @@
     "deaths": 339,
     "recovered": 49269
   },
+  "Dominican Republic": {
+    "date": "2020-7-19",
+    "confirmed": 52855,
+    "deaths": 981,
+    "recovered": 25094
+  },
   "Panama": {
     "date": "2020-7-19",
     "confirmed": 52261,
@@ -229,15 +235,9 @@
   },
   "Netherlands": {
     "date": "2020-7-19",
-    "confirmed": 51809,
+    "confirmed": 51953,
     "deaths": 6155,
     "recovered": 194
-  },
-  "Dominican Republic": {
-    "date": "2020-7-19",
-    "confirmed": 51519,
-    "deaths": 971,
-    "recovered": 24607
   },
   "Israel": {
     "date": "2020-7-19",
@@ -409,7 +409,7 @@
   },
   "Denmark": {
     "date": "2020-7-19",
-    "confirmed": 13374,
+    "confirmed": 13377,
     "deaths": 611,
     "recovered": 12410
   },
@@ -767,23 +767,23 @@
     "deaths": 5,
     "recovered": 819
   },
+  "Mozambique": {
+    "date": "2020-7-19",
+    "confirmed": 1491,
+    "deaths": 10,
+    "recovered": 472
+  },
   "Zimbabwe": {
     "date": "2020-7-19",
     "confirmed": 1478,
     "deaths": 25,
     "recovered": 439
   },
-  "Mozambique": {
-    "date": "2020-7-19",
-    "confirmed": 1435,
-    "deaths": 10,
-    "recovered": 408
-  },
   "Tunisia": {
     "date": "2020-7-19",
-    "confirmed": 1348,
+    "confirmed": 1374,
     "deaths": 50,
-    "recovered": 1095
+    "recovered": 1097
   },
   "Jordan": {
     "date": "2020-7-19",
