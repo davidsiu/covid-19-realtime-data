@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-20",
-    "confirmed": 3804907,
-    "deaths": 140811,
+    "confirmed": 3808104,
+    "deaths": 140828,
     "recovered": 1131121
   },
   "Brazil": {
@@ -137,17 +137,17 @@
     "deaths": 3869,
     "recovered": 62836
   },
+  "Egypt": {
+    "date": "2020-7-20",
+    "confirmed": 88402,
+    "deaths": 4352,
+    "recovered": 28924
+  },
   "Indonesia": {
     "date": "2020-7-20",
     "confirmed": 88214,
     "deaths": 4239,
     "recovered": 46977
-  },
-  "Egypt": {
-    "date": "2020-7-20",
-    "confirmed": 87775,
-    "deaths": 4302,
-    "recovered": 28380
   },
   "China": {
     "date": "2020-7-20",
@@ -241,9 +241,9 @@
   },
   "Israel": {
     "date": "2020-7-20",
-    "confirmed": 51676,
+    "confirmed": 52003,
     "deaths": 415,
-    "recovered": 22060
+    "recovered": 22154
   },
   "Portugal": {
     "date": "2020-7-20",
@@ -391,9 +391,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-7-20",
-    "confirmed": 14119,
+    "confirmed": 14312,
     "deaths": 92,
-    "recovered": 8366
+    "recovered": 8659
   },
   "Czechia": {
     "date": "2020-7-20",
@@ -749,6 +749,12 @@
     "deaths": 66,
     "recovered": 1261
   },
+  "Rwanda": {
+    "date": "2020-7-20",
+    "confirmed": 1629,
+    "deaths": 5,
+    "recovered": 838
+  },
   "Yemen": {
     "date": "2020-7-20",
     "confirmed": 1606,
@@ -760,12 +766,6 @@
     "confirmed": 1602,
     "deaths": 31,
     "recovered": 782
-  },
-  "Rwanda": {
-    "date": "2020-7-20",
-    "confirmed": 1582,
-    "deaths": 5,
-    "recovered": 834
   },
   "New Zealand": {
     "date": "2020-7-20",
@@ -871,9 +871,15 @@
   },
   "Togo": {
     "date": "2020-7-20",
-    "confirmed": 778,
+    "confirmed": 783,
     "deaths": 15,
-    "recovered": 551
+    "recovered": 554
+  },
+  "Angola": {
+    "date": "2020-7-20",
+    "confirmed": 749,
+    "deaths": 29,
+    "recovered": 221
   },
   "Sao Tome and Principe": {
     "date": "2020-7-20",
@@ -886,12 +892,6 @@
     "confirmed": 712,
     "deaths": 13,
     "recovered": 651
-  },
-  "Angola": {
-    "date": "2020-7-20",
-    "confirmed": 705,
-    "deaths": 29,
-    "recovered": 221
   },
   "San Marino": {
     "date": "2020-7-20",
