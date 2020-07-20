@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-20",
-    "confirmed": 3763395,
-    "deaths": 140477,
+    "confirmed": 3768055,
+    "deaths": 140500,
     "recovered": 1131121
   },
   "Brazil": {
@@ -103,9 +103,9 @@
   },
   "Germany": {
     "date": "2020-7-20",
-    "confirmed": 202612,
+    "confirmed": 202735,
     "deaths": 9092,
-    "recovered": 187961
+    "recovered": 187400
   },
   "Colombia": {
     "date": "2020-7-20",
@@ -263,6 +263,12 @@
     "deaths": 1624,
     "recovered": 30292
   },
+  "Guatemala": {
+    "date": "2020-7-20",
+    "confirmed": 38677,
+    "deaths": 1485,
+    "recovered": 23365
+  },
   "Romania": {
     "date": "2020-7-20",
     "confirmed": 37458,
@@ -292,12 +298,6 @@
     "confirmed": 34877,
     "deaths": 641,
     "recovered": 23294
-  },
-  "Guatemala": {
-    "date": "2020-7-20",
-    "confirmed": 33809,
-    "deaths": 1443,
-    "recovered": 4989
   },
   "Switzerland": {
     "date": "2020-7-20",
@@ -419,6 +419,12 @@
     "deaths": 234,
     "recovered": 5122
   },
+  "Australia": {
+    "date": "2020-7-20",
+    "confirmed": 12069,
+    "deaths": 123,
+    "recovered": 8444
+  },
   "Venezuela": {
     "date": "2020-7-20",
     "confirmed": 11891,
@@ -430,12 +436,6 @@
     "confirmed": 11846,
     "deaths": 335,
     "recovered": 6705
-  },
-  "Australia": {
-    "date": "2020-7-20",
-    "confirmed": 11823,
-    "deaths": 122,
-    "recovered": 8275
   },
   "Costa Rica": {
     "date": "2020-7-20",
@@ -863,17 +863,17 @@
     "deaths": 52,
     "recovered": 803
   },
+  "Jamaica": {
+    "date": "2020-7-20",
+    "confirmed": 790,
+    "deaths": 10,
+    "recovered": 693
+  },
   "Togo": {
     "date": "2020-7-20",
     "confirmed": 778,
     "deaths": 15,
     "recovered": 551
-  },
-  "Jamaica": {
-    "date": "2020-7-20",
-    "confirmed": 774,
-    "deaths": 10,
-    "recovered": 679
   },
   "Sao Tome and Principe": {
     "date": "2020-7-20",
