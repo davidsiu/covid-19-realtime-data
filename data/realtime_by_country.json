@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-7-22",
-    "confirmed": 3899072,
+    "confirmed": 3899148,
     "deaths": 141992,
     "recovered": 1182018
   },
@@ -95,17 +95,17 @@
     "deaths": 30168,
     "recovered": 79861
   },
+  "Colombia": {
+    "date": "2020-7-22",
+    "confirmed": 211038,
+    "deaths": 7166,
+    "recovered": 98840
+  },
   "Bangladesh": {
     "date": "2020-7-22",
     "confirmed": 210510,
     "deaths": 2709,
     "recovered": 115397
-  },
-  "Colombia": {
-    "date": "2020-7-22",
-    "confirmed": 204005,
-    "deaths": 6929,
-    "recovered": 95804
   },
   "Germany": {
     "date": "2020-7-22",
@@ -193,9 +193,9 @@
   },
   "Belgium": {
     "date": "2020-7-22",
-    "confirmed": 64094,
+    "confirmed": 64258,
     "deaths": 9805,
-    "recovered": 17321
+    "recovered": 17330
   },
   "Bolivia": {
     "date": "2020-7-22",
@@ -293,17 +293,17 @@
     "deaths": 1186,
     "recovered": 23741
   },
+  "Honduras": {
+    "date": "2020-7-22",
+    "confirmed": 35345,
+    "deaths": 988,
+    "recovered": 4144
+  },
   "Armenia": {
     "date": "2020-7-22",
     "confirmed": 35254,
     "deaths": 662,
     "recovered": 24206
-  },
-  "Honduras": {
-    "date": "2020-7-22",
-    "confirmed": 34611,
-    "deaths": 935,
-    "recovered": 3905
   },
   "Switzerland": {
     "date": "2020-7-22",
@@ -419,6 +419,12 @@
     "deaths": 611,
     "recovered": 12462
   },
+  "Australia": {
+    "date": "2020-7-22",
+    "confirmed": 12894,
+    "deaths": 128,
+    "recovered": 8545
+  },
   "Venezuela": {
     "date": "2020-7-22",
     "confirmed": 12774,
@@ -430,12 +436,6 @@
     "confirmed": 12582,
     "deaths": 352,
     "recovered": 6965
-  },
-  "Australia": {
-    "date": "2020-7-22",
-    "confirmed": 12444,
-    "deaths": 126,
-    "recovered": 8545
   },
   "Costa Rica": {
     "date": "2020-7-22",
