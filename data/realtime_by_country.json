@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-7-22",
-    "confirmed": 3941741,
-    "deaths": 142756,
-    "recovered": 1182018
+    "confirmed": 3955860,
+    "deaths": 142942,
+    "recovered": 1210849
   },
   "Brazil": {
     "date": "2020-7-22",
@@ -29,17 +29,17 @@
     "deaths": 5940,
     "recovered": 229175
   },
+  "Peru": {
+    "date": "2020-7-22",
+    "confirmed": 366550,
+    "deaths": 13767,
+    "recovered": 248746
+  },
   "Mexico": {
     "date": "2020-7-22",
     "confirmed": 362274,
     "deaths": 41190,
     "recovered": 272636
-  },
-  "Peru": {
-    "date": "2020-7-22",
-    "confirmed": 362087,
-    "deaths": 13579,
-    "recovered": 248746
   },
   "Chile": {
     "date": "2020-7-22",
@@ -51,7 +51,7 @@
     "date": "2020-7-22",
     "confirmed": 297952,
     "deaths": 45586,
-    "recovered": 1414
+    "recovered": 1416
   },
   "Iran": {
     "date": "2020-7-22",
@@ -121,7 +121,7 @@
   },
   "Canada": {
     "date": "2020-7-22",
-    "confirmed": 113785,
+    "confirmed": 113790,
     "deaths": 8913,
     "recovered": 99501
   },
@@ -145,9 +145,9 @@
   },
   "Egypt": {
     "date": "2020-7-22",
-    "confirmed": 89078,
-    "deaths": 4399,
-    "recovered": 29473
+    "confirmed": 89745,
+    "deaths": 4440,
+    "recovered": 30075
   },
   "China": {
     "date": "2020-7-22",
@@ -265,9 +265,9 @@
   },
   "Guatemala": {
     "date": "2020-7-22",
-    "confirmed": 40229,
-    "deaths": 1531,
-    "recovered": 26685
+    "confirmed": 41135,
+    "deaths": 1573,
+    "recovered": 27756
   },
   "Romania": {
     "date": "2020-7-22",
@@ -277,9 +277,9 @@
   },
   "Nigeria": {
     "date": "2020-7-22",
-    "confirmed": 37801,
-    "deaths": 805,
-    "recovered": 15677
+    "confirmed": 38344,
+    "deaths": 813,
+    "recovered": 15815
   },
   "Bahrain": {
     "date": "2020-7-22",
@@ -455,6 +455,12 @@
     "deaths": 693,
     "recovered": 5707
   },
+  "Bulgaria": {
+    "date": "2020-7-22",
+    "confirmed": 9584,
+    "deaths": 321,
+    "recovered": 4643
+  },
   "North Macedonia": {
     "date": "2020-7-22",
     "confirmed": 9547,
@@ -466,12 +472,6 @@
     "confirmed": 9398,
     "deaths": 66,
     "recovered": 1950
-  },
-  "Bulgaria": {
-    "date": "2020-7-22",
-    "confirmed": 9254,
-    "deaths": 313,
-    "recovered": 4521
   },
   "Senegal": {
     "date": "2020-7-22",
