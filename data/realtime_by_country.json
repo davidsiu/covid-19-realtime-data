@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-22",
-    "confirmed": 3931359,
-    "deaths": 142459,
+    "confirmed": 3935211,
+    "deaths": 142595,
     "recovered": 1182018
   },
   "Brazil": {
@@ -29,17 +29,17 @@
     "deaths": 5368,
     "recovered": 208144
   },
+  "Mexico": {
+    "date": "2020-7-22",
+    "confirmed": 362274,
+    "deaths": 41190,
+    "recovered": 272636
+  },
   "Peru": {
     "date": "2020-7-22",
     "confirmed": 362087,
     "deaths": 13579,
     "recovered": 248746
-  },
-  "Mexico": {
-    "date": "2020-7-22",
-    "confirmed": 356255,
-    "deaths": 40400,
-    "recovered": 267407
   },
   "Chile": {
     "date": "2020-7-22",
@@ -121,9 +121,9 @@
   },
   "Canada": {
     "date": "2020-7-22",
-    "confirmed": 113696,
+    "confirmed": 113705,
     "deaths": 8912,
-    "recovered": 99429
+    "recovered": 99431
   },
   "Qatar": {
     "date": "2020-7-22",
@@ -439,9 +439,9 @@
   },
   "Costa Rica": {
     "date": "2020-7-22",
-    "confirmed": 11811,
-    "deaths": 68,
-    "recovered": 3194
+    "confirmed": 12361,
+    "deaths": 71,
+    "recovered": 3322
   },
   "Ethiopia": {
     "date": "2020-7-22",
@@ -464,8 +464,8 @@
   "West Bank and Gaza": {
     "date": "2020-7-22",
     "confirmed": 9398,
-    "deaths": 64,
-    "recovered": 1932
+    "deaths": 65,
+    "recovered": 1950
   },
   "Bulgaria": {
     "date": "2020-7-22",
@@ -863,6 +863,12 @@
     "deaths": 75,
     "recovered": 805
   },
+  "Angola": {
+    "date": "2020-7-22",
+    "confirmed": 812,
+    "deaths": 33,
+    "recovered": 221
+  },
   "Jamaica": {
     "date": "2020-7-22",
     "confirmed": 810,
@@ -874,12 +880,6 @@
     "confirmed": 790,
     "deaths": 15,
     "recovered": 560
-  },
-  "Angola": {
-    "date": "2020-7-22",
-    "confirmed": 779,
-    "deaths": 30,
-    "recovered": 221
   },
   "Sao Tome and Principe": {
     "date": "2020-7-22",
