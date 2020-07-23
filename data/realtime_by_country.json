@@ -110,8 +110,8 @@
   "Germany": {
     "date": "2020-7-23",
     "confirmed": 204480,
-    "deaths": 9102,
-    "recovered": 188628
+    "deaths": 9108,
+    "recovered": 189068
   },
   "Argentina": {
     "date": "2020-7-23",
@@ -253,7 +253,7 @@
   },
   "Singapore": {
     "date": "2020-7-23",
-    "confirmed": 48744,
+    "confirmed": 49098,
     "deaths": 27,
     "recovered": 44795
   },
@@ -287,6 +287,12 @@
     "deaths": 130,
     "recovered": 33894
   },
+  "Armenia": {
+    "date": "2020-7-23",
+    "confirmed": 36162,
+    "deaths": 688,
+    "recovered": 25244
+  },
   "Honduras": {
     "date": "2020-7-23",
     "confirmed": 36102,
@@ -298,12 +304,6 @@
     "confirmed": 35915,
     "deaths": 1211,
     "recovered": 24538
-  },
-  "Armenia": {
-    "date": "2020-7-23",
-    "confirmed": 35693,
-    "deaths": 678,
-    "recovered": 24766
   },
   "Switzerland": {
     "date": "2020-7-23",
@@ -331,7 +331,7 @@
   },
   "Japan": {
     "date": "2020-7-23",
-    "confirmed": 27139,
+    "confirmed": 27144,
     "deaths": 990,
     "recovered": 20482
   },
@@ -577,9 +577,9 @@
   },
   "Hungary": {
     "date": "2020-7-23",
-    "confirmed": 4366,
+    "confirmed": 4380,
     "deaths": 596,
-    "recovered": 3283
+    "recovered": 3300
   },
   "Albania": {
     "date": "2020-7-23",
@@ -719,17 +719,17 @@
     "deaths": 115,
     "recovered": 1648
   },
+  "Lithuania": {
+    "date": "2020-7-23",
+    "confirmed": 1960,
+    "deaths": 80,
+    "recovered": 1611
+  },
   "Guinea-Bissau": {
     "date": "2020-7-23",
     "confirmed": 1954,
     "deaths": 26,
     "recovered": 803
-  },
-  "Lithuania": {
-    "date": "2020-7-23",
-    "confirmed": 1951,
-    "deaths": 80,
-    "recovered": 1607
   },
   "Eswatini": {
     "date": "2020-7-23",
@@ -827,17 +827,17 @@
     "deaths": 70,
     "recovered": 592
   },
+  "Georgia": {
+    "date": "2020-7-23",
+    "confirmed": 1085,
+    "deaths": 16,
+    "recovered": 911
+  },
   "Uganda": {
     "date": "2020-7-23",
     "confirmed": 1075,
     "deaths": 0,
     "recovered": 958
-  },
-  "Georgia": {
-    "date": "2020-7-23",
-    "confirmed": 1073,
-    "deaths": 16,
-    "recovered": 907
   },
   "Burkina Faso": {
     "date": "2020-7-23",
