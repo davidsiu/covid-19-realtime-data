@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-23",
-    "confirmed": 3969850,
-    "deaths": 143184,
+    "confirmed": 3970901,
+    "deaths": 143187,
     "recovered": 1210849
   },
   "Brazil": {
@@ -13,9 +13,9 @@
   },
   "India": {
     "date": "2020-7-23",
-    "confirmed": 1193078,
-    "deaths": 28732,
-    "recovered": 753050
+    "confirmed": 1238798,
+    "deaths": 29861,
+    "recovered": 782607
   },
   "Russia": {
     "date": "2020-7-23",
@@ -59,17 +59,17 @@
     "deaths": 14853,
     "recovered": 244840
   },
+  "Pakistan": {
+    "date": "2020-7-23",
+    "confirmed": 269191,
+    "deaths": 5709,
+    "recovered": 213175
+  },
   "Spain": {
     "date": "2020-7-23",
     "confirmed": 267551,
     "deaths": 28426,
     "recovered": 150376
-  },
-  "Pakistan": {
-    "date": "2020-7-23",
-    "confirmed": 267428,
-    "deaths": 5677,
-    "recovered": 210468
   },
   "Saudi Arabia": {
     "date": "2020-7-23",
@@ -749,6 +749,12 @@
     "deaths": 66,
     "recovered": 1288
   },
+  "Benin": {
+    "date": "2020-7-23",
+    "confirmed": 1690,
+    "deaths": 34,
+    "recovered": 782
+  },
   "Rwanda": {
     "date": "2020-7-23",
     "confirmed": 1689,
@@ -760,12 +766,6 @@
     "confirmed": 1640,
     "deaths": 458,
     "recovered": 751
-  },
-  "Benin": {
-    "date": "2020-7-23",
-    "confirmed": 1602,
-    "deaths": 31,
-    "recovered": 782
   },
   "Mozambique": {
     "date": "2020-7-23",
@@ -975,7 +975,7 @@
     "date": "2020-7-23",
     "confirmed": 287,
     "deaths": 0,
-    "recovered": 213
+    "recovered": 214
   },
   "Eritrea": {
     "date": "2020-7-23",
