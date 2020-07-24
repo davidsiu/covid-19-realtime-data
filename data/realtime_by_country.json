@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-24",
-    "confirmed": 4034057,
-    "deaths": 144223,
+    "confirmed": 4034831,
+    "deaths": 144242,
     "recovered": 1233269
   },
   "Brazil": {
@@ -39,7 +39,7 @@
     "date": "2020-7-24",
     "confirmed": 370712,
     "deaths": 41908,
-    "recovered": 277867
+    "recovered": 275454
   },
   "Chile": {
     "date": "2020-7-24",
@@ -121,9 +121,9 @@
   },
   "Canada": {
     "date": "2020-7-24",
-    "confirmed": 114375,
+    "confirmed": 114398,
     "deaths": 8919,
-    "recovered": 99897
+    "recovered": 99937
   },
   "Qatar": {
     "date": "2020-7-24",
@@ -151,9 +151,9 @@
   },
   "China": {
     "date": "2020-7-24",
-    "confirmed": 86026,
+    "confirmed": 86032,
     "deaths": 4649,
-    "recovered": 80279
+    "recovered": 80301
   },
   "Sweden": {
     "date": "2020-7-24",
@@ -235,9 +235,9 @@
   },
   "Panama": {
     "date": "2020-7-24",
-    "confirmed": 55906,
-    "deaths": 1180,
-    "recovered": 31122
+    "confirmed": 56817,
+    "deaths": 1209,
+    "recovered": 31828
   },
   "Netherlands": {
     "date": "2020-7-24",
@@ -413,6 +413,12 @@
     "deaths": 297,
     "recovered": 12758
   },
+  "Venezuela": {
+    "date": "2020-7-24",
+    "confirmed": 13613,
+    "deaths": 129,
+    "recovered": 7752
+  },
   "Denmark": {
     "date": "2020-7-24",
     "confirmed": 13594,
@@ -427,20 +433,14 @@
   },
   "Australia": {
     "date": "2020-7-24",
-    "confirmed": 13306,
+    "confirmed": 13315,
     "deaths": 133,
     "recovered": 8775
-  },
-  "Venezuela": {
-    "date": "2020-7-24",
-    "confirmed": 13164,
-    "deaths": 124,
-    "recovered": 7471
   },
   "Costa Rica": {
     "date": "2020-7-24",
     "confirmed": 13129,
-    "deaths": 81,
+    "deaths": 80,
     "recovered": 3448
   },
   "Ethiopia": {
@@ -775,9 +775,9 @@
   },
   "New Zealand": {
     "date": "2020-7-24",
-    "confirmed": 1555,
+    "confirmed": 1556,
     "deaths": 22,
-    "recovered": 1511
+    "recovered": 1513
   },
   "Namibia": {
     "date": "2020-7-24",
@@ -877,15 +877,15 @@
   },
   "Jamaica": {
     "date": "2020-7-24",
-    "confirmed": 816,
+    "confirmed": 821,
     "deaths": 10,
-    "recovered": 710
+    "recovered": 711
   },
   "Sao Tome and Principe": {
     "date": "2020-7-24",
-    "confirmed": 747,
+    "confirmed": 749,
     "deaths": 14,
-    "recovered": 601
+    "recovered": 604
   },
   "Diamond Princess": {
     "date": "2020-7-24",
@@ -905,17 +905,17 @@
     "deaths": 9,
     "recovered": 665
   },
+  "Botswana": {
+    "date": "2020-7-24",
+    "confirmed": 592,
+    "deaths": 1,
+    "recovered": 48
+  },
   "Syria": {
     "date": "2020-7-24",
     "confirmed": 584,
     "deaths": 35,
     "recovered": 174
-  },
-  "Botswana": {
-    "date": "2020-7-24",
-    "confirmed": 522,
-    "deaths": 1,
-    "recovered": 48
   },
   "Tanzania": {
     "date": "2020-7-24",
