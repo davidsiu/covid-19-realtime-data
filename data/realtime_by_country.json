@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-24",
-    "confirmed": 4084551,
-    "deaths": 144954,
+    "confirmed": 4091062,
+    "deaths": 145063,
     "recovered": 1233269
   },
   "Brazil": {
@@ -155,6 +155,12 @@
     "deaths": 4650,
     "recovered": 80325
   },
+  "Ecuador": {
+    "date": "2020-7-24",
+    "confirmed": 79049,
+    "deaths": 5468,
+    "recovered": 34544
+  },
   "Sweden": {
     "date": "2020-7-24",
     "confirmed": 78997,
@@ -166,12 +172,6 @@
     "confirmed": 78486,
     "deaths": 585,
     "recovered": 49488
-  },
-  "Ecuador": {
-    "date": "2020-7-24",
-    "confirmed": 78148,
-    "deaths": 5439,
-    "recovered": 33455
   },
   "Philippines": {
     "date": "2020-7-24",
@@ -527,17 +527,17 @@
     "deaths": 58,
     "recovered": 5851
   },
+  "Gabon": {
+    "date": "2020-7-24",
+    "confirmed": 6984,
+    "deaths": 49,
+    "recovered": 4463
+  },
   "Guinea": {
     "date": "2020-7-24",
     "confirmed": 6867,
     "deaths": 42,
     "recovered": 6063
-  },
-  "Gabon": {
-    "date": "2020-7-24",
-    "confirmed": 6588,
-    "deaths": 47,
-    "recovered": 4235
   },
   "Kosovo": {
     "date": "2020-7-24",
@@ -571,9 +571,9 @@
   },
   "Central African Republic": {
     "date": "2020-7-24",
-    "confirmed": 4590,
-    "deaths": 58,
-    "recovered": 1452
+    "confirmed": 4593,
+    "deaths": 59,
+    "recovered": 1483
   },
   "Albania": {
     "date": "2020-7-24",
@@ -751,9 +751,9 @@
   },
   "Rwanda": {
     "date": "2020-7-24",
-    "confirmed": 1710,
+    "confirmed": 1729,
     "deaths": 5,
-    "recovered": 889
+    "recovered": 900
   },
   "Benin": {
     "date": "2020-7-24",
@@ -989,17 +989,17 @@
     "deaths": 0,
     "recovered": 189
   },
+  "Gambia": {
+    "date": "2020-7-24",
+    "confirmed": 216,
+    "deaths": 6,
+    "recovered": 60
+  },
   "Cambodia": {
     "date": "2020-7-24",
     "confirmed": 202,
     "deaths": 0,
     "recovered": 142
-  },
-  "Gambia": {
-    "date": "2020-7-24",
-    "confirmed": 170,
-    "deaths": 5,
-    "recovered": 58
   },
   "Trinidad and Tobago": {
     "date": "2020-7-24",
