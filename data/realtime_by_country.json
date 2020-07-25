@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-25",
-    "confirmed": 4111950,
-    "deaths": 145539,
+    "confirmed": 4112531,
+    "deaths": 145546,
     "recovered": 1261624
   },
   "Brazil": {
@@ -13,9 +13,9 @@
   },
   "India": {
     "date": "2020-7-25",
-    "confirmed": 1288108,
-    "deaths": 30601,
-    "recovered": 817209
+    "confirmed": 1337024,
+    "deaths": 31358,
+    "recovered": 849432
   },
   "Russia": {
     "date": "2020-7-25",
@@ -67,9 +67,9 @@
   },
   "Pakistan": {
     "date": "2020-7-25",
-    "confirmed": 270400,
-    "deaths": 5763,
-    "recovered": 219783
+    "confirmed": 271887,
+    "deaths": 5787,
+    "recovered": 236596
   },
   "Saudi Arabia": {
     "date": "2020-7-25",
@@ -85,9 +85,9 @@
   },
   "Colombia": {
     "date": "2020-7-25",
-    "confirmed": 226373,
-    "deaths": 7688,
-    "recovered": 107951
+    "confirmed": 233541,
+    "deaths": 7975,
+    "recovered": 113864
   },
   "Turkey": {
     "date": "2020-7-25",
@@ -155,6 +155,12 @@
     "deaths": 4650,
     "recovered": 80341
   },
+  "Kazakhstan": {
+    "date": "2020-7-25",
+    "confirmed": 80226,
+    "deaths": 585,
+    "recovered": 51260
+  },
   "Ecuador": {
     "date": "2020-7-25",
     "confirmed": 79049,
@@ -166,12 +172,6 @@
     "confirmed": 78997,
     "deaths": 5697,
     "recovered": null
-  },
-  "Kazakhstan": {
-    "date": "2020-7-25",
-    "confirmed": 78486,
-    "deaths": 585,
-    "recovered": 49488
   },
   "Philippines": {
     "date": "2020-7-25",
@@ -421,9 +421,9 @@
   },
   "Australia": {
     "date": "2020-7-25",
-    "confirmed": 13948,
+    "confirmed": 13950,
     "deaths": 145,
-    "recovered": 8929
+    "recovered": 8938
   },
   "El Salvador": {
     "date": "2020-7-25",
@@ -1035,7 +1035,7 @@
     "date": "2020-7-25",
     "confirmed": 92,
     "deaths": 0,
-    "recovered": 83
+    "recovered": 85
   },
   "Liechtenstein": {
     "date": "2020-7-25",
@@ -1057,9 +1057,9 @@
   },
   "Belize": {
     "date": "2020-7-25",
-    "confirmed": 47,
+    "confirmed": 48,
     "deaths": 2,
-    "recovered": 25
+    "recovered": 26
   },
   "Papua New Guinea": {
     "date": "2020-7-25",
