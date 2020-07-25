@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-7-25",
-    "confirmed": 4106247,
+    "confirmed": 4106346,
     "deaths": 145333,
     "recovered": 1261624
   },
@@ -33,7 +33,7 @@
     "date": "2020-7-25",
     "confirmed": 378285,
     "deaths": 42645,
-    "recovered": 282290
+    "recovered": 283382
   },
   "Peru": {
     "date": "2020-7-25",
@@ -151,9 +151,9 @@
   },
   "China": {
     "date": "2020-7-25",
-    "confirmed": 86178,
+    "confirmed": 86202,
     "deaths": 4650,
-    "recovered": 80326
+    "recovered": 80341
   },
   "Ecuador": {
     "date": "2020-7-25",
@@ -331,7 +331,7 @@
   },
   "Japan": {
     "date": "2020-7-25",
-    "confirmed": 28874,
+    "confirmed": 28880,
     "deaths": 994,
     "recovered": 21173
   },
@@ -407,11 +407,17 @@
     "deaths": 369,
     "recovered": 9422
   },
+  "Venezuela": {
+    "date": "2020-7-25",
+    "confirmed": 14263,
+    "deaths": 134,
+    "recovered": 8127
+  },
   "Korea, South": {
     "date": "2020-7-25",
-    "confirmed": 13979,
+    "confirmed": 14092,
     "deaths": 298,
-    "recovered": 12817
+    "recovered": 12866
   },
   "El Salvador": {
     "date": "2020-7-25",
@@ -431,15 +437,9 @@
     "deaths": 613,
     "recovered": 12541
   },
-  "Venezuela": {
-    "date": "2020-7-25",
-    "confirmed": 13613,
-    "deaths": 129,
-    "recovered": 7752
-  },
   "Australia": {
     "date": "2020-7-25",
-    "confirmed": 13595,
+    "confirmed": 13609,
     "deaths": 140,
     "recovered": 8929
   },
@@ -883,7 +883,7 @@
   },
   "Jamaica": {
     "date": "2020-7-25",
-    "confirmed": 821,
+    "confirmed": 831,
     "deaths": 10,
     "recovered": 711
   },
@@ -925,7 +925,7 @@
   },
   "Taiwan*": {
     "date": "2020-7-25",
-    "confirmed": 455,
+    "confirmed": 458,
     "deaths": 7,
     "recovered": 440
   },
