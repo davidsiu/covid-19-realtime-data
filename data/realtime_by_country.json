@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-7-26",
-    "confirmed": 4176416,
-    "deaths": 146418,
+    "confirmed": 4176716,
+    "deaths": 146420,
     "recovered": 1279414
   },
   "Brazil": {
     "date": "2020-7-26",
     "confirmed": 2394513,
     "deaths": 86449,
-    "recovered": 1751922
+    "recovered": 1785359
   },
   "India": {
     "date": "2020-7-26",
@@ -33,7 +33,7 @@
     "date": "2020-7-26",
     "confirmed": 385036,
     "deaths": 42645,
-    "recovered": 290133
+    "recovered": 288819
   },
   "Peru": {
     "date": "2020-7-26",
@@ -151,9 +151,9 @@
   },
   "China": {
     "date": "2020-7-26",
-    "confirmed": 86335,
-    "deaths": 4651,
-    "recovered": 80389
+    "confirmed": 86380,
+    "deaths": 4652,
+    "recovered": 80408
   },
   "Kazakhstan": {
     "date": "2020-7-26",
@@ -413,6 +413,12 @@
     "deaths": 98,
     "recovered": 3640
   },
+  "Australia": {
+    "date": "2020-7-26",
+    "confirmed": 14401,
+    "deaths": 155,
+    "recovered": 9017
+  },
   "Venezuela": {
     "date": "2020-7-26",
     "confirmed": 14263,
@@ -427,15 +433,9 @@
   },
   "Korea, South": {
     "date": "2020-7-26",
-    "confirmed": 14092,
+    "confirmed": 14150,
     "deaths": 298,
-    "recovered": 12866
-  },
-  "Australia": {
-    "date": "2020-7-26",
-    "confirmed": 13950,
-    "deaths": 145,
-    "recovered": 9017
+    "recovered": 12890
   },
   "Denmark": {
     "date": "2020-7-26",
@@ -883,7 +883,7 @@
   },
   "Jamaica": {
     "date": "2020-7-26",
-    "confirmed": 831,
+    "confirmed": 837,
     "deaths": 10,
     "recovered": 711
   },
@@ -941,6 +941,12 @@
     "deaths": 0,
     "recovered": 365
   },
+  "Burundi": {
+    "date": "2020-7-26",
+    "confirmed": 361,
+    "deaths": 1,
+    "recovered": 279
+  },
   "Guyana": {
     "date": "2020-7-26",
     "confirmed": 360,
@@ -952,12 +958,6 @@
     "confirmed": 348,
     "deaths": 6,
     "recovered": 288
-  },
-  "Burundi": {
-    "date": "2020-7-26",
-    "confirmed": 345,
-    "deaths": 1,
-    "recovered": 270
   },
   "Mauritius": {
     "date": "2020-7-26",
@@ -1019,17 +1019,17 @@
     "deaths": 4,
     "recovered": 104
   },
+  "Seychelles": {
+    "date": "2020-7-26",
+    "confirmed": 114,
+    "deaths": 0,
+    "recovered": 39
+  },
   "Barbados": {
     "date": "2020-7-26",
     "confirmed": 108,
     "deaths": 7,
     "recovered": 94
-  },
-  "Seychelles": {
-    "date": "2020-7-26",
-    "confirmed": 108,
-    "deaths": 0,
-    "recovered": 27
   },
   "Bhutan": {
     "date": "2020-7-26",
