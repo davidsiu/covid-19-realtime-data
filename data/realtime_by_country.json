@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-27",
-    "confirmed": 4259667,
-    "deaths": 147103,
+    "confirmed": 4262674,
+    "deaths": 147143,
     "recovered": 1297863
   },
   "Brazil": {
@@ -89,17 +89,17 @@
     "deaths": 35112,
     "recovered": 198593
   },
+  "Turkey": {
+    "date": "2020-7-27",
+    "confirmed": 227019,
+    "deaths": 5630,
+    "recovered": 210469
+  },
   "Bangladesh": {
     "date": "2020-7-27",
     "confirmed": 226225,
     "deaths": 2965,
     "recovered": 125683
-  },
-  "Turkey": {
-    "date": "2020-7-27",
-    "confirmed": 226100,
-    "deaths": 5613,
-    "recovered": 209487
   },
   "France": {
     "date": "2020-7-27",
@@ -365,17 +365,17 @@
     "deaths": 119,
     "recovered": 11245
   },
+  "Morocco": {
+    "date": "2020-7-27",
+    "confirmed": 20887,
+    "deaths": 316,
+    "recovered": 16553
+  },
   "Austria": {
     "date": "2020-7-27",
     "confirmed": 20558,
     "deaths": 713,
     "recovered": 18246
-  },
-  "Morocco": {
-    "date": "2020-7-27",
-    "confirmed": 20278,
-    "deaths": 313,
-    "recovered": 16438
   },
   "Nepal": {
     "date": "2020-7-27",
@@ -625,9 +625,9 @@
   },
   "Maldives": {
     "date": "2020-7-27",
-    "confirmed": 3302,
+    "confirmed": 3369,
     "deaths": 15,
-    "recovered": 2528
+    "recovered": 2547
   },
   "Thailand": {
     "date": "2020-7-27",
@@ -653,9 +653,15 @@
     "deaths": 51,
     "recovered": 756
   },
+  "Libya": {
+    "date": "2020-7-27",
+    "confirmed": 2827,
+    "deaths": 64,
+    "recovered": 577
+  },
   "Sri Lanka": {
     "date": "2020-7-27",
-    "confirmed": 2804,
+    "confirmed": 2805,
     "deaths": 11,
     "recovered": 2121
   },
@@ -664,12 +670,6 @@
     "confirmed": 2799,
     "deaths": 43,
     "recovered": 739
-  },
-  "Libya": {
-    "date": "2020-7-27",
-    "confirmed": 2669,
-    "deaths": 60,
-    "recovered": 553
   },
   "Mali": {
     "date": "2020-7-27",
