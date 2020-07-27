@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-27",
-    "confirmed": 4275346,
-    "deaths": 147285,
+    "confirmed": 4276856,
+    "deaths": 147303,
     "recovered": 1297863
   },
   "Brazil": {
@@ -25,9 +25,9 @@
   },
   "South Africa": {
     "date": "2020-7-27",
-    "confirmed": 445433,
-    "deaths": 6769,
-    "recovered": 265077
+    "confirmed": 452529,
+    "deaths": 7067,
+    "recovered": 274925
   },
   "Mexico": {
     "date": "2020-7-27",
@@ -121,9 +121,9 @@
   },
   "Canada": {
     "date": "2020-7-27",
-    "confirmed": 116082,
+    "confirmed": 116085,
     "deaths": 8935,
-    "recovered": 101127
+    "recovered": 101131
   },
   "Iraq": {
     "date": "2020-7-27",
@@ -145,9 +145,9 @@
   },
   "Egypt": {
     "date": "2020-7-27",
-    "confirmed": 92062,
-    "deaths": 4606,
-    "recovered": 33831
+    "confirmed": 92482,
+    "deaths": 4652,
+    "recovered": 34838
   },
   "China": {
     "date": "2020-7-27",
@@ -223,9 +223,9 @@
   },
   "Israel": {
     "date": "2020-7-27",
-    "confirmed": 63581,
+    "confirmed": 63985,
     "deaths": 474,
-    "recovered": 27125
+    "recovered": 27133
   },
   "Panama": {
     "date": "2020-7-27",
@@ -281,17 +281,17 @@
     "deaths": 858,
     "recovered": 17374
   },
+  "Bahrain": {
+    "date": "2020-7-27",
+    "confirmed": 39482,
+    "deaths": 141,
+    "recovered": 36110
+  },
   "Honduras": {
     "date": "2020-7-27",
     "confirmed": 39276,
     "deaths": 1116,
     "recovered": 4922
-  },
-  "Bahrain": {
-    "date": "2020-7-27",
-    "confirmed": 39131,
-    "deaths": 141,
-    "recovered": 35689
   },
   "Armenia": {
     "date": "2020-7-27",
@@ -403,9 +403,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-7-27",
-    "confirmed": 15596,
+    "confirmed": 15655,
     "deaths": 96,
-    "recovered": 10178
+    "recovered": 10361
   },
   "Venezuela": {
     "date": "2020-7-27",
@@ -458,7 +458,7 @@
   "West Bank and Gaza": {
     "date": "2020-7-27",
     "confirmed": 10621,
-    "deaths": 77,
+    "deaths": 78,
     "recovered": 3752
   },
   "Bosnia and Herzegovina": {
@@ -737,6 +737,12 @@
     "deaths": 26,
     "recovered": 803
   },
+  "Rwanda": {
+    "date": "2020-7-27",
+    "confirmed": 1879,
+    "deaths": 5,
+    "recovered": 975
+  },
   "Iceland": {
     "date": "2020-7-27",
     "confirmed": 1854,
@@ -748,12 +754,6 @@
     "confirmed": 1843,
     "deaths": 8,
     "recovered": 101
-  },
-  "Rwanda": {
-    "date": "2020-7-27",
-    "confirmed": 1821,
-    "deaths": 5,
-    "recovered": 918
   },
   "Sierra Leone": {
     "date": "2020-7-27",
@@ -977,17 +977,17 @@
     "deaths": 11,
     "recovered": 91
   },
+  "Gambia": {
+    "date": "2020-7-27",
+    "confirmed": 326,
+    "deaths": 8,
+    "recovered": 66
+  },
   "Mongolia": {
     "date": "2020-7-27",
     "confirmed": 288,
     "deaths": 0,
     "recovered": 218
-  },
-  "Gambia": {
-    "date": "2020-7-27",
-    "confirmed": 277,
-    "deaths": 6,
-    "recovered": 60
   },
   "Eritrea": {
     "date": "2020-7-27",
