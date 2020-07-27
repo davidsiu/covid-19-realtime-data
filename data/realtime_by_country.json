@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-7-27",
-    "confirmed": 4276856,
-    "deaths": 147303,
-    "recovered": 1297863
+    "confirmed": 4282140,
+    "deaths": 147791,
+    "recovered": 1325804
   },
   "Brazil": {
     "date": "2020-7-27",
@@ -49,9 +49,9 @@
   },
   "United Kingdom": {
     "date": "2020-7-27",
-    "confirmed": 301705,
+    "confirmed": 301706,
     "deaths": 45844,
-    "recovered": 1434
+    "recovered": 1436
   },
   "Iran": {
     "date": "2020-7-27",
@@ -121,9 +121,9 @@
   },
   "Canada": {
     "date": "2020-7-27",
-    "confirmed": 116085,
-    "deaths": 8935,
-    "recovered": 101131
+    "confirmed": 116390,
+    "deaths": 8943,
+    "recovered": 101338
   },
   "Iraq": {
     "date": "2020-7-27",
@@ -265,9 +265,9 @@
   },
   "Guatemala": {
     "date": "2020-7-27",
-    "confirmed": 45053,
-    "deaths": 1734,
-    "recovered": 31612
+    "confirmed": 45309,
+    "deaths": 1761,
+    "recovered": 32455
   },
   "Poland": {
     "date": "2020-7-27",
@@ -455,6 +455,12 @@
     "deaths": 717,
     "recovered": 5890
   },
+  "Bulgaria": {
+    "date": "2020-7-27",
+    "confirmed": 10621,
+    "deaths": 347,
+    "recovered": 5585
+  },
   "West Bank and Gaza": {
     "date": "2020-7-27",
     "confirmed": 10621,
@@ -466,12 +472,6 @@
     "confirmed": 10498,
     "deaths": 294,
     "recovered": 4930
-  },
-  "Bulgaria": {
-    "date": "2020-7-27",
-    "confirmed": 10427,
-    "deaths": 340,
-    "recovered": 5355
   },
   "North Macedonia": {
     "date": "2020-7-27",
@@ -559,9 +559,9 @@
   },
   "Djibouti": {
     "date": "2020-7-27",
-    "confirmed": 5050,
+    "confirmed": 5059,
     "deaths": 58,
-    "recovered": 4966
+    "recovered": 4977
   },
   "Croatia": {
     "date": "2020-7-27",
@@ -853,8 +853,8 @@
   },
   "Angola": {
     "date": "2020-7-27",
-    "confirmed": 932,
-    "deaths": 40,
+    "confirmed": 950,
+    "deaths": 41,
     "recovered": 242
   },
   "Chad": {
