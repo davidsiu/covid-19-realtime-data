@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-29",
-    "confirmed": 4375217,
-    "deaths": 149684,
+    "confirmed": 4380871,
+    "deaths": 149783,
     "recovered": 1355363
   },
   "Brazil": {
@@ -43,9 +43,9 @@
   },
   "Chile": {
     "date": "2020-7-29",
-    "confirmed": 349800,
-    "deaths": 9240,
-    "recovered": 322332
+    "confirmed": 351575,
+    "deaths": 9278,
+    "recovered": 324557
   },
   "United Kingdom": {
     "date": "2020-7-29",
@@ -61,8 +61,8 @@
   },
   "Spain": {
     "date": "2020-7-29",
-    "confirmed": 280610,
-    "deaths": 28436,
+    "confirmed": 282641,
+    "deaths": 28441,
     "recovered": 150376
   },
   "Pakistan": {
@@ -97,9 +97,9 @@
   },
   "Turkey": {
     "date": "2020-7-29",
-    "confirmed": 227982,
-    "deaths": 5645,
-    "recovered": 211561
+    "confirmed": 228924,
+    "deaths": 5659,
+    "recovered": 212557
   },
   "France": {
     "date": "2020-7-29",
@@ -109,9 +109,9 @@
   },
   "Germany": {
     "date": "2020-7-29",
-    "confirmed": 208160,
-    "deaths": 9133,
-    "recovered": 191241
+    "confirmed": 208546,
+    "deaths": 9135,
+    "recovered": 191248
   },
   "Argentina": {
     "date": "2020-7-29",
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2020-7-29",
-    "confirmed": 116908,
+    "confirmed": 117098,
     "deaths": 8957,
-    "recovered": 101686
+    "recovered": 101795
   },
   "Qatar": {
     "date": "2020-7-29",
@@ -253,9 +253,9 @@
   },
   "Portugal": {
     "date": "2020-7-29",
-    "confirmed": 50410,
-    "deaths": 1722,
-    "recovered": 35626
+    "confirmed": 50613,
+    "deaths": 1725,
+    "recovered": 35875
   },
   "Romania": {
     "date": "2020-7-29",
@@ -325,7 +325,7 @@
   },
   "Japan": {
     "date": "2020-7-29",
-    "confirmed": 33351,
+    "confirmed": 33362,
     "deaths": 1001,
     "recovered": 23351
   },
@@ -337,9 +337,9 @@
   },
   "Algeria": {
     "date": "2020-7-29",
-    "confirmed": 28615,
-    "deaths": 1174,
-    "recovered": 19233
+    "confirmed": 29229,
+    "deaths": 1186,
+    "recovered": 19592
   },
   "Ireland": {
     "date": "2020-7-29",
@@ -407,17 +407,23 @@
     "deaths": 125,
     "recovered": 3920
   },
+  "Czechia": {
+    "date": "2020-7-29",
+    "confirmed": 15986,
+    "deaths": 374,
+    "recovered": 11428
+  },
   "El Salvador": {
     "date": "2020-7-29",
     "confirmed": 15841,
     "deaths": 430,
     "recovered": 8071
   },
-  "Czechia": {
+  "Ethiopia": {
     "date": "2020-7-29",
-    "confirmed": 15827,
-    "deaths": 374,
-    "recovered": 11428
+    "confirmed": 15810,
+    "deaths": 253,
+    "recovered": 6685
   },
   "Cote d'Ivoire": {
     "date": "2020-7-29",
@@ -430,12 +436,6 @@
     "confirmed": 15583,
     "deaths": 176,
     "recovered": 9619
-  },
-  "Ethiopia": {
-    "date": "2020-7-29",
-    "confirmed": 15200,
-    "deaths": 239,
-    "recovered": 6526
   },
   "Korea, South": {
     "date": "2020-7-29",
@@ -473,17 +473,17 @@
     "deaths": 355,
     "recovered": 5766
   },
+  "North Macedonia": {
+    "date": "2020-7-29",
+    "confirmed": 10503,
+    "deaths": 476,
+    "recovered": 5931
+  },
   "Madagascar": {
     "date": "2020-7-29",
     "confirmed": 10317,
     "deaths": 99,
     "recovered": 7117
-  },
-  "North Macedonia": {
-    "date": "2020-7-29",
-    "confirmed": 10315,
-    "deaths": 471,
-    "recovered": 5663
   },
   "Senegal": {
     "date": "2020-7-29",
@@ -547,9 +547,9 @@
   },
   "Luxembourg": {
     "date": "2020-7-29",
-    "confirmed": 6375,
-    "deaths": 113,
-    "recovered": 4855
+    "confirmed": 6533,
+    "deaths": 114,
+    "recovered": 4959
   },
   "Mauritania": {
     "date": "2020-7-29",
@@ -601,7 +601,7 @@
   },
   "Greece": {
     "date": "2020-7-29",
-    "confirmed": 4279,
+    "confirmed": 4336,
     "deaths": 203,
     "recovered": 1374
   },
@@ -769,9 +769,9 @@
   },
   "Mozambique": {
     "date": "2020-7-29",
-    "confirmed": 1720,
+    "confirmed": 1748,
     "deaths": 11,
-    "recovered": 602
+    "recovered": 616
   },
   "Yemen": {
     "date": "2020-7-29",
@@ -793,9 +793,9 @@
   },
   "Tunisia": {
     "date": "2020-7-29",
-    "confirmed": 1468,
+    "confirmed": 1488,
     "deaths": 50,
-    "recovered": 1168
+    "recovered": 1178
   },
   "Latvia": {
     "date": "2020-7-29",
@@ -1039,9 +1039,9 @@
   },
   "Liechtenstein": {
     "date": "2020-7-29",
-    "confirmed": 87,
+    "confirmed": 88,
     "deaths": 1,
-    "recovered": 81
+    "recovered": 85
   },
   "Antigua and Barbuda": {
     "date": "2020-7-29",
