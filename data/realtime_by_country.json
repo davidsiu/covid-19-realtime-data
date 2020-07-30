@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-30",
-    "confirmed": 4423917,
-    "deaths": 150649,
+    "confirmed": 4424806,
+    "deaths": 150676,
     "recovered": 1389425
   },
   "Brazil": {
@@ -31,9 +31,9 @@
   },
   "Mexico": {
     "date": "2020-7-30",
-    "confirmed": 402697,
-    "deaths": 44876,
-    "recovered": 308142
+    "confirmed": 408449,
+    "deaths": 45361,
+    "recovered": 314538
   },
   "Peru": {
     "date": "2020-7-30",
@@ -151,9 +151,9 @@
   },
   "China": {
     "date": "2020-7-30",
-    "confirmed": 87114,
+    "confirmed": 87117,
     "deaths": 4658,
-    "recovered": 80522
+    "recovered": 80591
   },
   "Kazakhstan": {
     "date": "2020-7-30",
@@ -407,6 +407,12 @@
     "deaths": 151,
     "recovered": 10195
   },
+  "Australia": {
+    "date": "2020-7-30",
+    "confirmed": 16298,
+    "deaths": 189,
+    "recovered": 9619
+  },
   "Czechia": {
     "date": "2020-7-30",
     "confirmed": 16093,
@@ -430,12 +436,6 @@
     "confirmed": 15810,
     "deaths": 253,
     "recovered": 6685
-  },
-  "Australia": {
-    "date": "2020-7-30",
-    "confirmed": 15586,
-    "deaths": 176,
-    "recovered": 9619
   },
   "Korea, South": {
     "date": "2020-7-30",
@@ -939,7 +939,7 @@
     "date": "2020-7-30",
     "confirmed": 467,
     "deaths": 7,
-    "recovered": 441
+    "recovered": 440
   },
   "Vietnam": {
     "date": "2020-7-30",
