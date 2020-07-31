@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-31",
-    "confirmed": 4487987,
-    "deaths": 151834,
+    "confirmed": 4494252,
+    "deaths": 152055,
     "recovered": 1414155
   },
   "Brazil": {
@@ -31,9 +31,9 @@
   },
   "Mexico": {
     "date": "2020-7-31",
-    "confirmed": 408449,
-    "deaths": 45361,
-    "recovered": 314538
+    "confirmed": 416179,
+    "deaths": 46000,
+    "recovered": 320100
   },
   "Peru": {
     "date": "2020-7-31",
@@ -157,9 +157,9 @@
   },
   "China": {
     "date": "2020-7-31",
-    "confirmed": 87363,
+    "confirmed": 87486,
     "deaths": 4659,
-    "recovered": 80663
+    "recovered": 80679
   },
   "Philippines": {
     "date": "2020-7-31",
@@ -389,6 +389,12 @@
     "deaths": 52,
     "recovered": 14248
   },
+  "Venezuela": {
+    "date": "2020-7-31",
+    "confirmed": 17859,
+    "deaths": 158,
+    "recovered": 10421
+  },
   "Costa Rica": {
     "date": "2020-7-31",
     "confirmed": 17290,
@@ -401,11 +407,11 @@
     "deaths": 391,
     "recovered": 15320
   },
-  "Venezuela": {
+  "Australia": {
     "date": "2020-7-31",
-    "confirmed": 17158,
-    "deaths": 154,
-    "recovered": 10421
+    "confirmed": 16903,
+    "deaths": 196,
+    "recovered": 9759
   },
   "Ethiopia": {
     "date": "2020-7-31",
@@ -418,12 +424,6 @@
     "confirmed": 16371,
     "deaths": 379,
     "recovered": 11482
-  },
-  "Australia": {
-    "date": "2020-7-31",
-    "confirmed": 16304,
-    "deaths": 190,
-    "recovered": 9759
   },
   "El Salvador": {
     "date": "2020-7-31",
@@ -629,17 +629,17 @@
     "deaths": 116,
     "recovered": 2492
   },
+  "Libya": {
+    "date": "2020-7-31",
+    "confirmed": 3438,
+    "deaths": 73,
+    "recovered": 604
+  },
   "Thailand": {
     "date": "2020-7-31",
     "confirmed": 3304,
     "deaths": 58,
     "recovered": 3111
-  },
-  "Libya": {
-    "date": "2020-7-31",
-    "confirmed": 3222,
-    "deaths": 76,
-    "recovered": 596
   },
   "Somalia": {
     "date": "2020-7-31",
