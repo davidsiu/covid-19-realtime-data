@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-7-31",
-    "confirmed": 4493661,
-    "deaths": 152040,
+    "confirmed": 4494966,
+    "deaths": 152062,
     "recovered": 1414155
   },
   "Brazil": {
@@ -39,7 +39,7 @@
     "date": "2020-7-31",
     "confirmed": 400683,
     "deaths": 18816,
-    "recovered": 280044
+    "recovered": 283915
   },
   "Chile": {
     "date": "2020-7-31",
@@ -203,6 +203,12 @@
     "deaths": 500,
     "recovered": 43489
   },
+  "Belgium": {
+    "date": "2020-7-31",
+    "confirmed": 68006,
+    "deaths": 9840,
+    "recovered": 17513
+  },
   "Dominican Republic": {
     "date": "2020-7-31",
     "confirmed": 67915,
@@ -214,12 +220,6 @@
     "confirmed": 67665,
     "deaths": 553,
     "recovered": 61765
-  },
-  "Belgium": {
-    "date": "2020-7-31",
-    "confirmed": 67335,
-    "deaths": 9836,
-    "recovered": 17492
   },
   "Kuwait": {
     "date": "2020-7-31",
@@ -283,9 +283,9 @@
   },
   "Honduras": {
     "date": "2020-7-31",
-    "confirmed": 40944,
-    "deaths": 1259,
-    "recovered": 5281
+    "confirmed": 41426,
+    "deaths": 1312,
+    "recovered": 5443
   },
   "Bahrain": {
     "date": "2020-7-31",
@@ -325,7 +325,7 @@
   },
   "Japan": {
     "date": "2020-7-31",
-    "confirmed": 34663,
+    "confirmed": 34671,
     "deaths": 1007,
     "recovered": 24024
   },
