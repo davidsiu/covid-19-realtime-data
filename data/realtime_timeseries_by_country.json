@@ -10419,12 +10419,6 @@
       "confirmed": 17280,
       "deaths": 201,
       "recovered": 9983
-    },
-    {
-      "date": "2020-8-2",
-      "confirmed": 17294,
-      "deaths": 201,
-      "recovered": 10204
     }
   ],
   "Austria": [
@@ -22011,6 +22005,12 @@
     {
       "date": "2020-7-31",
       "confirmed": 101,
+      "deaths": 0,
+      "recovered": 89
+    },
+    {
+      "date": "2020-8-2",
+      "confirmed": 102,
       "deaths": 0,
       "recovered": 89
     }
@@ -77609,6 +77609,12 @@
       "confirmed": 7424,
       "deaths": 161,
       "recovered": 4606
+    },
+    {
+      "date": "2020-8-2",
+      "confirmed": 7468,
+      "deaths": 165,
+      "recovered": 4606
     }
   ],
   "Holy See": [
@@ -83397,6 +83403,12 @@
       "confirmed": 1695988,
       "deaths": 36511,
       "recovered": 1094374
+    },
+    {
+      "date": "2020-8-2",
+      "confirmed": 1750723,
+      "deaths": 37364,
+      "recovered": 1145629
     }
   ],
   "Indonesia": [
@@ -92674,7 +92686,7 @@
     },
     {
       "date": "2020-8-2",
-      "confirmed": 37780,
+      "confirmed": 37804,
       "deaths": 1012,
       "recovered": 25347
     }
@@ -118165,6 +118177,12 @@
     {
       "date": "2020-7-31",
       "confirmed": 291,
+      "deaths": 0,
+      "recovered": 230
+    },
+    {
+      "date": "2020-8-2",
+      "confirmed": 293,
       "deaths": 0,
       "recovered": 230
     }
@@ -181886,8 +181904,8 @@
     },
     {
       "date": "2020-8-2",
-      "confirmed": 4620419,
-      "deaths": 154361,
+      "confirmed": 4620444,
+      "deaths": 154447,
       "recovered": 1461885
     }
   ],

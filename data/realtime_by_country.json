@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-2",
-    "confirmed": 4620419,
-    "deaths": 154361,
+    "confirmed": 4620444,
+    "deaths": 154447,
     "recovered": 1461885
   },
   "Brazil": {
@@ -13,9 +13,9 @@
   },
   "India": {
     "date": "2020-8-2",
-    "confirmed": 1695988,
-    "deaths": 36511,
-    "recovered": 1094374
+    "confirmed": 1750723,
+    "deaths": 37364,
+    "recovered": 1145629
   },
   "Russia": {
     "date": "2020-8-2",
@@ -301,7 +301,7 @@
   },
   "Japan": {
     "date": "2020-8-2",
-    "confirmed": 37780,
+    "confirmed": 37804,
     "deaths": 1012,
     "recovered": 25347
   },
@@ -409,7 +409,7 @@
   },
   "Australia": {
     "date": "2020-8-2",
-    "confirmed": 17294,
+    "confirmed": 17269,
     "deaths": 201,
     "recovered": 10204
   },
@@ -521,6 +521,12 @@
     "deaths": 50,
     "recovered": 5223
   },
+  "Haiti": {
+    "date": "2020-8-2",
+    "confirmed": 7468,
+    "deaths": 165,
+    "recovered": 4606
+  },
   "Tajikistan": {
     "date": "2020-8-2",
     "confirmed": 7451,
@@ -532,12 +538,6 @@
     "confirmed": 7443,
     "deaths": 329,
     "recovered": 6950
-  },
-  "Haiti": {
-    "date": "2020-8-2",
-    "confirmed": 7424,
-    "deaths": 161,
-    "recovered": 4606
   },
   "Guinea": {
     "date": "2020-8-2",
@@ -985,7 +985,7 @@
   },
   "Mongolia": {
     "date": "2020-8-2",
-    "confirmed": 291,
+    "confirmed": 293,
     "deaths": 0,
     "recovered": 230
   },
@@ -1033,7 +1033,7 @@
   },
   "Bhutan": {
     "date": "2020-8-2",
-    "confirmed": 101,
+    "confirmed": 102,
     "deaths": 0,
     "recovered": 89
   },
