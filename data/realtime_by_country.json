@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-2",
-    "confirmed": 4639005,
-    "deaths": 154619,
+    "confirmed": 4646691,
+    "deaths": 154701,
     "recovered": 1461885
   },
   "Brazil": {
@@ -37,9 +37,9 @@
   },
   "Chile": {
     "date": "2020-8-2",
-    "confirmed": 357658,
-    "deaths": 9533,
-    "recovered": 330507
+    "confirmed": 359731,
+    "deaths": 9608,
+    "recovered": 332411
   },
   "Peru": {
     "date": "2020-8-2",
@@ -97,9 +97,9 @@
   },
   "Turkey": {
     "date": "2020-8-2",
-    "confirmed": 231869,
-    "deaths": 5710,
-    "recovered": 215516
+    "confirmed": 232856,
+    "deaths": 5728,
+    "recovered": 216494
   },
   "France": {
     "date": "2020-8-2",
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2020-8-2",
-    "confirmed": 118566,
+    "confirmed": 118568,
     "deaths": 8986,
-    "recovered": 103073
+    "recovered": 103158
   },
   "Indonesia": {
     "date": "2020-8-2",
@@ -199,9 +199,9 @@
   },
   "Israel": {
     "date": "2020-8-2",
-    "confirmed": 72315,
-    "deaths": 531,
-    "recovered": 45631
+    "confirmed": 72584,
+    "deaths": 536,
+    "recovered": 45662
   },
   "Dominican Republic": {
     "date": "2020-8-2",
@@ -241,9 +241,9 @@
   },
   "Netherlands": {
     "date": "2020-8-2",
-    "confirmed": 55023,
+    "confirmed": 55024,
     "deaths": 6167,
-    "recovered": 200
+    "recovered": 206
   },
   "Romania": {
     "date": "2020-8-2",
@@ -349,9 +349,15 @@
   },
   "Ireland": {
     "date": "2020-8-2",
-    "confirmed": 26109,
+    "confirmed": 26162,
     "deaths": 1763,
     "recovered": 23364
+  },
+  "Morocco": {
+    "date": "2020-8-2",
+    "confirmed": 25537,
+    "deaths": 382,
+    "recovered": 18435
   },
   "Moldova": {
     "date": "2020-8-2",
@@ -364,12 +370,6 @@
     "confirmed": 25336,
     "deaths": 151,
     "recovered": 15833
-  },
-  "Morocco": {
-    "date": "2020-8-2",
-    "confirmed": 25015,
-    "deaths": 367,
-    "recovered": 17960
   },
   "Kenya": {
     "date": "2020-8-2",
@@ -395,17 +395,17 @@
     "deaths": 169,
     "recovered": 11129
   },
+  "Ethiopia": {
+    "date": "2020-8-2",
+    "confirmed": 18706,
+    "deaths": 310,
+    "recovered": 7601
+  },
   "Costa Rica": {
     "date": "2020-8-2",
     "confirmed": 18187,
     "deaths": 154,
     "recovered": 4531
-  },
-  "Ethiopia": {
-    "date": "2020-8-2",
-    "confirmed": 17999,
-    "deaths": 284,
-    "recovered": 7195
   },
   "Australia": {
     "date": "2020-8-2",
@@ -433,9 +433,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-8-2",
-    "confirmed": 16109,
+    "confirmed": 16182,
     "deaths": 102,
-    "recovered": 11750
+    "recovered": 11801
   },
   "Korea, South": {
     "date": "2020-8-2",
@@ -447,7 +447,7 @@
     "date": "2020-8-2",
     "confirmed": 14028,
     "deaths": 615,
-    "recovered": 12780
+    "recovered": 12783
   },
   "West Bank and Gaza": {
     "date": "2020-8-2",
@@ -587,17 +587,17 @@
     "deaths": 59,
     "recovered": 5019
   },
+  "Lebanon": {
+    "date": "2020-8-2",
+    "confirmed": 4885,
+    "deaths": 62,
+    "recovered": 1795
+  },
   "Equatorial Guinea": {
     "date": "2020-8-2",
     "confirmed": 4821,
     "deaths": 83,
     "recovered": 2182
-  },
-  "Lebanon": {
-    "date": "2020-8-2",
-    "confirmed": 4730,
-    "deaths": 61,
-    "recovered": 1761
   },
   "Greece": {
     "date": "2020-8-2",
@@ -619,15 +619,15 @@
   },
   "Malawi": {
     "date": "2020-8-2",
-    "confirmed": 4186,
-    "deaths": 120,
-    "recovered": 1914
+    "confirmed": 4231,
+    "deaths": 123,
+    "recovered": 1919
   },
   "Maldives": {
     "date": "2020-8-2",
-    "confirmed": 3949,
-    "deaths": 17,
-    "recovered": 2613
+    "confirmed": 4164,
+    "deaths": 18,
+    "recovered": 2643
   },
   "Libya": {
     "date": "2020-8-2",
@@ -763,9 +763,9 @@
   },
   "Sierra Leone": {
     "date": "2020-8-2",
-    "confirmed": 1823,
+    "confirmed": 1843,
     "deaths": 67,
-    "recovered": 1362
+    "recovered": 1375
   },
   "Benin": {
     "date": "2020-8-2",
@@ -853,7 +853,7 @@
   },
   "Niger": {
     "date": "2020-8-2",
-    "confirmed": 1136,
+    "confirmed": 1138,
     "deaths": 69,
     "recovered": 1028
   },
