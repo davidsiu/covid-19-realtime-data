@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-8-3",
-    "confirmed": 4665932,
+    "confirmed": 4666027,
     "deaths": 154841,
     "recovered": 1468689
   },
@@ -47,6 +47,12 @@
     "deaths": 9608,
     "recovered": 332411
   },
+  "Colombia": {
+    "date": "2020-8-3",
+    "confirmed": 317651,
+    "deaths": 10650,
+    "recovered": 167239
+  },
   "Iran": {
     "date": "2020-8-3",
     "confirmed": 309437,
@@ -55,15 +61,9 @@
   },
   "United Kingdom": {
     "date": "2020-8-3",
-    "confirmed": 306317,
+    "confirmed": 306319,
     "deaths": 46286,
     "recovered": 1444
-  },
-  "Colombia": {
-    "date": "2020-8-3",
-    "confirmed": 306181,
-    "deaths": 10330,
-    "recovered": 160708
   },
   "Spain": {
     "date": "2020-8-3",
@@ -157,14 +157,14 @@
   },
   "Kazakhstan": {
     "date": "2020-8-3",
-    "confirmed": 91593,
+    "confirmed": 92662,
     "deaths": 793,
     "recovered": 61839
   },
   "China": {
     "date": "2020-8-3",
     "confirmed": 87976,
-    "deaths": 4668,
+    "deaths": 4669,
     "recovered": 81015
   },
   "Ecuador": {
@@ -179,17 +179,17 @@
     "deaths": 5743,
     "recovered": null
   },
+  "Bolivia": {
+    "date": "2020-8-3",
+    "confirmed": 80153,
+    "deaths": 3153,
+    "recovered": 24156
+  },
   "Oman": {
     "date": "2020-8-3",
     "confirmed": 79159,
     "deaths": 421,
     "recovered": 61421
-  },
-  "Bolivia": {
-    "date": "2020-8-3",
-    "confirmed": 78793,
-    "deaths": 3064,
-    "recovered": 23968
   },
   "Ukraine": {
     "date": "2020-8-3",
@@ -211,9 +211,9 @@
   },
   "Belgium": {
     "date": "2020-8-3",
-    "confirmed": 69402,
+    "confirmed": 69849,
     "deaths": 9845,
-    "recovered": 17573
+    "recovered": 17590
   },
   "Belarus": {
     "date": "2020-8-3",
@@ -283,9 +283,9 @@
   },
   "Honduras": {
     "date": "2020-8-3",
-    "confirmed": 42685,
-    "deaths": 1368,
-    "recovered": 5694
+    "confirmed": 43197,
+    "deaths": 1377,
+    "recovered": 5794
   },
   "Bahrain": {
     "date": "2020-8-3",
@@ -439,9 +439,9 @@
   },
   "Korea, South": {
     "date": "2020-8-3",
-    "confirmed": 14366,
+    "confirmed": 14389,
     "deaths": 301,
-    "recovered": 13259
+    "recovered": 13280
   },
   "Denmark": {
     "date": "2020-8-3",
@@ -877,8 +877,8 @@
   },
   "Jamaica": {
     "date": "2020-8-3",
-    "confirmed": 883,
-    "deaths": 10,
+    "confirmed": 894,
+    "deaths": 12,
     "recovered": 743
   },
   "Sao Tome and Principe": {
