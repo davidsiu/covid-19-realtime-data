@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-8-4",
-    "confirmed": 4713500,
+    "confirmed": 4713540,
     "deaths": 155402,
     "recovered": 1513446
   },
@@ -13,9 +13,9 @@
   },
   "India": {
     "date": "2020-8-4",
-    "confirmed": 1803695,
-    "deaths": 38135,
-    "recovered": 1186203
+    "confirmed": 1855745,
+    "deaths": 38938,
+    "recovered": 1230509
   },
   "Russia": {
     "date": "2020-8-4",
@@ -37,8 +37,8 @@
   },
   "Peru": {
     "date": "2020-8-4",
-    "confirmed": 428850,
-    "deaths": 19614,
+    "confirmed": 433100,
+    "deaths": 19811,
     "recovered": 298091
   },
   "Chile": {
@@ -71,17 +71,17 @@
     "deaths": 28472,
     "recovered": 150376
   },
+  "Pakistan": {
+    "date": "2020-8-4",
+    "confirmed": 280461,
+    "deaths": 5999,
+    "recovered": 249397
+  },
   "Saudi Arabia": {
     "date": "2020-8-4",
     "confirmed": 280093,
     "deaths": 2949,
     "recovered": 242055
-  },
-  "Pakistan": {
-    "date": "2020-8-4",
-    "confirmed": 280029,
-    "deaths": 5984,
-    "recovered": 248873
   },
   "Italy": {
     "date": "2020-8-4",
@@ -157,9 +157,9 @@
   },
   "Kazakhstan": {
     "date": "2020-8-4",
-    "confirmed": 92662,
+    "confirmed": 93820,
     "deaths": 793,
-    "recovered": 62511
+    "recovered": 65132
   },
   "China": {
     "date": "2020-8-4",
@@ -295,7 +295,7 @@
   },
   "Japan": {
     "date": "2020-8-4",
-    "confirmed": 40073,
+    "confirmed": 40099,
     "deaths": 1018,
     "recovered": 26476
   },
@@ -947,17 +947,17 @@
     "deaths": 9,
     "recovered": 68
   },
-  "Taiwan*": {
-    "date": "2020-8-4",
-    "confirmed": 475,
-    "deaths": 7,
-    "recovered": 441
-  },
   "Guyana": {
     "date": "2020-8-4",
     "confirmed": 474,
     "deaths": 21,
     "recovered": 185
+  },
+  "Taiwan*": {
+    "date": "2020-8-4",
+    "confirmed": 474,
+    "deaths": 7,
+    "recovered": 441
   },
   "Burundi": {
     "date": "2020-8-4",
@@ -1041,7 +1041,7 @@
     "date": "2020-8-4",
     "confirmed": 103,
     "deaths": 0,
-    "recovered": 89
+    "recovered": 90
   },
   "Antigua and Barbuda": {
     "date": "2020-8-4",
