@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-5",
-    "confirmed": 4789383,
-    "deaths": 157266,
+    "confirmed": 4793950,
+    "deaths": 157416,
     "recovered": 1528979
   },
   "Brazil": {
@@ -145,9 +145,9 @@
   },
   "Qatar": {
     "date": "2020-8-5",
-    "confirmed": 111538,
-    "deaths": 177,
-    "recovered": 108254
+    "confirmed": 111805,
+    "deaths": 178,
+    "recovered": 108539
   },
   "Kazakhstan": {
     "date": "2020-8-5",
@@ -575,6 +575,12 @@
     "deaths": 59,
     "recovered": 4645
   },
+  "Lebanon": {
+    "date": "2020-8-5",
+    "confirmed": 5417,
+    "deaths": 68,
+    "recovered": 1880
+  },
   "Croatia": {
     "date": "2020-8-5",
     "confirmed": 5376,
@@ -586,12 +592,6 @@
     "confirmed": 5330,
     "deaths": 59,
     "recovered": 5057
-  },
-  "Lebanon": {
-    "date": "2020-8-5",
-    "confirmed": 5271,
-    "deaths": 65,
-    "recovered": 1837
   },
   "Greece": {
     "date": "2020-8-5",
@@ -611,23 +611,23 @@
     "deaths": 59,
     "recovered": 1640
   },
+  "Maldives": {
+    "date": "2020-8-5",
+    "confirmed": 4594,
+    "deaths": 19,
+    "recovered": 2703
+  },
   "Hungary": {
     "date": "2020-8-5",
     "confirmed": 4564,
     "deaths": 599,
     "recovered": 3431
   },
-  "Maldives": {
-    "date": "2020-8-5",
-    "confirmed": 4446,
-    "deaths": 19,
-    "recovered": 2693
-  },
   "Malawi": {
     "date": "2020-8-5",
-    "confirmed": 4361,
-    "deaths": 128,
-    "recovered": 2047
+    "confirmed": 4426,
+    "deaths": 136,
+    "recovered": 2078
   },
   "Libya": {
     "date": "2020-8-5",
@@ -673,13 +673,13 @@
   },
   "Eswatini": {
     "date": "2020-8-5",
-    "confirmed": 2856,
-    "deaths": 49,
-    "recovered": 1258
+    "confirmed": 2909,
+    "deaths": 53,
+    "recovered": 1385
   },
   "Sri Lanka": {
     "date": "2020-8-5",
-    "confirmed": 2838,
+    "confirmed": 2839,
     "deaths": 11,
     "recovered": 2537
   },
@@ -697,9 +697,9 @@
   },
   "Mali": {
     "date": "2020-8-5",
-    "confirmed": 2543,
+    "confirmed": 2546,
     "deaths": 124,
-    "recovered": 1946
+    "recovered": 1950
   },
   "Namibia": {
     "date": "2020-8-5",
@@ -775,9 +775,9 @@
   },
   "Sierra Leone": {
     "date": "2020-8-5",
-    "confirmed": 1855,
+    "confirmed": 1860,
     "deaths": 67,
-    "recovered": 1397
+    "recovered": 1401
   },
   "Yemen": {
     "date": "2020-8-5",
@@ -1077,7 +1077,7 @@
     "date": "2020-8-5",
     "confirmed": 25,
     "deaths": 0,
-    "recovered": 22
+    "recovered": 24
   },
   "Timor-Leste": {
     "date": "2020-8-5",
