@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-7",
-    "confirmed": 4917050,
-    "deaths": 160702,
+    "confirmed": 4918927,
+    "deaths": 160737,
     "recovered": 1598624
   },
   "Brazil": {
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2020-8-7",
-    "confirmed": 120684,
-    "deaths": 9013,
-    "recovered": 104918
+    "confirmed": 120706,
+    "deaths": 9014,
+    "recovered": 104975
   },
   "Qatar": {
     "date": "2020-8-7",
@@ -331,9 +331,9 @@
   },
   "Algeria": {
     "date": "2020-8-7",
-    "confirmed": 33626,
-    "deaths": 1273,
-    "recovered": 23238
+    "confirmed": 34155,
+    "deaths": 1282,
+    "recovered": 23667
   },
   "Azerbaijan": {
     "date": "2020-8-7",
@@ -389,6 +389,12 @@
     "deaths": 70,
     "recovered": 15814
   },
+  "Costa Rica": {
+    "date": "2020-8-7",
+    "confirmed": 22081,
+    "deaths": 218,
+    "recovered": 7261
+  },
   "Austria": {
     "date": "2020-8-7",
     "confirmed": 21837,
@@ -400,12 +406,6 @@
     "confirmed": 21452,
     "deaths": 380,
     "recovered": 9415
-  },
-  "Costa Rica": {
-    "date": "2020-8-7",
-    "confirmed": 21070,
-    "deaths": 200,
-    "recovered": 7038
   },
   "Australia": {
     "date": "2020-8-7",
@@ -493,8 +493,8 @@
   },
   "Kosovo": {
     "date": "2020-8-7",
-    "confirmed": 9688,
-    "deaths": 300,
+    "confirmed": 9869,
+    "deaths": 303,
     "recovered": 5480
   },
   "Norway": {
@@ -517,9 +517,9 @@
   },
   "Gabon": {
     "date": "2020-8-7",
-    "confirmed": 7787,
+    "confirmed": 7923,
     "deaths": 51,
-    "recovered": 5609
+    "recovered": 5704
   },
   "Tajikistan": {
     "date": "2020-8-7",
@@ -613,21 +613,21 @@
   },
   "Maldives": {
     "date": "2020-8-7",
-    "confirmed": 4680,
+    "confirmed": 4769,
     "deaths": 19,
-    "recovered": 2725
+    "recovered": 2754
+  },
+  "Central African Republic": {
+    "date": "2020-8-7",
+    "confirmed": 4622,
+    "deaths": 59,
+    "recovered": 1672
   },
   "Hungary": {
     "date": "2020-8-7",
     "confirmed": 4621,
     "deaths": 602,
     "recovered": 3464
-  },
-  "Central African Republic": {
-    "date": "2020-8-7",
-    "confirmed": 4620,
-    "deaths": 59,
-    "recovered": 1641
   },
   "Malawi": {
     "date": "2020-8-7",
@@ -863,17 +863,17 @@
     "deaths": 19,
     "recovered": 146
   },
-  "Togo": {
-    "date": "2020-8-7",
-    "confirmed": 1012,
-    "deaths": 22,
-    "recovered": 697
-  },
   "Syria": {
     "date": "2020-8-7",
-    "confirmed": 999,
+    "confirmed": 1060,
     "deaths": 48,
     "recovered": 311
+  },
+  "Togo": {
+    "date": "2020-8-7",
+    "confirmed": 1028,
+    "deaths": 22,
+    "recovered": 710
   },
   "Malta": {
     "date": "2020-8-7",
