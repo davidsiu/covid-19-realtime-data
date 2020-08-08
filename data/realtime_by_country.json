@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-8",
-    "confirmed": 4942747,
-    "deaths": 161367,
+    "confirmed": 4945795,
+    "deaths": 161456,
     "recovered": 1623870
   },
   "Brazil": {
@@ -69,13 +69,13 @@
     "date": "2020-8-8",
     "confirmed": 310703,
     "deaths": 46596,
-    "recovered": 1447
+    "recovered": 1448
   },
   "Saudi Arabia": {
     "date": "2020-8-8",
-    "confirmed": 285793,
-    "deaths": 3093,
-    "recovered": 248948
+    "confirmed": 287262,
+    "deaths": 3130,
+    "recovered": 250440
   },
   "Pakistan": {
     "date": "2020-8-8",
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-8-8",
-    "confirmed": 216325,
+    "confirmed": 216357,
     "deaths": 9201,
     "recovered": 196520
   },
@@ -223,9 +223,9 @@
   },
   "Kuwait": {
     "date": "2020-8-8",
-    "confirmed": 70727,
-    "deaths": 471,
-    "recovered": 62330
+    "confirmed": 71199,
+    "deaths": 474,
+    "recovered": 62806
   },
   "Belarus": {
     "date": "2020-8-8",
@@ -277,9 +277,9 @@
   },
   "Japan": {
     "date": "2020-8-8",
-    "confirmed": 47325,
+    "confirmed": 47328,
     "deaths": 1042,
-    "recovered": 30246
+    "recovered": 31248
   },
   "Honduras": {
     "date": "2020-8-8",
@@ -355,8 +355,8 @@
   },
   "Serbia": {
     "date": "2020-8-8",
-    "confirmed": 27608,
-    "deaths": 626,
+    "confirmed": 27863,
+    "deaths": 632,
     "recovered": null
   },
   "Moldova": {
@@ -469,9 +469,9 @@
   },
   "Madagascar": {
     "date": "2020-8-8",
-    "confirmed": 12708,
-    "deaths": 135,
-    "recovered": 10412
+    "confirmed": 12922,
+    "deaths": 141,
+    "recovered": 10604
   },
   "Sudan": {
     "date": "2020-8-8",
@@ -955,7 +955,7 @@
   },
   "Taiwan*": {
     "date": "2020-8-8",
-    "confirmed": 477,
+    "confirmed": 479,
     "deaths": 7,
     "recovered": 441
   },
@@ -1013,6 +1013,12 @@
     "deaths": 3,
     "recovered": 53
   },
+  "Belize": {
+    "date": "2020-8-8",
+    "confirmed": 146,
+    "deaths": 2,
+    "recovered": 32
+  },
   "Brunei": {
     "date": "2020-8-8",
     "confirmed": 142,
@@ -1036,12 +1042,6 @@
     "confirmed": 126,
     "deaths": 0,
     "recovered": 125
-  },
-  "Belize": {
-    "date": "2020-8-8",
-    "confirmed": 114,
-    "deaths": 2,
-    "recovered": 32
   },
   "Bhutan": {
     "date": "2020-8-8",
