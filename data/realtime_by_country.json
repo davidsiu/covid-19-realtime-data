@@ -179,17 +179,17 @@
     "deaths": 4686,
     "recovered": 82125
   },
+  "Ukraine": {
+    "date": "2020-8-10",
+    "confirmed": 83775,
+    "deaths": 1950,
+    "recovered": 45722
+  },
   "Israel": {
     "date": "2020-8-10",
     "confirmed": 83002,
     "deaths": 600,
     "recovered": 57533
-  },
-  "Ukraine": {
-    "date": "2020-8-10",
-    "confirmed": 82767,
-    "deaths": 1925,
-    "recovered": 45335
   },
   "Sweden": {
     "date": "2020-8-10",
@@ -277,7 +277,7 @@
   },
   "Japan": {
     "date": "2020-8-10",
-    "confirmed": 48782,
+    "confirmed": 49000,
     "deaths": 1047,
     "recovered": 32867
   },
@@ -417,7 +417,7 @@
     "date": "2020-8-10",
     "confirmed": 20423,
     "deaths": 549,
-    "recovered": 9626
+    "recovered": 9652
   },
   "Czechia": {
     "date": "2020-8-10",
@@ -827,6 +827,12 @@
     "deaths": 11,
     "recovered": 1187
   },
+  "Georgia": {
+    "date": "2020-8-10",
+    "confirmed": 1250,
+    "deaths": 17,
+    "recovered": 1010
+  },
   "Cyprus": {
     "date": "2020-8-10",
     "confirmed": 1242,
@@ -844,12 +850,6 @@
     "confirmed": 1235,
     "deaths": 23,
     "recovered": 221
-  },
-  "Georgia": {
-    "date": "2020-8-10",
-    "confirmed": 1225,
-    "deaths": 17,
-    "recovered": 1000
   },
   "Syria": {
     "date": "2020-8-10",
