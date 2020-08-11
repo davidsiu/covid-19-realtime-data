@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-11",
-    "confirmed": 5085821,
-    "deaths": 163370,
+    "confirmed": 5088516,
+    "deaths": 163400,
     "recovered": 1670755
   },
   "Brazil": {
@@ -67,9 +67,9 @@
   },
   "United Kingdom": {
     "date": "2020-8-11",
-    "confirmed": 313390,
+    "confirmed": 313392,
     "deaths": 46611,
-    "recovered": 1451
+    "recovered": 1463
   },
   "Saudi Arabia": {
     "date": "2020-8-11",
@@ -177,7 +177,7 @@
     "date": "2020-8-11",
     "confirmed": 88862,
     "deaths": 4689,
-    "recovered": 82125
+    "recovered": 82195
   },
   "Israel": {
     "date": "2020-8-11",
@@ -247,7 +247,7 @@
   },
   "Netherlands": {
     "date": "2020-8-11",
-    "confirmed": 59991,
+    "confirmed": 60058,
     "deaths": 6178,
     "recovered": 237
   },
@@ -409,9 +409,9 @@
   },
   "Australia": {
     "date": "2020-8-11",
-    "confirmed": 21728,
+    "confirmed": 21750,
     "deaths": 332,
-    "recovered": 12141
+    "recovered": 12144
   },
   "El Salvador": {
     "date": "2020-8-11",
@@ -713,6 +713,12 @@
     "deaths": 125,
     "recovered": 1969
   },
+  "Suriname": {
+    "date": "2020-8-11",
+    "confirmed": 2489,
+    "deaths": 30,
+    "recovered": 1674
+  },
   "South Sudan": {
     "date": "2020-8-11",
     "confirmed": 2470,
@@ -724,12 +730,6 @@
     "confirmed": 2411,
     "deaths": 16,
     "recovered": 860
-  },
-  "Suriname": {
-    "date": "2020-8-11",
-    "confirmed": 2391,
-    "deaths": 29,
-    "recovered": 1635
   },
   "Lithuania": {
     "date": "2020-8-11",
@@ -881,6 +881,12 @@
     "deaths": 25,
     "recovered": 729
   },
+  "Botswana": {
+    "date": "2020-8-11",
+    "confirmed": 1066,
+    "deaths": 2,
+    "recovered": 80
+  },
   "Jamaica": {
     "date": "2020-8-11",
     "confirmed": 1023,
@@ -893,17 +899,17 @@
     "deaths": 52,
     "recovered": 839
   },
+  "Bahamas": {
+    "date": "2020-8-11",
+    "confirmed": 945,
+    "deaths": 15,
+    "recovered": 113
+  },
   "Chad": {
     "date": "2020-8-11",
     "confirmed": 945,
     "deaths": 76,
     "recovered": 843
-  },
-  "Bahamas": {
-    "date": "2020-8-11",
-    "confirmed": 898,
-    "deaths": 15,
-    "recovered": 104
   },
   "Sao Tome and Principe": {
     "date": "2020-8-11",
@@ -917,16 +923,10 @@
     "deaths": 15,
     "recovered": 399
   },
-  "Botswana": {
-    "date": "2020-8-11",
-    "confirmed": 804,
-    "deaths": 2,
-    "recovered": 63
-  },
   "Lesotho": {
     "date": "2020-8-11",
-    "confirmed": 742,
-    "deaths": 23,
+    "confirmed": 781,
+    "deaths": 24,
     "recovered": 175
   },
   "Diamond Princess": {
@@ -955,9 +955,9 @@
   },
   "Taiwan*": {
     "date": "2020-8-11",
-    "confirmed": 477,
+    "confirmed": 480,
     "deaths": 7,
-    "recovered": 441
+    "recovered": 443
   },
   "Burundi": {
     "date": "2020-8-11",
