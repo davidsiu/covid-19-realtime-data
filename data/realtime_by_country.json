@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-13",
-    "confirmed": 5204792,
-    "deaths": 166148,
+    "confirmed": 5215958,
+    "deaths": 166361,
     "recovered": 1755225
   },
   "Brazil": {
@@ -53,17 +53,17 @@
     "deaths": 10205,
     "recovered": 351419
   },
+  "Spain": {
+    "date": "2020-8-13",
+    "confirmed": 337334,
+    "deaths": 28605,
+    "recovered": 150376
+  },
   "Iran": {
     "date": "2020-8-13",
     "confirmed": 336324,
     "deaths": 19162,
     "recovered": 292058
-  },
-  "Spain": {
-    "date": "2020-8-13",
-    "confirmed": 329784,
-    "deaths": 28579,
-    "recovered": 150376
   },
   "United Kingdom": {
     "date": "2020-8-13",
@@ -97,9 +97,9 @@
   },
   "Italy": {
     "date": "2020-8-13",
-    "confirmed": 251713,
-    "deaths": 35225,
-    "recovered": 202697
+    "confirmed": 252235,
+    "deaths": 35231,
+    "recovered": 202923
   },
   "Turkey": {
     "date": "2020-8-13",
@@ -117,7 +117,7 @@
     "date": "2020-8-13",
     "confirmed": 221658,
     "deaths": 9217,
-    "recovered": 199550
+    "recovered": 199570
   },
   "Iraq": {
     "date": "2020-8-13",
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2020-8-13",
-    "confirmed": 122812,
+    "confirmed": 122825,
     "deaths": 9053,
-    "recovered": 108863
+    "recovered": 108925
   },
   "Qatar": {
     "date": "2020-8-13",
@@ -373,9 +373,9 @@
   },
   "Kenya": {
     "date": "2020-8-13",
-    "confirmed": 28104,
-    "deaths": 456,
-    "recovered": 14610
+    "confirmed": 28754,
+    "deaths": 460,
+    "recovered": 15100
   },
   "Ireland": {
     "date": "2020-8-13",
@@ -589,8 +589,8 @@
   },
   "Greece": {
     "date": "2020-8-13",
-    "confirmed": 6177,
-    "deaths": 216,
+    "confirmed": 6381,
+    "deaths": 221,
     "recovered": 1347
   },
   "Croatia": {
@@ -609,7 +609,7 @@
     "date": "2020-8-13",
     "confirmed": 5358,
     "deaths": 59,
-    "recovered": 5150
+    "recovered": 5167
   },
   "Zimbabwe": {
     "date": "2020-8-13",
@@ -713,17 +713,17 @@
     "deaths": 39,
     "recovered": 1789
   },
+  "Mozambique": {
+    "date": "2020-8-13",
+    "confirmed": 2638,
+    "deaths": 19,
+    "recovered": 1015
+  },
   "Mali": {
     "date": "2020-8-13",
     "confirmed": 2582,
     "deaths": 125,
     "recovered": 1977
-  },
-  "Mozambique": {
-    "date": "2020-8-13",
-    "confirmed": 2559,
-    "deaths": 19,
-    "recovered": 951
   },
   "South Sudan": {
     "date": "2020-8-13",
@@ -841,7 +841,7 @@
   },
   "Cyprus": {
     "date": "2020-8-13",
-    "confirmed": 1291,
+    "confirmed": 1305,
     "deaths": 20,
     "recovered": 870
   },
@@ -925,7 +925,7 @@
   },
   "Lesotho": {
     "date": "2020-8-13",
-    "confirmed": 798,
+    "confirmed": 815,
     "deaths": 24,
     "recovered": 175
   },
