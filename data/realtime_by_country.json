@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-8-13",
-    "confirmed": 5240650,
-    "deaths": 166956,
+    "confirmed": 5242184,
+    "deaths": 166971,
     "recovered": 1755225
   },
   "Brazil": {
     "date": "2020-8-13",
     "confirmed": 3164785,
     "deaths": 104201,
-    "recovered": 2506448
+    "recovered": 2520182
   },
   "India": {
     "date": "2020-8-13",
@@ -611,17 +611,17 @@
     "deaths": 59,
     "recovered": 5167
   },
+  "Zimbabwe": {
+    "date": "2020-8-13",
+    "confirmed": 4990,
+    "deaths": 128,
+    "recovered": 1927
+  },
   "Malawi": {
     "date": "2020-8-13",
     "confirmed": 4912,
     "deaths": 153,
     "recovered": 2550
-  },
-  "Zimbabwe": {
-    "date": "2020-8-13",
-    "confirmed": 4893,
-    "deaths": 122,
-    "recovered": 1620
   },
   "Equatorial Guinea": {
     "date": "2020-8-13",
@@ -685,9 +685,9 @@
   },
   "Cuba": {
     "date": "2020-8-13",
-    "confirmed": 3128,
-    "deaths": 88,
-    "recovered": 2504
+    "confirmed": 3174,
+    "deaths": 89,
+    "recovered": 2525
   },
   "Cabo Verde": {
     "date": "2020-8-13",
@@ -865,9 +865,15 @@
   },
   "Burkina Faso": {
     "date": "2020-8-13",
-    "confirmed": 1213,
+    "confirmed": 1228,
     "deaths": 54,
-    "recovered": 995
+    "recovered": 997
+  },
+  "Botswana": {
+    "date": "2020-8-13",
+    "confirmed": 1214,
+    "deaths": 3,
+    "recovered": 120
   },
   "Niger": {
     "date": "2020-8-13",
@@ -880,12 +886,6 @@
     "confirmed": 1104,
     "deaths": 26,
     "recovered": 791
-  },
-  "Botswana": {
-    "date": "2020-8-13",
-    "confirmed": 1066,
-    "deaths": 2,
-    "recovered": 80
   },
   "Jamaica": {
     "date": "2020-8-13",
