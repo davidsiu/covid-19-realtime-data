@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-15",
-    "confirmed": 5335398,
-    "deaths": 168903,
+    "confirmed": 5336918,
+    "deaths": 168952,
     "recovered": 1796326
   },
   "Brazil": {
@@ -109,13 +109,13 @@
   },
   "Turkey": {
     "date": "2020-8-15",
-    "confirmed": 246861,
-    "deaths": 5934,
-    "recovered": 228980
+    "confirmed": 248117,
+    "deaths": 5955,
+    "recovered": 229972
   },
   "Germany": {
     "date": "2020-8-15",
-    "confirmed": 224259,
+    "confirmed": 224328,
     "deaths": 9235,
     "recovered": 200756
   },
@@ -173,17 +173,17 @@
     "deaths": 5124,
     "recovered": 57858
   },
+  "Israel": {
+    "date": "2020-8-15",
+    "confirmed": 92198,
+    "deaths": 674,
+    "recovered": 67950
+  },
   "Ukraine": {
     "date": "2020-8-15",
     "confirmed": 91795,
     "deaths": 2076,
     "recovered": 48946
-  },
-  "Israel": {
-    "date": "2020-8-15",
-    "confirmed": 91080,
-    "deaths": 665,
-    "recovered": 66965
   },
   "China": {
     "date": "2020-8-15",
@@ -343,9 +343,9 @@
   },
   "Uzbekistan": {
     "date": "2020-8-15",
-    "confirmed": 34251,
-    "deaths": 223,
-    "recovered": 28661
+    "confirmed": 34528,
+    "deaths": 225,
+    "recovered": 29328
   },
   "Azerbaijan": {
     "date": "2020-8-15",
@@ -385,7 +385,7 @@
   },
   "Ireland": {
     "date": "2020-8-15",
-    "confirmed": 26995,
+    "confirmed": 27191,
     "deaths": 1774,
     "recovered": 23364
   },
@@ -601,9 +601,9 @@
   },
   "Maldives": {
     "date": "2020-8-15",
-    "confirmed": 5572,
+    "confirmed": 5679,
     "deaths": 22,
-    "recovered": 3010
+    "recovered": 3208
   },
   "Djibouti": {
     "date": "2020-8-15",
@@ -761,6 +761,12 @@
     "deaths": 29,
     "recovered": 1015
   },
+  "Tunisia": {
+    "date": "2020-8-15",
+    "confirmed": 2023,
+    "deaths": 54,
+    "recovered": 1327
+  },
   "Benin": {
     "date": "2020-8-15",
     "confirmed": 2014,
@@ -778,12 +784,6 @@
     "confirmed": 1947,
     "deaths": 69,
     "recovered": 1502
-  },
-  "Tunisia": {
-    "date": "2020-8-15",
-    "confirmed": 1903,
-    "deaths": 53,
-    "recovered": 1320
   },
   "Yemen": {
     "date": "2020-8-15",
