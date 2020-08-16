@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-16",
-    "confirmed": 5356244,
-    "deaths": 169423,
+    "confirmed": 5357396,
+    "deaths": 169432,
     "recovered": 1818527
   },
   "Brazil": {
@@ -77,17 +77,17 @@
     "deaths": 3369,
     "recovered": 264487
   },
+  "Argentina": {
+    "date": "2020-8-16",
+    "confirmed": 289100,
+    "deaths": 5637,
+    "recovered": 205697
+  },
   "Pakistan": {
     "date": "2020-8-16",
     "confirmed": 288047,
     "deaths": 6162,
     "recovered": 265624
-  },
-  "Argentina": {
-    "date": "2020-8-16",
-    "confirmed": 282437,
-    "deaths": 5565,
-    "recovered": 205697
   },
   "Bangladesh": {
     "date": "2020-8-16",
@@ -189,7 +189,7 @@
     "date": "2020-8-16",
     "confirmed": 89262,
     "deaths": 4701,
-    "recovered": 83051
+    "recovered": 83056
   },
   "Dominican Republic": {
     "date": "2020-8-16",
@@ -649,9 +649,9 @@
   },
   "Montenegro": {
     "date": "2020-8-16",
-    "confirmed": 3930,
-    "deaths": 73,
-    "recovered": 2752
+    "confirmed": 3960,
+    "deaths": 75,
+    "recovered": 2830
   },
   "Namibia": {
     "date": "2020-8-16",
@@ -695,6 +695,12 @@
     "deaths": 34,
     "recovered": 2302
   },
+  "Suriname": {
+    "date": "2020-8-16",
+    "confirmed": 2961,
+    "deaths": 42,
+    "recovered": 1990
+  },
   "Sri Lanka": {
     "date": "2020-8-16",
     "confirmed": 2890,
@@ -706,12 +712,6 @@
     "confirmed": 2855,
     "deaths": 31,
     "recovered": 1969
-  },
-  "Suriname": {
-    "date": "2020-8-16",
-    "confirmed": 2838,
-    "deaths": 41,
-    "recovered": 1894
   },
   "Mozambique": {
     "date": "2020-8-16",
@@ -757,8 +757,8 @@
   },
   "Guinea-Bissau": {
     "date": "2020-8-16",
-    "confirmed": 2088,
-    "deaths": 29,
+    "confirmed": 2117,
+    "deaths": 33,
     "recovered": 1015
   },
   "Benin": {
@@ -927,7 +927,7 @@
     "date": "2020-8-16",
     "confirmed": 885,
     "deaths": 15,
-    "recovered": 809
+    "recovered": 815
   },
   "Diamond Princess": {
     "date": "2020-8-16",
@@ -987,7 +987,7 @@
     "date": "2020-8-16",
     "confirmed": 374,
     "deaths": 6,
-    "recovered": 322
+    "recovered": 324
   },
   "Mauritius": {
     "date": "2020-8-16",
