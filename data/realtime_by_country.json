@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-16",
-    "confirmed": 5357396,
-    "deaths": 169432,
+    "confirmed": 5359432,
+    "deaths": 169463,
     "recovered": 1818527
   },
   "Brazil": {
@@ -29,17 +29,17 @@
     "deaths": 11677,
     "recovered": 466941
   },
+  "Mexico": {
+    "date": "2020-8-16",
+    "confirmed": 517714,
+    "deaths": 56543,
+    "recovered": 418164
+  },
   "Peru": {
     "date": "2020-8-16",
     "confirmed": 516296,
     "deaths": 25856,
     "recovered": 354232
-  },
-  "Mexico": {
-    "date": "2020-8-16",
-    "confirmed": 511369,
-    "deaths": 55908,
-    "recovered": 410479
   },
   "Colombia": {
     "date": "2020-8-16",
@@ -67,9 +67,9 @@
   },
   "United Kingdom": {
     "date": "2020-8-16",
-    "confirmed": 319205,
+    "confirmed": 319208,
     "deaths": 46791,
-    "recovered": 1483
+    "recovered": 1485
   },
   "Saudi Arabia": {
     "date": "2020-8-16",
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2020-8-16",
-    "confirmed": 123630,
-    "deaths": 9068,
-    "recovered": 109657
+    "confirmed": 123788,
+    "deaths": 9072,
+    "recovered": 109918
   },
   "Qatar": {
     "date": "2020-8-16",
@@ -187,9 +187,9 @@
   },
   "China": {
     "date": "2020-8-16",
-    "confirmed": 89262,
-    "deaths": 4701,
-    "recovered": 83056
+    "confirmed": 89273,
+    "deaths": 4703,
+    "recovered": 83061
   },
   "Dominican Republic": {
     "date": "2020-8-16",
@@ -211,9 +211,9 @@
   },
   "Panama": {
     "date": "2020-8-16",
-    "confirmed": 79402,
-    "deaths": 1734,
-    "recovered": 52886
+    "confirmed": 80665,
+    "deaths": 1746,
+    "recovered": 53857
   },
   "Belgium": {
     "date": "2020-8-16",
@@ -401,17 +401,17 @@
     "deaths": 102,
     "recovered": 17201
   },
+  "Australia": {
+    "date": "2020-8-16",
+    "confirmed": 23287,
+    "deaths": 395,
+    "recovered": 13632
+  },
   "Austria": {
     "date": "2020-8-16",
     "confirmed": 23179,
     "deaths": 728,
     "recovered": 20627
-  },
-  "Australia": {
-    "date": "2020-8-16",
-    "confirmed": 23035,
-    "deaths": 379,
-    "recovered": 13632
   },
   "El Salvador": {
     "date": "2020-8-16",
@@ -863,6 +863,12 @@
     "deaths": 82,
     "recovered": 788
   },
+  "Bahamas": {
+    "date": "2020-8-16",
+    "confirmed": 1252,
+    "deaths": 17,
+    "recovered": 160
+  },
   "Burkina Faso": {
     "date": "2020-8-16",
     "confirmed": 1240,
@@ -886,12 +892,6 @@
     "confirmed": 1130,
     "deaths": 27,
     "recovered": 836
-  },
-  "Bahamas": {
-    "date": "2020-8-16",
-    "confirmed": 1119,
-    "deaths": 17,
-    "recovered": 138
   },
   "Jamaica": {
     "date": "2020-8-16",
@@ -961,7 +961,7 @@
   },
   "Taiwan*": {
     "date": "2020-8-16",
-    "confirmed": 481,
+    "confirmed": 482,
     "deaths": 7,
     "recovered": 450
   },
@@ -1021,9 +1021,9 @@
   },
   "Barbados": {
     "date": "2020-8-16",
-    "confirmed": 148,
+    "confirmed": 150,
     "deaths": 7,
-    "recovered": 119
+    "recovered": 121
   },
   "Monaco": {
     "date": "2020-8-16",
