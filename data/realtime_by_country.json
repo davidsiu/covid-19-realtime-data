@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-20",
-    "confirmed": 5549826,
-    "deaths": 173626,
+    "confirmed": 5553164,
+    "deaths": 173699,
     "recovered": 1925049
   },
   "Brazil": {
@@ -109,9 +109,9 @@
   },
   "Turkey": {
     "date": "2020-8-20",
-    "confirmed": 253108,
-    "deaths": 6039,
-    "recovered": 233915
+    "confirmed": 254520,
+    "deaths": 6058,
+    "recovered": 234797
   },
   "Germany": {
     "date": "2020-8-20",
@@ -149,17 +149,17 @@
     "deaths": 193,
     "recovered": 112924
   },
+  "Ecuador": {
+    "date": "2020-8-20",
+    "confirmed": 105508,
+    "deaths": 6200,
+    "recovered": 87660
+  },
   "Bolivia": {
     "date": "2020-8-20",
     "confirmed": 105050,
     "deaths": 4233,
     "recovered": 39965
-  },
-  "Ecuador": {
-    "date": "2020-8-20",
-    "confirmed": 104475,
-    "deaths": 6146,
-    "recovered": 87277
   },
   "Kazakhstan": {
     "date": "2020-8-20",
@@ -373,9 +373,9 @@
   },
   "Kenya": {
     "date": "2020-8-20",
-    "confirmed": 31015,
-    "deaths": 506,
-    "recovered": 17612
+    "confirmed": 31441,
+    "deaths": 516,
+    "recovered": 17869
   },
   "Costa Rica": {
     "date": "2020-8-20",
@@ -397,8 +397,8 @@
   },
   "Ireland": {
     "date": "2020-8-20",
-    "confirmed": 27547,
-    "deaths": 1775,
+    "confirmed": 27676,
+    "deaths": 1776,
     "recovered": 23364
   },
   "Austria": {
@@ -434,7 +434,7 @@
   "West Bank and Gaza": {
     "date": "2020-8-20",
     "confirmed": 17989,
-    "deaths": 119,
+    "deaths": 120,
     "recovered": 10682
   },
   "Cote d'Ivoire": {
@@ -601,9 +601,9 @@
   },
   "Maldives": {
     "date": "2020-8-20",
-    "confirmed": 6225,
+    "confirmed": 6370,
     "deaths": 24,
-    "recovered": 3788
+    "recovered": 3915
   },
   "Zimbabwe": {
     "date": "2020-8-20",
@@ -629,6 +629,12 @@
     "deaths": 609,
     "recovered": 3678
   },
+  "Namibia": {
+    "date": "2020-8-20",
+    "confirmed": 4912,
+    "deaths": 41,
+    "recovered": 2442
+  },
   "Equatorial Guinea": {
     "date": "2020-8-20",
     "confirmed": 4892,
@@ -640,12 +646,6 @@
     "confirmed": 4679,
     "deaths": 61,
     "recovered": 1755
-  },
-  "Namibia": {
-    "date": "2020-8-20",
-    "confirmed": 4665,
-    "deaths": 39,
-    "recovered": 2426
   },
   "Nicaragua": {
     "date": "2020-8-20",
@@ -661,9 +661,9 @@
   },
   "Eswatini": {
     "date": "2020-8-20",
-    "confirmed": 4058,
-    "deaths": 79,
-    "recovered": 2611
+    "confirmed": 4110,
+    "deaths": 81,
+    "recovered": 2643
   },
   "Congo (Brazzaville)": {
     "date": "2020-8-20",
@@ -673,9 +673,9 @@
   },
   "Cuba": {
     "date": "2020-8-20",
-    "confirmed": 3482,
+    "confirmed": 3565,
     "deaths": 88,
-    "recovered": 2863
+    "recovered": 2894
   },
   "Thailand": {
     "date": "2020-8-20",
@@ -769,7 +769,7 @@
   },
   "Guinea-Bissau": {
     "date": "2020-8-20",
-    "confirmed": 2117,
+    "confirmed": 2149,
     "deaths": 33,
     "recovered": 1015
   },
@@ -791,23 +791,23 @@
     "deaths": 92,
     "recovered": 698
   },
-  "Sierra Leone": {
-    "date": "2020-8-20",
-    "confirmed": 1961,
-    "deaths": 69,
-    "recovered": 1531
-  },
   "Syria": {
     "date": "2020-8-20",
-    "confirmed": 1927,
-    "deaths": 78,
-    "recovered": 445
+    "confirmed": 2008,
+    "deaths": 82,
+    "recovered": 460
+  },
+  "Sierra Leone": {
+    "date": "2020-8-20",
+    "confirmed": 1969,
+    "deaths": 69,
+    "recovered": 1536
   },
   "Yemen": {
     "date": "2020-8-20",
-    "confirmed": 1892,
-    "deaths": 539,
-    "recovered": 1055
+    "confirmed": 1899,
+    "deaths": 541,
+    "recovered": 1058
   },
   "Uganda": {
     "date": "2020-8-20",
@@ -919,9 +919,9 @@
   },
   "Chad": {
     "date": "2020-8-20",
-    "confirmed": 971,
+    "confirmed": 972,
     "deaths": 76,
-    "recovered": 868
+    "recovered": 869
   },
   "Sao Tome and Principe": {
     "date": "2020-8-20",
@@ -1033,9 +1033,9 @@
   },
   "Monaco": {
     "date": "2020-8-20",
-    "confirmed": 148,
+    "confirmed": 150,
     "deaths": 4,
-    "recovered": 114
+    "recovered": 115
   },
   "Brunei": {
     "date": "2020-8-20",
