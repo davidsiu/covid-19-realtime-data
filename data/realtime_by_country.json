@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-8-21",
-    "confirmed": 5607993,
-    "deaths": 174924,
-    "recovered": 1947035
+    "confirmed": 5609167,
+    "deaths": 174967,
+    "recovered": 1946866
   },
   "Brazil": {
     "date": "2020-8-21",
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-8-21",
-    "confirmed": 232553,
+    "confirmed": 232951,
     "deaths": 9266,
     "recovered": 206656
   },
@@ -371,17 +371,17 @@
     "deaths": 929,
     "recovered": 22683
   },
+  "Costa Rica": {
+    "date": "2020-8-21",
+    "confirmed": 32134,
+    "deaths": 340,
+    "recovered": 10159
+  },
   "Kenya": {
     "date": "2020-8-21",
     "confirmed": 31763,
     "deaths": 532,
     "recovered": 18157
-  },
-  "Costa Rica": {
-    "date": "2020-8-21",
-    "confirmed": 31075,
-    "deaths": 333,
-    "recovered": 9939
   },
   "Nepal": {
     "date": "2020-8-21",
@@ -731,6 +731,12 @@
     "deaths": 125,
     "recovered": 1993
   },
+  "Tunisia": {
+    "date": "2020-8-21",
+    "confirmed": 2607,
+    "deaths": 64,
+    "recovered": 1420
+  },
   "Slovenia": {
     "date": "2020-8-21",
     "confirmed": 2574,
@@ -742,12 +748,6 @@
     "confirmed": 2564,
     "deaths": 83,
     "recovered": 1755
-  },
-  "Tunisia": {
-    "date": "2020-8-21",
-    "confirmed": 2543,
-    "deaths": 63,
-    "recovered": 1397
   },
   "South Sudan": {
     "date": "2020-8-21",
