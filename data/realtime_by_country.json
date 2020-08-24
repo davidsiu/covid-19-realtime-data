@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-24",
-    "confirmed": 5702611,
-    "deaths": 176806,
+    "confirmed": 5703561,
+    "deaths": 176808,
     "recovered": 1997761
   },
   "Brazil": {
@@ -116,8 +116,8 @@
   "Germany": {
     "date": "2020-8-24",
     "confirmed": 234494,
-    "deaths": 9275,
-    "recovered": 207985
+    "deaths": 9276,
+    "recovered": 208605
   },
   "Iraq": {
     "date": "2020-8-24",
@@ -149,6 +149,12 @@
     "deaths": 193,
     "recovered": 113808
   },
+  "Ukraine": {
+    "date": "2020-8-24",
+    "confirmed": 109178,
+    "deaths": 2335,
+    "recovered": 54257
+  },
   "Bolivia": {
     "date": "2020-8-24",
     "confirmed": 109149,
@@ -160,12 +166,6 @@
     "confirmed": 107769,
     "deaths": 6310,
     "recovered": 94816
-  },
-  "Ukraine": {
-    "date": "2020-8-24",
-    "confirmed": 107379,
-    "deaths": 2313,
-    "recovered": 53968
   },
   "Kazakhstan": {
     "date": "2020-8-24",
@@ -259,7 +259,7 @@
   },
   "Japan": {
     "date": "2020-8-24",
-    "confirmed": 62658,
+    "confirmed": 62680,
     "deaths": 1188,
     "recovered": 48319
   },
@@ -349,8 +349,8 @@
   },
   "Uzbekistan": {
     "date": "2020-8-24",
-    "confirmed": 38946,
-    "deaths": 273,
+    "confirmed": 39065,
+    "deaths": 275,
     "recovered": 34987
   },
   "Afghanistan": {
@@ -411,13 +411,13 @@
     "date": "2020-8-24",
     "confirmed": 24916,
     "deaths": 517,
-    "recovered": 19232
+    "recovered": 19601
   },
   "El Salvador": {
     "date": "2020-8-24",
     "confirmed": 24622,
-    "deaths": 661,
-    "recovered": 12246
+    "deaths": 669,
+    "recovered": 12276
   },
   "Czechia": {
     "date": "2020-8-24",
@@ -859,9 +859,9 @@
   },
   "Georgia": {
     "date": "2020-8-24",
-    "confirmed": 1411,
+    "confirmed": 1421,
     "deaths": 17,
-    "recovered": 1132
+    "recovered": 1137
   },
   "Latvia": {
     "date": "2020-8-24",
