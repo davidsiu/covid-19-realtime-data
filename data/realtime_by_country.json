@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-25",
-    "confirmed": 5755002,
-    "deaths": 177773,
+    "confirmed": 5759147,
+    "deaths": 177873,
     "recovered": 2020774
   },
   "Brazil": {
@@ -187,9 +187,9 @@
   },
   "Dominican Republic": {
     "date": "2020-8-25",
-    "confirmed": 91608,
-    "deaths": 1573,
-    "recovered": 61558
+    "confirmed": 92217,
+    "deaths": 1585,
+    "recovered": 62460
   },
   "China": {
     "date": "2020-8-25",
@@ -289,9 +289,9 @@
   },
   "Morocco": {
     "date": "2020-8-25",
-    "confirmed": 53252,
-    "deaths": 920,
-    "recovered": 37478
+    "confirmed": 54528,
+    "deaths": 955,
+    "recovered": 38293
   },
   "Nigeria": {
     "date": "2020-8-25",
@@ -311,6 +311,12 @@
     "deaths": 270,
     "recovered": 41843
   },
+  "Ethiopia": {
+    "date": "2020-8-25",
+    "confirmed": 43688,
+    "deaths": 709,
+    "recovered": 15796
+  },
   "Kyrgyzstan": {
     "date": "2020-8-25",
     "confirmed": 43245,
@@ -322,12 +328,6 @@
     "confirmed": 42936,
     "deaths": 858,
     "recovered": 36475
-  },
-  "Ethiopia": {
-    "date": "2020-8-25",
-    "confirmed": 42143,
-    "deaths": 692,
-    "recovered": 15262
   },
   "Algeria": {
     "date": "2020-8-25",
@@ -397,7 +397,7 @@
   },
   "Ireland": {
     "date": "2020-8-25",
-    "confirmed": 28116,
+    "confirmed": 28201,
     "deaths": 1777,
     "recovered": 23364
   },
@@ -433,8 +433,8 @@
   },
   "Cameroon": {
     "date": "2020-8-25",
-    "confirmed": 18762,
-    "deaths": 408,
+    "confirmed": 18973,
+    "deaths": 410,
     "recovered": 16540
   },
   "Bosnia and Herzegovina": {
@@ -605,17 +605,17 @@
     "deaths": 28,
     "recovered": 4297
   },
+  "Zimbabwe": {
+    "date": "2020-8-25",
+    "confirmed": 6196,
+    "deaths": 166,
+    "recovered": 4961
+  },
   "Namibia": {
     "date": "2020-8-25",
     "confirmed": 6160,
     "deaths": 57,
     "recovered": 2732
-  },
-  "Zimbabwe": {
-    "date": "2020-8-25",
-    "confirmed": 6070,
-    "deaths": 155,
-    "recovered": 4950
   },
   "Malawi": {
     "date": "2020-8-25",
@@ -757,7 +757,7 @@
   },
   "South Sudan": {
     "date": "2020-8-25",
-    "confirmed": 2504,
+    "confirmed": 2507,
     "deaths": 47,
     "recovered": 1290
   },
