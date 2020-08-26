@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-26",
-    "confirmed": 5777304,
-    "deaths": 178465,
+    "confirmed": 5777393,
+    "deaths": 178477,
     "recovered": 2053699
   },
   "Brazil": {
@@ -37,9 +37,9 @@
   },
   "Mexico": {
     "date": "2020-8-26",
-    "confirmed": 563705,
-    "deaths": 60800,
-    "recovered": 466209
+    "confirmed": 568621,
+    "deaths": 61450,
+    "recovered": 469206
   },
   "Colombia": {
     "date": "2020-8-26",
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2020-8-26",
-    "confirmed": 127787,
-    "deaths": 9134,
-    "recovered": 113719
+    "confirmed": 127903,
+    "deaths": 9136,
+    "recovered": 113809
   },
   "Qatar": {
     "date": "2020-8-26",
@@ -149,17 +149,17 @@
     "deaths": 194,
     "recovered": 114318
   },
+  "Bolivia": {
+    "date": "2020-8-26",
+    "confirmed": 110999,
+    "deaths": 4664,
+    "recovered": 48875
+  },
   "Ukraine": {
     "date": "2020-8-26",
     "confirmed": 110949,
     "deaths": 2362,
     "recovered": 54657
-  },
-  "Bolivia": {
-    "date": "2020-8-26",
-    "confirmed": 110148,
-    "deaths": 4578,
-    "recovered": 47050
   },
   "Ecuador": {
     "date": "2020-8-26",
@@ -195,7 +195,7 @@
     "date": "2020-8-26",
     "confirmed": 89752,
     "deaths": 4712,
-    "recovered": 84166
+    "recovered": 84168
   },
   "Panama": {
     "date": "2020-8-26",
@@ -369,7 +369,7 @@
     "date": "2020-8-26",
     "confirmed": 35305,
     "deaths": 376,
-    "recovered": 13072
+    "recovered": 13073
   },
   "Moldova": {
     "date": "2020-8-26",
@@ -445,9 +445,9 @@
   },
   "Korea, South": {
     "date": "2020-8-26",
-    "confirmed": 17945,
-    "deaths": 310,
-    "recovered": 14286
+    "confirmed": 18265,
+    "deaths": 312,
+    "recovered": 14368
   },
   "Cote d'Ivoire": {
     "date": "2020-8-26",
@@ -473,6 +473,12 @@
     "deaths": 178,
     "recovered": 13492
   },
+  "Paraguay": {
+    "date": "2020-8-26",
+    "confirmed": 14228,
+    "deaths": 231,
+    "recovered": 7883
+  },
   "North Macedonia": {
     "date": "2020-8-26",
     "confirmed": 13799,
@@ -484,12 +490,6 @@
     "confirmed": 13687,
     "deaths": 138,
     "recovered": 3723
-  },
-  "Paraguay": {
-    "date": "2020-8-26",
-    "confirmed": 13602,
-    "deaths": 219,
-    "recovered": 7649
   },
   "Senegal": {
     "date": "2020-8-26",
@@ -835,7 +835,7 @@
   },
   "New Zealand": {
     "date": "2020-8-26",
-    "confirmed": 1690,
+    "confirmed": 1695,
     "deaths": 22,
     "recovered": 1539
   },
