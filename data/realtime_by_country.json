@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-27",
-    "confirmed": 5824189,
-    "deaths": 179756,
+    "confirmed": 5825810,
+    "deaths": 179770,
     "recovered": 2084465
   },
   "Brazil": {
@@ -31,8 +31,8 @@
   },
   "Peru": {
     "date": "2020-8-27",
-    "confirmed": 607382,
-    "deaths": 28001,
+    "confirmed": 613378,
+    "deaths": 28124,
     "recovered": 421877
   },
   "Mexico": {
@@ -73,9 +73,9 @@
   },
   "United Kingdom": {
     "date": "2020-8-27",
-    "confirmed": 330967,
+    "confirmed": 330969,
     "deaths": 41552,
-    "recovered": 1551
+    "recovered": 1564
   },
   "Saudi Arabia": {
     "date": "2020-8-27",
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-8-27",
-    "confirmed": 239408,
+    "confirmed": 239498,
     "deaths": 9289,
     "recovered": 212859
   },
@@ -269,6 +269,12 @@
     "deaths": 2010,
     "recovered": 44097
   },
+  "Portugal": {
+    "date": "2020-8-27",
+    "confirmed": 56673,
+    "deaths": 1809,
+    "recovered": 41357
+  },
   "Honduras": {
     "date": "2020-8-27",
     "confirmed": 56649,
@@ -280,12 +286,6 @@
     "confirmed": 56572,
     "deaths": 27,
     "recovered": 54971
-  },
-  "Portugal": {
-    "date": "2020-8-27",
-    "confirmed": 56274,
-    "deaths": 1807,
-    "recovered": 41184
   },
   "Morocco": {
     "date": "2020-8-27",
@@ -367,21 +367,21 @@
   },
   "Azerbaijan": {
     "date": "2020-8-27",
-    "confirmed": 35707,
-    "deaths": 522,
-    "recovered": 33281
+    "confirmed": 35844,
+    "deaths": 524,
+    "recovered": 33364
+  },
+  "Moldova": {
+    "date": "2020-8-27",
+    "confirmed": 35546,
+    "deaths": 977,
+    "recovered": 24156
   },
   "Nepal": {
     "date": "2020-8-27",
     "confirmed": 35529,
     "deaths": 183,
     "recovered": 20073
-  },
-  "Moldova": {
-    "date": "2020-8-27",
-    "confirmed": 34982,
-    "deaths": 967,
-    "recovered": 24156
   },
   "Kenya": {
     "date": "2020-8-27",
@@ -571,9 +571,9 @@
   },
   "Tajikistan": {
     "date": "2020-8-27",
-    "confirmed": 8413,
-    "deaths": 67,
-    "recovered": 7214
+    "confirmed": 8449,
+    "deaths": 68,
+    "recovered": 7246
   },
   "Haiti": {
     "date": "2020-8-27",
@@ -961,7 +961,7 @@
   },
   "Burma": {
     "date": "2020-8-27",
-    "confirmed": 586,
+    "confirmed": 602,
     "deaths": 6,
     "recovered": 345
   },
