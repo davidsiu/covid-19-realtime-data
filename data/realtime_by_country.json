@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-8-28",
-    "confirmed": 5869692,
+    "confirmed": 5869877,
     "deaths": 180857,
     "recovered": 2101326
   },
@@ -145,9 +145,9 @@
   },
   "Qatar": {
     "date": "2020-8-28",
-    "confirmed": 117988,
-    "deaths": 195,
-    "recovered": 114797
+    "confirmed": 118196,
+    "deaths": 196,
+    "recovered": 115017
   },
   "Ukraine": {
     "date": "2020-8-28",
@@ -217,8 +217,8 @@
   },
   "Sweden": {
     "date": "2020-8-28",
-    "confirmed": 83898,
-    "deaths": 5820,
+    "confirmed": 83958,
+    "deaths": 5821,
     "recovered": null
   },
   "Belgium": {
@@ -239,17 +239,17 @@
     "deaths": 2685,
     "recovered": 59641
   },
+  "Netherlands": {
+    "date": "2020-8-28",
+    "confirmed": 71491,
+    "deaths": 6246,
+    "recovered": 829
+  },
   "Belarus": {
     "date": "2020-8-28",
     "confirmed": 71346,
     "deaths": 667,
     "recovered": 69887
-  },
-  "Netherlands": {
-    "date": "2020-8-28",
-    "confirmed": 70984,
-    "deaths": 6244,
-    "recovered": 829
   },
   "United Arab Emirates": {
     "date": "2020-8-28",
@@ -457,9 +457,9 @@
   },
   "Denmark": {
     "date": "2020-8-28",
-    "confirmed": 17052,
+    "confirmed": 17125,
     "deaths": 624,
-    "recovered": 15135
+    "recovered": 15252
   },
   "Bulgaria": {
     "date": "2020-8-28",
@@ -511,9 +511,9 @@
   },
   "Libya": {
     "date": "2020-8-28",
-    "confirmed": 12274,
-    "deaths": 219,
-    "recovered": 1209
+    "confirmed": 12629,
+    "deaths": 226,
+    "recovered": 1310
   },
   "Zambia": {
     "date": "2020-8-28",
@@ -533,6 +533,12 @@
     "deaths": 255,
     "recovered": 9035
   },
+  "Croatia": {
+    "date": "2020-8-28",
+    "confirmed": 9549,
+    "deaths": 180,
+    "recovered": 6809
+  },
   "Greece": {
     "date": "2020-8-28",
     "confirmed": 9531,
@@ -550,12 +556,6 @@
     "confirmed": 9213,
     "deaths": 58,
     "recovered": 8180
-  },
-  "Croatia": {
-    "date": "2020-8-28",
-    "confirmed": 9192,
-    "deaths": 177,
-    "recovered": 6595
   },
   "Albania": {
     "date": "2020-8-28",
@@ -889,9 +889,9 @@
   },
   "Togo": {
     "date": "2020-8-28",
-    "confirmed": 1326,
+    "confirmed": 1341,
     "deaths": 27,
-    "recovered": 946
+    "recovered": 968
   },
   "Liberia": {
     "date": "2020-8-28",
