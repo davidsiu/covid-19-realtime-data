@@ -27,7 +27,7 @@
     "date": "2020-8-28",
     "confirmed": 621997,
     "deaths": 28277,
-    "recovered": 421877
+    "recovered": 429662
   },
   "South Africa": {
     "date": "2020-8-28",
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-8-28",
-    "confirmed": 240587,
+    "confirmed": 240598,
     "deaths": 9291,
     "recovered": 213725
   },
@@ -199,9 +199,9 @@
   },
   "China": {
     "date": "2020-8-28",
-    "confirmed": 89814,
-    "deaths": 4715,
-    "recovered": 84335
+    "confirmed": 89827,
+    "deaths": 4718,
+    "recovered": 84391
   },
   "Oman": {
     "date": "2020-8-28",
@@ -241,9 +241,9 @@
   },
   "Belarus": {
     "date": "2020-8-28",
-    "confirmed": 71165,
-    "deaths": 662,
-    "recovered": 69650
+    "confirmed": 71346,
+    "deaths": 667,
+    "recovered": 69887
   },
   "Netherlands": {
     "date": "2020-8-28",
@@ -253,14 +253,14 @@
   },
   "United Arab Emirates": {
     "date": "2020-8-28",
-    "confirmed": 68511,
-    "deaths": 378,
-    "recovered": 59472
+    "confirmed": 68901,
+    "deaths": 379,
+    "recovered": 59861
   },
   "Japan": {
     "date": "2020-8-28",
-    "confirmed": 66336,
-    "deaths": 1243,
+    "confirmed": 66493,
+    "deaths": 1246,
     "recovered": 52542
   },
   "Poland": {
@@ -343,8 +343,8 @@
   },
   "Switzerland": {
     "date": "2020-8-28",
-    "confirmed": 41006,
-    "deaths": 2003,
+    "confirmed": 41346,
+    "deaths": 2004,
     "recovered": 34800
   },
   "Uzbekistan": {
@@ -365,6 +365,12 @@
     "deaths": 397,
     "recovered": 14471
   },
+  "Nepal": {
+    "date": "2020-8-28",
+    "confirmed": 36456,
+    "deaths": 195,
+    "recovered": 20242
+  },
   "Azerbaijan": {
     "date": "2020-8-28",
     "confirmed": 35844,
@@ -376,12 +382,6 @@
     "confirmed": 35546,
     "deaths": 977,
     "recovered": 24156
-  },
-  "Nepal": {
-    "date": "2020-8-28",
-    "confirmed": 35529,
-    "deaths": 183,
-    "recovered": 20073
   },
   "Kenya": {
     "date": "2020-8-28",
@@ -427,9 +427,15 @@
   },
   "West Bank and Gaza": {
     "date": "2020-8-28",
-    "confirmed": 20677,
-    "deaths": 141,
-    "recovered": 14194
+    "confirmed": 21251,
+    "deaths": 143,
+    "recovered": 14291
+  },
+  "Bosnia and Herzegovina": {
+    "date": "2020-8-28",
+    "confirmed": 19214,
+    "deaths": 591,
+    "recovered": 12733
   },
   "Cameroon": {
     "date": "2020-8-28",
@@ -442,12 +448,6 @@
     "confirmed": 19077,
     "deaths": 316,
     "recovered": 14551
-  },
-  "Bosnia and Herzegovina": {
-    "date": "2020-8-28",
-    "confirmed": 18920,
-    "deaths": 582,
-    "recovered": 12480
   },
   "Cote d'Ivoire": {
     "date": "2020-8-28",
@@ -481,9 +481,9 @@
   },
   "Madagascar": {
     "date": "2020-8-28",
-    "confirmed": 14592,
-    "deaths": 184,
-    "recovered": 13686
+    "confirmed": 14696,
+    "deaths": 187,
+    "recovered": 13709
   },
   "North Macedonia": {
     "date": "2020-8-28",
@@ -493,9 +493,9 @@
   },
   "Senegal": {
     "date": "2020-8-28",
-    "confirmed": 13294,
-    "deaths": 277,
-    "recovered": 8974
+    "confirmed": 13384,
+    "deaths": 279,
+    "recovered": 9091
   },
   "Sudan": {
     "date": "2020-8-28",
@@ -727,9 +727,9 @@
   },
   "Sri Lanka": {
     "date": "2020-8-28",
-    "confirmed": 2986,
+    "confirmed": 2988,
     "deaths": 12,
-    "recovered": 2830
+    "recovered": 2842
   },
   "Lithuania": {
     "date": "2020-8-28",
@@ -799,7 +799,7 @@
   },
   "Iceland": {
     "date": "2020-8-28",
-    "confirmed": 2087,
+    "confirmed": 2092,
     "deaths": 10,
     "recovered": 1964
   },
@@ -821,17 +821,17 @@
     "deaths": 19,
     "recovered": 846
   },
+  "Malta": {
+    "date": "2020-8-28",
+    "confirmed": 1820,
+    "deaths": 10,
+    "recovered": 1186
+  },
   "Jordan": {
     "date": "2020-8-28",
     "confirmed": 1801,
     "deaths": 15,
     "recovered": 1364
-  },
-  "Malta": {
-    "date": "2020-8-28",
-    "confirmed": 1788,
-    "deaths": 10,
-    "recovered": 1121
   },
   "Bahamas": {
     "date": "2020-8-28",
@@ -925,9 +925,9 @@
   },
   "Vietnam": {
     "date": "2020-8-28",
-    "confirmed": 1036,
+    "confirmed": 1038,
     "deaths": 30,
-    "recovered": 637
+    "recovered": 663
   },
   "Chad": {
     "date": "2020-8-28",
@@ -1051,7 +1051,7 @@
   },
   "Liechtenstein": {
     "date": "2020-8-28",
-    "confirmed": 105,
+    "confirmed": 106,
     "deaths": 1,
     "recovered": 96
   },
