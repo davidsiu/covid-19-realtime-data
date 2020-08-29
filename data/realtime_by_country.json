@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-29",
-    "confirmed": 5912861,
-    "deaths": 181748,
+    "confirmed": 5913527,
+    "deaths": 181762,
     "recovered": 2118367
   },
   "Brazil": {
@@ -35,17 +35,17 @@
     "deaths": 13743,
     "recovered": 533935
   },
+  "Mexico": {
+    "date": "2020-8-29",
+    "confirmed": 585738,
+    "deaths": 63146,
+    "recovered": 479770
+  },
   "Colombia": {
     "date": "2020-8-29",
     "confirmed": 581995,
     "deaths": 18467,
     "recovered": 417781
-  },
-  "Mexico": {
-    "date": "2020-8-29",
-    "confirmed": 579914,
-    "deaths": 62594,
-    "recovered": 475532
   },
   "Spain": {
     "date": "2020-8-29",
@@ -199,9 +199,9 @@
   },
   "China": {
     "date": "2020-8-29",
-    "confirmed": 89832,
+    "confirmed": 89834,
     "deaths": 4718,
-    "recovered": 84394
+    "recovered": 84419
   },
   "Oman": {
     "date": "2020-8-29",
@@ -317,6 +317,12 @@
     "deaths": 270,
     "recovered": 42392
   },
+  "Venezuela": {
+    "date": "2020-8-29",
+    "confirmed": 43879,
+    "deaths": 366,
+    "recovered": 34972
+  },
   "Kyrgyzstan": {
     "date": "2020-8-29",
     "confirmed": 43587,
@@ -334,12 +340,6 @@
     "confirmed": 43403,
     "deaths": 1483,
     "recovered": 30436
-  },
-  "Venezuela": {
-    "date": "2020-8-29",
-    "confirmed": 42898,
-    "deaths": 358,
-    "recovered": 34147
   },
   "Switzerland": {
     "date": "2020-8-29",
@@ -409,8 +409,8 @@
   },
   "Australia": {
     "date": "2020-8-29",
-    "confirmed": 25542,
-    "deaths": 601,
+    "confirmed": 25543,
+    "deaths": 600,
     "recovered": 20631
   },
   "El Salvador": {
@@ -985,7 +985,7 @@
   },
   "Burundi": {
     "date": "2020-8-29",
-    "confirmed": 431,
+    "confirmed": 433,
     "deaths": 1,
     "recovered": 345
   },
