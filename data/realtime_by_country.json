@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-8-29",
-    "confirmed": 5913527,
-    "deaths": 181762,
+    "confirmed": 5913564,
+    "deaths": 181767,
     "recovered": 2118367
   },
   "Brazil": {
     "date": "2020-8-29",
     "confirmed": 3804803,
     "deaths": 119504,
-    "recovered": 3154937
+    "recovered": 3158783
   },
   "India": {
     "date": "2020-8-29",
@@ -141,7 +141,7 @@
     "date": "2020-8-29",
     "confirmed": 129342,
     "deaths": 9155,
-    "recovered": 115027
+    "recovered": 115029
   },
   "Qatar": {
     "date": "2020-8-29",
@@ -157,9 +157,9 @@
   },
   "Bolivia": {
     "date": "2020-8-29",
-    "confirmed": 113129,
-    "deaths": 4791,
-    "recovered": 52521
+    "confirmed": 114409,
+    "deaths": 4846,
+    "recovered": 54914
   },
   "Ecuador": {
     "date": "2020-8-29",
@@ -199,7 +199,7 @@
   },
   "China": {
     "date": "2020-8-29",
-    "confirmed": 89834,
+    "confirmed": 89836,
     "deaths": 4718,
     "recovered": 84419
   },
@@ -409,7 +409,7 @@
   },
   "Australia": {
     "date": "2020-8-29",
-    "confirmed": 25543,
+    "confirmed": 25547,
     "deaths": 600,
     "recovered": 20631
   },
@@ -431,6 +431,12 @@
     "deaths": 145,
     "recovered": 14291
   },
+  "Korea, South": {
+    "date": "2020-8-29",
+    "confirmed": 19400,
+    "deaths": 321,
+    "recovered": 14765
+  },
   "Bosnia and Herzegovina": {
     "date": "2020-8-29",
     "confirmed": 19214,
@@ -442,12 +448,6 @@
     "confirmed": 19142,
     "deaths": 411,
     "recovered": 17651
-  },
-  "Korea, South": {
-    "date": "2020-8-29",
-    "confirmed": 19077,
-    "deaths": 316,
-    "recovered": 14551
   },
   "Cote d'Ivoire": {
     "date": "2020-8-29",
@@ -841,9 +841,9 @@
   },
   "New Zealand": {
     "date": "2020-8-29",
-    "confirmed": 1714,
+    "confirmed": 1727,
     "deaths": 22,
-    "recovered": 1561
+    "recovered": 1568
   },
   "Botswana": {
     "date": "2020-8-29",
