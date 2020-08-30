@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-8-30",
-    "confirmed": 5960596,
-    "deaths": 182752,
+    "confirmed": 5960652,
+    "deaths": 182760,
     "recovered": 2140614
   },
   "Brazil": {
     "date": "2020-8-30",
     "confirmed": 3846153,
     "deaths": 120262,
-    "recovered": 3199206
+    "recovered": 3202185
   },
   "India": {
     "date": "2020-8-30",
@@ -175,9 +175,9 @@
   },
   "Kazakhstan": {
     "date": "2020-8-30",
-    "confirmed": 105558,
+    "confirmed": 105684,
     "deaths": 1523,
-    "recovered": 95888
+    "recovered": 96135
   },
   "Egypt": {
     "date": "2020-8-30",
@@ -215,6 +215,12 @@
     "deaths": 650,
     "recovered": 79608
   },
+  "Belgium": {
+    "date": "2020-8-30",
+    "confirmed": 84599,
+    "deaths": 9891,
+    "recovered": 18403
+  },
   "Kuwait": {
     "date": "2020-8-30",
     "confirmed": 84224,
@@ -226,12 +232,6 @@
     "confirmed": 83958,
     "deaths": 5821,
     "recovered": null
-  },
-  "Belgium": {
-    "date": "2020-8-30",
-    "confirmed": 83952,
-    "deaths": 9886,
-    "recovered": 18360
   },
   "Guatemala": {
     "date": "2020-8-30",
@@ -277,9 +277,9 @@
   },
   "Honduras": {
     "date": "2020-8-30",
-    "confirmed": 58810,
-    "deaths": 1827,
-    "recovered": 10076
+    "confirmed": 59645,
+    "deaths": 1842,
+    "recovered": 10156
   },
   "Portugal": {
     "date": "2020-8-30",
@@ -461,6 +461,12 @@
     "deaths": 624,
     "recovered": 15365
   },
+  "Paraguay": {
+    "date": "2020-8-30",
+    "confirmed": 16474,
+    "deaths": 294,
+    "recovered": 8854
+  },
   "Lebanon": {
     "date": "2020-8-30",
     "confirmed": 16275,
@@ -472,12 +478,6 @@
     "confirmed": 16164,
     "deaths": 605,
     "recovered": 11253
-  },
-  "Paraguay": {
-    "date": "2020-8-30",
-    "confirmed": 15873,
-    "deaths": 280,
-    "recovered": 8595
   },
   "Madagascar": {
     "date": "2020-8-30",
