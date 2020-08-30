@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-30",
-    "confirmed": 5961582,
-    "deaths": 182779,
+    "confirmed": 5961884,
+    "deaths": 182785,
     "recovered": 2140614
   },
   "Brazil": {
@@ -73,9 +73,9 @@
   },
   "United Kingdom": {
     "date": "2020-8-30",
-    "confirmed": 334916,
+    "confirmed": 334926,
     "deaths": 41585,
-    "recovered": 1622
+    "recovered": 1624
   },
   "Saudi Arabia": {
     "date": "2020-8-30",
@@ -83,17 +83,17 @@
     "deaths": 3840,
     "recovered": 288441
   },
+  "Bangladesh": {
+    "date": "2020-8-30",
+    "confirmed": 310822,
+    "deaths": 4248,
+    "recovered": 201907
+  },
   "France": {
     "date": "2020-8-30",
     "confirmed": 310400,
     "deaths": 30607,
     "recovered": 86495
-  },
-  "Bangladesh": {
-    "date": "2020-8-30",
-    "confirmed": 308925,
-    "deaths": 4206,
-    "recovered": 198863
   },
   "Pakistan": {
     "date": "2020-8-30",
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-8-30",
-    "confirmed": 242835,
+    "confirmed": 242880,
     "deaths": 9300,
     "recovered": 215247
   },
@@ -205,9 +205,9 @@
   },
   "Romania": {
     "date": "2020-8-30",
-    "confirmed": 85833,
-    "deaths": 3539,
-    "recovered": 37388
+    "confirmed": 86785,
+    "deaths": 3578,
+    "recovered": 37665
   },
   "Oman": {
     "date": "2020-8-30",
@@ -259,8 +259,8 @@
   },
   "Japan": {
     "date": "2020-8-30",
-    "confirmed": 67558,
-    "deaths": 1272,
+    "confirmed": 67935,
+    "deaths": 1279,
     "recovered": 54883
   },
   "Poland": {
@@ -319,9 +319,9 @@
   },
   "Ghana": {
     "date": "2020-8-30",
-    "confirmed": 44118,
-    "deaths": 270,
-    "recovered": 42581
+    "confirmed": 44205,
+    "deaths": 276,
+    "recovered": 42777
   },
   "Kyrgyzstan": {
     "date": "2020-8-30",
@@ -535,9 +535,9 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-8-30",
-    "confirmed": 10007,
+    "confirmed": 10045,
     "deaths": 258,
-    "recovered": 9068
+    "recovered": 9103
   },
   "Greece": {
     "date": "2020-8-30",
@@ -683,17 +683,17 @@
     "deaths": 94,
     "recovered": 3273
   },
+  "Slovakia": {
+    "date": "2020-8-30",
+    "confirmed": 3876,
+    "deaths": 33,
+    "recovered": 2278
+  },
   "Rwanda": {
     "date": "2020-8-30",
     "confirmed": 3843,
     "deaths": 16,
     "recovered": 1904
-  },
-  "Slovakia": {
-    "date": "2020-8-30",
-    "confirmed": 3842,
-    "deaths": 33,
-    "recovered": 2254
   },
   "Cabo Verde": {
     "date": "2020-8-30",
@@ -737,6 +737,12 @@
     "deaths": 96,
     "recovered": 751
   },
+  "Lithuania": {
+    "date": "2020-8-30",
+    "confirmed": 2874,
+    "deaths": 86,
+    "recovered": 1837
+  },
   "Slovenia": {
     "date": "2020-8-30",
     "confirmed": 2865,
@@ -748,12 +754,6 @@
     "confirmed": 2847,
     "deaths": 29,
     "recovered": 1288
-  },
-  "Lithuania": {
-    "date": "2020-8-30",
-    "confirmed": 2839,
-    "deaths": 86,
-    "recovered": 1833
   },
   "Mali": {
     "date": "2020-8-30",
