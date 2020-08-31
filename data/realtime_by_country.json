@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-8-31",
-    "confirmed": 6014013,
-    "deaths": 183312,
-    "recovered": 2153939
+    "confirmed": 6020186,
+    "deaths": 183355,
+    "recovered": 2153963
   },
   "Brazil": {
     "date": "2020-8-31",
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-8-31",
-    "confirmed": 244702,
+    "confirmed": 244771,
     "deaths": 9303,
     "recovered": 216795
   },
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2020-8-31",
-    "confirmed": 130129,
+    "confirmed": 130138,
     "deaths": 9166,
-    "recovered": 115547
+    "recovered": 115575
   },
   "Ukraine": {
     "date": "2020-8-31",
@@ -241,9 +241,9 @@
   },
   "Netherlands": {
     "date": "2020-8-31",
-    "confirmed": 73210,
+    "confirmed": 73219,
     "deaths": 6252,
-    "recovered": 986
+    "recovered": 989
   },
   "Belarus": {
     "date": "2020-8-31",
@@ -595,9 +595,9 @@
   },
   "Namibia": {
     "date": "2020-8-31",
-    "confirmed": 7365,
-    "deaths": 72,
-    "recovered": 2929
+    "confirmed": 7550,
+    "deaths": 75,
+    "recovered": 3327
   },
   "Mauritania": {
     "date": "2020-8-31",
@@ -665,17 +665,17 @@
     "deaths": 137,
     "recovered": 2913
   },
+  "Rwanda": {
+    "date": "2020-8-31",
+    "confirmed": 4063,
+    "deaths": 16,
+    "recovered": 2013
+  },
   "Cuba": {
     "date": "2020-8-31",
     "confirmed": 4032,
     "deaths": 94,
     "recovered": 3378
-  },
-  "Rwanda": {
-    "date": "2020-8-31",
-    "confirmed": 4020,
-    "deaths": 16,
-    "recovered": 1918
   },
   "Suriname": {
     "date": "2020-8-31",
@@ -695,17 +695,17 @@
     "deaths": 33,
     "recovered": 2377
   },
-  "Cabo Verde": {
-    "date": "2020-8-31",
-    "confirmed": 3852,
-    "deaths": 40,
-    "recovered": 2867
-  },
   "Mozambique": {
     "date": "2020-8-31",
-    "confirmed": 3821,
+    "confirmed": 3916,
     "deaths": 23,
-    "recovered": 2100
+    "recovered": 2170
+  },
+  "Cabo Verde": {
+    "date": "2020-8-31",
+    "confirmed": 3884,
+    "deaths": 40,
+    "recovered": 2916
   },
   "Tunisia": {
     "date": "2020-8-31",
@@ -763,19 +763,19 @@
   },
   "Syria": {
     "date": "2020-8-31",
-    "confirmed": 2703,
-    "deaths": 109,
-    "recovered": 614
+    "confirmed": 2765,
+    "deaths": 112,
+    "recovered": 629
   },
   "Angola": {
     "date": "2020-8-31",
-    "confirmed": 2624,
-    "deaths": 107,
-    "recovered": 1063
+    "confirmed": 2654,
+    "deaths": 108,
+    "recovered": 1071
   },
   "South Sudan": {
     "date": "2020-8-31",
-    "confirmed": 2519,
+    "confirmed": 2527,
     "deaths": 47,
     "recovered": 1290
   },
@@ -1003,7 +1003,7 @@
   },
   "Eritrea": {
     "date": "2020-8-31",
-    "confirmed": 318,
+    "confirmed": 319,
     "deaths": 0,
     "recovered": 284
   },
