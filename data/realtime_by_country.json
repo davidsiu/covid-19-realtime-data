@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-8-31",
-    "confirmed": 6009899,
-    "deaths": 183258,
+    "confirmed": 6014013,
+    "deaths": 183312,
     "recovered": 2153939
   },
   "Brazil": {
@@ -25,9 +25,9 @@
   },
   "Peru": {
     "date": "2020-8-31",
-    "confirmed": 639435,
-    "deaths": 28607,
-    "recovered": 446675
+    "confirmed": 647166,
+    "deaths": 28788,
+    "recovered": 455457
   },
   "South Africa": {
     "date": "2020-8-31",
@@ -121,9 +121,9 @@
   },
   "Iraq": {
     "date": "2020-8-31",
-    "confirmed": 231177,
-    "deaths": 6959,
-    "recovered": 172880
+    "confirmed": 234934,
+    "deaths": 7042,
+    "recovered": 176602
   },
   "Philippines": {
     "date": "2020-8-31",
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2020-8-31",
-    "confirmed": 130090,
+    "confirmed": 130129,
     "deaths": 9166,
-    "recovered": 115545
+    "recovered": 115547
   },
   "Ukraine": {
     "date": "2020-8-31",
@@ -187,9 +187,9 @@
   },
   "Dominican Republic": {
     "date": "2020-8-31",
-    "confirmed": 94241,
-    "deaths": 1681,
-    "recovered": 66776
+    "confirmed": 94715,
+    "deaths": 1710,
+    "recovered": 68082
   },
   "Panama": {
     "date": "2020-8-31",
@@ -271,9 +271,9 @@
   },
   "Morocco": {
     "date": "2020-8-31",
-    "confirmed": 61399,
-    "deaths": 1111,
-    "recovered": 46355
+    "confirmed": 62590,
+    "deaths": 1141,
+    "recovered": 47595
   },
   "Honduras": {
     "date": "2020-8-31",
@@ -299,17 +299,17 @@
     "deaths": 1013,
     "recovered": 41513
   },
+  "Ethiopia": {
+    "date": "2020-8-31",
+    "confirmed": 52131,
+    "deaths": 809,
+    "recovered": 18994
+  },
   "Bahrain": {
     "date": "2020-8-31",
     "confirmed": 51574,
     "deaths": 190,
     "recovered": 48654
-  },
-  "Ethiopia": {
-    "date": "2020-8-31",
-    "confirmed": 51122,
-    "deaths": 793,
-    "recovered": 18382
   },
   "Venezuela": {
     "date": "2020-8-31",
@@ -589,9 +589,9 @@
   },
   "Maldives": {
     "date": "2020-8-31",
-    "confirmed": 7667,
+    "confirmed": 7804,
     "deaths": 28,
-    "recovered": 5036
+    "recovered": 5155
   },
   "Namibia": {
     "date": "2020-8-31",
@@ -655,15 +655,21 @@
   },
   "Eswatini": {
     "date": "2020-8-31",
-    "confirmed": 4561,
+    "confirmed": 4577,
     "deaths": 91,
-    "recovered": 3478
+    "recovered": 3529
   },
   "Nicaragua": {
     "date": "2020-8-31",
     "confirmed": 4494,
     "deaths": 137,
     "recovered": 2913
+  },
+  "Cuba": {
+    "date": "2020-8-31",
+    "confirmed": 4032,
+    "deaths": 94,
+    "recovered": 3378
   },
   "Rwanda": {
     "date": "2020-8-31",
@@ -682,12 +688,6 @@
     "confirmed": 3979,
     "deaths": 78,
     "recovered": 1742
-  },
-  "Cuba": {
-    "date": "2020-8-31",
-    "confirmed": 3973,
-    "deaths": 94,
-    "recovered": 3327
   },
   "Slovakia": {
     "date": "2020-8-31",
@@ -727,21 +727,21 @@
   },
   "Sri Lanka": {
     "date": "2020-8-31",
-    "confirmed": 3018,
+    "confirmed": 3049,
     "deaths": 12,
     "recovered": 2868
+  },
+  "Uganda": {
+    "date": "2020-8-31",
+    "confirmed": 2972,
+    "deaths": 32,
+    "recovered": 1288
   },
   "Gambia": {
     "date": "2020-8-31",
     "confirmed": 2963,
     "deaths": 96,
     "recovered": 1032
-  },
-  "Uganda": {
-    "date": "2020-8-31",
-    "confirmed": 2928,
-    "deaths": 30,
-    "recovered": 1288
   },
   "Lithuania": {
     "date": "2020-8-31",
@@ -757,7 +757,7 @@
   },
   "Mali": {
     "date": "2020-8-31",
-    "confirmed": 2773,
+    "confirmed": 2776,
     "deaths": 126,
     "recovered": 2169
   },
@@ -829,9 +829,9 @@
   },
   "Yemen": {
     "date": "2020-8-31",
-    "confirmed": 1953,
-    "deaths": 564,
-    "recovered": 1123
+    "confirmed": 1958,
+    "deaths": 566,
+    "recovered": 1131
   },
   "Malta": {
     "date": "2020-8-31",
@@ -865,7 +865,7 @@
   },
   "Cyprus": {
     "date": "2020-8-31",
-    "confirmed": 1487,
+    "confirmed": 1488,
     "deaths": 20,
     "recovered": 1139
   },
@@ -931,9 +931,9 @@
   },
   "Chad": {
     "date": "2020-8-31",
-    "confirmed": 1012,
+    "confirmed": 1013,
     "deaths": 77,
-    "recovered": 878
+    "recovered": 880
   },
   "Belize": {
     "date": "2020-8-31",
