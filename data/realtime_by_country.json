@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2020-9-2",
-    "confirmed": 6071971,
-    "deaths": 184589,
+    "confirmed": 6072871,
+    "deaths": 184629,
     "recovered": 2202663
   },
   "Brazil": {
     "date": "2020-9-2",
-    "confirmed": 3908272,
-    "deaths": 121381,
+    "confirmed": 3950931,
+    "deaths": 122596,
     "recovered": 3333395
   },
   "India": {
@@ -27,7 +27,7 @@
     "date": "2020-9-2",
     "confirmed": 652037,
     "deaths": 28944,
-    "recovered": 462329
+    "recovered": 471599
   },
   "South Africa": {
     "date": "2020-9-2",
@@ -37,9 +37,9 @@
   },
   "Colombia": {
     "date": "2020-9-2",
-    "confirmed": 614669,
-    "deaths": 19640,
-    "recovered": 458815
+    "confirmed": 615094,
+    "deaths": 19662,
+    "recovered": 459460
   },
   "Mexico": {
     "date": "2020-9-2",
@@ -75,7 +75,7 @@
     "date": "2020-9-2",
     "confirmed": 339385,
     "deaths": 41592,
-    "recovered": 1689
+    "recovered": 1691
   },
   "France": {
     "date": "2020-9-2",
@@ -193,15 +193,15 @@
   },
   "Panama": {
     "date": "2020-9-2",
-    "confirmed": 92982,
-    "deaths": 2002,
-    "recovered": 66173
+    "confirmed": 93552,
+    "deaths": 2018,
+    "recovered": 66974
   },
   "China": {
     "date": "2020-9-2",
     "confirmed": 89926,
     "deaths": 4724,
-    "recovered": 84632
+    "recovered": 84633
   },
   "Romania": {
     "date": "2020-9-2",
@@ -241,9 +241,9 @@
   },
   "Netherlands": {
     "date": "2020-9-2",
-    "confirmed": 73695,
+    "confirmed": 73793,
     "deaths": 6258,
-    "recovered": 1010
+    "recovered": 1099
   },
   "Belarus": {
     "date": "2020-9-2",
@@ -643,9 +643,9 @@
   },
   "Montenegro": {
     "date": "2020-9-2",
-    "confirmed": 4835,
-    "deaths": 100,
-    "recovered": 4021
+    "confirmed": 4917,
+    "deaths": 102,
+    "recovered": 4058
   },
   "Central African Republic": {
     "date": "2020-9-2",
@@ -653,23 +653,29 @@
     "deaths": 62,
     "recovered": 1790
   },
-  "Eswatini": {
-    "date": "2020-9-2",
-    "confirmed": 4577,
-    "deaths": 91,
-    "recovered": 3529
-  },
   "Nicaragua": {
     "date": "2020-9-2",
-    "confirmed": 4494,
-    "deaths": 137,
+    "confirmed": 4668,
+    "deaths": 141,
     "recovered": 2913
+  },
+  "Eswatini": {
+    "date": "2020-9-2",
+    "confirmed": 4618,
+    "deaths": 94,
+    "recovered": 3562
   },
   "Rwanda": {
     "date": "2020-9-2",
     "confirmed": 4142,
     "deaths": 16,
     "recovered": 2044
+  },
+  "Suriname": {
+    "date": "2020-9-2",
+    "confirmed": 4089,
+    "deaths": 72,
+    "recovered": 3171
   },
   "Cuba": {
     "date": "2020-9-2",
@@ -682,12 +688,6 @@
     "confirmed": 4039,
     "deaths": 23,
     "recovered": 2170
-  },
-  "Suriname": {
-    "date": "2020-9-2",
-    "confirmed": 4034,
-    "deaths": 71,
-    "recovered": 3140
   },
   "Slovakia": {
     "date": "2020-9-2",
@@ -709,9 +709,9 @@
   },
   "Tunisia": {
     "date": "2020-9-2",
-    "confirmed": 3803,
-    "deaths": 77,
-    "recovered": 1573
+    "confirmed": 3963,
+    "deaths": 80,
+    "recovered": 1624
   },
   "Thailand": {
     "date": "2020-9-2",
@@ -793,7 +793,7 @@
   },
   "Bahamas": {
     "date": "2020-9-2",
-    "confirmed": 2217,
+    "confirmed": 2276,
     "deaths": 50,
     "recovered": 801
   },
@@ -923,6 +923,12 @@
     "deaths": 31,
     "recovered": 528
   },
+  "Belize": {
+    "date": "2020-9-2",
+    "confirmed": 1050,
+    "deaths": 13,
+    "recovered": 213
+  },
   "Vietnam": {
     "date": "2020-9-2",
     "confirmed": 1044,
@@ -935,12 +941,6 @@
     "deaths": 77,
     "recovered": 884
   },
-  "Belize": {
-    "date": "2020-9-2",
-    "confirmed": 1007,
-    "deaths": 13,
-    "recovered": 173
-  },
   "Burma": {
     "date": "2020-9-2",
     "confirmed": 919,
@@ -951,7 +951,7 @@
     "date": "2020-9-2",
     "confirmed": 896,
     "deaths": 15,
-    "recovered": 851
+    "recovered": 853
   },
   "San Marino": {
     "date": "2020-9-2",
@@ -1027,7 +1027,7 @@
   },
   "Barbados": {
     "date": "2020-9-2",
-    "confirmed": 174,
+    "confirmed": 176,
     "deaths": 7,
     "recovered": 146
   },
