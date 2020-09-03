@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-3",
-    "confirmed": 6125916,
-    "deaths": 186185,
+    "confirmed": 6131344,
+    "deaths": 186293,
     "recovered": 2231757
   },
   "Brazil": {
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-9-3",
-    "confirmed": 248267,
+    "confirmed": 248496,
     "deaths": 9322,
     "recovered": 221525
   },
@@ -581,17 +581,17 @@
     "deaths": 210,
     "recovered": 5870
   },
+  "Maldives": {
+    "date": "2020-9-3",
+    "confirmed": 8281,
+    "deaths": 29,
+    "recovered": 5483
+  },
   "Finland": {
     "date": "2020-9-3",
     "confirmed": 8200,
     "deaths": 336,
     "recovered": 7350
-  },
-  "Maldives": {
-    "date": "2020-9-3",
-    "confirmed": 8140,
-    "deaths": 29,
-    "recovered": 5338
   },
   "Namibia": {
     "date": "2020-9-3",
@@ -677,6 +677,12 @@
     "deaths": 17,
     "recovered": 2071
   },
+  "Cuba": {
+    "date": "2020-9-3",
+    "confirmed": 4214,
+    "deaths": 100,
+    "recovered": 3474
+  },
   "Mozambique": {
     "date": "2020-9-3",
     "confirmed": 4207,
@@ -700,12 +706,6 @@
     "confirmed": 4149,
     "deaths": 72,
     "recovered": 3272
-  },
-  "Cuba": {
-    "date": "2020-9-3",
-    "confirmed": 4126,
-    "deaths": 98,
-    "recovered": 3458
   },
   "Cabo Verde": {
     "date": "2020-9-3",
