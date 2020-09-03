@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-3",
-    "confirmed": 6114406,
-    "deaths": 185744,
+    "confirmed": 6114768,
+    "deaths": 185747,
     "recovered": 2231757
   },
   "Brazil": {
@@ -116,7 +116,7 @@
   "Germany": {
     "date": "2020-9-3",
     "confirmed": 247411,
-    "deaths": 9322,
+    "deaths": 9324,
     "recovered": 219904
   },
   "Iraq": {
@@ -259,7 +259,7 @@
   },
   "Japan": {
     "date": "2020-9-3",
-    "confirmed": 69659,
+    "confirmed": 69880,
     "deaths": 1327,
     "recovered": 58108
   },
@@ -329,17 +329,17 @@
     "deaths": 276,
     "recovered": 43478
   },
+  "Armenia": {
+    "date": "2020-9-3",
+    "confirmed": 44271,
+    "deaths": 887,
+    "recovered": 38855
+  },
   "Kyrgyzstan": {
     "date": "2020-9-3",
     "confirmed": 44135,
     "deaths": 1059,
     "recovered": 39174
-  },
-  "Armenia": {
-    "date": "2020-9-3",
-    "confirmed": 44075,
-    "deaths": 884,
-    "recovered": 38631
   },
   "Costa Rica": {
     "date": "2020-9-3",
@@ -367,9 +367,9 @@
   },
   "Afghanistan": {
     "date": "2020-9-3",
-    "confirmed": 38243,
+    "confirmed": 38288,
     "deaths": 1409,
-    "recovered": 29315
+    "recovered": 29390
   },
   "Moldova": {
     "date": "2020-9-3",
@@ -605,6 +605,12 @@
     "deaths": 160,
     "recovered": 6548
   },
+  "Hungary": {
+    "date": "2020-9-3",
+    "confirmed": 6923,
+    "deaths": 620,
+    "recovered": 3930
+  },
   "Luxembourg": {
     "date": "2020-9-3",
     "confirmed": 6745,
@@ -616,12 +622,6 @@
     "confirmed": 6638,
     "deaths": 206,
     "recovered": 5250
-  },
-  "Hungary": {
-    "date": "2020-9-3",
-    "confirmed": 6622,
-    "deaths": 619,
-    "recovered": 3903
   },
   "Malawi": {
     "date": "2020-9-3",
@@ -865,9 +865,9 @@
   },
   "Georgia": {
     "date": "2020-9-3",
-    "confirmed": 1548,
+    "confirmed": 1568,
     "deaths": 19,
-    "recovered": 1270
+    "recovered": 1279
   },
   "Cyprus": {
     "date": "2020-9-3",
@@ -883,9 +883,9 @@
   },
   "Latvia": {
     "date": "2020-9-3",
-    "confirmed": 1406,
+    "confirmed": 1410,
     "deaths": 34,
-    "recovered": 1173
+    "recovered": 1187
   },
   "Guyana": {
     "date": "2020-9-3",
