@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-3",
-    "confirmed": 6113510,
-    "deaths": 185720,
+    "confirmed": 6114406,
+    "deaths": 185744,
     "recovered": 2231757
   },
   "Brazil": {
@@ -151,9 +151,9 @@
   },
   "Israel": {
     "date": "2020-9-3",
-    "confirmed": 121464,
+    "confirmed": 122539,
     "deaths": 969,
-    "recovered": 97234
+    "recovered": 97872
   },
   "Qatar": {
     "date": "2020-9-3",
@@ -177,7 +177,7 @@
     "date": "2020-9-3",
     "confirmed": 106032,
     "deaths": 1588,
-    "recovered": 97371
+    "recovered": 97967
   },
   "Egypt": {
     "date": "2020-9-3",
@@ -259,7 +259,7 @@
   },
   "Japan": {
     "date": "2020-9-3",
-    "confirmed": 69619,
+    "confirmed": 69626,
     "deaths": 1327,
     "recovered": 58108
   },
@@ -329,17 +329,17 @@
     "deaths": 276,
     "recovered": 43478
   },
+  "Kyrgyzstan": {
+    "date": "2020-9-3",
+    "confirmed": 44135,
+    "deaths": 1059,
+    "recovered": 39174
+  },
   "Armenia": {
     "date": "2020-9-3",
     "confirmed": 44075,
     "deaths": 884,
     "recovered": 38631
-  },
-  "Kyrgyzstan": {
-    "date": "2020-9-3",
-    "confirmed": 44036,
-    "deaths": 1059,
-    "recovered": 38895
   },
   "Costa Rica": {
     "date": "2020-9-3",
@@ -355,9 +355,9 @@
   },
   "Uzbekistan": {
     "date": "2020-9-3",
-    "confirmed": 42437,
-    "deaths": 327,
-    "recovered": 39664
+    "confirmed": 42540,
+    "deaths": 329,
+    "recovered": 39883
   },
   "Nepal": {
     "date": "2020-9-3",
@@ -411,7 +411,7 @@
     "date": "2020-9-3",
     "confirmed": 26049,
     "deaths": 678,
-    "recovered": 21690
+    "recovered": 21910
   },
   "El Salvador": {
     "date": "2020-9-3",
@@ -761,6 +761,12 @@
     "deaths": 120,
     "recovered": 661
   },
+  "Jamaica": {
+    "date": "2020-9-3",
+    "confirmed": 2822,
+    "deaths": 27,
+    "recovered": 900
+  },
   "Mali": {
     "date": "2020-9-3",
     "confirmed": 2802,
@@ -772,12 +778,6 @@
     "confirmed": 2777,
     "deaths": 112,
     "recovered": 1115
-  },
-  "Jamaica": {
-    "date": "2020-9-3",
-    "confirmed": 2683,
-    "deaths": 24,
-    "recovered": 898
   },
   "South Sudan": {
     "date": "2020-9-3",
