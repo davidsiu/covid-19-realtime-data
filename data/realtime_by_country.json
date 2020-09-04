@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-4",
-    "confirmed": 6173562,
-    "deaths": 187152,
+    "confirmed": 6176623,
+    "deaths": 187200,
     "recovered": 2266957
   },
   "Brazil": {
@@ -145,9 +145,9 @@
   },
   "Canada": {
     "date": "2020-9-4",
-    "confirmed": 132738,
+    "confirmed": 132772,
     "deaths": 9189,
-    "recovered": 117428
+    "recovered": 117458
   },
   "Israel": {
     "date": "2020-9-4",
@@ -169,9 +169,9 @@
   },
   "Ecuador": {
     "date": "2020-9-4",
-    "confirmed": 116360,
-    "deaths": 6648,
-    "recovered": 102051
+    "confirmed": 117175,
+    "deaths": 6674,
+    "recovered": 102200
   },
   "Kazakhstan": {
     "date": "2020-9-4",
@@ -271,9 +271,9 @@
   },
   "Morocco": {
     "date": "2020-9-4",
-    "confirmed": 66855,
-    "deaths": 1253,
-    "recovered": 51223
+    "confirmed": 68605,
+    "deaths": 1292,
+    "recovered": 52483
   },
   "Honduras": {
     "date": "2020-9-4",
@@ -295,9 +295,9 @@
   },
   "Ethiopia": {
     "date": "2020-9-4",
-    "confirmed": 55213,
-    "deaths": 856,
-    "recovered": 20283
+    "confirmed": 56516,
+    "deaths": 880,
+    "recovered": 20612
   },
   "Nigeria": {
     "date": "2020-9-4",
@@ -541,7 +541,7 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-9-4",
-    "confirmed": 10125,
+    "confirmed": 10149,
     "deaths": 259,
     "recovered": 9367
   },
@@ -575,6 +575,12 @@
     "deaths": 53,
     "recovered": 7335
   },
+  "Maldives": {
+    "date": "2020-9-4",
+    "confirmed": 8361,
+    "deaths": 29,
+    "recovered": 5642
+  },
   "Namibia": {
     "date": "2020-9-4",
     "confirmed": 8323,
@@ -586,12 +592,6 @@
     "confirmed": 8301,
     "deaths": 210,
     "recovered": 5870
-  },
-  "Maldives": {
-    "date": "2020-9-4",
-    "confirmed": 8281,
-    "deaths": 29,
-    "recovered": 5483
   },
   "Finland": {
     "date": "2020-9-4",
@@ -647,17 +647,17 @@
     "deaths": 83,
     "recovered": 4390
   },
+  "Eswatini": {
+    "date": "2020-9-4",
+    "confirmed": 4780,
+    "deaths": 94,
+    "recovered": 3844
+  },
   "Central African Republic": {
     "date": "2020-9-4",
     "confirmed": 4729,
     "deaths": 62,
     "recovered": 1807
-  },
-  "Eswatini": {
-    "date": "2020-9-4",
-    "confirmed": 4720,
-    "deaths": 94,
-    "recovered": 3789
   },
   "Nicaragua": {
     "date": "2020-9-4",
@@ -683,6 +683,12 @@
     "deaths": 37,
     "recovered": 2693
   },
+  "Mozambique": {
+    "date": "2020-9-4",
+    "confirmed": 4265,
+    "deaths": 26,
+    "recovered": 2511
+  },
   "Rwanda": {
     "date": "2020-9-4",
     "confirmed": 4255,
@@ -700,12 +706,6 @@
     "confirmed": 4214,
     "deaths": 100,
     "recovered": 3474
-  },
-  "Mozambique": {
-    "date": "2020-9-4",
-    "confirmed": 4207,
-    "deaths": 26,
-    "recovered": 2370
   },
   "Cabo Verde": {
     "date": "2020-9-4",
@@ -833,6 +833,12 @@
     "deaths": 30,
     "recovered": 707
   },
+  "Botswana": {
+    "date": "2020-9-4",
+    "confirmed": 2002,
+    "deaths": 8,
+    "recovered": 493
+  },
   "Malta": {
     "date": "2020-9-4",
     "confirmed": 1984,
@@ -841,21 +847,15 @@
   },
   "Yemen": {
     "date": "2020-9-4",
-    "confirmed": 1979,
-    "deaths": 571,
-    "recovered": 1180
+    "confirmed": 1983,
+    "deaths": 572,
+    "recovered": 1194
   },
   "New Zealand": {
     "date": "2020-9-4",
     "confirmed": 1764,
     "deaths": 23,
     "recovered": 1630
-  },
-  "Botswana": {
-    "date": "2020-9-4",
-    "confirmed": 1724,
-    "deaths": 6,
-    "recovered": 493
   },
   "Uruguay": {
     "date": "2020-9-4",
@@ -871,7 +871,7 @@
   },
   "Cyprus": {
     "date": "2020-9-4",
-    "confirmed": 1498,
+    "confirmed": 1502,
     "deaths": 21,
     "recovered": 1139
   },
@@ -917,6 +917,12 @@
     "deaths": 69,
     "recovered": 1091
   },
+  "Lesotho": {
+    "date": "2020-9-4",
+    "confirmed": 1148,
+    "deaths": 31,
+    "recovered": 528
+  },
   "Belize": {
     "date": "2020-9-4",
     "confirmed": 1118,
@@ -928,12 +934,6 @@
     "confirmed": 1111,
     "deaths": 6,
     "recovered": 359
-  },
-  "Lesotho": {
-    "date": "2020-9-4",
-    "confirmed": 1085,
-    "deaths": 31,
-    "recovered": 528
   },
   "Vietnam": {
     "date": "2020-9-4",
