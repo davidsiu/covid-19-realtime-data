@@ -245,17 +245,17 @@
     "deaths": 6268,
     "recovered": 1379
   },
+  "United Arab Emirates": {
+    "date": "2020-9-4",
+    "confirmed": 72766,
+    "deaths": 387,
+    "recovered": 63158
+  },
   "Belarus": {
     "date": "2020-9-4",
     "confirmed": 72302,
     "deaths": 696,
     "recovered": 71205
-  },
-  "United Arab Emirates": {
-    "date": "2020-9-4",
-    "confirmed": 72154,
-    "deaths": 387,
-    "recovered": 62668
   },
   "Japan": {
     "date": "2020-9-4",
@@ -341,6 +341,12 @@
     "deaths": 460,
     "recovered": 17855
   },
+  "Nepal": {
+    "date": "2020-9-4",
+    "confirmed": 44236,
+    "deaths": 271,
+    "recovered": 25561
+  },
   "Kyrgyzstan": {
     "date": "2020-9-4",
     "confirmed": 44199,
@@ -358,12 +364,6 @@
     "confirmed": 42903,
     "deaths": 336,
     "recovered": 40176
-  },
-  "Nepal": {
-    "date": "2020-9-4",
-    "confirmed": 42877,
-    "deaths": 257,
-    "recovered": 24207
   },
   "Moldova": {
     "date": "2020-9-4",
@@ -487,9 +487,9 @@
   },
   "Madagascar": {
     "date": "2020-9-4",
-    "confirmed": 15106,
-    "deaths": 197,
-    "recovered": 14031
+    "confirmed": 15187,
+    "deaths": 198,
+    "recovered": 14075
   },
   "North Macedonia": {
     "date": "2020-9-4",
@@ -817,15 +817,21 @@
   },
   "Iceland": {
     "date": "2020-9-4",
-    "confirmed": 2128,
+    "confirmed": 2135,
     "deaths": 10,
-    "recovered": 2023
+    "recovered": 2029
   },
   "Sierra Leone": {
     "date": "2020-9-4",
     "confirmed": 2035,
     "deaths": 71,
     "recovered": 1600
+  },
+  "Malta": {
+    "date": "2020-9-4",
+    "confirmed": 1984,
+    "deaths": 13,
+    "recovered": 1565
   },
   "Trinidad and Tobago": {
     "date": "2020-9-4",
@@ -839,16 +845,10 @@
     "deaths": 571,
     "recovered": 1180
   },
-  "Malta": {
-    "date": "2020-9-4",
-    "confirmed": 1965,
-    "deaths": 13,
-    "recovered": 1528
-  },
   "New Zealand": {
     "date": "2020-9-4",
     "confirmed": 1764,
-    "deaths": 22,
+    "deaths": 23,
     "recovered": 1630
   },
   "Botswana": {
@@ -937,9 +937,9 @@
   },
   "Vietnam": {
     "date": "2020-9-4",
-    "confirmed": 1046,
+    "confirmed": 1049,
     "deaths": 35,
-    "recovered": 755
+    "recovered": 772
   },
   "Chad": {
     "date": "2020-9-4",
