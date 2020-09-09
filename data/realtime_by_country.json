@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-9",
-    "confirmed": 6351623,
-    "deaths": 190478,
+    "confirmed": 6354869,
+    "deaths": 190589,
     "recovered": 2359111
   },
   "India": {
@@ -79,7 +79,7 @@
   },
   "United Kingdom": {
     "date": "2020-9-9",
-    "confirmed": 357595,
+    "confirmed": 357597,
     "deaths": 41683,
     "recovered": 1829
   },
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-9-9",
-    "confirmed": 136045,
+    "confirmed": 136135,
     "deaths": 9204,
-    "recovered": 119742
+    "recovered": 119789
   },
   "Bolivia": {
     "date": "2020-9-9",
@@ -241,9 +241,9 @@
   },
   "Guatemala": {
     "date": "2020-9-9",
-    "confirmed": 78721,
-    "deaths": 2890,
-    "recovered": 67462
+    "confirmed": 79622,
+    "deaths": 2897,
+    "recovered": 68308
   },
   "Morocco": {
     "date": "2020-9-9",
@@ -293,17 +293,17 @@
     "deaths": 1849,
     "recovered": 43284
   },
+  "Bahrain": {
+    "date": "2020-9-9",
+    "confirmed": 57450,
+    "deaths": 203,
+    "recovered": 51819
+  },
   "Singapore": {
     "date": "2020-9-9",
     "confirmed": 57166,
     "deaths": 27,
     "recovered": 56492
-  },
-  "Bahrain": {
-    "date": "2020-9-9",
-    "confirmed": 56778,
-    "deaths": 203,
-    "recovered": 51574
   },
   "Venezuela": {
     "date": "2020-9-9",
@@ -475,9 +475,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-9-9",
-    "confirmed": 18778,
+    "confirmed": 18815,
     "deaths": 119,
-    "recovered": 17688
+    "recovered": 17770
   },
   "Bulgaria": {
     "date": "2020-9-9",
@@ -589,9 +589,9 @@
   },
   "Gabon": {
     "date": "2020-9-9",
-    "confirmed": 8608,
+    "confirmed": 8621,
     "deaths": 53,
-    "recovered": 7533
+    "recovered": 7618
   },
   "Finland": {
     "date": "2020-9-9",
@@ -619,9 +619,9 @@
   },
   "Luxembourg": {
     "date": "2020-9-9",
-    "confirmed": 6974,
+    "confirmed": 7023,
     "deaths": 124,
-    "recovered": 6266
+    "recovered": 6292
   },
   "Montenegro": {
     "date": "2020-9-9",
@@ -677,23 +677,29 @@
     "deaths": 144,
     "recovered": 2913
   },
+  "Mozambique": {
+    "date": "2020-9-9",
+    "confirmed": 4764,
+    "deaths": 28,
+    "recovered": 2763
+  },
   "Central African Republic": {
     "date": "2020-9-9",
     "confirmed": 4735,
     "deaths": 62,
     "recovered": 1825
   },
-  "Mozambique": {
-    "date": "2020-9-9",
-    "confirmed": 4647,
-    "deaths": 28,
-    "recovered": 2715
-  },
   "Cabo Verde": {
     "date": "2020-9-9",
     "confirmed": 4473,
     "deaths": 43,
     "recovered": 3915
+  },
+  "Cuba": {
+    "date": "2020-9-9",
+    "confirmed": 4459,
+    "deaths": 104,
+    "recovered": 3727
   },
   "Rwanda": {
     "date": "2020-9-9",
@@ -706,12 +712,6 @@
     "confirmed": 4419,
     "deaths": 91,
     "recovered": 3595
-  },
-  "Cuba": {
-    "date": "2020-9-9",
-    "confirmed": 4377,
-    "deaths": 104,
-    "recovered": 3700
   },
   "Uganda": {
     "date": "2020-9-9",
@@ -731,6 +731,12 @@
     "deaths": 97,
     "recovered": 2738
   },
+  "Syria": {
+    "date": "2020-9-9",
+    "confirmed": 3351,
+    "deaths": 143,
+    "recovered": 780
+  },
   "Jamaica": {
     "date": "2020-9-9",
     "confirmed": 3323,
@@ -748,12 +754,6 @@
     "confirmed": 3293,
     "deaths": 99,
     "recovered": 1460
-  },
-  "Syria": {
-    "date": "2020-9-9",
-    "confirmed": 3289,
-    "deaths": 140,
-    "recovered": 760
   },
   "Lithuania": {
     "date": "2020-9-9",
@@ -775,9 +775,9 @@
   },
   "Mali": {
     "date": "2020-9-9",
-    "confirmed": 2882,
-    "deaths": 127,
-    "recovered": 2258
+    "confirmed": 2898,
+    "deaths": 128,
+    "recovered": 2267
   },
   "Jordan": {
     "date": "2020-9-9",
@@ -881,17 +881,17 @@
     "deaths": 48,
     "recovered": 1030
   },
+  "Togo": {
+    "date": "2020-9-9",
+    "confirmed": 1528,
+    "deaths": 36,
+    "recovered": 1144
+  },
   "Cyprus": {
     "date": "2020-9-9",
     "confirmed": 1514,
     "deaths": 22,
     "recovered": 1237
-  },
-  "Togo": {
-    "date": "2020-9-9",
-    "confirmed": 1513,
-    "deaths": 34,
-    "recovered": 1127
   },
   "Burkina Faso": {
     "date": "2020-9-9",
