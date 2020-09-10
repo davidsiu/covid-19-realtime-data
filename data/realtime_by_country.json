@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-10",
-    "confirmed": 6358247,
-    "deaths": 190727,
+    "confirmed": 6358983,
+    "deaths": 190763,
     "recovered": 2387479
   },
   "India": {
@@ -211,9 +211,9 @@
   },
   "China": {
     "date": "2020-9-10",
-    "confirmed": 90087,
+    "confirmed": 90099,
     "deaths": 4733,
-    "recovered": 84932
+    "recovered": 84948
   },
   "Belgium": {
     "date": "2020-9-10",
@@ -791,6 +791,12 @@
     "deaths": 63,
     "recovered": 1088
   },
+  "Trinidad and Tobago": {
+    "date": "2020-9-10",
+    "confirmed": 2588,
+    "deaths": 39,
+    "recovered": 749
+  },
   "Estonia": {
     "date": "2020-9-10",
     "confirmed": 2585,
@@ -799,15 +805,9 @@
   },
   "South Sudan": {
     "date": "2020-9-10",
-    "confirmed": 2552,
+    "confirmed": 2555,
     "deaths": 49,
     "recovered": 1290
-  },
-  "Trinidad and Tobago": {
-    "date": "2020-9-10",
-    "confirmed": 2493,
-    "deaths": 39,
-    "recovered": 749
   },
   "Guinea-Bissau": {
     "date": "2020-9-10",
@@ -931,7 +931,7 @@
   },
   "Lesotho": {
     "date": "2020-9-10",
-    "confirmed": 1148,
+    "confirmed": 1164,
     "deaths": 31,
     "recovered": 528
   },
