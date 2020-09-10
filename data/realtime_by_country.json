@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-10",
-    "confirmed": 6363276,
-    "deaths": 190873,
+    "confirmed": 6363300,
+    "deaths": 190885,
     "recovered": 2387479
   },
   "India": {
@@ -67,21 +67,21 @@
   },
   "Iran": {
     "date": "2020-9-10",
-    "confirmed": 393425,
-    "deaths": 22669,
-    "recovered": 339111
+    "confirmed": 395488,
+    "deaths": 22798,
+    "recovered": 340842
   },
   "France": {
     "date": "2020-9-10",
-    "confirmed": 383292,
+    "confirmed": 383293,
     "deaths": 30805,
     "recovered": 89242
   },
   "United Kingdom": {
     "date": "2020-9-10",
-    "confirmed": 357613,
+    "confirmed": 357614,
     "deaths": 41683,
-    "recovered": 1831
+    "recovered": 1841
   },
   "Bangladesh": {
     "date": "2020-9-10",
@@ -211,9 +211,9 @@
   },
   "China": {
     "date": "2020-9-10",
-    "confirmed": 90100,
+    "confirmed": 90112,
     "deaths": 4733,
-    "recovered": 84957
+    "recovered": 84982
   },
   "Belgium": {
     "date": "2020-9-10",
@@ -235,7 +235,7 @@
   },
   "Netherlands": {
     "date": "2020-9-10",
-    "confirmed": 81085,
+    "confirmed": 81089,
     "deaths": 6281,
     "recovered": 1742
   },
@@ -335,6 +335,12 @@
     "deaths": 1581,
     "recovered": 33379
   },
+  "Switzerland": {
+    "date": "2020-9-10",
+    "confirmed": 45711,
+    "deaths": 2019,
+    "recovered": 38100
+  },
   "Armenia": {
     "date": "2020-9-10",
     "confirmed": 45326,
@@ -346,12 +352,6 @@
     "confirmed": 45313,
     "deaths": 283,
     "recovered": 44188
-  },
-  "Switzerland": {
-    "date": "2020-9-10",
-    "confirmed": 45306,
-    "deaths": 2019,
-    "recovered": 38100
   },
   "Uzbekistan": {
     "date": "2020-9-10",
@@ -823,15 +823,15 @@
   },
   "Malta": {
     "date": "2020-9-10",
-    "confirmed": 2162,
+    "confirmed": 2204,
     "deaths": 14,
-    "recovered": 1760
+    "recovered": 1803
   },
   "Iceland": {
     "date": "2020-9-10",
-    "confirmed": 2153,
+    "confirmed": 2157,
     "deaths": 10,
-    "recovered": 2067
+    "recovered": 2072
   },
   "Botswana": {
     "date": "2020-9-10",
@@ -1085,17 +1085,17 @@
     "deaths": 0,
     "recovered": 25
   },
+  "Dominica": {
+    "date": "2020-9-10",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 18
+  },
   "Grenada": {
     "date": "2020-9-10",
     "confirmed": 24,
     "deaths": 0,
     "recovered": 24
-  },
-  "Dominica": {
-    "date": "2020-9-10",
-    "confirmed": 22,
-    "deaths": 0,
-    "recovered": 18
   },
   "Laos": {
     "date": "2020-9-10",
