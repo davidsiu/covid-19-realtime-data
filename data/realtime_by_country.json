@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-13",
-    "confirmed": 6512451,
-    "deaths": 193976,
+    "confirmed": 6513489,
+    "deaths": 194018,
     "recovered": 2434658
   },
   "India": {
@@ -145,15 +145,15 @@
   },
   "Israel": {
     "date": "2020-9-13",
-    "confirmed": 153759,
-    "deaths": 1108,
-    "recovered": 114635
+    "confirmed": 155604,
+    "deaths": 1119,
+    "recovered": 114998
   },
   "Canada": {
     "date": "2020-9-13",
-    "confirmed": 138607,
+    "confirmed": 138625,
     "deaths": 9220,
-    "recovered": 122256
+    "recovered": 122257
   },
   "Bolivia": {
     "date": "2020-9-13",
@@ -559,9 +559,9 @@
   },
   "Guinea": {
     "date": "2020-9-13",
-    "confirmed": 10020,
+    "confirmed": 10045,
     "deaths": 63,
-    "recovered": 9251
+    "recovered": 9292
   },
   "Malaysia": {
     "date": "2020-9-13",
@@ -683,6 +683,12 @@
     "deaths": 144,
     "recovered": 2913
   },
+  "Cabo Verde": {
+    "date": "2020-9-13",
+    "confirmed": 4813,
+    "deaths": 44,
+    "recovered": 4119
+  },
   "Uganda": {
     "date": "2020-9-13",
     "confirmed": 4799,
@@ -695,29 +701,23 @@
     "deaths": 62,
     "recovered": 1825
   },
-  "Cabo Verde": {
-    "date": "2020-9-13",
-    "confirmed": 4711,
-    "deaths": 44,
-    "recovered": 4104
-  },
   "Cuba": {
     "date": "2020-9-13",
     "confirmed": 4653,
     "deaths": 108,
     "recovered": 3878
   },
+  "Rwanda": {
+    "date": "2020-9-13",
+    "confirmed": 4591,
+    "deaths": 22,
+    "recovered": 2556
+  },
   "Suriname": {
     "date": "2020-9-13",
     "confirmed": 4579,
     "deaths": 93,
     "recovered": 3788
-  },
-  "Rwanda": {
-    "date": "2020-9-13",
-    "confirmed": 4565,
-    "deaths": 22,
-    "recovered": 2544
   },
   "Slovenia": {
     "date": "2020-9-13",
@@ -749,17 +749,17 @@
     "deaths": 98,
     "recovered": 2803
   },
+  "Angola": {
+    "date": "2020-9-13",
+    "confirmed": 3388,
+    "deaths": 134,
+    "recovered": 1301
+  },
   "Gambia": {
     "date": "2020-9-13",
     "confirmed": 3376,
     "deaths": 102,
     "recovered": 1617
-  },
-  "Angola": {
-    "date": "2020-9-13",
-    "confirmed": 3335,
-    "deaths": 132,
-    "recovered": 1289
   },
   "Lithuania": {
     "date": "2020-9-13",
@@ -889,9 +889,9 @@
   },
   "Togo": {
     "date": "2020-9-13",
-    "confirmed": 1555,
+    "confirmed": 1572,
     "deaths": 37,
-    "recovered": 1189
+    "recovered": 1190
   },
   "Cyprus": {
     "date": "2020-9-13",
