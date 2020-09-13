@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-13",
-    "confirmed": 6501904,
-    "deaths": 193843,
+    "confirmed": 6504139,
+    "deaths": 193867,
     "recovered": 2434658
   },
   "India": {
@@ -107,17 +107,17 @@
     "deaths": 7056,
     "recovered": 258833
   },
+  "Iraq": {
+    "date": "2020-9-13",
+    "confirmed": 290309,
+    "deaths": 8014,
+    "recovered": 224705
+  },
   "Italy": {
     "date": "2020-9-13",
     "confirmed": 287753,
     "deaths": 35610,
     "recovered": 213634
-  },
-  "Iraq": {
-    "date": "2020-9-13",
-    "confirmed": 286778,
-    "deaths": 7941,
-    "recovered": 221283
   },
   "Germany": {
     "date": "2020-9-13",
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-9-13",
-    "confirmed": 138533,
+    "confirmed": 138607,
     "deaths": 9220,
-    "recovered": 122201
+    "recovered": 122256
   },
   "Bolivia": {
     "date": "2020-9-13",
@@ -409,7 +409,7 @@
   },
   "Ireland": {
     "date": "2020-9-13",
-    "confirmed": 30730,
+    "confirmed": 30985,
     "deaths": 1784,
     "recovered": 23364
   },
@@ -767,17 +767,17 @@
     "deaths": 87,
     "recovered": 2070
   },
+  "Jordan": {
+    "date": "2020-9-13",
+    "confirmed": 3314,
+    "deaths": 24,
+    "recovered": 2206
+  },
   "Sri Lanka": {
     "date": "2020-9-13",
     "confirmed": 3234,
     "deaths": 12,
     "recovered": 2996
-  },
-  "Jordan": {
-    "date": "2020-9-13",
-    "confirmed": 3062,
-    "deaths": 22,
-    "recovered": 2156
   },
   "Trinidad and Tobago": {
     "date": "2020-9-13",
@@ -859,9 +859,9 @@
   },
   "Yemen": {
     "date": "2020-9-13",
-    "confirmed": 2009,
-    "deaths": 582,
-    "recovered": 1211
+    "confirmed": 2011,
+    "deaths": 583,
+    "recovered": 1212
   },
   "Guyana": {
     "date": "2020-9-13",
@@ -937,7 +937,7 @@
   },
   "Chad": {
     "date": "2020-9-13",
-    "confirmed": 1083,
+    "confirmed": 1084,
     "deaths": 80,
     "recovered": 938
   },
