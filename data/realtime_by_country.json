@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-14",
-    "confirmed": 6520606,
-    "deaths": 194084,
+    "confirmed": 6520733,
+    "deaths": 194087,
     "recovered": 2451406
   },
   "India": {
@@ -127,9 +127,9 @@
   },
   "Germany": {
     "date": "2020-9-14",
-    "confirmed": 262376,
-    "deaths": 9355,
-    "recovered": 233396
+    "confirmed": 262558,
+    "deaths": 9356,
+    "recovered": 233942
   },
   "Indonesia": {
     "date": "2020-9-14",
@@ -205,9 +205,9 @@
   },
   "Kuwait": {
     "date": "2020-9-14",
-    "confirmed": 94764,
-    "deaths": 560,
-    "recovered": 84995
+    "confirmed": 95472,
+    "deaths": 563,
+    "recovered": 85501
   },
   "Belgium": {
     "date": "2020-9-14",
@@ -227,6 +227,12 @@
     "deaths": 4735,
     "recovered": 85087
   },
+  "Netherlands": {
+    "date": "2020-9-14",
+    "confirmed": 87176,
+    "deaths": 6294,
+    "recovered": 2036
+  },
   "Morocco": {
     "date": "2020-9-14",
     "confirmed": 86686,
@@ -238,12 +244,6 @@
     "confirmed": 86505,
     "deaths": 5846,
     "recovered": null
-  },
-  "Netherlands": {
-    "date": "2020-9-14",
-    "confirmed": 85876,
-    "deaths": 6292,
-    "recovered": 2036
   },
   "Guatemala": {
     "date": "2020-9-14",
@@ -463,9 +463,9 @@
   },
   "Denmark": {
     "date": "2020-9-14",
-    "confirmed": 20327,
-    "deaths": 631,
-    "recovered": 16759
+    "confirmed": 20674,
+    "deaths": 633,
+    "recovered": 16863
   },
   "Cameroon": {
     "date": "2020-9-14",
@@ -487,9 +487,9 @@
   },
   "North Macedonia": {
     "date": "2020-9-14",
-    "confirmed": 15791,
-    "deaths": 648,
-    "recovered": 13184
+    "confirmed": 15827,
+    "deaths": 652,
+    "recovered": 13315
   },
   "Madagascar": {
     "date": "2020-9-14",
@@ -671,6 +671,12 @@
     "deaths": 83,
     "recovered": 4490
   },
+  "Uganda": {
+    "date": "2020-9-14",
+    "confirmed": 4978,
+    "deaths": 56,
+    "recovered": 2317
+  },
   "Congo (Brazzaville)": {
     "date": "2020-9-14",
     "confirmed": 4928,
@@ -688,12 +694,6 @@
     "confirmed": 4813,
     "deaths": 44,
     "recovered": 4119
-  },
-  "Uganda": {
-    "date": "2020-9-14",
-    "confirmed": 4799,
-    "deaths": 55,
-    "recovered": 2256
   },
   "Central African Republic": {
     "date": "2020-9-14",
@@ -775,8 +775,8 @@
   },
   "Sri Lanka": {
     "date": "2020-9-14",
-    "confirmed": 3234,
-    "deaths": 12,
+    "confirmed": 3235,
+    "deaths": 13,
     "recovered": 3005
   },
   "Trinidad and Tobago": {
