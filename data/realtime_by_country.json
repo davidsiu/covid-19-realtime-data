@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-15",
-    "confirmed": 6570889,
-    "deaths": 195047,
+    "confirmed": 6585763,
+    "deaths": 195275,
     "recovered": 2477942
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2020-9-15",
     "confirmed": 4345610,
     "deaths": 132006,
-    "recovered": 3770138
+    "recovered": 3798285
   },
   "Russia": {
     "date": "2020-9-15",
@@ -79,7 +79,7 @@
   },
   "United Kingdom": {
     "date": "2020-9-15",
-    "confirmed": 373565,
+    "confirmed": 376668,
     "deaths": 41753,
     "recovered": 2156
   },
@@ -221,6 +221,12 @@
     "deaths": 797,
     "recovered": 84113
   },
+  "Morocco": {
+    "date": "2020-9-15",
+    "confirmed": 90324,
+    "deaths": 1648,
+    "recovered": 71047
+  },
   "China": {
     "date": "2020-9-15",
     "confirmed": 90223,
@@ -229,15 +235,9 @@
   },
   "Netherlands": {
     "date": "2020-9-15",
-    "confirmed": 88573,
+    "confirmed": 88581,
     "deaths": 6298,
-    "recovered": 2061
-  },
-  "Morocco": {
-    "date": "2020-9-15",
-    "confirmed": 88203,
-    "deaths": 1614,
-    "recovered": 68970
+    "recovered": 2064
   },
   "Sweden": {
     "date": "2020-9-15",
@@ -281,17 +281,17 @@
     "deaths": 2087,
     "recovered": 18487
   },
+  "Ethiopia": {
+    "date": "2020-9-15",
+    "confirmed": 65486,
+    "deaths": 1035,
+    "recovered": 25988
+  },
   "Portugal": {
     "date": "2020-9-15",
     "confirmed": 65021,
     "deaths": 1875,
     "recovered": 44362
-  },
-  "Ethiopia": {
-    "date": "2020-9-15",
-    "confirmed": 64786,
-    "deaths": 1022,
-    "recovered": 25333
   },
   "Venezuela": {
     "date": "2020-9-15",
@@ -415,8 +415,8 @@
   },
   "Ireland": {
     "date": "2020-9-15",
-    "confirmed": 31192,
-    "deaths": 1784,
+    "confirmed": 31549,
+    "deaths": 1787,
     "recovered": 23364
   },
   "Paraguay": {
@@ -441,7 +441,7 @@
     "date": "2020-9-15",
     "confirmed": 25449,
     "deaths": 252,
-    "recovered": 8765
+    "recovered": 9216
   },
   "Bosnia and Herzegovina": {
     "date": "2020-9-15",
@@ -811,7 +811,7 @@
   },
   "South Sudan": {
     "date": "2020-9-15",
-    "confirmed": 2587,
+    "confirmed": 2592,
     "deaths": 49,
     "recovered": 1290
   },
@@ -859,9 +859,9 @@
   },
   "Yemen": {
     "date": "2020-9-15",
-    "confirmed": 2013,
+    "confirmed": 2016,
     "deaths": 583,
-    "recovered": 1215
+    "recovered": 1219
   },
   "Guyana": {
     "date": "2020-9-15",
@@ -997,7 +997,7 @@
   },
   "Eritrea": {
     "date": "2020-9-15",
-    "confirmed": 361,
+    "confirmed": 364,
     "deaths": 0,
     "recovered": 304
   },
