@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-9-21",
-    "confirmed": 6799141,
+    "confirmed": 6799266,
     "deaths": 199474,
     "recovered": 2590671
   },
@@ -23,17 +23,17 @@
     "deaths": 19349,
     "recovered": 906431
   },
+  "Colombia": {
+    "date": "2020-9-21",
+    "confirmed": 765076,
+    "deaths": 24208,
+    "recovered": 633199
+  },
   "Peru": {
     "date": "2020-9-21",
     "confirmed": 762865,
     "deaths": 31369,
     "recovered": 607837
-  },
-  "Colombia": {
-    "date": "2020-9-21",
-    "confirmed": 758398,
-    "deaths": 24039,
-    "recovered": 627685
   },
   "Mexico": {
     "date": "2020-9-21",
@@ -103,9 +103,9 @@
   },
   "Pakistan": {
     "date": "2020-9-21",
-    "confirmed": 305671,
-    "deaths": 6416,
-    "recovered": 292303
+    "confirmed": 306304,
+    "deaths": 6420,
+    "recovered": 292869
   },
   "Turkey": {
     "date": "2020-9-21",
@@ -187,15 +187,21 @@
   },
   "Kazakhstan": {
     "date": "2020-9-21",
-    "confirmed": 107262,
+    "confirmed": 107307,
     "deaths": 1671,
-    "recovered": 101877
+    "recovered": 101941
   },
   "Panama": {
     "date": "2020-9-21",
     "confirmed": 106203,
     "deaths": 2257,
     "recovered": 81365
+  },
+  "Belgium": {
+    "date": "2020-9-21",
+    "confirmed": 102295,
+    "deaths": 9948,
+    "recovered": 18965
   },
   "Egypt": {
     "date": "2020-9-21",
@@ -208,12 +214,6 @@
     "confirmed": 101743,
     "deaths": 1830,
     "recovered": 80732
-  },
-  "Belgium": {
-    "date": "2020-9-21",
-    "confirmed": 100748,
-    "deaths": 9944,
-    "recovered": 18945
   },
   "Kuwait": {
     "date": "2020-9-21",
@@ -235,7 +235,7 @@
   },
   "China": {
     "date": "2020-9-21",
-    "confirmed": 90366,
+    "confirmed": 90369,
     "deaths": 4737,
     "recovered": 85239
   },
@@ -277,9 +277,9 @@
   },
   "Honduras": {
     "date": "2020-9-21",
-    "confirmed": 71143,
-    "deaths": 2166,
-    "recovered": 21810
+    "confirmed": 71616,
+    "deaths": 2184,
+    "recovered": 22065
   },
   "Ethiopia": {
     "date": "2020-9-21",
@@ -895,9 +895,9 @@
   },
   "Belize": {
     "date": "2020-9-21",
-    "confirmed": 1606,
-    "deaths": 20,
-    "recovered": 876
+    "confirmed": 1627,
+    "deaths": 21,
+    "recovered": 918
   },
   "Cyprus": {
     "date": "2020-9-21",
