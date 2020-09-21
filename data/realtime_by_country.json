@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-21",
-    "confirmed": 6829956,
-    "deaths": 199690,
+    "confirmed": 6835013,
+    "deaths": 199743,
     "recovered": 2590695
   },
   "India": {
@@ -127,7 +127,7 @@
   },
   "Germany": {
     "date": "2020-9-21",
-    "confirmed": 275397,
+    "confirmed": 275511,
     "deaths": 9390,
     "recovered": 242656
   },
@@ -139,9 +139,9 @@
   },
   "Israel": {
     "date": "2020-9-21",
-    "confirmed": 190037,
-    "deaths": 1272,
-    "recovered": 136502
+    "confirmed": 190929,
+    "deaths": 1273,
+    "recovered": 136780
   },
   "Ukraine": {
     "date": "2020-9-21",
@@ -299,6 +299,12 @@
     "deaths": 547,
     "recovered": 56096
   },
+  "Costa Rica": {
+    "date": "2020-9-21",
+    "confirmed": 65602,
+    "deaths": 745,
+    "recovered": 25127
+  },
   "Nepal": {
     "date": "2020-9-21",
     "confirmed": 65276,
@@ -308,14 +314,8 @@
   "Bahrain": {
     "date": "2020-9-21",
     "confirmed": 65039,
-    "deaths": 223,
+    "deaths": 224,
     "recovered": 57950
-  },
-  "Costa Rica": {
-    "date": "2020-9-21",
-    "confirmed": 63712,
-    "deaths": 706,
-    "recovered": 23552
   },
   "Singapore": {
     "date": "2020-9-21",
@@ -695,6 +695,12 @@
     "deaths": 116,
     "recovered": 4462
   },
+  "Jordan": {
+    "date": "2020-9-21",
+    "confirmed": 5045,
+    "deaths": 32,
+    "recovered": 3527
+  },
   "Congo (Brazzaville)": {
     "date": "2020-9-21",
     "confirmed": 5002,
@@ -719,12 +725,6 @@
     "deaths": 62,
     "recovered": 1830
   },
-  "Jordan": {
-    "date": "2020-9-21",
-    "confirmed": 4779,
-    "deaths": 30,
-    "recovered": 2844
-  },
   "Suriname": {
     "date": "2020-9-21",
     "confirmed": 4723,
@@ -733,9 +733,9 @@
   },
   "Rwanda": {
     "date": "2020-9-21",
-    "confirmed": 4711,
-    "deaths": 26,
-    "recovered": 2961
+    "confirmed": 4722,
+    "deaths": 27,
+    "recovered": 2973
   },
   "Slovenia": {
     "date": "2020-9-21",
@@ -755,17 +755,17 @@
     "deaths": 65,
     "recovered": 1802
   },
+  "Syria": {
+    "date": "2020-9-21",
+    "confirmed": 3833,
+    "deaths": 175,
+    "recovered": 963
+  },
   "Lithuania": {
     "date": "2020-9-21",
     "confirmed": 3814,
     "deaths": 87,
     "recovered": 2199
-  },
-  "Syria": {
-    "date": "2020-9-21",
-    "confirmed": 3800,
-    "deaths": 172,
-    "recovered": 946
   },
   "Georgia": {
     "date": "2020-9-21",
@@ -865,9 +865,9 @@
   },
   "Yemen": {
     "date": "2020-9-21",
-    "confirmed": 2026,
+    "confirmed": 2028,
     "deaths": 586,
-    "recovered": 1227
+    "recovered": 1235
   },
   "Uruguay": {
     "date": "2020-9-21",
