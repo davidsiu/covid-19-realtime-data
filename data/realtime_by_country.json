@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-9-22",
-    "confirmed": 6858138,
+    "confirmed": 6858212,
     "deaths": 199890,
     "recovered": 2615949
   },
@@ -209,6 +209,12 @@
     "deaths": 1855,
     "recovered": 84158
   },
+  "Netherlands": {
+    "date": "2020-9-22",
+    "confirmed": 102736,
+    "deaths": 6337,
+    "recovered": 2993
+  },
   "Egypt": {
     "date": "2020-9-22",
     "confirmed": 102141,
@@ -221,17 +227,11 @@
     "deaths": 588,
     "recovered": 91612
   },
-  "Netherlands": {
-    "date": "2020-9-22",
-    "confirmed": 100491,
-    "deaths": 6327,
-    "recovered": 2993
-  },
   "Oman": {
     "date": "2020-9-22",
-    "confirmed": 94051,
-    "deaths": 853,
-    "recovered": 85781
+    "confirmed": 94711,
+    "deaths": 865,
+    "recovered": 86195
   },
   "China": {
     "date": "2020-9-22",
@@ -241,8 +241,8 @@
   },
   "Sweden": {
     "date": "2020-9-22",
-    "confirmed": 88237,
-    "deaths": 5865,
+    "confirmed": 89436,
+    "deaths": 5870,
     "recovered": null
   },
   "Guatemala": {
@@ -265,7 +265,7 @@
   },
   "Japan": {
     "date": "2020-9-22",
-    "confirmed": 79672,
+    "confirmed": 79770,
     "deaths": 1518,
     "recovered": 70970
   },
@@ -377,17 +377,17 @@
     "deaths": 1063,
     "recovered": 41796
   },
+  "Azerbaijan": {
+    "date": "2020-9-22",
+    "confirmed": 39378,
+    "deaths": 578,
+    "recovered": 36949
+  },
   "Austria": {
     "date": "2020-9-22",
     "confirmed": 39303,
     "deaths": 771,
     "recovered": 30312
-  },
-  "Azerbaijan": {
-    "date": "2020-9-22",
-    "confirmed": 39280,
-    "deaths": 576,
-    "recovered": 36836
   },
   "Afghanistan": {
     "date": "2020-9-22",
@@ -403,9 +403,9 @@
   },
   "West Bank and Gaza": {
     "date": "2020-9-22",
-    "confirmed": 36151,
-    "deaths": 265,
-    "recovered": 24428
+    "confirmed": 36580,
+    "deaths": 269,
+    "recovered": 25469
   },
   "Paraguay": {
     "date": "2020-9-22",
@@ -433,9 +433,9 @@
   },
   "Libya": {
     "date": "2020-9-22",
-    "confirmed": 28796,
-    "deaths": 450,
-    "recovered": 15384
+    "confirmed": 29446,
+    "deaths": 460,
+    "recovered": 15913
   },
   "El Salvador": {
     "date": "2020-9-22",
@@ -457,9 +457,9 @@
   },
   "Denmark": {
     "date": "2020-9-22",
-    "confirmed": 23785,
-    "deaths": 640,
-    "recovered": 18166
+    "confirmed": 24261,
+    "deaths": 641,
+    "recovered": 18463
   },
   "Korea, South": {
     "date": "2020-9-22",
@@ -613,8 +613,8 @@
   },
   "Haiti": {
     "date": "2020-9-22",
-    "confirmed": 8624,
-    "deaths": 221,
+    "confirmed": 8633,
+    "deaths": 223,
     "recovered": 6482
   },
   "Luxembourg": {
