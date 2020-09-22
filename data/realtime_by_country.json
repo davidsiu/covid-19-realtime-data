@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-22",
-    "confirmed": 6833931,
-    "deaths": 199815,
+    "confirmed": 6835394,
+    "deaths": 199817,
     "recovered": 2615949
   },
   "India": {
@@ -28,12 +28,6 @@
     "confirmed": 768895,
     "deaths": 31369,
     "recovered": 607837
-  },
-  "Colombia": {
-    "date": "2020-9-22",
-    "confirmed": 765076,
-    "deaths": 24208,
-    "recovered": 633199
   },
   "Mexico": {
     "date": "2020-9-22",
@@ -103,9 +97,9 @@
   },
   "Pakistan": {
     "date": "2020-9-22",
-    "confirmed": 306304,
-    "deaths": 6420,
-    "recovered": 292869
+    "confirmed": 306886,
+    "deaths": 6424,
+    "recovered": 293159
   },
   "Turkey": {
     "date": "2020-9-22",
@@ -187,9 +181,9 @@
   },
   "Kazakhstan": {
     "date": "2020-9-22",
-    "confirmed": 107307,
+    "confirmed": 107374,
     "deaths": 1671,
-    "recovered": 101941
+    "recovered": 102064
   },
   "Panama": {
     "date": "2020-9-22",
@@ -197,17 +191,17 @@
     "deaths": 2272,
     "recovered": 82320
   },
+  "Belgium": {
+    "date": "2020-9-22",
+    "confirmed": 103392,
+    "deaths": 9950,
+    "recovered": 18977
+  },
   "Morocco": {
     "date": "2020-9-22",
     "confirmed": 103119,
     "deaths": 1855,
     "recovered": 84158
-  },
-  "Belgium": {
-    "date": "2020-9-22",
-    "confirmed": 102295,
-    "deaths": 9948,
-    "recovered": 18965
   },
   "Egypt": {
     "date": "2020-9-22",
@@ -217,9 +211,9 @@
   },
   "Netherlands": {
     "date": "2020-9-22",
-    "confirmed": 100484,
+    "confirmed": 100491,
     "deaths": 6327,
-    "recovered": 2976
+    "recovered": 2993
   },
   "Kuwait": {
     "date": "2020-9-22",
@@ -445,7 +439,7 @@
   },
   "Australia": {
     "date": "2020-9-22",
-    "confirmed": 26939,
+    "confirmed": 26942,
     "deaths": 854,
     "recovered": 24155
   },
@@ -647,17 +641,17 @@
     "deaths": 39,
     "recovered": 3571
   },
+  "Burma": {
+    "date": "2020-9-22",
+    "confirmed": 6471,
+    "deaths": 100,
+    "recovered": 1445
+  },
   "Uganda": {
     "date": "2020-9-22",
     "confirmed": 6468,
     "deaths": 63,
     "recovered": 2731
-  },
-  "Burma": {
-    "date": "2020-9-22",
-    "confirmed": 6151,
-    "deaths": 98,
-    "recovered": 1445
   },
   "Malawi": {
     "date": "2020-9-22",
@@ -901,9 +895,9 @@
   },
   "Belize": {
     "date": "2020-9-22",
-    "confirmed": 1627,
+    "confirmed": 1635,
     "deaths": 21,
-    "recovered": 918
+    "recovered": 967
   },
   "Cyprus": {
     "date": "2020-9-22",
@@ -1009,7 +1003,7 @@
   },
   "Mongolia": {
     "date": "2020-9-22",
-    "confirmed": 312,
+    "confirmed": 313,
     "deaths": 0,
     "recovered": 302
   },
@@ -1125,6 +1119,12 @@
     "date": "2020-9-22",
     "confirmed": 9,
     "deaths": 2,
+    "recovered": null
+  },
+  "Colombia": {
+    "date": "2020-9-22",
+    "confirmed": null,
+    "deaths": null,
     "recovered": null
   }
 }
