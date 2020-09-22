@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-22",
-    "confirmed": 6884032,
-    "deaths": 200541,
+    "confirmed": 6885499,
+    "deaths": 200558,
     "recovered": 2615974
   },
   "India": {
@@ -49,9 +49,9 @@
   },
   "South Africa": {
     "date": "2020-9-22",
-    "confirmed": 661936,
-    "deaths": 15992,
-    "recovered": 591208
+    "confirmed": 663282,
+    "deaths": 16118,
+    "recovered": 592904
   },
   "Argentina": {
     "date": "2020-9-22",
@@ -79,9 +79,9 @@
   },
   "United Kingdom": {
     "date": "2020-9-22",
-    "confirmed": 406053,
+    "confirmed": 406054,
     "deaths": 41951,
-    "recovered": 2228
+    "recovered": 2229
   },
   "Bangladesh": {
     "date": "2020-9-22",
@@ -299,6 +299,12 @@
     "deaths": 555,
     "recovered": 56726
   },
+  "Costa Rica": {
+    "date": "2020-9-22",
+    "confirmed": 66689,
+    "deaths": 760,
+    "recovered": 25706
+  },
   "Nepal": {
     "date": "2020-9-22",
     "confirmed": 66632,
@@ -307,15 +313,9 @@
   },
   "Bahrain": {
     "date": "2020-9-22",
-    "confirmed": 65752,
+    "confirmed": 66402,
     "deaths": 227,
-    "recovered": 58626
-  },
-  "Costa Rica": {
-    "date": "2020-9-22",
-    "confirmed": 65602,
-    "deaths": 745,
-    "recovered": 25127
+    "recovered": 59367
   },
   "Singapore": {
     "date": "2020-9-22",
@@ -481,9 +481,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-9-22",
-    "confirmed": 19327,
+    "confirmed": 19343,
     "deaths": 120,
-    "recovered": 18630
+    "recovered": 18682
   },
   "Bulgaria": {
     "date": "2020-9-22",
@@ -529,7 +529,7 @@
   },
   "Sudan": {
     "date": "2020-9-22",
-    "confirmed": 13555,
+    "confirmed": 13578,
     "deaths": 836,
     "recovered": 6760
   },
@@ -583,9 +583,9 @@
   },
   "Maldives": {
     "date": "2020-9-22",
-    "confirmed": 9770,
+    "confirmed": 9818,
     "deaths": 34,
-    "recovered": 8390
+    "recovered": 8438
   },
   "Tajikistan": {
     "date": "2020-9-22",
@@ -631,9 +631,9 @@
   },
   "Mauritania": {
     "date": "2020-9-22",
-    "confirmed": 7384,
+    "confirmed": 7403,
     "deaths": 161,
-    "recovered": 6977
+    "recovered": 7011
   },
   "Mozambique": {
     "date": "2020-9-22",
@@ -673,9 +673,9 @@
   },
   "Djibouti": {
     "date": "2020-9-22",
-    "confirmed": 5404,
+    "confirmed": 5407,
     "deaths": 61,
-    "recovered": 5336
+    "recovered": 5338
   },
   "Eswatini": {
     "date": "2020-9-22",
@@ -733,9 +733,9 @@
   },
   "Rwanda": {
     "date": "2020-9-22",
-    "confirmed": 4722,
+    "confirmed": 4738,
     "deaths": 27,
-    "recovered": 2973
+    "recovered": 2991
   },
   "Slovenia": {
     "date": "2020-9-22",
@@ -745,9 +745,9 @@
   },
   "Angola": {
     "date": "2020-9-22",
-    "confirmed": 4117,
-    "deaths": 154,
-    "recovered": 1449
+    "confirmed": 4236,
+    "deaths": 155,
+    "recovered": 1462
   },
   "Trinidad and Tobago": {
     "date": "2020-9-22",
@@ -761,17 +761,17 @@
     "deaths": 23,
     "recovered": 1574
   },
+  "Syria": {
+    "date": "2020-9-22",
+    "confirmed": 3877,
+    "deaths": 178,
+    "recovered": 983
+  },
   "Lithuania": {
     "date": "2020-9-22",
     "confirmed": 3859,
     "deaths": 87,
     "recovered": 2225
-  },
-  "Syria": {
-    "date": "2020-9-22",
-    "confirmed": 3833,
-    "deaths": 175,
-    "recovered": 963
   },
   "Gambia": {
     "date": "2020-9-22",
@@ -867,7 +867,7 @@
     "date": "2020-9-22",
     "confirmed": 2028,
     "deaths": 586,
-    "recovered": 1235
+    "recovered": 1240
   },
   "Uruguay": {
     "date": "2020-9-22",
@@ -887,17 +887,17 @@
     "deaths": 25,
     "recovered": 1729
   },
+  "Togo": {
+    "date": "2020-9-22",
+    "confirmed": 1683,
+    "deaths": 41,
+    "recovered": 1290
+  },
   "Andorra": {
     "date": "2020-9-22",
     "confirmed": 1681,
     "deaths": 53,
     "recovered": 1199
-  },
-  "Togo": {
-    "date": "2020-9-22",
-    "confirmed": 1669,
-    "deaths": 41,
-    "recovered": 1274
   },
   "Belize": {
     "date": "2020-9-22",
@@ -931,7 +931,7 @@
   },
   "Niger": {
     "date": "2020-9-22",
-    "confirmed": 1189,
+    "confirmed": 1193,
     "deaths": 69,
     "recovered": 1104
   },
