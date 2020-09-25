@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-25",
-    "confirmed": 6980351,
-    "deaths": 202827,
+    "confirmed": 6982405,
+    "deaths": 202886,
     "recovered": 2710183
   },
   "India": {
@@ -281,17 +281,17 @@
     "deaths": 2249,
     "recovered": 24580
   },
+  "Portugal": {
+    "date": "2020-9-25",
+    "confirmed": 72055,
+    "deaths": 1936,
+    "recovered": 47003
+  },
   "Ethiopia": {
     "date": "2020-9-25",
     "confirmed": 71687,
     "deaths": 1148,
     "recovered": 29461
-  },
-  "Portugal": {
-    "date": "2020-9-25",
-    "confirmed": 71156,
-    "deaths": 1931,
-    "recovered": 46676
   },
   "Nepal": {
     "date": "2020-9-25",
@@ -337,14 +337,14 @@
   },
   "Uzbekistan": {
     "date": "2020-9-25",
-    "confirmed": 53966,
-    "deaths": 447,
-    "recovered": 50441
+    "confirmed": 54392,
+    "deaths": 449,
+    "recovered": 50879
   },
   "Switzerland": {
     "date": "2020-9-25",
     "confirmed": 51864,
-    "deaths": 2063,
+    "deaths": 2064,
     "recovered": 42600
   },
   "Algeria": {
@@ -421,8 +421,8 @@
   },
   "Serbia": {
     "date": "2020-9-25",
-    "confirmed": 33163,
-    "deaths": 745,
+    "confirmed": 33238,
+    "deaths": 746,
     "recovered": null
   },
   "Lebanon": {
@@ -523,7 +523,7 @@
   },
   "Zambia": {
     "date": "2020-9-25",
-    "confirmed": 14491,
+    "confirmed": 14515,
     "deaths": 332,
     "recovered": 13643
   },
@@ -535,7 +535,7 @@
   },
   "Norway": {
     "date": "2020-9-25",
-    "confirmed": 13406,
+    "confirmed": 13478,
     "deaths": 270,
     "recovered": 10371
   },
@@ -605,6 +605,12 @@
     "deaths": 343,
     "recovered": 7850
   },
+  "Burma": {
+    "date": "2020-9-25",
+    "confirmed": 9112,
+    "deaths": 174,
+    "recovered": 2381
+  },
   "Gabon": {
     "date": "2020-9-25",
     "confirmed": 8716,
@@ -613,15 +619,9 @@
   },
   "Haiti": {
     "date": "2020-9-25",
-    "confirmed": 8668,
+    "confirmed": 8684,
     "deaths": 227,
     "recovered": 6551
-  },
-  "Burma": {
-    "date": "2020-9-25",
-    "confirmed": 8515,
-    "deaths": 155,
-    "recovered": 2381
   },
   "Luxembourg": {
     "date": "2020-9-25",
@@ -697,9 +697,9 @@
   },
   "Cuba": {
     "date": "2020-9-25",
-    "confirmed": 5310,
+    "confirmed": 5350,
     "deaths": 118,
-    "recovered": 4613
+    "recovered": 4658
   },
   "Nicaragua": {
     "date": "2020-9-25",
