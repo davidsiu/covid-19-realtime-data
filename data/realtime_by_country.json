@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-26",
-    "confirmed": 7030887,
-    "deaths": 203615,
+    "confirmed": 7032524,
+    "deaths": 203657,
     "recovered": 2727335
   },
   "India": {
@@ -31,9 +31,15 @@
   },
   "Peru": {
     "date": "2020-9-26",
-    "confirmed": 788930,
-    "deaths": 31938,
+    "confirmed": 794584,
+    "deaths": 32037,
     "recovered": 636489
+  },
+  "Mexico": {
+    "date": "2020-9-26",
+    "confirmed": 720858,
+    "deaths": 75844,
+    "recovered": 609041
   },
   "Spain": {
     "date": "2020-9-26",
@@ -41,17 +47,11 @@
     "deaths": 31232,
     "recovered": 150376
   },
-  "Mexico": {
-    "date": "2020-9-26",
-    "confirmed": 715457,
-    "deaths": 75439,
-    "recovered": 605796
-  },
   "Argentina": {
     "date": "2020-9-26",
     "confirmed": 691235,
     "deaths": 15208,
-    "recovered": 536589
+    "recovered": 546924
   },
   "South Africa": {
     "date": "2020-9-26",
@@ -79,7 +79,7 @@
   },
   "United Kingdom": {
     "date": "2020-9-26",
-    "confirmed": 425765,
+    "confirmed": 425766,
     "deaths": 42025,
     "recovered": 2288
   },
@@ -241,9 +241,9 @@
   },
   "China": {
     "date": "2020-9-26",
-    "confirmed": 90426,
+    "confirmed": 90438,
     "deaths": 4739,
-    "recovered": 85330
+    "recovered": 85342
   },
   "United Arab Emirates": {
     "date": "2020-9-26",
@@ -445,7 +445,7 @@
   },
   "Australia": {
     "date": "2020-9-26",
-    "confirmed": 27015,
+    "confirmed": 27016,
     "deaths": 870,
     "recovered": 24521
   },
@@ -527,6 +527,12 @@
     "deaths": 332,
     "recovered": 13643
   },
+  "Tunisia": {
+    "date": "2020-9-26",
+    "confirmed": 14392,
+    "deaths": 191,
+    "recovered": 5032
+  },
   "Sudan": {
     "date": "2020-9-26",
     "confirmed": 13592,
@@ -538,12 +544,6 @@
     "confirmed": 13545,
     "deaths": 270,
     "recovered": 10371
-  },
-  "Tunisia": {
-    "date": "2020-9-26",
-    "confirmed": 13305,
-    "deaths": 180,
-    "recovered": 5032
   },
   "Albania": {
     "date": "2020-9-26",
