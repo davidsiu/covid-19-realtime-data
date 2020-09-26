@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-26",
-    "confirmed": 7032595,
-    "deaths": 203746,
+    "confirmed": 7032712,
+    "deaths": 203750,
     "recovered": 2727335
   },
   "India": {
@@ -293,6 +293,12 @@
     "deaths": 1936,
     "recovered": 47003
   },
+  "Venezuela": {
+    "date": "2020-9-26",
+    "confirmed": 71273,
+    "deaths": 591,
+    "recovered": 60709
+  },
   "Costa Rica": {
     "date": "2020-9-26",
     "confirmed": 70816,
@@ -304,12 +310,6 @@
     "confirmed": 70614,
     "deaths": 459,
     "recovered": 51866
-  },
-  "Venezuela": {
-    "date": "2020-9-26",
-    "confirmed": 70406,
-    "deaths": 581,
-    "recovered": 59745
   },
   "Bahrain": {
     "date": "2020-9-26",
@@ -440,7 +440,7 @@
   "El Salvador": {
     "date": "2020-9-26",
     "confirmed": 28415,
-    "deaths": 823,
+    "deaths": 826,
     "recovered": 22643
   },
   "Australia": {
@@ -775,9 +775,9 @@
   },
   "Bahamas": {
     "date": "2020-9-26",
-    "confirmed": 3699,
-    "deaths": 86,
-    "recovered": 1962
+    "confirmed": 3790,
+    "deaths": 89,
+    "recovered": 1999
   },
   "Gambia": {
     "date": "2020-9-26",
@@ -787,9 +787,9 @@
   },
   "Thailand": {
     "date": "2020-9-26",
-    "confirmed": 3519,
+    "confirmed": 3522,
     "deaths": 59,
-    "recovered": 3360
+    "recovered": 3362
   },
   "Somalia": {
     "date": "2020-9-26",
@@ -895,9 +895,9 @@
   },
   "Belize": {
     "date": "2020-9-26",
-    "confirmed": 1758,
-    "deaths": 22,
-    "recovered": 1072
+    "confirmed": 1808,
+    "deaths": 23,
+    "recovered": 1134
   },
   "Togo": {
     "date": "2020-9-26",
@@ -1023,7 +1023,7 @@
     "date": "2020-9-26",
     "confirmed": 263,
     "deaths": 0,
-    "recovered": 198
+    "recovered": 199
   },
   "Monaco": {
     "date": "2020-9-26",
