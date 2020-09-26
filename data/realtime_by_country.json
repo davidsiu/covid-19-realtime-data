@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-26",
-    "confirmed": 7034824,
-    "deaths": 203789,
+    "confirmed": 7035893,
+    "deaths": 203808,
     "recovered": 2727335
   },
   "India": {
@@ -61,15 +61,15 @@
   },
   "France": {
     "date": "2020-9-26",
-    "confirmed": 552421,
+    "confirmed": 552422,
     "deaths": 31675,
     "recovered": 96909
   },
   "Chile": {
     "date": "2020-9-26",
-    "confirmed": 453868,
-    "deaths": 12527,
-    "recovered": 428580
+    "confirmed": 455979,
+    "deaths": 12591,
+    "recovered": 430259
   },
   "Iran": {
     "date": "2020-9-26",
@@ -91,9 +91,9 @@
   },
   "Iraq": {
     "date": "2020-9-26",
-    "confirmed": 341699,
-    "deaths": 8867,
-    "recovered": 273266
+    "confirmed": 345969,
+    "deaths": 8935,
+    "recovered": 276918
   },
   "Saudi Arabia": {
     "date": "2020-9-26",
@@ -127,7 +127,7 @@
   },
   "Germany": {
     "date": "2020-9-26",
-    "confirmed": 284141,
+    "confirmed": 284257,
     "deaths": 9457,
     "recovered": 250074
   },
@@ -293,6 +293,12 @@
     "deaths": 1936,
     "recovered": 47003
   },
+  "Nepal": {
+    "date": "2020-9-26",
+    "confirmed": 71821,
+    "deaths": 467,
+    "recovered": 53013
+  },
   "Venezuela": {
     "date": "2020-9-26",
     "confirmed": 71273,
@@ -304,12 +310,6 @@
     "confirmed": 70816,
     "deaths": 812,
     "recovered": 27023
-  },
-  "Nepal": {
-    "date": "2020-9-26",
-    "confirmed": 70614,
-    "deaths": 459,
-    "recovered": 51866
   },
   "Bahrain": {
     "date": "2020-9-26",
@@ -427,7 +427,7 @@
   },
   "Serbia": {
     "date": "2020-9-26",
-    "confirmed": 33238,
+    "confirmed": 33312,
     "deaths": 746,
     "recovered": null
   },
@@ -593,17 +593,17 @@
     "deaths": 155,
     "recovered": 6177
   },
+  "Tajikistan": {
+    "date": "2020-9-26",
+    "confirmed": 9605,
+    "deaths": 75,
+    "recovered": 8385
+  },
   "Finland": {
     "date": "2020-9-26",
     "confirmed": 9577,
     "deaths": 343,
     "recovered": 7850
-  },
-  "Tajikistan": {
-    "date": "2020-9-26",
-    "confirmed": 9562,
-    "deaths": 74,
-    "recovered": 8341
   },
   "Burma": {
     "date": "2020-9-26",
@@ -799,7 +799,7 @@
   },
   "Sri Lanka": {
     "date": "2020-9-26",
-    "confirmed": 3345,
+    "confirmed": 3349,
     "deaths": 13,
     "recovered": 3186
   },
