@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-9-30",
-    "confirmed": 7191062,
+    "confirmed": 7191061,
     "deaths": 205998,
     "recovered": 2813305
   },
@@ -129,7 +129,7 @@
     "date": "2020-9-30",
     "confirmed": 290471,
     "deaths": 9492,
-    "recovered": 255212
+    "recovered": 256546
   },
   "Indonesia": {
     "date": "2020-9-30",
@@ -139,9 +139,9 @@
   },
   "Israel": {
     "date": "2020-9-30",
-    "confirmed": 239222,
-    "deaths": 1528,
-    "recovered": 173085
+    "confirmed": 239806,
+    "deaths": 1547,
+    "recovered": 173109
   },
   "Ukraine": {
     "date": "2020-9-30",
@@ -245,6 +245,12 @@
     "deaths": 5890,
     "recovered": null
   },
+  "Poland": {
+    "date": "2020-9-30",
+    "confirmed": 91514,
+    "deaths": 2513,
+    "recovered": 69695
+  },
   "Guatemala": {
     "date": "2020-9-30",
     "confirmed": 90968,
@@ -257,16 +263,10 @@
     "deaths": 4739,
     "recovered": 85426
   },
-  "Poland": {
-    "date": "2020-9-30",
-    "confirmed": 89962,
-    "deaths": 2483,
-    "recovered": 68955
-  },
   "Japan": {
     "date": "2020-9-30",
-    "confirmed": 83339,
-    "deaths": 1569,
+    "confirmed": 83429,
+    "deaths": 1571,
     "recovered": 74962
   },
   "Belarus": {
@@ -379,9 +379,9 @@
   },
   "Austria": {
     "date": "2020-9-30",
-    "confirmed": 44041,
-    "deaths": 796,
-    "recovered": 34916
+    "confirmed": 44813,
+    "deaths": 799,
+    "recovered": 35644
   },
   "Azerbaijan": {
     "date": "2020-9-30",
@@ -613,7 +613,7 @@
   },
   "Finland": {
     "date": "2020-9-30",
-    "confirmed": 9892,
+    "confirmed": 9992,
     "deaths": 345,
     "recovered": 7850
   },
@@ -689,17 +689,17 @@
     "deaths": 179,
     "recovered": 4245
   },
+  "Slovenia": {
+    "date": "2020-9-30",
+    "confirmed": 5690,
+    "deaths": 150,
+    "recovered": 3804
+  },
   "Cuba": {
     "date": "2020-9-30",
     "confirmed": 5531,
     "deaths": 122,
     "recovered": 4866
-  },
-  "Slovenia": {
-    "date": "2020-9-30",
-    "confirmed": 5487,
-    "deaths": 149,
-    "recovered": 3682
   },
   "Eswatini": {
     "date": "2020-9-30",
