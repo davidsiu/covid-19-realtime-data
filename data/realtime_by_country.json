@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-30",
-    "confirmed": 7221278,
-    "deaths": 206693,
+    "confirmed": 7225895,
+    "deaths": 206825,
     "recovered": 2813305
   },
   "India": {
@@ -79,7 +79,7 @@
   },
   "United Kingdom": {
     "date": "2020-9-30",
-    "confirmed": 455842,
+    "confirmed": 455843,
     "deaths": 42233,
     "recovered": 2370
   },
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-9-30",
-    "confirmed": 160527,
-    "deaths": 9343,
-    "recovered": 136741
+    "confirmed": 160982,
+    "deaths": 9346,
+    "recovered": 137072
   },
   "Ecuador": {
     "date": "2020-9-30",
@@ -223,9 +223,9 @@
   },
   "Egypt": {
     "date": "2020-9-30",
-    "confirmed": 103079,
-    "deaths": 5914,
-    "recovered": 96094
+    "confirmed": 103198,
+    "deaths": 5930,
+    "recovered": 96494
   },
   "Oman": {
     "date": "2020-9-30",
@@ -373,9 +373,9 @@
   },
   "Ghana": {
     "date": "2020-9-30",
-    "confirmed": 46482,
+    "confirmed": 46626,
     "deaths": 301,
-    "recovered": 45651
+    "recovered": 45757
   },
   "Austria": {
     "date": "2020-9-30",
@@ -481,9 +481,9 @@
   },
   "Bulgaria": {
     "date": "2020-9-30",
-    "confirmed": 20547,
-    "deaths": 813,
-    "recovered": 14489
+    "confirmed": 20833,
+    "deaths": 825,
+    "recovered": 14634
   },
   "Cote d'Ivoire": {
     "date": "2020-9-30",
@@ -623,17 +623,17 @@
     "deaths": 76,
     "recovered": 8572
   },
+  "Gabon": {
+    "date": "2020-9-30",
+    "confirmed": 8766,
+    "deaths": 54,
+    "recovered": 8005
+  },
   "Haiti": {
     "date": "2020-9-30",
     "confirmed": 8766,
     "deaths": 229,
     "recovered": 6829
-  },
-  "Gabon": {
-    "date": "2020-9-30",
-    "confirmed": 8752,
-    "deaths": 54,
-    "recovered": 7955
   },
   "Mozambique": {
     "date": "2020-9-30",
@@ -655,9 +655,9 @@
   },
   "Zimbabwe": {
     "date": "2020-9-30",
-    "confirmed": 7837,
+    "confirmed": 7838,
     "deaths": 228,
-    "recovered": 6122
+    "recovered": 6303
   },
   "Mauritania": {
     "date": "2020-9-30",
@@ -745,9 +745,9 @@
   },
   "Rwanda": {
     "date": "2020-9-30",
-    "confirmed": 4836,
+    "confirmed": 4840,
     "deaths": 29,
-    "recovered": 3125
+    "recovered": 3154
   },
   "Central African Republic": {
     "date": "2020-9-30",
@@ -829,9 +829,9 @@
   },
   "Guyana": {
     "date": "2020-9-30",
-    "confirmed": 2846,
-    "deaths": 78,
-    "recovered": 1644
+    "confirmed": 2894,
+    "deaths": 80,
+    "recovered": 1680
   },
   "Iceland": {
     "date": "2020-9-30",
@@ -863,6 +863,12 @@
     "deaths": 72,
     "recovered": 1687
   },
+  "Burkina Faso": {
+    "date": "2020-9-30",
+    "confirmed": 2056,
+    "deaths": 58,
+    "recovered": 1335
+  },
   "Andorra": {
     "date": "2020-9-30",
     "confirmed": 2050,
@@ -880,12 +886,6 @@
     "confirmed": 2033,
     "deaths": 48,
     "recovered": 1771
-  },
-  "Burkina Faso": {
-    "date": "2020-9-30",
-    "confirmed": 2032,
-    "deaths": 58,
-    "recovered": 1309
   },
   "Belize": {
     "date": "2020-9-30",
@@ -929,17 +929,17 @@
     "deaths": 82,
     "recovered": 1221
   },
-  "Niger": {
-    "date": "2020-9-30",
-    "confirmed": 1196,
-    "deaths": 69,
-    "recovered": 1110
-  },
   "Chad": {
     "date": "2020-9-30",
-    "confirmed": 1193,
+    "confirmed": 1200,
     "deaths": 85,
     "recovered": 1007
+  },
+  "Niger": {
+    "date": "2020-9-30",
+    "confirmed": 1197,
+    "deaths": 69,
+    "recovered": 1114
   },
   "Vietnam": {
     "date": "2020-9-30",
@@ -951,7 +951,7 @@
     "date": "2020-9-30",
     "confirmed": 911,
     "deaths": 15,
-    "recovered": 885
+    "recovered": 886
   },
   "San Marino": {
     "date": "2020-9-30",
