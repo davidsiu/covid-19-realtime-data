@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-9-30",
-    "confirmed": 7216828,
-    "deaths": 206615,
+    "confirmed": 7219635,
+    "deaths": 206665,
     "recovered": 2813305
   },
   "India": {
@@ -127,7 +127,7 @@
   },
   "Germany": {
     "date": "2020-9-30",
-    "confirmed": 292672,
+    "confirmed": 292913,
     "deaths": 9495,
     "recovered": 256861
   },
@@ -139,9 +139,9 @@
   },
   "Israel": {
     "date": "2020-9-30",
-    "confirmed": 243895,
-    "deaths": 1552,
-    "recovered": 174232
+    "confirmed": 245494,
+    "deaths": 1569,
+    "recovered": 174506
   },
   "Ukraine": {
     "date": "2020-9-30",
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-9-30",
-    "confirmed": 160439,
+    "confirmed": 160483,
     "deaths": 9343,
-    "recovered": 136613
+    "recovered": 136700
   },
   "Ecuador": {
     "date": "2020-9-30",
@@ -287,6 +287,12 @@
     "deaths": 2323,
     "recovered": 27383
   },
+  "Costa Rica": {
+    "date": "2020-9-30",
+    "confirmed": 75760,
+    "deaths": 904,
+    "recovered": 37841
+  },
   "Portugal": {
     "date": "2020-9-30",
     "confirmed": 75542,
@@ -298,12 +304,6 @@
     "confirmed": 75368,
     "deaths": 1198,
     "recovered": 31204
-  },
-  "Costa Rica": {
-    "date": "2020-9-30",
-    "confirmed": 74604,
-    "deaths": 880,
-    "recovered": 30703
   },
   "Venezuela": {
     "date": "2020-9-30",
@@ -623,17 +623,17 @@
     "deaths": 76,
     "recovered": 8572
   },
+  "Haiti": {
+    "date": "2020-9-30",
+    "confirmed": 8766,
+    "deaths": 229,
+    "recovered": 6829
+  },
   "Gabon": {
     "date": "2020-9-30",
     "confirmed": 8752,
     "deaths": 54,
     "recovered": 7955
-  },
-  "Haiti": {
-    "date": "2020-9-30",
-    "confirmed": 8740,
-    "deaths": 227,
-    "recovered": 6757
   },
   "Mozambique": {
     "date": "2020-9-30",
