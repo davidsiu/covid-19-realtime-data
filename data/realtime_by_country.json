@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-3",
-    "confirmed": 7332285,
-    "deaths": 208716,
+    "confirmed": 7333425,
+    "deaths": 208723,
     "recovered": 2873369
   },
   "India": {
@@ -128,8 +128,8 @@
   "Germany": {
     "date": "2020-10-3",
     "confirmed": 298374,
-    "deaths": 9518,
-    "recovered": 259722
+    "deaths": 9531,
+    "recovered": 260893
   },
   "Indonesia": {
     "date": "2020-10-3",
@@ -265,8 +265,8 @@
   },
   "Japan": {
     "date": "2020-10-3",
-    "confirmed": 84768,
-    "deaths": 1591,
+    "confirmed": 85041,
+    "deaths": 1592,
     "recovered": 76700
   },
   "Nepal": {
@@ -353,17 +353,17 @@
     "deaths": 2075,
     "recovered": 45800
   },
+  "Armenia": {
+    "date": "2020-10-3",
+    "confirmed": 51925,
+    "deaths": 972,
+    "recovered": 44583
+  },
   "Algeria": {
     "date": "2020-10-3",
     "confirmed": 51847,
     "deaths": 1749,
     "recovered": 36385
-  },
-  "Armenia": {
-    "date": "2020-10-3",
-    "confirmed": 51382,
-    "deaths": 966,
-    "recovered": 44406
   },
   "Kyrgyzstan": {
     "date": "2020-10-3",
@@ -409,8 +409,8 @@
   },
   "Afghanistan": {
     "date": "2020-10-3",
-    "confirmed": 39290,
-    "deaths": 1458,
+    "confirmed": 39297,
+    "deaths": 1462,
     "recovered": 32842
   },
   "Kenya": {
@@ -437,6 +437,12 @@
     "deaths": 751,
     "recovered": null
   },
+  "Hungary": {
+    "date": "2020-10-3",
+    "confirmed": 29717,
+    "deaths": 812,
+    "recovered": 6824
+  },
   "Denmark": {
     "date": "2020-10-3",
     "confirmed": 29418,
@@ -448,12 +454,6 @@
     "confirmed": 29175,
     "deaths": 853,
     "recovered": 23930
-  },
-  "Hungary": {
-    "date": "2020-10-3",
-    "confirmed": 28631,
-    "deaths": 798,
-    "recovered": 6349
   },
   "Bosnia and Herzegovina": {
     "date": "2020-10-3",
@@ -659,17 +659,17 @@
     "deaths": 228,
     "recovered": 6322
   },
+  "Georgia": {
+    "date": "2020-10-3",
+    "confirmed": 7564,
+    "deaths": 48,
+    "recovered": 3992
+  },
   "Mauritania": {
     "date": "2020-10-3",
     "confirmed": 7511,
     "deaths": 162,
     "recovered": 7163
-  },
-  "Georgia": {
-    "date": "2020-10-3",
-    "confirmed": 7093,
-    "deaths": 46,
-    "recovered": 3714
   },
   "Jamaica": {
     "date": "2020-10-3",
@@ -895,7 +895,7 @@
   },
   "Latvia": {
     "date": "2020-10-3",
-    "confirmed": 1945,
+    "confirmed": 2019,
     "deaths": 38,
     "recovered": 1307
   },
