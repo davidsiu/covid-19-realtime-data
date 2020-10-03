@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-3",
-    "confirmed": 7334054,
+    "confirmed": 7334136,
     "deaths": 208731,
     "recovered": 2873369
   },
@@ -85,9 +85,9 @@
   },
   "Iraq": {
     "date": "2020-10-3",
-    "confirmed": 372259,
-    "deaths": 9298,
-    "recovered": 299804
+    "confirmed": 375931,
+    "deaths": 9347,
+    "recovered": 303665
   },
   "Bangladesh": {
     "date": "2020-10-3",
@@ -161,6 +161,12 @@
     "deaths": 11495,
     "recovered": 112296
   },
+  "Netherlands": {
+    "date": "2020-10-3",
+    "confirmed": 137133,
+    "deaths": 6503,
+    "recovered": 4207
+  },
   "Bolivia": {
     "date": "2020-10-3",
     "confirmed": 136219,
@@ -173,12 +179,6 @@
     "deaths": 4947,
     "recovered": 107058
   },
-  "Netherlands": {
-    "date": "2020-10-3",
-    "confirmed": 133166,
-    "deaths": 6482,
-    "recovered": 4207
-  },
   "Morocco": {
     "date": "2020-10-3",
     "confirmed": 128565,
@@ -187,9 +187,9 @@
   },
   "Qatar": {
     "date": "2020-10-3",
-    "confirmed": 126164,
-    "deaths": 215,
-    "recovered": 123108
+    "confirmed": 126339,
+    "deaths": 216,
+    "recovered": 123302
   },
   "Belgium": {
     "date": "2020-10-3",
@@ -320,7 +320,7 @@
   "Bahrain": {
     "date": "2020-10-3",
     "confirmed": 71803,
-    "deaths": 255,
+    "deaths": 257,
     "recovered": 66184
   },
   "Nigeria": {
@@ -373,9 +373,9 @@
   },
   "Kyrgyzstan": {
     "date": "2020-10-3",
-    "confirmed": 47056,
-    "deaths": 1065,
-    "recovered": 43137
+    "confirmed": 47184,
+    "deaths": 1066,
+    "recovered": 43278
   },
   "Ghana": {
     "date": "2020-10-3",
@@ -437,17 +437,17 @@
     "deaths": 751,
     "recovered": null
   },
+  "Denmark": {
+    "date": "2020-10-3",
+    "confirmed": 29788,
+    "deaths": 654,
+    "recovered": 22743
+  },
   "Hungary": {
     "date": "2020-10-3",
     "confirmed": 29717,
     "deaths": 812,
     "recovered": 6824
-  },
-  "Denmark": {
-    "date": "2020-10-3",
-    "confirmed": 29418,
-    "deaths": 652,
-    "recovered": 22270
   },
   "El Salvador": {
     "date": "2020-10-3",
@@ -807,7 +807,7 @@
     "date": "2020-10-3",
     "confirmed": 3388,
     "deaths": 13,
-    "recovered": 3245
+    "recovered": 3254
   },
   "Malta": {
     "date": "2020-10-3",
@@ -1051,7 +1051,7 @@
   },
   "Liechtenstein": {
     "date": "2020-10-3",
-    "confirmed": 120,
+    "confirmed": 123,
     "deaths": 1,
     "recovered": 116
   },
