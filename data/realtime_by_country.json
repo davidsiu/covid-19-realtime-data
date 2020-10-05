@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-5",
-    "confirmed": 7420921,
-    "deaths": 209810,
+    "confirmed": 7420971,
+    "deaths": 209794,
     "recovered": 2911699
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2020-10-5",
     "confirmed": 4915289,
     "deaths": 146352,
-    "recovered": 4361108
+    "recovered": 4375354
   },
   "Russia": {
     "date": "2020-10-5",
@@ -287,6 +287,12 @@
     "deaths": 851,
     "recovered": 75148
   },
+  "Honduras": {
+    "date": "2020-10-5",
+    "confirmed": 79629,
+    "deaths": 2422,
+    "recovered": 29305
+  },
   "Costa Rica": {
     "date": "2020-10-5",
     "confirmed": 79182,
@@ -304,12 +310,6 @@
     "confirmed": 78819,
     "deaths": 1222,
     "recovered": 33060
-  },
-  "Honduras": {
-    "date": "2020-10-5",
-    "confirmed": 78788,
-    "deaths": 2399,
-    "recovered": 29187
   },
   "Venezuela": {
     "date": "2020-10-5",
@@ -463,9 +463,9 @@
   },
   "Australia": {
     "date": "2020-10-5",
-    "confirmed": 27144,
+    "confirmed": 27148,
     "deaths": 894,
-    "recovered": 24864
+    "recovered": 24888
   },
   "Korea, South": {
     "date": "2020-10-5",
@@ -799,9 +799,9 @@
   },
   "Thailand": {
     "date": "2020-10-5",
-    "confirmed": 3585,
+    "confirmed": 3590,
     "deaths": 59,
-    "recovered": 3388
+    "recovered": 3390
   },
   "Sri Lanka": {
     "date": "2020-10-5",
@@ -1009,15 +1009,15 @@
   },
   "Mongolia": {
     "date": "2020-10-5",
-    "confirmed": 313,
+    "confirmed": 314,
     "deaths": 0,
     "recovered": 307
   },
   "Bhutan": {
     "date": "2020-10-5",
-    "confirmed": 283,
+    "confirmed": 298,
     "deaths": 0,
-    "recovered": 230
+    "recovered": 237
   },
   "Cambodia": {
     "date": "2020-10-5",
