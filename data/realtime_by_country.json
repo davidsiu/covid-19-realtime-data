@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-7",
-    "confirmed": 7502945,
-    "deaths": 210939,
+    "confirmed": 7504116,
+    "deaths": 210972,
     "recovered": 2952390
   },
   "India": {
@@ -31,8 +31,8 @@
   },
   "Peru": {
     "date": "2020-10-7",
-    "confirmed": 829999,
-    "deaths": 32834,
+    "confirmed": 832929,
+    "deaths": 32914,
     "recovered": 712888
   },
   "Spain": {
@@ -133,7 +133,7 @@
   },
   "Germany": {
     "date": "2020-10-7",
-    "confirmed": 308306,
+    "confirmed": 309128,
     "deaths": 9566,
     "recovered": 267758
   },
@@ -293,17 +293,17 @@
     "deaths": 874,
     "recovered": 75683
   },
+  "Portugal": {
+    "date": "2020-10-7",
+    "confirmed": 81256,
+    "deaths": 2040,
+    "recovered": 51037
+  },
   "Honduras": {
     "date": "2020-10-7",
     "confirmed": 80662,
     "deaths": 2447,
     "recovered": 30131
-  },
-  "Portugal": {
-    "date": "2020-10-7",
-    "confirmed": 80312,
-    "deaths": 2032,
-    "recovered": 50712
   },
   "Ethiopia": {
     "date": "2020-10-7",
@@ -485,6 +485,12 @@
     "deaths": 862,
     "recovered": 15310
   },
+  "Burma": {
+    "date": "2020-10-7",
+    "confirmed": 21433,
+    "deaths": 510,
+    "recovered": 6084
+  },
   "Cameroon": {
     "date": "2020-10-7",
     "confirmed": 20924,
@@ -497,12 +503,6 @@
     "deaths": 420,
     "recovered": 1347
   },
-  "Burma": {
-    "date": "2020-10-7",
-    "confirmed": 20033,
-    "deaths": 471,
-    "recovered": 5782
-  },
   "Cote d'Ivoire": {
     "date": "2020-10-7",
     "confirmed": 19903,
@@ -511,9 +511,9 @@
   },
   "North Macedonia": {
     "date": "2020-10-7",
-    "confirmed": 19096,
-    "deaths": 768,
-    "recovered": 15645
+    "confirmed": 19413,
+    "deaths": 772,
+    "recovered": 15749
   },
   "Jordan": {
     "date": "2020-10-7",
@@ -547,9 +547,9 @@
   },
   "Norway": {
     "date": "2020-10-7",
-    "confirmed": 14784,
+    "confirmed": 14895,
     "deaths": 275,
-    "recovered": 11190
+    "recovered": 11863
   },
   "Slovakia": {
     "date": "2020-10-7",
@@ -619,9 +619,9 @@
   },
   "Tajikistan": {
     "date": "2020-10-7",
-    "confirmed": 10014,
+    "confirmed": 10055,
     "deaths": 78,
-    "recovered": 8837
+    "recovered": 8876
   },
   "Georgia": {
     "date": "2020-10-7",
@@ -691,9 +691,9 @@
   },
   "Cuba": {
     "date": "2020-10-7",
-    "confirmed": 5883,
+    "confirmed": 5898,
     "deaths": 123,
-    "recovered": 5278
+    "recovered": 5321
   },
   "Malawi": {
     "date": "2020-10-7",
@@ -1051,7 +1051,7 @@
   },
   "Liechtenstein": {
     "date": "2020-10-7",
-    "confirmed": 130,
+    "confirmed": 131,
     "deaths": 1,
     "recovered": 116
   },
