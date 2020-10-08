@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-8",
-    "confirmed": 7549429,
-    "deaths": 211793,
+    "confirmed": 7549682,
+    "deaths": 211801,
     "recovered": 2999895
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2020-10-8",
     "confirmed": 5000694,
     "deaths": 148228,
-    "recovered": 4446981
+    "recovered": 4457172
   },
   "Russia": {
     "date": "2020-10-8",
@@ -134,7 +134,7 @@
   "Germany": {
     "date": "2020-10-8",
     "confirmed": 311137,
-    "deaths": 9571,
+    "deaths": 9582,
     "recovered": 269722
   },
   "Israel": {
@@ -299,17 +299,17 @@
     "deaths": 2040,
     "recovered": 51037
   },
+  "Honduras": {
+    "date": "2020-10-8",
+    "confirmed": 81016,
+    "deaths": 2466,
+    "recovered": 30590
+  },
   "Ethiopia": {
     "date": "2020-10-8",
     "confirmed": 80895,
     "deaths": 1255,
     "recovered": 35670
-  },
-  "Honduras": {
-    "date": "2020-10-8",
-    "confirmed": 80662,
-    "deaths": 2447,
-    "recovered": 30131
   },
   "Venezuela": {
     "date": "2020-10-8",
@@ -799,9 +799,9 @@
   },
   "Thailand": {
     "date": "2020-10-8",
-    "confirmed": 3615,
+    "confirmed": 3622,
     "deaths": 59,
-    "recovered": 3391
+    "recovered": 3439
   },
   "Gambia": {
     "date": "2020-10-8",
@@ -863,6 +863,12 @@
     "deaths": 40,
     "recovered": 1728
   },
+  "Belize": {
+    "date": "2020-10-8",
+    "confirmed": 2310,
+    "deaths": 34,
+    "recovered": 1427
+  },
   "Sierra Leone": {
     "date": "2020-10-8",
     "confirmed": 2287,
@@ -874,12 +880,6 @@
     "confirmed": 2261,
     "deaths": 40,
     "recovered": 1322
-  },
-  "Belize": {
-    "date": "2020-10-8",
-    "confirmed": 2243,
-    "deaths": 34,
-    "recovered": 1392
   },
   "Burkina Faso": {
     "date": "2020-10-8",
@@ -1015,9 +1015,9 @@
   },
   "Bhutan": {
     "date": "2020-10-8",
-    "confirmed": 300,
+    "confirmed": 304,
     "deaths": 0,
-    "recovered": 250
+    "recovered": 252
   },
   "Cambodia": {
     "date": "2020-10-8",
