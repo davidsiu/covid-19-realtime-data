@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-8",
-    "confirmed": 7551428,
+    "confirmed": 7551715,
     "deaths": 211844,
     "recovered": 2999895
   },
@@ -133,9 +133,9 @@
   },
   "Germany": {
     "date": "2020-10-8",
-    "confirmed": 311503,
+    "confirmed": 312956,
     "deaths": 9583,
-    "recovered": 269722
+    "recovered": 269771
   },
   "Israel": {
     "date": "2020-10-8",
@@ -157,8 +157,8 @@
   },
   "Netherlands": {
     "date": "2020-10-8",
-    "confirmed": 155465,
-    "deaths": 6574,
+    "confirmed": 161287,
+    "deaths": 6587,
     "recovered": 4607
   },
   "Romania": {
@@ -253,7 +253,7 @@
   },
   "Sweden": {
     "date": "2020-10-8",
-    "confirmed": 96677,
+    "confirmed": 97532,
     "deaths": 5892,
     "recovered": null
   },
@@ -277,7 +277,7 @@
   },
   "Japan": {
     "date": "2020-10-8",
-    "confirmed": 87604,
+    "confirmed": 87655,
     "deaths": 1616,
     "recovered": 79123
   },
@@ -403,9 +403,15 @@
   },
   "Azerbaijan": {
     "date": "2020-10-8",
-    "confirmed": 41113,
-    "deaths": 602,
-    "recovered": 38858
+    "confirmed": 41304,
+    "deaths": 603,
+    "recovered": 39012
+  },
+  "Libya": {
+    "date": "2020-10-8",
+    "confirmed": 40292,
+    "deaths": 616,
+    "recovered": 23130
   },
   "Kenya": {
     "date": "2020-10-8",
@@ -425,12 +431,6 @@
     "deaths": 1816,
     "recovered": 23364
   },
-  "Libya": {
-    "date": "2020-10-8",
-    "confirmed": 39513,
-    "deaths": 608,
-    "recovered": 22831
-  },
   "Serbia": {
     "date": "2020-10-8",
     "confirmed": 34193,
@@ -445,9 +445,9 @@
   },
   "Denmark": {
     "date": "2020-10-8",
-    "confirmed": 31201,
-    "deaths": 663,
-    "recovered": 24706
+    "confirmed": 31647,
+    "deaths": 665,
+    "recovered": 25365
   },
   "El Salvador": {
     "date": "2020-10-8",
@@ -783,7 +783,7 @@
     "date": "2020-10-8",
     "confirmed": 4459,
     "deaths": 13,
-    "recovered": 3274
+    "recovered": 3278
   },
   "Estonia": {
     "date": "2020-10-8",
@@ -821,6 +821,12 @@
     "deaths": 95,
     "recovered": 2084
   },
+  "Iceland": {
+    "date": "2020-10-8",
+    "confirmed": 3267,
+    "deaths": 10,
+    "recovered": 2411
+  },
   "Mali": {
     "date": "2020-10-8",
     "confirmed": 3210,
@@ -832,12 +838,6 @@
     "confirmed": 3172,
     "deaths": 18,
     "recovered": 834
-  },
-  "Iceland": {
-    "date": "2020-10-8",
-    "confirmed": 3172,
-    "deaths": 10,
-    "recovered": 2366
   },
   "South Sudan": {
     "date": "2020-10-8",
