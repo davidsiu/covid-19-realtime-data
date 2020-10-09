@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-9",
-    "confirmed": 7603746,
-    "deaths": 212716,
+    "confirmed": 7605574,
+    "deaths": 212739,
     "recovered": 3021252
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2020-10-9",
     "confirmed": 5028444,
     "deaths": 148957,
-    "recovered": 4482822
+    "recovered": 4488092
   },
   "Russia": {
     "date": "2020-10-9",
@@ -45,7 +45,7 @@
     "date": "2020-10-9",
     "confirmed": 835662,
     "deaths": 33009,
-    "recovered": 723606
+    "recovered": 728216
   },
   "Mexico": {
     "date": "2020-10-9",
@@ -127,15 +127,15 @@
   },
   "Pakistan": {
     "date": "2020-10-9",
-    "confirmed": 316934,
-    "deaths": 6544,
-    "recovered": 302375
+    "confirmed": 317595,
+    "deaths": 6552,
+    "recovered": 302708
   },
   "Germany": {
     "date": "2020-10-9",
     "confirmed": 315536,
     "deaths": 9584,
-    "recovered": 269797
+    "recovered": 271960
   },
   "Israel": {
     "date": "2020-10-9",
@@ -157,9 +157,9 @@
   },
   "Netherlands": {
     "date": "2020-10-9",
-    "confirmed": 161331,
+    "confirmed": 161332,
     "deaths": 6587,
-    "recovered": 4658
+    "recovered": 4686
   },
   "Romania": {
     "date": "2020-10-9",
@@ -173,6 +173,12 @@
     "deaths": 12141,
     "recovered": 120511
   },
+  "Belgium": {
+    "date": "2020-10-9",
+    "confirmed": 143596,
+    "deaths": 10126,
+    "recovered": 19981
+  },
   "Morocco": {
     "date": "2020-10-9",
     "confirmed": 142953,
@@ -184,12 +190,6 @@
     "confirmed": 137969,
     "deaths": 8228,
     "recovered": 99812
-  },
-  "Belgium": {
-    "date": "2020-10-9",
-    "confirmed": 137868,
-    "deaths": 10108,
-    "recovered": 19895
   },
   "Qatar": {
     "date": "2020-10-9",
@@ -223,9 +223,9 @@
   },
   "Kazakhstan": {
     "date": "2020-10-9",
-    "confirmed": 108454,
+    "confirmed": 108561,
     "deaths": 1746,
-    "recovered": 103604
+    "recovered": 103758
   },
   "Egypt": {
     "date": "2020-10-9",
@@ -277,7 +277,7 @@
   },
   "Japan": {
     "date": "2020-10-9",
-    "confirmed": 87656,
+    "confirmed": 87669,
     "deaths": 1617,
     "recovered": 79674
   },
@@ -305,17 +305,17 @@
     "deaths": 1262,
     "recovered": 36434
   },
+  "Honduras": {
+    "date": "2020-10-9",
+    "confirmed": 81672,
+    "deaths": 2477,
+    "recovered": 31089
+  },
   "Venezuela": {
     "date": "2020-10-9",
     "confirmed": 81019,
     "deaths": 678,
     "recovered": 72196
-  },
-  "Honduras": {
-    "date": "2020-10-9",
-    "confirmed": 81016,
-    "deaths": 2466,
-    "recovered": 30590
   },
   "Bahrain": {
     "date": "2020-10-9",
@@ -1107,7 +1107,7 @@
     "date": "2020-10-9",
     "confirmed": 19,
     "deaths": 0,
-    "recovered": 17
+    "recovered": 18
   },
   "Holy See": {
     "date": "2020-10-9",
