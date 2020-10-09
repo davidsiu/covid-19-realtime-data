@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-9",
-    "confirmed": 7607250,
+    "confirmed": 7607249,
     "deaths": 212784,
     "recovered": 3021252
   },
@@ -19,9 +19,9 @@
   },
   "Russia": {
     "date": "2020-10-9",
-    "confirmed": 1253603,
-    "deaths": 21939,
-    "recovered": 998197
+    "confirmed": 1265572,
+    "deaths": 22137,
+    "recovered": 1005199
   },
   "Colombia": {
     "date": "2020-10-9",
@@ -109,9 +109,9 @@
   },
   "Philippines": {
     "date": "2020-10-9",
-    "confirmed": 331869,
-    "deaths": 6069,
-    "recovered": 274318
+    "confirmed": 334770,
+    "deaths": 6152,
+    "recovered": 275307
   },
   "Turkey": {
     "date": "2020-10-9",
@@ -145,9 +145,9 @@
   },
   "Ukraine": {
     "date": "2020-10-9",
-    "confirmed": 257047,
-    "deaths": 4896,
-    "recovered": 114782
+    "confirmed": 257204,
+    "deaths": 4899,
+    "recovered": 114872
   },
   "Canada": {
     "date": "2020-10-9",
@@ -277,7 +277,7 @@
   },
   "Japan": {
     "date": "2020-10-9",
-    "confirmed": 87902,
+    "confirmed": 87929,
     "deaths": 1617,
     "recovered": 79674
   },
@@ -349,7 +349,7 @@
   },
   "Singapore": {
     "date": "2020-10-9",
-    "confirmed": 57849,
+    "confirmed": 57859,
     "deaths": 27,
     "recovered": 57668
   },
@@ -707,17 +707,17 @@
     "deaths": 180,
     "recovered": 4626
   },
+  "Lithuania": {
+    "date": "2020-10-9",
+    "confirmed": 5758,
+    "deaths": 103,
+    "recovered": 2722
+  },
   "Eswatini": {
     "date": "2020-10-9",
     "confirmed": 5632,
     "deaths": 113,
     "recovered": 5231
-  },
-  "Lithuania": {
-    "date": "2020-10-9",
-    "confirmed": 5625,
-    "deaths": 102,
-    "recovered": 2660
   },
   "Djibouti": {
     "date": "2020-10-9",
@@ -787,9 +787,9 @@
   },
   "Estonia": {
     "date": "2020-10-9",
-    "confirmed": 3760,
+    "confirmed": 3809,
     "deaths": 67,
-    "recovered": 2824
+    "recovered": 2906
   },
   "Somalia": {
     "date": "2020-10-9",
@@ -851,6 +851,12 @@
     "deaths": 54,
     "recovered": 1715
   },
+  "Latvia": {
+    "date": "2020-10-9",
+    "confirmed": 2507,
+    "deaths": 40,
+    "recovered": 1322
+  },
   "Benin": {
     "date": "2020-10-9",
     "confirmed": 2411,
@@ -868,12 +874,6 @@
     "confirmed": 2373,
     "deaths": 34,
     "recovered": 1459
-  },
-  "Latvia": {
-    "date": "2020-10-9",
-    "confirmed": 2370,
-    "deaths": 40,
-    "recovered": 1322
   },
   "Sierra Leone": {
     "date": "2020-10-9",
