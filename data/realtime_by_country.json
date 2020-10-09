@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-9",
-    "confirmed": 7630774,
-    "deaths": 213131,
+    "confirmed": 7635052,
+    "deaths": 213158,
     "recovered": 3021252
   },
   "India": {
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-10-9",
-    "confirmed": 179423,
+    "confirmed": 179512,
     "deaths": 9630,
-    "recovered": 151135
+    "recovered": 151182
   },
   "Netherlands": {
     "date": "2020-10-9",
@@ -167,6 +167,12 @@
     "deaths": 5299,
     "recovered": 114792
   },
+  "Morocco": {
+    "date": "2020-10-9",
+    "confirmed": 146398,
+    "deaths": 2530,
+    "recovered": 123022
+  },
   "Ecuador": {
     "date": "2020-10-9",
     "confirmed": 145045,
@@ -178,12 +184,6 @@
     "confirmed": 143596,
     "deaths": 10126,
     "recovered": 19981
-  },
-  "Morocco": {
-    "date": "2020-10-9",
-    "confirmed": 142953,
-    "deaths": 2486,
-    "recovered": 120275
   },
   "Bolivia": {
     "date": "2020-10-9",
@@ -413,17 +413,17 @@
     "deaths": 621,
     "recovered": 23453
   },
+  "Ireland": {
+    "date": "2020-10-9",
+    "confirmed": 40703,
+    "deaths": 1821,
+    "recovered": 23364
+  },
   "Kenya": {
     "date": "2020-10-9",
     "confirmed": 40178,
     "deaths": 751,
     "recovered": 31710
-  },
-  "Ireland": {
-    "date": "2020-10-9",
-    "confirmed": 40086,
-    "deaths": 1817,
-    "recovered": 23364
   },
   "Afghanistan": {
     "date": "2020-10-9",
@@ -781,7 +781,7 @@
   },
   "Sri Lanka": {
     "date": "2020-10-9",
-    "confirmed": 4504,
+    "confirmed": 4523,
     "deaths": 13,
     "recovered": 3296
   },
@@ -1027,9 +1027,9 @@
   },
   "Monaco": {
     "date": "2020-10-9",
-    "confirmed": 229,
+    "confirmed": 233,
     "deaths": 2,
-    "recovered": 207
+    "recovered": 209
   },
   "Barbados": {
     "date": "2020-10-9",
