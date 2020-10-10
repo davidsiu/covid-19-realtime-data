@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-10",
-    "confirmed": 7662798,
+    "confirmed": 7663033,
     "deaths": 213739,
     "recovered": 3039089
   },
@@ -157,9 +157,15 @@
   },
   "Netherlands": {
     "date": "2020-10-10",
-    "confirmed": 167344,
+    "confirmed": 167348,
     "deaths": 6601,
-    "recovered": 4707
+    "recovered": 4709
+  },
+  "Belgium": {
+    "date": "2020-10-10",
+    "confirmed": 148981,
+    "deaths": 10151,
+    "recovered": 20072
   },
   "Romania": {
     "date": "2020-10-10",
@@ -178,12 +184,6 @@
     "confirmed": 145848,
     "deaths": 12175,
     "recovered": 120511
-  },
-  "Belgium": {
-    "date": "2020-10-10",
-    "confirmed": 143596,
-    "deaths": 10126,
-    "recovered": 19981
   },
   "Bolivia": {
     "date": "2020-10-10",
@@ -229,9 +229,9 @@
   },
   "Kazakhstan": {
     "date": "2020-10-10",
-    "confirmed": 108561,
+    "confirmed": 108663,
     "deaths": 1746,
-    "recovered": 103758
+    "recovered": 103910
   },
   "Egypt": {
     "date": "2020-10-10",
@@ -299,6 +299,12 @@
     "deaths": 1271,
     "recovered": 37102
   },
+  "Honduras": {
+    "date": "2020-10-10",
+    "confirmed": 82552,
+    "deaths": 2492,
+    "recovered": 31736
+  },
   "Belarus": {
     "date": "2020-10-10",
     "confirmed": 82471,
@@ -310,12 +316,6 @@
     "confirmed": 81696,
     "deaths": 684,
     "recovered": 73020
-  },
-  "Honduras": {
-    "date": "2020-10-10",
-    "confirmed": 81672,
-    "deaths": 2477,
-    "recovered": 31089
   },
   "Bahrain": {
     "date": "2020-10-10",
@@ -857,6 +857,12 @@
     "deaths": 40,
     "recovered": 1322
   },
+  "Belize": {
+    "date": "2020-10-10",
+    "confirmed": 2427,
+    "deaths": 35,
+    "recovered": 1487
+  },
   "Benin": {
     "date": "2020-10-10",
     "confirmed": 2411,
@@ -868,12 +874,6 @@
     "confirmed": 2385,
     "deaths": 40,
     "recovered": 1728
-  },
-  "Belize": {
-    "date": "2020-10-10",
-    "confirmed": 2373,
-    "deaths": 34,
-    "recovered": 1459
   },
   "Sierra Leone": {
     "date": "2020-10-10",
@@ -1011,7 +1011,7 @@
     "date": "2020-10-10",
     "confirmed": 315,
     "deaths": 0,
-    "recovered": 308
+    "recovered": 310
   },
   "Bhutan": {
     "date": "2020-10-10",
@@ -1021,7 +1021,7 @@
   },
   "Cambodia": {
     "date": "2020-10-10",
-    "confirmed": 282,
+    "confirmed": 283,
     "deaths": 0,
     "recovered": 277
   },
