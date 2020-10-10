@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-10",
-    "confirmed": 7687555,
-    "deaths": 214004,
+    "confirmed": 7689358,
+    "deaths": 214007,
     "recovered": 3039089
   },
   "India": {
@@ -127,7 +127,7 @@
   },
   "Germany": {
     "date": "2020-10-10",
-    "confirmed": 321800,
+    "confirmed": 321802,
     "deaths": 9609,
     "recovered": 273776
   },
@@ -151,15 +151,15 @@
   },
   "Canada": {
     "date": "2020-10-10",
-    "confirmed": 181892,
+    "confirmed": 181924,
     "deaths": 9653,
-    "recovered": 153259
+    "recovered": 153261
   },
   "Netherlands": {
     "date": "2020-10-10",
-    "confirmed": 173847,
+    "confirmed": 173869,
     "deaths": 6624,
-    "recovered": 4709
+    "recovered": 4726
   },
   "Romania": {
     "date": "2020-10-10",
@@ -407,6 +407,12 @@
     "deaths": 608,
     "recovered": 39235
   },
+  "Ireland": {
+    "date": "2020-10-10",
+    "confirmed": 41714,
+    "deaths": 1824,
+    "recovered": 23364
+  },
   "Libya": {
     "date": "2020-10-10",
     "confirmed": 41686,
@@ -418,12 +424,6 @@
     "confirmed": 41158,
     "deaths": 760,
     "recovered": 31876
-  },
-  "Ireland": {
-    "date": "2020-10-10",
-    "confirmed": 40703,
-    "deaths": 1821,
-    "recovered": 23364
   },
   "Afghanistan": {
     "date": "2020-10-10",
@@ -449,6 +449,12 @@
     "deaths": 667,
     "recovered": 26462
   },
+  "Tunisia": {
+    "date": "2020-10-10",
+    "confirmed": 31259,
+    "deaths": 456,
+    "recovered": 5032
+  },
   "Bosnia and Herzegovina": {
     "date": "2020-10-10",
     "confirmed": 30345,
@@ -466,12 +472,6 @@
     "confirmed": 27244,
     "deaths": 897,
     "recovered": 24987
-  },
-  "Tunisia": {
-    "date": "2020-10-10",
-    "confirmed": 26899,
-    "deaths": 409,
-    "recovered": 5032
   },
   "Burma": {
     "date": "2020-10-10",
@@ -829,9 +829,9 @@
   },
   "Mali": {
     "date": "2020-10-10",
-    "confirmed": 3248,
-    "deaths": 131,
-    "recovered": 2514
+    "confirmed": 3273,
+    "deaths": 132,
+    "recovered": 2525
   },
   "Botswana": {
     "date": "2020-10-10",
