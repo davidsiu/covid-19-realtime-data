@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-12",
-    "confirmed": 7763371,
+    "confirmed": 7763457,
     "deaths": 214776,
     "recovered": 3075077
   },
@@ -67,15 +67,15 @@
   },
   "United Kingdom": {
     "date": "2020-10-12",
-    "confirmed": 606447,
+    "confirmed": 606448,
     "deaths": 42915,
-    "recovered": 2503
+    "recovered": 2509
   },
   "Iran": {
     "date": "2020-10-12",
-    "confirmed": 500075,
-    "deaths": 28544,
-    "recovered": 406389
+    "confirmed": 504281,
+    "deaths": 28816,
+    "recovered": 409121
   },
   "Chile": {
     "date": "2020-10-12",
@@ -127,7 +127,7 @@
   },
   "Germany": {
     "date": "2020-10-12",
-    "confirmed": 326499,
+    "confirmed": 327181,
     "deaths": 9626,
     "recovered": 276983
   },
@@ -199,9 +199,9 @@
   },
   "Qatar": {
     "date": "2020-10-12",
-    "confirmed": 127985,
+    "confirmed": 128191,
     "deaths": 220,
-    "recovered": 124978
+    "recovered": 125176
   },
   "Panama": {
     "date": "2020-10-12",
@@ -221,6 +221,12 @@
     "deaths": 987,
     "recovered": 56203
   },
+  "Nepal": {
+    "date": "2020-10-12",
+    "confirmed": 111802,
+    "deaths": 645,
+    "recovered": 77277
+  },
   "Kuwait": {
     "date": "2020-10-12",
     "confirmed": 111116,
@@ -233,23 +239,17 @@
     "deaths": 1746,
     "recovered": 104041
   },
-  "Nepal": {
+  "United Arab Emirates": {
     "date": "2020-10-12",
-    "confirmed": 107755,
-    "deaths": 636,
-    "recovered": 75804
+    "confirmed": 107293,
+    "deaths": 446,
+    "recovered": 98555
   },
   "Oman": {
     "date": "2020-10-12",
     "confirmed": 106575,
     "deaths": 1046,
     "recovered": 93222
-  },
-  "United Arab Emirates": {
-    "date": "2020-10-12",
-    "confirmed": 106229,
-    "deaths": 445,
-    "recovered": 97284
   },
   "Egypt": {
     "date": "2020-10-12",
@@ -271,14 +271,14 @@
   },
   "China": {
     "date": "2020-10-12",
-    "confirmed": 90812,
+    "confirmed": 90823,
     "deaths": 4739,
-    "recovered": 85671
+    "recovered": 85673
   },
   "Japan": {
     "date": "2020-10-12",
-    "confirmed": 89602,
-    "deaths": 1630,
+    "confirmed": 89650,
+    "deaths": 1631,
     "recovered": 81552
   },
   "Costa Rica": {
@@ -403,9 +403,9 @@
   },
   "Libya": {
     "date": "2020-10-12",
-    "confirmed": 42712,
-    "deaths": 631,
-    "recovered": 24038
+    "confirmed": 43821,
+    "deaths": 644,
+    "recovered": 24466
   },
   "Ireland": {
     "date": "2020-10-12",
@@ -539,17 +539,17 @@
     "deaths": 237,
     "recovered": 16042
   },
+  "Malaysia": {
+    "date": "2020-10-12",
+    "confirmed": 16220,
+    "deaths": 159,
+    "recovered": 11022
+  },
   "Kosovo": {
     "date": "2020-10-12",
     "confirmed": 16179,
     "deaths": 647,
     "recovered": 14335
-  },
-  "Malaysia": {
-    "date": "2020-10-12",
-    "confirmed": 15657,
-    "deaths": 157,
-    "recovered": 10913
   },
   "Norway": {
     "date": "2020-10-12",
@@ -571,9 +571,9 @@
   },
   "Senegal": {
     "date": "2020-10-12",
-    "confirmed": 15268,
-    "deaths": 314,
-    "recovered": 13297
+    "confirmed": 15292,
+    "deaths": 315,
+    "recovered": 13390
   },
   "Montenegro": {
     "date": "2020-10-12",
@@ -590,7 +590,7 @@
   "Georgia": {
     "date": "2020-10-12",
     "confirmed": 12272,
-    "deaths": 92,
+    "deaths": 93,
     "recovered": 6538
   },
   "Finland": {
@@ -799,9 +799,9 @@
   },
   "Malta": {
     "date": "2020-10-12",
-    "confirmed": 3776,
-    "deaths": 41,
-    "recovered": 2967
+    "confirmed": 3844,
+    "deaths": 43,
+    "recovered": 2981
   },
   "Thailand": {
     "date": "2020-10-12",
@@ -817,9 +817,9 @@
   },
   "Iceland": {
     "date": "2020-10-12",
-    "confirmed": 3526,
+    "confirmed": 3582,
     "deaths": 10,
-    "recovered": 2499
+    "recovered": 2550
   },
   "Guyana": {
     "date": "2020-10-12",
@@ -973,9 +973,9 @@
   },
   "Taiwan*": {
     "date": "2020-10-12",
-    "confirmed": 527,
+    "confirmed": 529,
     "deaths": 7,
-    "recovered": 488
+    "recovered": 489
   },
   "Burundi": {
     "date": "2020-10-12",
@@ -1037,6 +1037,12 @@
     "deaths": 7,
     "recovered": 186
   },
+  "Liechtenstein": {
+    "date": "2020-10-12",
+    "confirmed": 148,
+    "deaths": 1,
+    "recovered": 124
+  },
   "Seychelles": {
     "date": "2020-10-12",
     "confirmed": 148,
@@ -1048,12 +1054,6 @@
     "confirmed": 146,
     "deaths": 3,
     "recovered": 143
-  },
-  "Liechtenstein": {
-    "date": "2020-10-12",
-    "confirmed": 144,
-    "deaths": 1,
-    "recovered": 121
   },
   "Antigua and Barbuda": {
     "date": "2020-10-12",
