@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-13",
-    "confirmed": 7804337,
-    "deaths": 215086,
+    "confirmed": 7804643,
+    "deaths": 215089,
     "recovered": 3106728
   },
   "India": {
@@ -67,9 +67,9 @@
   },
   "United Kingdom": {
     "date": "2020-10-13",
-    "confirmed": 620458,
+    "confirmed": 620471,
     "deaths": 42965,
-    "recovered": 2511
+    "recovered": 2517
   },
   "Iran": {
     "date": "2020-10-13",
@@ -91,9 +91,9 @@
   },
   "Bangladesh": {
     "date": "2020-10-13",
-    "confirmed": 379738,
-    "deaths": 5555,
-    "recovered": 294391
+    "confirmed": 381275,
+    "deaths": 5577,
+    "recovered": 295873
   },
   "Italy": {
     "date": "2020-10-13",
@@ -247,9 +247,9 @@
   },
   "Oman": {
     "date": "2020-10-13",
-    "confirmed": 106575,
-    "deaths": 1046,
-    "recovered": 93222
+    "confirmed": 107213,
+    "deaths": 1053,
+    "recovered": 93557
   },
   "Egypt": {
     "date": "2020-10-13",
@@ -271,13 +271,13 @@
   },
   "China": {
     "date": "2020-10-13",
-    "confirmed": 90830,
+    "confirmed": 90838,
     "deaths": 4739,
     "recovered": 85690
   },
   "Japan": {
     "date": "2020-10-13",
-    "confirmed": 89999,
+    "confirmed": 90001,
     "deaths": 1633,
     "recovered": 81552
   },
@@ -595,7 +595,7 @@
   },
   "Finland": {
     "date": "2020-10-13",
-    "confirmed": 12212,
+    "confirmed": 12499,
     "deaths": 346,
     "recovered": 8500
   },
@@ -641,6 +641,12 @@
     "deaths": 94,
     "recovered": 6109
   },
+  "Slovenia": {
+    "date": "2020-10-13",
+    "confirmed": 9231,
+    "deaths": 173,
+    "recovered": 5314
+  },
   "Luxembourg": {
     "date": "2020-10-13",
     "confirmed": 9119,
@@ -658,12 +664,6 @@
     "confirmed": 8860,
     "deaths": 54,
     "recovered": 8298
-  },
-  "Slovenia": {
-    "date": "2020-10-13",
-    "confirmed": 8832,
-    "deaths": 169,
-    "recovered": 5219
   },
   "Zimbabwe": {
     "date": "2020-10-13",
@@ -845,17 +845,17 @@
     "deaths": 57,
     "recovered": 1928
   },
+  "Latvia": {
+    "date": "2020-10-13",
+    "confirmed": 2840,
+    "deaths": 41,
+    "recovered": 1325
+  },
   "South Sudan": {
     "date": "2020-10-13",
     "confirmed": 2787,
     "deaths": 55,
     "recovered": 1290
-  },
-  "Latvia": {
-    "date": "2020-10-13",
-    "confirmed": 2765,
-    "deaths": 40,
-    "recovered": 1325
   },
   "Belize": {
     "date": "2020-10-13",
@@ -1113,7 +1113,7 @@
     "date": "2020-10-13",
     "confirmed": 19,
     "deaths": 0,
-    "recovered": 18
+    "recovered": 19
   },
   "Western Sahara": {
     "date": "2020-10-13",
