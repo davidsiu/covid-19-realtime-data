@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-13",
-    "confirmed": 7803259,
-    "deaths": 214061,
+    "confirmed": 7803884,
+    "deaths": 214063,
     "recovered": 3106728
   },
   "India": {
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2020-10-13",
-    "confirmed": 5094979,
-    "deaths": 150488,
+    "confirmed": 5103408,
+    "deaths": 150689,
     "recovered": 4526393
   },
   "Russia": {
@@ -133,9 +133,9 @@
   },
   "Pakistan": {
     "date": "2020-10-13",
-    "confirmed": 319317,
-    "deaths": 6580,
-    "recovered": 304185
+    "confirmed": 319848,
+    "deaths": 6588,
+    "recovered": 304609
   },
   "Israel": {
     "date": "2020-10-13",
@@ -153,7 +153,7 @@
     "date": "2020-10-13",
     "confirmed": 187138,
     "deaths": 6654,
-    "recovered": 4822
+    "recovered": 4832
   },
   "Canada": {
     "date": "2020-10-13",
@@ -187,9 +187,9 @@
   },
   "Bolivia": {
     "date": "2020-10-13",
-    "confirmed": 138574,
-    "deaths": 8308,
-    "recovered": 101103
+    "confirmed": 138695,
+    "deaths": 8326,
+    "recovered": 101523
   },
   "Poland": {
     "date": "2020-10-13",
@@ -271,9 +271,9 @@
   },
   "China": {
     "date": "2020-10-13",
-    "confirmed": 90828,
+    "confirmed": 90830,
     "deaths": 4739,
-    "recovered": 85681
+    "recovered": 85690
   },
   "Japan": {
     "date": "2020-10-13",
@@ -301,9 +301,9 @@
   },
   "Honduras": {
     "date": "2020-10-13",
-    "confirmed": 84081,
-    "deaths": 2512,
-    "recovered": 32012
+    "confirmed": 84413,
+    "deaths": 2521,
+    "recovered": 32214
   },
   "Belarus": {
     "date": "2020-10-13",
@@ -493,9 +493,9 @@
   },
   "Korea, South": {
     "date": "2020-10-13",
-    "confirmed": 24703,
-    "deaths": 433,
-    "recovered": 22729
+    "confirmed": 24805,
+    "deaths": 434,
+    "recovered": 22863
   },
   "Greece": {
     "date": "2020-10-13",
@@ -859,9 +859,9 @@
   },
   "Belize": {
     "date": "2020-10-13",
-    "confirmed": 2531,
+    "confirmed": 2569,
     "deaths": 37,
-    "recovered": 1548
+    "recovered": 1566
   },
   "Benin": {
     "date": "2020-10-13",
@@ -913,9 +913,9 @@
   },
   "New Zealand": {
     "date": "2020-10-13",
-    "confirmed": 1871,
+    "confirmed": 1872,
     "deaths": 25,
-    "recovered": 1801
+    "recovered": 1808
   },
   "Lesotho": {
     "date": "2020-10-13",
@@ -1125,6 +1125,12 @@
     "date": "2020-10-13",
     "confirmed": 9,
     "deaths": 2,
+    "recovered": null
+  },
+  "Solomon Islands": {
+    "date": "2020-10-13",
+    "confirmed": 2,
+    "deaths": 0,
     "recovered": null
   }
 }
