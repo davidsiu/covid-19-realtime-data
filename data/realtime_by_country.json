@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-10-13",
-    "confirmed": 7804047,
-    "deaths": 215078,
+    "confirmed": 7804199,
+    "deaths": 215085,
     "recovered": 3106728
   },
   "India": {
     "date": "2020-10-13",
-    "confirmed": 7120538,
-    "deaths": 109150,
-    "recovered": 6149535
+    "confirmed": 7175880,
+    "deaths": 109856,
+    "recovered": 6227295
   },
   "Brazil": {
     "date": "2020-10-13",
@@ -25,7 +25,7 @@
   },
   "Colombia": {
     "date": "2020-10-13",
-    "confirmed": 919083,
+    "confirmed": 919084,
     "deaths": 27985,
     "recovered": 798396
   },
@@ -128,7 +128,7 @@
   "Germany": {
     "date": "2020-10-13",
     "confirmed": 332850,
-    "deaths": 9637,
+    "deaths": 9640,
     "recovered": 278391
   },
   "Pakistan": {
@@ -477,7 +477,7 @@
     "date": "2020-10-13",
     "confirmed": 27310,
     "deaths": 899,
-    "recovered": 25015
+    "recovered": 25029
   },
   "Jordan": {
     "date": "2020-10-13",
@@ -731,6 +731,12 @@
     "deaths": 153,
     "recovered": 4225
   },
+  "Bahamas": {
+    "date": "2020-10-13",
+    "confirmed": 5163,
+    "deaths": 108,
+    "recovered": 2978
+  },
   "Congo (Brazzaville)": {
     "date": "2020-10-13",
     "confirmed": 5118,
@@ -742,12 +748,6 @@
     "confirmed": 5116,
     "deaths": 92,
     "recovered": 3303
-  },
-  "Bahamas": {
-    "date": "2020-10-13",
-    "confirmed": 5078,
-    "deaths": 107,
-    "recovered": 2900
   },
   "Equatorial Guinea": {
     "date": "2020-10-13",
@@ -805,9 +805,9 @@
   },
   "Thailand": {
     "date": "2020-10-13",
-    "confirmed": 3641,
+    "confirmed": 3643,
     "deaths": 59,
-    "recovered": 3454
+    "recovered": 3457
   },
   "Gambia": {
     "date": "2020-10-13",
@@ -1009,9 +1009,9 @@
   },
   "Mongolia": {
     "date": "2020-10-13",
-    "confirmed": 318,
+    "confirmed": 320,
     "deaths": 0,
-    "recovered": 310
+    "recovered": 311
   },
   "Bhutan": {
     "date": "2020-10-13",
