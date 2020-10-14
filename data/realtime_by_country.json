@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-14",
-    "confirmed": 7891674,
-    "deaths": 216406,
+    "confirmed": 7895758,
+    "deaths": 216469,
     "recovered": 3124593
   },
   "India": {
@@ -115,7 +115,7 @@
   },
   "Germany": {
     "date": "2020-10-14",
-    "confirmed": 340672,
+    "confirmed": 341695,
     "deaths": 9695,
     "recovered": 282216
   },
@@ -269,6 +269,12 @@
     "deaths": 3430,
     "recovered": 88416
   },
+  "Costa Rica": {
+    "date": "2020-10-14",
+    "confirmed": 91780,
+    "deaths": 1134,
+    "recovered": 54155
+  },
   "Portugal": {
     "date": "2020-10-14",
     "confirmed": 91193,
@@ -286,12 +292,6 @@
     "confirmed": 90694,
     "deaths": 1646,
     "recovered": 82576
-  },
-  "Costa Rica": {
-    "date": "2020-10-14",
-    "confirmed": 90238,
-    "deaths": 1124,
-    "recovered": 53670
   },
   "Ethiopia": {
     "date": "2020-10-14",
@@ -529,9 +529,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-10-14",
-    "confirmed": 20183,
+    "confirmed": 20217,
     "deaths": 120,
-    "recovered": 19860
+    "recovered": 19872
   },
   "Malaysia": {
     "date": "2020-10-14",
@@ -743,17 +743,17 @@
     "deaths": 108,
     "recovered": 2978
   },
+  "Congo (Brazzaville)": {
+    "date": "2020-10-14",
+    "confirmed": 5156,
+    "deaths": 92,
+    "recovered": 3887
+  },
   "Trinidad and Tobago": {
     "date": "2020-10-14",
     "confirmed": 5127,
     "deaths": 93,
     "recovered": 3367
-  },
-  "Congo (Brazzaville)": {
-    "date": "2020-10-14",
-    "confirmed": 5118,
-    "deaths": 90,
-    "recovered": 3887
   },
   "Suriname": {
     "date": "2020-10-14",
@@ -769,9 +769,9 @@
   },
   "Rwanda": {
     "date": "2020-10-14",
-    "confirmed": 4908,
-    "deaths": 32,
-    "recovered": 4130
+    "confirmed": 4940,
+    "deaths": 33,
+    "recovered": 4398
   },
   "Central African Republic": {
     "date": "2020-10-14",
@@ -931,7 +931,7 @@
   },
   "Chad": {
     "date": "2020-10-14",
-    "confirmed": 1321,
+    "confirmed": 1329,
     "deaths": 92,
     "recovered": 1120
   },
