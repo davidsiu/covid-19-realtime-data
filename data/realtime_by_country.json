@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-14",
-    "confirmed": 7883392,
-    "deaths": 216323,
+    "confirmed": 7891674,
+    "deaths": 216406,
     "recovered": 3124593
   },
   "India": {
@@ -113,6 +113,12 @@
     "deaths": 12156,
     "recovered": 267851
   },
+  "Germany": {
+    "date": "2020-10-14",
+    "confirmed": 340672,
+    "deaths": 9695,
+    "recovered": 282216
+  },
   "Saudi Arabia": {
     "date": "2020-10-14",
     "confirmed": 340590,
@@ -124,12 +130,6 @@
     "confirmed": 340450,
     "deaths": 9014,
     "recovered": 298368
-  },
-  "Germany": {
-    "date": "2020-10-14",
-    "confirmed": 339756,
-    "deaths": 9695,
-    "recovered": 282216
   },
   "Pakistan": {
     "date": "2020-10-14",
@@ -295,9 +295,9 @@
   },
   "Ethiopia": {
     "date": "2020-10-14",
-    "confirmed": 85718,
-    "deaths": 1305,
-    "recovered": 39307
+    "confirmed": 86430,
+    "deaths": 1312,
+    "recovered": 40165
   },
   "Belarus": {
     "date": "2020-10-14",
@@ -515,17 +515,17 @@
     "deaths": 334,
     "recovered": 18197
   },
+  "North Macedonia": {
+    "date": "2020-10-14",
+    "confirmed": 21636,
+    "deaths": 809,
+    "recovered": 16591
+  },
   "Cameroon": {
     "date": "2020-10-14",
     "confirmed": 21203,
     "deaths": 423,
     "recovered": 20117
-  },
-  "North Macedonia": {
-    "date": "2020-10-14",
-    "confirmed": 21193,
-    "deaths": 800,
-    "recovered": 16397
   },
   "Cote d'Ivoire": {
     "date": "2020-10-14",
@@ -623,17 +623,17 @@
     "deaths": 276,
     "recovered": 10249
   },
+  "Mozambique": {
+    "date": "2020-10-14",
+    "confirmed": 10392,
+    "deaths": 73,
+    "recovered": 8035
+  },
   "Tajikistan": {
     "date": "2020-10-14",
     "confirmed": 10336,
     "deaths": 79,
     "recovered": 9245
-  },
-  "Mozambique": {
-    "date": "2020-10-14",
-    "confirmed": 10258,
-    "deaths": 73,
-    "recovered": 7880
   },
   "Uganda": {
     "date": "2020-10-14",
@@ -709,9 +709,9 @@
   },
   "Malawi": {
     "date": "2020-10-14",
-    "confirmed": 5827,
+    "confirmed": 5829,
     "deaths": 181,
-    "recovered": 4688
+    "recovered": 4723
   },
   "Eswatini": {
     "date": "2020-10-14",
@@ -835,9 +835,9 @@
   },
   "Mali": {
     "date": "2020-10-14",
-    "confirmed": 3297,
+    "confirmed": 3352,
     "deaths": 132,
-    "recovered": 2544
+    "recovered": 2550
   },
   "Andorra": {
     "date": "2020-10-14",
