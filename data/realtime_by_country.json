@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-15",
-    "confirmed": 7917389,
-    "deaths": 216904,
+    "confirmed": 7920386,
+    "deaths": 216933,
     "recovered": 3155794
   },
   "India": {
@@ -43,8 +43,8 @@
   },
   "Peru": {
     "date": "2020-10-15",
-    "confirmed": 853974,
-    "deaths": 33419,
+    "confirmed": 856951,
+    "deaths": 33512,
     "recovered": 759597
   },
   "Mexico": {
@@ -116,8 +116,8 @@
   "Germany": {
     "date": "2020-10-15",
     "confirmed": 344487,
-    "deaths": 9721,
-    "recovered": 284766
+    "deaths": 9724,
+    "recovered": 284813
   },
   "Saudi Arabia": {
     "date": "2020-10-15",
@@ -157,9 +157,9 @@
   },
   "Canada": {
     "date": "2020-10-15",
-    "confirmed": 192064,
+    "confirmed": 192065,
     "deaths": 9719,
-    "recovered": 162064
+    "recovered": 162065
   },
   "Belgium": {
     "date": "2020-10-15",
@@ -269,6 +269,12 @@
     "deaths": 3430,
     "recovered": 88416
   },
+  "Portugal": {
+    "date": "2020-10-15",
+    "confirmed": 93294,
+    "deaths": 2128,
+    "recovered": 55081
+  },
   "Costa Rica": {
     "date": "2020-10-15",
     "confirmed": 91780,
@@ -280,12 +286,6 @@
     "confirmed": 91402,
     "deaths": 1649,
     "recovered": 83272
-  },
-  "Portugal": {
-    "date": "2020-10-15",
-    "confirmed": 91193,
-    "deaths": 2117,
-    "recovered": 54493
   },
   "China": {
     "date": "2020-10-15",
@@ -337,9 +337,9 @@
   },
   "Uzbekistan": {
     "date": "2020-10-15",
-    "confirmed": 62175,
-    "deaths": 516,
-    "recovered": 59095
+    "confirmed": 62278,
+    "deaths": 518,
+    "recovered": 59291
   },
   "Nigeria": {
     "date": "2020-10-15",
@@ -403,9 +403,9 @@
   },
   "West Bank and Gaza": {
     "date": "2020-10-15",
-    "confirmed": 45658,
-    "deaths": 393,
-    "recovered": 39304
+    "confirmed": 46100,
+    "deaths": 401,
+    "recovered": 39585
   },
   "Ireland": {
     "date": "2020-10-15",
@@ -413,17 +413,17 @@
     "deaths": 1835,
     "recovered": 23364
   },
+  "Kenya": {
+    "date": "2020-10-15",
+    "confirmed": 43143,
+    "deaths": 805,
+    "recovered": 31508
+  },
   "Azerbaijan": {
     "date": "2020-10-15",
     "confirmed": 42750,
     "deaths": 616,
     "recovered": 39570
-  },
-  "Kenya": {
-    "date": "2020-10-15",
-    "confirmed": 42541,
-    "deaths": 797,
-    "recovered": 31428
   },
   "Hungary": {
     "date": "2020-10-15",
@@ -455,17 +455,17 @@
     "deaths": 677,
     "recovered": 28599
   },
+  "Burma": {
+    "date": "2020-10-15",
+    "confirmed": 32351,
+    "deaths": 765,
+    "recovered": 14706
+  },
   "Bosnia and Herzegovina": {
     "date": "2020-10-15",
     "confirmed": 32224,
     "deaths": 972,
     "recovered": 24356
-  },
-  "Burma": {
-    "date": "2020-10-15",
-    "confirmed": 31325,
-    "deaths": 732,
-    "recovered": 13866
   },
   "El Salvador": {
     "date": "2020-10-15",
@@ -547,21 +547,21 @@
   },
   "Kosovo": {
     "date": "2020-10-15",
-    "confirmed": 16425,
+    "confirmed": 16502,
     "deaths": 650,
-    "recovered": 14455
+    "recovered": 14514
+  },
+  "Norway": {
+    "date": "2020-10-15",
+    "confirmed": 16050,
+    "deaths": 278,
+    "recovered": 11863
   },
   "Albania": {
     "date": "2020-10-15",
     "confirmed": 15955,
     "deaths": 434,
     "recovered": 9762
-  },
-  "Norway": {
-    "date": "2020-10-15",
-    "confirmed": 15953,
-    "deaths": 278,
-    "recovered": 11863
   },
   "Zambia": {
     "date": "2020-10-15",
@@ -623,6 +623,12 @@
     "deaths": 281,
     "recovered": 10306
   },
+  "Slovenia": {
+    "date": "2020-10-15",
+    "confirmed": 10683,
+    "deaths": 176,
+    "recovered": 5689
+  },
   "Mozambique": {
     "date": "2020-10-15",
     "confirmed": 10392,
@@ -637,15 +643,9 @@
   },
   "Uganda": {
     "date": "2020-10-15",
-    "confirmed": 10069,
-    "deaths": 95,
-    "recovered": 6531
-  },
-  "Slovenia": {
-    "date": "2020-10-15",
-    "confirmed": 9938,
-    "deaths": 175,
-    "recovered": 5515
+    "confirmed": 10117,
+    "deaths": 96,
+    "recovered": 6725
   },
   "Luxembourg": {
     "date": "2020-10-15",
