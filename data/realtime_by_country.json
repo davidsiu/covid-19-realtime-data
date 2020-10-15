@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-10-15",
-    "confirmed": 7972886,
-    "deaths": 217721,
-    "recovered": 3155826
+    "confirmed": 7974502,
+    "deaths": 217745,
+    "recovered": 3177397
   },
   "India": {
     "date": "2020-10-15",
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2020-10-15",
-    "confirmed": 5140863,
-    "deaths": 151747,
+    "confirmed": 5169386,
+    "deaths": 152460,
     "recovered": 4526393
   },
   "Russia": {
@@ -109,7 +109,7 @@
   },
   "Germany": {
     "date": "2020-10-15",
-    "confirmed": 348824,
+    "confirmed": 348832,
     "deaths": 9726,
     "recovered": 284917
   },
@@ -151,15 +151,15 @@
   },
   "Netherlands": {
     "date": "2020-10-15",
-    "confirmed": 209791,
+    "confirmed": 209799,
     "deaths": 6749,
     "recovered": 5049
   },
   "Canada": {
     "date": "2020-10-15",
-    "confirmed": 194218,
+    "confirmed": 194360,
     "deaths": 9756,
-    "recovered": 164009
+    "recovered": 164154
   },
   "Belgium": {
     "date": "2020-10-15",
@@ -179,23 +179,23 @@
     "deaths": 2772,
     "recovered": 136036
   },
+  "Ecuador": {
+    "date": "2020-10-15",
+    "confirmed": 150360,
+    "deaths": 12306,
+    "recovered": 128134
+  },
   "Poland": {
     "date": "2020-10-15",
     "confirmed": 149903,
     "deaths": 3308,
     "recovered": 85588
   },
-  "Ecuador": {
-    "date": "2020-10-15",
-    "confirmed": 149083,
-    "deaths": 12264,
-    "recovered": 128134
-  },
   "Czechia": {
     "date": "2020-10-15",
-    "confirmed": 144849,
-    "deaths": 1218,
-    "recovered": 61505
+    "confirmed": 149010,
+    "deaths": 1230,
+    "recovered": 63350
   },
   "Bolivia": {
     "date": "2020-10-15",
@@ -223,9 +223,9 @@
   },
   "Dominican Republic": {
     "date": "2020-10-15",
-    "confirmed": 119662,
-    "deaths": 2186,
-    "recovered": 95460
+    "confirmed": 120066,
+    "deaths": 2189,
+    "recovered": 96152
   },
   "Kuwait": {
     "date": "2020-10-15",
@@ -291,7 +291,7 @@
     "date": "2020-10-15",
     "confirmed": 90881,
     "deaths": 4739,
-    "recovered": 85720
+    "recovered": 85731
   },
   "Ethiopia": {
     "date": "2020-10-15",
@@ -343,9 +343,9 @@
   },
   "Nigeria": {
     "date": "2020-10-15",
-    "confirmed": 60834,
+    "confirmed": 60982,
     "deaths": 1116,
-    "recovered": 52143
+    "recovered": 52194
   },
   "Austria": {
     "date": "2020-10-15",
@@ -559,15 +559,15 @@
   },
   "Norway": {
     "date": "2020-10-15",
-    "confirmed": 16050,
+    "confirmed": 16137,
     "deaths": 278,
     "recovered": 11863
   },
   "Zambia": {
     "date": "2020-10-15",
-    "confirmed": 15616,
-    "deaths": 345,
-    "recovered": 14850
+    "confirmed": 15659,
+    "deaths": 346,
+    "recovered": 14899
   },
   "Senegal": {
     "date": "2020-10-15",
@@ -655,7 +655,7 @@
   },
   "Haiti": {
     "date": "2020-10-15",
-    "confirmed": 8908,
+    "confirmed": 8925,
     "deaths": 231,
     "recovered": 7182
   },
@@ -691,9 +691,9 @@
   },
   "Angola": {
     "date": "2020-10-15",
-    "confirmed": 6846,
-    "deaths": 227,
-    "recovered": 2801
+    "confirmed": 7096,
+    "deaths": 228,
+    "recovered": 2928
   },
   "Lithuania": {
     "date": "2020-10-15",
@@ -881,17 +881,17 @@
     "deaths": 51,
     "recovered": 2007
   },
+  "Burkina Faso": {
+    "date": "2020-10-15",
+    "confirmed": 2335,
+    "deaths": 65,
+    "recovered": 1645
+  },
   "Sierra Leone": {
     "date": "2020-10-15",
     "confirmed": 2323,
     "deaths": 73,
     "recovered": 1746
-  },
-  "Burkina Faso": {
-    "date": "2020-10-15",
-    "confirmed": 2305,
-    "deaths": 63,
-    "recovered": 1581
   },
   "Cyprus": {
     "date": "2020-10-15",
@@ -937,7 +937,7 @@
   },
   "Niger": {
     "date": "2020-10-15",
-    "confirmed": 1205,
+    "confirmed": 1207,
     "deaths": 69,
     "recovered": 1124
   },
@@ -973,7 +973,7 @@
   },
   "Taiwan*": {
     "date": "2020-10-15",
-    "confirmed": 530,
+    "confirmed": 531,
     "deaths": 7,
     "recovered": 491
   },
@@ -1091,6 +1091,12 @@
     "deaths": 0,
     "recovered": 28
   },
+  "Holy See": {
+    "date": "2020-10-15",
+    "confirmed": 26,
+    "deaths": 0,
+    "recovered": 12
+  },
   "Grenada": {
     "date": "2020-10-15",
     "confirmed": 25,
@@ -1102,12 +1108,6 @@
     "confirmed": 23,
     "deaths": 0,
     "recovered": 22
-  },
-  "Holy See": {
-    "date": "2020-10-15",
-    "confirmed": 19,
-    "deaths": 0,
-    "recovered": 12
   },
   "Saint Kitts and Nevis": {
     "date": "2020-10-15",
