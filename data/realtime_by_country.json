@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-15",
-    "confirmed": 7916118,
-    "deaths": 216858,
+    "confirmed": 7916099,
+    "deaths": 216872,
     "recovered": 3155794
   },
   "India": {
@@ -116,7 +116,7 @@
   "Germany": {
     "date": "2020-10-15",
     "confirmed": 344487,
-    "deaths": 9710,
+    "deaths": 9716,
     "recovered": 283656
   },
   "Saudi Arabia": {
@@ -285,7 +285,7 @@
     "date": "2020-10-15",
     "confirmed": 90869,
     "deaths": 4739,
-    "recovered": 85717
+    "recovered": 85720
   },
   "Japan": {
     "date": "2020-10-15",
@@ -299,6 +299,12 @@
     "deaths": 1312,
     "recovered": 40165
   },
+  "Honduras": {
+    "date": "2020-10-15",
+    "confirmed": 85458,
+    "deaths": 2533,
+    "recovered": 32990
+  },
   "Belarus": {
     "date": "2020-10-15",
     "confirmed": 85121,
@@ -310,12 +316,6 @@
     "confirmed": 85005,
     "deaths": 714,
     "recovered": 76262
-  },
-  "Honduras": {
-    "date": "2020-10-15",
-    "confirmed": 84852,
-    "deaths": 2528,
-    "recovered": 32772
   },
   "Bahrain": {
     "date": "2020-10-15",
@@ -1015,9 +1015,9 @@
   },
   "Bhutan": {
     "date": "2020-10-15",
-    "confirmed": 313,
+    "confirmed": 316,
     "deaths": 0,
-    "recovered": 293
+    "recovered": 294
   },
   "Cambodia": {
     "date": "2020-10-15",
