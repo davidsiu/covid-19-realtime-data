@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-15",
-    "confirmed": 7927975,
-    "deaths": 217155,
+    "confirmed": 7933656,
+    "deaths": 217220,
     "recovered": 3155826
   },
   "India": {
@@ -47,17 +47,17 @@
     "deaths": 33512,
     "recovered": 759597
   },
+  "France": {
+    "date": "2020-10-15",
+    "confirmed": 850997,
+    "deaths": 33146,
+    "recovered": 107043
+  },
   "Mexico": {
     "date": "2020-10-15",
     "confirmed": 829396,
     "deaths": 84898,
     "recovered": 703489
-  },
-  "France": {
-    "date": "2020-10-15",
-    "confirmed": 820376,
-    "deaths": 33058,
-    "recovered": 106374
   },
   "South Africa": {
     "date": "2020-10-15",
@@ -67,9 +67,9 @@
   },
   "United Kingdom": {
     "date": "2020-10-15",
-    "confirmed": 657474,
-    "deaths": 43245,
-    "recovered": 2555
+    "confirmed": 676455,
+    "deaths": 43383,
+    "recovered": 2561
   },
   "Iran": {
     "date": "2020-10-15",
@@ -79,9 +79,9 @@
   },
   "Chile": {
     "date": "2020-10-15",
-    "confirmed": 485372,
-    "deaths": 13415,
-    "recovered": 458073
+    "confirmed": 486496,
+    "deaths": 13434,
+    "recovered": 459536
   },
   "Iraq": {
     "date": "2020-10-15",
@@ -115,21 +115,21 @@
   },
   "Germany": {
     "date": "2020-10-15",
-    "confirmed": 344517,
+    "confirmed": 345313,
     "deaths": 9725,
     "recovered": 284863
+  },
+  "Turkey": {
+    "date": "2020-10-15",
+    "confirmed": 342143,
+    "deaths": 9080,
+    "recovered": 299679
   },
   "Saudi Arabia": {
     "date": "2020-10-15",
     "confirmed": 341062,
     "deaths": 5127,
     "recovered": 327327
-  },
-  "Turkey": {
-    "date": "2020-10-15",
-    "confirmed": 340450,
-    "deaths": 9014,
-    "recovered": 298368
   },
   "Pakistan": {
     "date": "2020-10-15",
@@ -193,9 +193,9 @@
   },
   "Czechia": {
     "date": "2020-10-15",
-    "confirmed": 139290,
-    "deaths": 1172,
-    "recovered": 60901
+    "confirmed": 144849,
+    "deaths": 1218,
+    "recovered": 61505
   },
   "Bolivia": {
     "date": "2020-10-15",
@@ -320,20 +320,20 @@
   "Bahrain": {
     "date": "2020-10-15",
     "confirmed": 76621,
-    "deaths": 288,
+    "deaths": 289,
     "recovered": 72561
   },
   "Switzerland": {
     "date": "2020-10-15",
     "confirmed": 71317,
-    "deaths": 2113,
+    "deaths": 2114,
     "recovered": 50500
   },
   "Moldova": {
     "date": "2020-10-15",
-    "confirmed": 64424,
-    "deaths": 1514,
-    "recovered": 45545
+    "confirmed": 65076,
+    "deaths": 1530,
+    "recovered": 46010
   },
   "Uzbekistan": {
     "date": "2020-10-15",
@@ -391,9 +391,9 @@
   },
   "Ghana": {
     "date": "2020-10-15",
-    "confirmed": 47126,
+    "confirmed": 47151,
     "deaths": 310,
-    "recovered": 46469
+    "recovered": 46490
   },
   "Libya": {
     "date": "2020-10-15",
@@ -451,9 +451,9 @@
   },
   "Denmark": {
     "date": "2020-10-15",
-    "confirmed": 34517,
+    "confirmed": 34519,
     "deaths": 677,
-    "recovered": 28599
+    "recovered": 28603
   },
   "Jordan": {
     "date": "2020-10-15",
@@ -505,8 +505,8 @@
   },
   "Greece": {
     "date": "2020-10-15",
-    "confirmed": 23495,
-    "deaths": 469,
+    "confirmed": 23947,
+    "deaths": 482,
     "recovered": 1347
   },
   "Croatia": {
@@ -577,9 +577,9 @@
   },
   "Montenegro": {
     "date": "2020-10-15",
-    "confirmed": 14461,
-    "deaths": 217,
-    "recovered": 10201
+    "confirmed": 14672,
+    "deaths": 221,
+    "recovered": 10355
   },
   "Georgia": {
     "date": "2020-10-15",
@@ -725,6 +725,12 @@
     "deaths": 61,
     "recovered": 5366
   },
+  "Bahamas": {
+    "date": "2020-10-15",
+    "confirmed": 5385,
+    "deaths": 112,
+    "recovered": 3178
+  },
   "Nicaragua": {
     "date": "2020-10-15",
     "confirmed": 5353,
@@ -736,12 +742,6 @@
     "confirmed": 5219,
     "deaths": 13,
     "recovered": 3380
-  },
-  "Bahamas": {
-    "date": "2020-10-15",
-    "confirmed": 5191,
-    "deaths": 109,
-    "recovered": 3078
   },
   "Congo (Brazzaville)": {
     "date": "2020-10-15",
@@ -955,9 +955,9 @@
   },
   "San Marino": {
     "date": "2020-10-15",
-    "confirmed": 741,
+    "confirmed": 759,
     "deaths": 42,
-    "recovered": 682
+    "recovered": 685
   },
   "Diamond Princess": {
     "date": "2020-10-15",
