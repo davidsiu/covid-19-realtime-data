@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-17",
-    "confirmed": 8050141,
+    "confirmed": 8050140,
     "deaths": 218599,
     "recovered": 3197539
   },
@@ -335,17 +335,17 @@
     "deaths": 1549,
     "recovered": 46543
   },
+  "Armenia": {
+    "date": "2020-10-17",
+    "confirmed": 63000,
+    "deaths": 1067,
+    "recovered": 47925
+  },
   "Uzbekistan": {
     "date": "2020-10-17",
     "confirmed": 62684,
     "deaths": 520,
     "recovered": 59756
-  },
-  "Armenia": {
-    "date": "2020-10-17",
-    "confirmed": 61460,
-    "deaths": 1056,
-    "recovered": 47541
   },
   "Austria": {
     "date": "2020-10-17",
@@ -433,9 +433,9 @@
   },
   "Afghanistan": {
     "date": "2020-10-17",
-    "confirmed": 40073,
-    "deaths": 1485,
-    "recovered": 33516
+    "confirmed": 40141,
+    "deaths": 1488,
+    "recovered": 33561
   },
   "Serbia": {
     "date": "2020-10-17",
@@ -557,6 +557,12 @@
     "deaths": 443,
     "recovered": 9957
   },
+  "Georgia": {
+    "date": "2020-10-17",
+    "confirmed": 16285,
+    "deaths": 128,
+    "recovered": 7827
+  },
   "Norway": {
     "date": "2020-10-17",
     "confirmed": 16272,
@@ -574,12 +580,6 @@
     "confirmed": 15368,
     "deaths": 317,
     "recovered": 13704
-  },
-  "Georgia": {
-    "date": "2020-10-17",
-    "confirmed": 15327,
-    "deaths": 124,
-    "recovered": 7613
   },
   "Montenegro": {
     "date": "2020-10-17",
