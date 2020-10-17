@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-17",
-    "confirmed": 8076103,
-    "deaths": 218869,
+    "confirmed": 8080786,
+    "deaths": 218896,
     "recovered": 3197539
   },
   "India": {
@@ -152,8 +152,8 @@
   "Netherlands": {
     "date": "2020-10-17",
     "confirmed": 225935,
-    "deaths": 6794,
-    "recovered": 5108
+    "deaths": 6795,
+    "recovered": 5117
   },
   "Belgium": {
     "date": "2020-10-17",
@@ -173,17 +173,17 @@
     "deaths": 5812,
     "recovered": 129556
   },
+  "Morocco": {
+    "date": "2020-10-17",
+    "confirmed": 170911,
+    "deaths": 2878,
+    "recovered": 141381
+  },
   "Poland": {
     "date": "2020-10-17",
     "confirmed": 167230,
     "deaths": 3524,
     "recovered": 90162
-  },
-  "Morocco": {
-    "date": "2020-10-17",
-    "confirmed": 167148,
-    "deaths": 2818,
-    "recovered": 138989
   },
   "Czechia": {
     "date": "2020-10-17",
@@ -673,7 +673,7 @@
   },
   "Zimbabwe": {
     "date": "2020-10-17",
-    "confirmed": 8099,
+    "confirmed": 8110,
     "deaths": 231,
     "recovered": 7673
   },
@@ -715,7 +715,7 @@
   },
   "Eswatini": {
     "date": "2020-10-17",
-    "confirmed": 5746,
+    "confirmed": 5765,
     "deaths": 115,
     "recovered": 5392
   },
@@ -863,6 +863,12 @@
     "deaths": 43,
     "recovered": 1626
   },
+  "Cyprus": {
+    "date": "2020-10-17",
+    "confirmed": 2581,
+    "deaths": 25,
+    "recovered": 1444
+  },
   "Benin": {
     "date": "2020-10-17",
     "confirmed": 2496,
@@ -880,12 +886,6 @@
     "confirmed": 2389,
     "deaths": 41,
     "recovered": 1782
-  },
-  "Cyprus": {
-    "date": "2020-10-17",
-    "confirmed": 2379,
-    "deaths": 25,
-    "recovered": 1444
   },
   "Burkina Faso": {
     "date": "2020-10-17",
@@ -931,9 +931,9 @@
   },
   "Chad": {
     "date": "2020-10-17",
-    "confirmed": 1361,
+    "confirmed": 1365,
     "deaths": 93,
-    "recovered": 1138
+    "recovered": 1179
   },
   "Niger": {
     "date": "2020-10-17",
