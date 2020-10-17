@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-17",
-    "confirmed": 8043312,
-    "deaths": 218496,
+    "confirmed": 8045090,
+    "deaths": 218529,
     "recovered": 3197539
   },
   "India": {
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2020-10-17",
-    "confirmed": 5169386,
-    "deaths": 152460,
+    "confirmed": 5200300,
+    "deaths": 153214,
     "recovered": 4526393
   },
   "Russia": {
@@ -55,9 +55,9 @@
   },
   "Mexico": {
     "date": "2020-10-17",
-    "confirmed": 834910,
-    "deaths": 85285,
-    "recovered": 707631
+    "confirmed": 841661,
+    "deaths": 85704,
+    "recovered": 712250
   },
   "South Africa": {
     "date": "2020-10-17",
@@ -69,7 +69,7 @@
     "date": "2020-10-17",
     "confirmed": 692112,
     "deaths": 43519,
-    "recovered": 2564
+    "recovered": 2565
   },
   "Iran": {
     "date": "2020-10-17",
@@ -103,7 +103,7 @@
   },
   "Germany": {
     "date": "2020-10-17",
-    "confirmed": 356788,
+    "confirmed": 356800,
     "deaths": 9748,
     "recovered": 288059
   },
@@ -289,9 +289,9 @@
   },
   "China": {
     "date": "2020-10-17",
-    "confirmed": 90912,
+    "confirmed": 90919,
     "deaths": 4739,
-    "recovered": 85751
+    "recovered": 85753
   },
   "Ethiopia": {
     "date": "2020-10-17",
@@ -743,6 +743,12 @@
     "deaths": 154,
     "recovered": 4225
   },
+  "Botswana": {
+    "date": "2020-10-17",
+    "confirmed": 5242,
+    "deaths": 20,
+    "recovered": 905
+  },
   "Trinidad and Tobago": {
     "date": "2020-10-17",
     "confirmed": 5241,
@@ -803,12 +809,6 @@
     "deaths": 11,
     "recovered": 2713
   },
-  "Botswana": {
-    "date": "2020-10-17",
-    "confirmed": 3914,
-    "deaths": 20,
-    "recovered": 905
-  },
   "Somalia": {
     "date": "2020-10-17",
     "confirmed": 3864,
@@ -829,9 +829,9 @@
   },
   "Gambia": {
     "date": "2020-10-17",
-    "confirmed": 3644,
+    "confirmed": 3649,
     "deaths": 118,
-    "recovered": 2646
+    "recovered": 2649
   },
   "Mali": {
     "date": "2020-10-17",
@@ -881,6 +881,12 @@
     "deaths": 41,
     "recovered": 1782
   },
+  "Cyprus": {
+    "date": "2020-10-17",
+    "confirmed": 2379,
+    "deaths": 25,
+    "recovered": 1444
+  },
   "Burkina Faso": {
     "date": "2020-10-17",
     "confirmed": 2343,
@@ -892,12 +898,6 @@
     "confirmed": 2325,
     "deaths": 73,
     "recovered": 1750
-  },
-  "Cyprus": {
-    "date": "2020-10-17",
-    "confirmed": 2285,
-    "deaths": 25,
-    "recovered": 1444
   },
   "Yemen": {
     "date": "2020-10-17",
@@ -945,7 +945,7 @@
     "date": "2020-10-17",
     "confirmed": 1124,
     "deaths": 35,
-    "recovered": 1030
+    "recovered": 1031
   },
   "Sao Tome and Principe": {
     "date": "2020-10-17",
@@ -1033,7 +1033,7 @@
   },
   "Barbados": {
     "date": "2020-10-17",
-    "confirmed": 218,
+    "confirmed": 219,
     "deaths": 7,
     "recovered": 195
   },
