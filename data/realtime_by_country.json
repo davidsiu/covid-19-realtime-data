@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-17",
-    "confirmed": 8050140,
+    "confirmed": 8050147,
     "deaths": 218599,
     "recovered": 3197539
   },
@@ -20,7 +20,7 @@
   "Russia": {
     "date": "2020-10-17",
     "confirmed": 1376020,
-    "deaths": 23850,
+    "deaths": 23857,
     "recovered": 1060279
   },
   "Argentina": {
@@ -107,17 +107,17 @@
     "deaths": 9773,
     "recovered": 290279
   },
+  "Indonesia": {
+    "date": "2020-10-17",
+    "confirmed": 357762,
+    "deaths": 12431,
+    "recovered": 281592
+  },
   "Philippines": {
     "date": "2020-10-17",
     "confirmed": 354338,
     "deaths": 6603,
     "recovered": 295312
-  },
-  "Indonesia": {
-    "date": "2020-10-17",
-    "confirmed": 353461,
-    "deaths": 12347,
-    "recovered": 277544
   },
   "Turkey": {
     "date": "2020-10-17",
@@ -173,6 +173,12 @@
     "deaths": 5749,
     "recovered": 127076
   },
+  "Poland": {
+    "date": "2020-10-17",
+    "confirmed": 167230,
+    "deaths": 3524,
+    "recovered": 90162
+  },
   "Morocco": {
     "date": "2020-10-17",
     "confirmed": 167148,
@@ -184,12 +190,6 @@
     "confirmed": 160112,
     "deaths": 1283,
     "recovered": 66093
-  },
-  "Poland": {
-    "date": "2020-10-17",
-    "confirmed": 157608,
-    "deaths": 3440,
-    "recovered": 87773
   },
   "Ecuador": {
     "date": "2020-10-17",
@@ -283,8 +283,8 @@
   },
   "Japan": {
     "date": "2020-10-17",
-    "confirmed": 92357,
-    "deaths": 1665,
+    "confirmed": 92451,
+    "deaths": 1666,
     "recovered": 83882
   },
   "China": {
@@ -503,17 +503,17 @@
     "deaths": 443,
     "recovered": 23258
   },
+  "Croatia": {
+    "date": "2020-10-17",
+    "confirmed": 24761,
+    "deaths": 355,
+    "recovered": 19562
+  },
   "Greece": {
     "date": "2020-10-17",
     "confirmed": 24450,
     "deaths": 490,
     "recovered": 1347
-  },
-  "Croatia": {
-    "date": "2020-10-17",
-    "confirmed": 23665,
-    "deaths": 345,
-    "recovered": 19087
   },
   "North Macedonia": {
     "date": "2020-10-17",
@@ -595,7 +595,7 @@
   },
   "Finland": {
     "date": "2020-10-17",
-    "confirmed": 13133,
+    "confirmed": 13293,
     "deaths": 351,
     "recovered": 9100
   },
@@ -625,8 +625,8 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-10-17",
-    "confirmed": 10999,
-    "deaths": 301,
+    "confirmed": 11000,
+    "deaths": 302,
     "recovered": 10342
   },
   "Mozambique": {
