@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-21",
-    "confirmed": 8319271,
-    "deaths": 221816,
+    "confirmed": 8322814,
+    "deaths": 221862,
     "recovered": 3295426
   },
   "India": {
@@ -43,9 +43,9 @@
   },
   "Colombia": {
     "date": "2020-10-21",
-    "confirmed": 974139,
-    "deaths": 29272,
-    "recovered": 876731
+    "confirmed": 981700,
+    "deaths": 29464,
+    "recovered": 884895
   },
   "Peru": {
     "date": "2020-10-21",
@@ -151,7 +151,7 @@
   },
   "Netherlands": {
     "date": "2020-10-21",
-    "confirmed": 259194,
+    "confirmed": 259200,
     "deaths": 6934,
     "recovered": 5359
   },
@@ -163,9 +163,9 @@
   },
   "Canada": {
     "date": "2020-10-21",
-    "confirmed": 207995,
-    "deaths": 9875,
-    "recovered": 175824
+    "confirmed": 208427,
+    "deaths": 9878,
+    "recovered": 176153
   },
   "Czechia": {
     "date": "2020-10-21",
@@ -265,15 +265,15 @@
   },
   "Egypt": {
     "date": "2020-10-21",
-    "confirmed": 105705,
-    "deaths": 6142,
-    "recovered": 98413
+    "confirmed": 105883,
+    "deaths": 6155,
+    "recovered": 98516
   },
   "Guatemala": {
     "date": "2020-10-21",
-    "confirmed": 102219,
-    "deaths": 3546,
-    "recovered": 91604
+    "confirmed": 102415,
+    "deaths": 3567,
+    "recovered": 92149
   },
   "Costa Rica": {
     "date": "2020-10-21",
@@ -479,17 +479,17 @@
     "deaths": 98,
     "recovered": 8404
   },
+  "Bulgaria": {
+    "date": "2020-10-21",
+    "confirmed": 33335,
+    "deaths": 1048,
+    "recovered": 17598
+  },
   "El Salvador": {
     "date": "2020-10-21",
     "confirmed": 32120,
     "deaths": 933,
     "recovered": 27670
-  },
-  "Bulgaria": {
-    "date": "2020-10-21",
-    "confirmed": 31863,
-    "deaths": 1019,
-    "recovered": 17414
   },
   "Croatia": {
     "date": "2020-10-21",
@@ -499,7 +499,7 @@
   },
   "Australia": {
     "date": "2020-10-21",
-    "confirmed": 27444,
+    "confirmed": 27457,
     "deaths": 905,
     "recovered": 25147
   },
@@ -815,6 +815,12 @@
     "deaths": 101,
     "recovered": 3166
   },
+  "Guyana": {
+    "date": "2020-10-21",
+    "confirmed": 3850,
+    "deaths": 116,
+    "recovered": 2839
+  },
   "Andorra": {
     "date": "2020-10-21",
     "confirmed": 3811,
@@ -826,12 +832,6 @@
     "confirmed": 3797,
     "deaths": 47,
     "recovered": 1341
-  },
-  "Guyana": {
-    "date": "2020-10-21",
-    "confirmed": 3796,
-    "deaths": 114,
-    "recovered": 2796
   },
   "Thailand": {
     "date": "2020-10-21",
