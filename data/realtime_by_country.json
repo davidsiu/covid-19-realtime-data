@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-21",
-    "confirmed": 8274797,
-    "deaths": 221076,
+    "confirmed": 8274878,
+    "deaths": 221078,
     "recovered": 3295148
   },
   "India": {
@@ -105,13 +105,13 @@
     "date": "2020-10-21",
     "confirmed": 385591,
     "deaths": 9882,
-    "recovered": 299743
+    "recovered": 300898
   },
   "Indonesia": {
     "date": "2020-10-21",
-    "confirmed": 368842,
-    "deaths": 12734,
-    "recovered": 293653
+    "confirmed": 373109,
+    "deaths": 12857,
+    "recovered": 297509
   },
   "Philippines": {
     "date": "2020-10-21",
@@ -167,17 +167,17 @@
     "deaths": 9849,
     "recovered": 174514
   },
+  "Poland": {
+    "date": "2020-10-21",
+    "confirmed": 202579,
+    "deaths": 3851,
+    "recovered": 98884
+  },
   "Czechia": {
     "date": "2020-10-21",
     "confirmed": 193946,
     "deaths": 1619,
     "recovered": 79108
-  },
-  "Poland": {
-    "date": "2020-10-21",
-    "confirmed": 192539,
-    "deaths": 3721,
-    "recovered": 98884
   },
   "Romania": {
     "date": "2020-10-21",
@@ -283,7 +283,7 @@
   },
   "Japan": {
     "date": "2020-10-21",
-    "confirmed": 94105,
+    "confirmed": 94156,
     "deaths": 1680,
     "recovered": 85867
   },
@@ -329,6 +329,12 @@
     "deaths": 305,
     "recovered": 75089
   },
+  "Austria": {
+    "date": "2020-10-21",
+    "confirmed": 69409,
+    "deaths": 925,
+    "recovered": 52617
+  },
   "Armenia": {
     "date": "2020-10-21",
     "confirmed": 68530,
@@ -340,12 +346,6 @@
     "confirmed": 67958,
     "deaths": 1617,
     "recovered": 49083
-  },
-  "Austria": {
-    "date": "2020-10-21",
-    "confirmed": 67451,
-    "deaths": 914,
-    "recovered": 51407
   },
   "Lebanon": {
     "date": "2020-10-21",
@@ -367,7 +367,7 @@
   },
   "Singapore": {
     "date": "2020-10-21",
-    "confirmed": 57921,
+    "confirmed": 57933,
     "deaths": 28,
     "recovered": 57819
   },
@@ -445,9 +445,9 @@
   },
   "Afghanistan": {
     "date": "2020-10-21",
-    "confirmed": 40357,
-    "deaths": 1499,
-    "recovered": 33790
+    "confirmed": 40510,
+    "deaths": 1501,
+    "recovered": 33824
   },
   "Burma": {
     "date": "2020-10-21",
@@ -595,7 +595,7 @@
   },
   "Finland": {
     "date": "2020-10-21",
-    "confirmed": 13849,
+    "confirmed": 14071,
     "deaths": 351,
     "recovered": 9100
   },
@@ -1105,7 +1105,7 @@
   },
   "Laos": {
     "date": "2020-10-21",
-    "confirmed": 23,
+    "confirmed": 24,
     "deaths": 0,
     "recovered": 22
   },
