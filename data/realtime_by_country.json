@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-23",
-    "confirmed": 8411262,
-    "deaths": 223059,
+    "confirmed": 8411294,
+    "deaths": 223061,
     "recovered": 3353056
   },
   "India": {
@@ -91,15 +91,15 @@
   },
   "Iraq": {
     "date": "2020-10-23",
-    "confirmed": 442164,
-    "deaths": 10465,
-    "recovered": 371826
+    "confirmed": 445949,
+    "deaths": 10513,
+    "recovered": 375188
   },
   "Germany": {
     "date": "2020-10-23",
-    "confirmed": 409988,
+    "confirmed": 410903,
     "deaths": 9964,
-    "recovered": 308206
+    "recovered": 308881
   },
   "Bangladesh": {
     "date": "2020-10-23",
@@ -127,9 +127,9 @@
   },
   "Saudi Arabia": {
     "date": "2020-10-23",
-    "confirmed": 343774,
-    "deaths": 5250,
-    "recovered": 330181
+    "confirmed": 344157,
+    "deaths": 5264,
+    "recovered": 330578
   },
   "Ukraine": {
     "date": "2020-10-23",
@@ -177,7 +177,7 @@
     "date": "2020-10-23",
     "confirmed": 211891,
     "deaths": 9916,
-    "recovered": 178523
+    "recovered": 178525
   },
   "Romania": {
     "date": "2020-10-23",
@@ -272,7 +272,7 @@
   "Switzerland": {
     "date": "2020-10-23",
     "confirmed": 103653,
-    "deaths": 2057,
+    "deaths": 2060,
     "recovered": 55800
   },
   "Guatemala": {
@@ -289,7 +289,7 @@
   },
   "Japan": {
     "date": "2020-10-23",
-    "confirmed": 95865,
+    "confirmed": 95868,
     "deaths": 1706,
     "recovered": 87600
   },
@@ -305,17 +305,17 @@
     "deaths": 2604,
     "recovered": 37132
   },
+  "Belarus": {
+    "date": "2020-10-23",
+    "confirmed": 91167,
+    "deaths": 945,
+    "recovered": 82136
+  },
   "China": {
     "date": "2020-10-23",
     "confirmed": 91077,
     "deaths": 4739,
     "recovered": 85939
-  },
-  "Belarus": {
-    "date": "2020-10-23",
-    "confirmed": 90380,
-    "deaths": 945,
-    "recovered": 81501
   },
   "Venezuela": {
     "date": "2020-10-23",
@@ -329,17 +329,17 @@
     "deaths": 308,
     "recovered": 75840
   },
+  "Austria": {
+    "date": "2020-10-23",
+    "confirmed": 74415,
+    "deaths": 954,
+    "recovered": 55195
+  },
   "Armenia": {
     "date": "2020-10-23",
     "confirmed": 73310,
     "deaths": 1145,
     "recovered": 50276
-  },
-  "Austria": {
-    "date": "2020-10-23",
-    "confirmed": 71844,
-    "deaths": 941,
-    "recovered": 53970
   },
   "Moldova": {
     "date": "2020-10-23",
@@ -409,21 +409,21 @@
   },
   "West Bank and Gaza": {
     "date": "2020-10-23",
-    "confirmed": 49134,
-    "deaths": 435,
-    "recovered": 42544
+    "confirmed": 49579,
+    "deaths": 439,
+    "recovered": 42850
+  },
+  "Azerbaijan": {
+    "date": "2020-10-23",
+    "confirmed": 48221,
+    "deaths": 656,
+    "recovered": 40831
   },
   "Ghana": {
     "date": "2020-10-23",
     "confirmed": 47601,
     "deaths": 314,
     "recovered": 46824
-  },
-  "Azerbaijan": {
-    "date": "2020-10-23",
-    "confirmed": 47418,
-    "deaths": 648,
-    "recovered": 40619
   },
   "Tunisia": {
     "date": "2020-10-23",
@@ -461,6 +461,12 @@
     "deaths": 697,
     "recovered": 31784
   },
+  "Bosnia and Herzegovina": {
+    "date": "2020-10-23",
+    "confirmed": 38493,
+    "deaths": 1065,
+    "recovered": 26260
+  },
   "Slovakia": {
     "date": "2020-10-23",
     "confirmed": 37911,
@@ -472,12 +478,6 @@
     "confirmed": 37536,
     "deaths": 783,
     "recovered": null
-  },
-  "Bosnia and Herzegovina": {
-    "date": "2020-10-23",
-    "confirmed": 37314,
-    "deaths": 1051,
-    "recovered": 25989
   },
   "Bulgaria": {
     "date": "2020-10-23",
@@ -649,9 +649,9 @@
   },
   "Tajikistan": {
     "date": "2020-10-23",
-    "confirmed": 10653,
+    "confirmed": 10695,
     "deaths": 81,
-    "recovered": 9724
+    "recovered": 9782
   },
   "Lithuania": {
     "date": "2020-10-23",
@@ -701,17 +701,17 @@
     "deaths": 163,
     "recovered": 7369
   },
+  "Sri Lanka": {
+    "date": "2020-10-23",
+    "confirmed": 6896,
+    "deaths": 14,
+    "recovered": 3644
+  },
   "Cuba": {
     "date": "2020-10-23",
     "confirmed": 6421,
     "deaths": 128,
     "recovered": 5871
-  },
-  "Sri Lanka": {
-    "date": "2020-10-23",
-    "confirmed": 6287,
-    "deaths": 14,
-    "recovered": 3644
   },
   "Bahamas": {
     "date": "2020-10-23",
