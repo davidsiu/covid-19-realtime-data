@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-26",
-    "confirmed": 8669894,
-    "deaths": 225434,
+    "confirmed": 8679483,
+    "deaths": 225495,
     "recovered": 3422934
   },
   "India": {
@@ -47,6 +47,12 @@
     "deaths": 30000,
     "recovered": 907379
   },
+  "United Kingdom": {
+    "date": "2020-10-26",
+    "confirmed": 897737,
+    "deaths": 45088,
+    "recovered": 2701
+  },
   "Mexico": {
     "date": "2020-10-26",
     "confirmed": 891160,
@@ -58,12 +64,6 @@
     "confirmed": 888715,
     "deaths": 34149,
     "recovered": 807636
-  },
-  "United Kingdom": {
-    "date": "2020-10-26",
-    "confirmed": 876847,
-    "deaths": 45088,
-    "recovered": 2701
   },
   "South Africa": {
     "date": "2020-10-26",
@@ -97,9 +97,9 @@
   },
   "Germany": {
     "date": "2020-10-26",
-    "confirmed": 448518,
-    "deaths": 10073,
-    "recovered": 320660
+    "confirmed": 449264,
+    "deaths": 10074,
+    "recovered": 321381
   },
   "Bangladesh": {
     "date": "2020-10-26",
@@ -175,9 +175,9 @@
   },
   "Canada": {
     "date": "2020-10-26",
-    "confirmed": 220055,
+    "confirmed": 220213,
     "deaths": 10010,
-    "recovered": 185517
+    "recovered": 185550
   },
   "Romania": {
     "date": "2020-10-26",
@@ -301,9 +301,9 @@
   },
   "Ethiopia": {
     "date": "2020-10-26",
-    "confirmed": 93343,
-    "deaths": 1426,
-    "recovered": 47543
+    "confirmed": 93707,
+    "deaths": 1437,
+    "recovered": 48150
   },
   "Honduras": {
     "date": "2020-10-26",
@@ -355,9 +355,9 @@
   },
   "Uzbekistan": {
     "date": "2020-10-26",
-    "confirmed": 65577,
+    "confirmed": 65667,
     "deaths": 552,
-    "recovered": 62742
+    "recovered": 62876
   },
   "Nigeria": {
     "date": "2020-10-26",
@@ -619,9 +619,9 @@
   },
   "Mozambique": {
     "date": "2020-10-26",
-    "confirmed": 11986,
-    "deaths": 86,
-    "recovered": 9253
+    "confirmed": 12161,
+    "deaths": 88,
+    "recovered": 9254
   },
   "Guinea": {
     "date": "2020-10-26",
@@ -637,9 +637,9 @@
   },
   "Maldives": {
     "date": "2020-10-26",
-    "confirmed": 11505,
+    "confirmed": 11532,
     "deaths": 37,
-    "recovered": 10524
+    "recovered": 10563
   },
   "Congo (Kinshasa)": {
     "date": "2020-10-26",
