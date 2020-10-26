@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-26",
-    "confirmed": 8636995,
+    "confirmed": 8637109,
     "deaths": 225239,
     "recovered": 3422878
   },
@@ -151,9 +151,9 @@
   },
   "Israel": {
     "date": "2020-10-26",
-    "confirmed": 310148,
-    "deaths": 2397,
-    "recovered": 293838
+    "confirmed": 310254,
+    "deaths": 2404,
+    "recovered": 293846
   },
   "Netherlands": {
     "date": "2020-10-26",
@@ -223,9 +223,9 @@
   },
   "United Arab Emirates": {
     "date": "2020-10-26",
-    "confirmed": 125123,
-    "deaths": 477,
-    "recovered": 118931
+    "confirmed": 126234,
+    "deaths": 480,
+    "recovered": 120750
   },
   "Dominican Republic": {
     "date": "2020-10-26",
@@ -247,9 +247,9 @@
   },
   "Oman": {
     "date": "2020-10-26",
-    "confirmed": 112932,
-    "deaths": 1174,
-    "recovered": 99278
+    "confirmed": 113354,
+    "deaths": 1190,
+    "recovered": 99668
   },
   "Sweden": {
     "date": "2020-10-26",
@@ -289,9 +289,15 @@
   },
   "Japan": {
     "date": "2020-10-26",
-    "confirmed": 97360,
-    "deaths": 1716,
+    "confirmed": 97489,
+    "deaths": 1721,
     "recovered": 88610
+  },
+  "Belarus": {
+    "date": "2020-10-26",
+    "confirmed": 93707,
+    "deaths": 961,
+    "recovered": 83748
   },
   "Ethiopia": {
     "date": "2020-10-26",
@@ -304,12 +310,6 @@
     "confirmed": 93214,
     "deaths": 2623,
     "recovered": 37996
-  },
-  "Belarus": {
-    "date": "2020-10-26",
-    "confirmed": 92823,
-    "deaths": 957,
-    "recovered": 83237
   },
   "China": {
     "date": "2020-10-26",
@@ -332,7 +332,7 @@
   "Bahrain": {
     "date": "2020-10-26",
     "confirmed": 80255,
-    "deaths": 314,
+    "deaths": 315,
     "recovered": 76776
   },
   "Armenia": {
@@ -509,6 +509,12 @@
     "deaths": 215,
     "recovered": 11370
   },
+  "Malaysia": {
+    "date": "2020-10-26",
+    "confirmed": 27805,
+    "deaths": 236,
+    "recovered": 17825
+  },
   "Australia": {
     "date": "2020-10-26",
     "confirmed": 27527,
@@ -520,12 +526,6 @@
     "confirmed": 26954,
     "deaths": 919,
     "recovered": 18627
-  },
-  "Malaysia": {
-    "date": "2020-10-26",
-    "confirmed": 26565,
-    "deaths": 229,
-    "recovered": 17134
   },
   "Korea, South": {
     "date": "2020-10-26",
@@ -805,9 +805,9 @@
   },
   "Iceland": {
     "date": "2020-10-26",
-    "confirmed": 4448,
+    "confirmed": 4504,
     "deaths": 11,
-    "recovered": 3395
+    "recovered": 3463
   },
   "Estonia": {
     "date": "2020-10-26",
@@ -943,9 +943,9 @@
   },
   "Vietnam": {
     "date": "2020-10-26",
-    "confirmed": 1168,
+    "confirmed": 1169,
     "deaths": 35,
-    "recovered": 1057
+    "recovered": 1061
   },
   "Sao Tome and Principe": {
     "date": "2020-10-26",
