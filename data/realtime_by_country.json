@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-10-26",
-    "confirmed": 8637109,
+    "confirmed": 8637108,
     "deaths": 225239,
     "recovered": 3422878
   },
@@ -73,9 +73,9 @@
   },
   "Iran": {
     "date": "2020-10-26",
-    "confirmed": 568896,
-    "deaths": 32616,
-    "recovered": 455054
+    "confirmed": 574856,
+    "deaths": 32953,
+    "recovered": 459250
   },
   "Italy": {
     "date": "2020-10-26",
@@ -98,8 +98,8 @@
   "Germany": {
     "date": "2020-10-26",
     "confirmed": 443189,
-    "deaths": 10062,
-    "recovered": 319454
+    "deaths": 10063,
+    "recovered": 319501
   },
   "Bangladesh": {
     "date": "2020-10-26",
@@ -181,9 +181,9 @@
   },
   "Romania": {
     "date": "2020-10-26",
-    "confirmed": 209648,
-    "deaths": 6391,
-    "recovered": 149741
+    "confirmed": 212492,
+    "deaths": 6470,
+    "recovered": 151811
   },
   "Morocco": {
     "date": "2020-10-26",
@@ -211,9 +211,9 @@
   },
   "Qatar": {
     "date": "2020-10-26",
-    "confirmed": 131170,
+    "confirmed": 131432,
     "deaths": 230,
-    "recovered": 128099
+    "recovered": 128343
   },
   "Panama": {
     "date": "2020-10-26",
@@ -235,9 +235,15 @@
   },
   "Kuwait": {
     "date": "2020-10-26",
-    "confirmed": 121635,
-    "deaths": 746,
-    "recovered": 112771
+    "confirmed": 122317,
+    "deaths": 749,
+    "recovered": 113391
+  },
+  "Switzerland": {
+    "date": "2020-10-26",
+    "confirmed": 121093,
+    "deaths": 2090,
+    "recovered": 61700
   },
   "Portugal": {
     "date": "2020-10-26",
@@ -275,12 +281,6 @@
     "deaths": 3644,
     "recovered": 94217
   },
-  "Switzerland": {
-    "date": "2020-10-26",
-    "confirmed": 103653,
-    "deaths": 2083,
-    "recovered": 55800
-  },
   "Costa Rica": {
     "date": "2020-10-26",
     "confirmed": 103088,
@@ -289,9 +289,9 @@
   },
   "Japan": {
     "date": "2020-10-26",
-    "confirmed": 97489,
+    "confirmed": 97499,
     "deaths": 1721,
-    "recovered": 88610
+    "recovered": 89031
   },
   "Belarus": {
     "date": "2020-10-26",
@@ -416,7 +416,7 @@
   "Tunisia": {
     "date": "2020-10-26",
     "confirmed": 52399,
-    "deaths": 877,
+    "deaths": 983,
     "recovered": 5032
   },
   "West Bank and Gaza": {
@@ -493,9 +493,9 @@
   },
   "El Salvador": {
     "date": "2020-10-26",
-    "confirmed": 32585,
+    "confirmed": 32925,
     "deaths": 953,
-    "recovered": 28258
+    "recovered": 28582
   },
   "Greece": {
     "date": "2020-10-26",
@@ -589,9 +589,9 @@
   },
   "Senegal": {
     "date": "2020-10-26",
-    "confirmed": 15551,
-    "deaths": 321,
-    "recovered": 14254
+    "confirmed": 15565,
+    "deaths": 322,
+    "recovered": 14316
   },
   "Finland": {
     "date": "2020-10-26",
@@ -629,17 +629,17 @@
     "deaths": 71,
     "recovered": 10474
   },
+  "Uganda": {
+    "date": "2020-10-26",
+    "confirmed": 11557,
+    "deaths": 101,
+    "recovered": 7351
+  },
   "Maldives": {
     "date": "2020-10-26",
     "confirmed": 11505,
     "deaths": 37,
     "recovered": 10524
-  },
-  "Uganda": {
-    "date": "2020-10-26",
-    "confirmed": 11443,
-    "deaths": 101,
-    "recovered": 7351
   },
   "Congo (Kinshasa)": {
     "date": "2020-10-26",
@@ -647,17 +647,17 @@
     "deaths": 305,
     "recovered": 10467
   },
+  "Lithuania": {
+    "date": "2020-10-26",
+    "confirmed": 10949,
+    "deaths": 136,
+    "recovered": 4166
+  },
   "Tajikistan": {
     "date": "2020-10-26",
     "confirmed": 10776,
     "deaths": 81,
     "recovered": 9889
-  },
-  "Lithuania": {
-    "date": "2020-10-26",
-    "confirmed": 10184,
-    "deaths": 134,
-    "recovered": 4073
   },
   "Angola": {
     "date": "2020-10-26",
@@ -737,6 +737,12 @@
     "deaths": 116,
     "recovered": 5502
   },
+  "Malta": {
+    "date": "2020-10-26",
+    "confirmed": 5578,
+    "deaths": 53,
+    "recovered": 3630
+  },
   "Djibouti": {
     "date": "2020-10-26",
     "confirmed": 5536,
@@ -748,12 +754,6 @@
     "confirmed": 5511,
     "deaths": 105,
     "recovered": 4085
-  },
-  "Malta": {
-    "date": "2020-10-26",
-    "confirmed": 5498,
-    "deaths": 51,
-    "recovered": 3567
   },
   "Nicaragua": {
     "date": "2020-10-26",
