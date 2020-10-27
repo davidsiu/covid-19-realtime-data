@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-27",
-    "confirmed": 8740824,
-    "deaths": 226211,
+    "confirmed": 8755581,
+    "deaths": 226383,
     "recovered": 3460455
   },
   "India": {
@@ -91,7 +91,7 @@
   },
   "Germany": {
     "date": "2020-10-27",
-    "confirmed": 462062,
+    "confirmed": 462642,
     "deaths": 10120,
     "recovered": 326277
   },
@@ -175,9 +175,9 @@
   },
   "Canada": {
     "date": "2020-10-27",
-    "confirmed": 224465,
+    "confirmed": 224504,
     "deaths": 10050,
-    "recovered": 188486
+    "recovered": 188545
   },
   "Romania": {
     "date": "2020-10-27",
@@ -193,8 +193,8 @@
   },
   "Ecuador": {
     "date": "2020-10-27",
-    "confirmed": 162178,
-    "deaths": 12573,
+    "confirmed": 163192,
+    "deaths": 12588,
     "recovered": 141759
   },
   "Nepal": {
@@ -341,17 +341,17 @@
     "deaths": 1222,
     "recovered": 51814
   },
+  "Lebanon": {
+    "date": "2020-10-27",
+    "confirmed": 73995,
+    "deaths": 590,
+    "recovered": 36797
+  },
   "Moldova": {
     "date": "2020-10-27",
     "confirmed": 72460,
     "deaths": 1710,
     "recovered": 53201
-  },
-  "Lebanon": {
-    "date": "2020-10-27",
-    "confirmed": 72186,
-    "deaths": 579,
-    "recovered": 35545
   },
   "Uzbekistan": {
     "date": "2020-10-27",
@@ -515,17 +515,17 @@
     "deaths": 238,
     "recovered": 18499
   },
+  "North Macedonia": {
+    "date": "2020-10-27",
+    "confirmed": 27827,
+    "deaths": 949,
+    "recovered": 19479
+  },
   "Australia": {
     "date": "2020-10-27",
     "confirmed": 27541,
     "deaths": 905,
     "recovered": 25213
-  },
-  "North Macedonia": {
-    "date": "2020-10-27",
-    "confirmed": 27199,
-    "deaths": 934,
-    "recovered": 18948
   },
   "Korea, South": {
     "date": "2020-10-27",
@@ -691,9 +691,9 @@
   },
   "Cabo Verde": {
     "date": "2020-10-27",
-    "confirmed": 8423,
+    "confirmed": 8472,
     "deaths": 94,
-    "recovered": 7455
+    "recovered": 7599
   },
   "Zimbabwe": {
     "date": "2020-10-27",
@@ -833,6 +833,12 @@
     "deaths": 104,
     "recovered": 3185
   },
+  "Cyprus": {
+    "date": "2020-10-27",
+    "confirmed": 3817,
+    "deaths": 25,
+    "recovered": 1882
+  },
   "Thailand": {
     "date": "2020-10-27",
     "confirmed": 3746,
@@ -844,12 +850,6 @@
     "confirmed": 3665,
     "deaths": 119,
     "recovered": 2660
-  },
-  "Cyprus": {
-    "date": "2020-10-27",
-    "confirmed": 3636,
-    "deaths": 25,
-    "recovered": 1882
   },
   "Mali": {
     "date": "2020-10-27",
