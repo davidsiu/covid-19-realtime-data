@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-28",
-    "confirmed": 8779655,
-    "deaths": 226722,
+    "confirmed": 8779703,
+    "deaths": 226723,
     "recovered": 3487666
   },
   "India": {
@@ -91,9 +91,9 @@
   },
   "Germany": {
     "date": "2020-10-28",
-    "confirmed": 463555,
-    "deaths": 10177,
-    "recovered": 332058
+    "confirmed": 464863,
+    "deaths": 10189,
+    "recovered": 331379
   },
   "Iraq": {
     "date": "2020-10-28",
@@ -109,21 +109,21 @@
   },
   "Indonesia": {
     "date": "2020-10-28",
-    "confirmed": 396454,
-    "deaths": 13512,
-    "recovered": 322248
+    "confirmed": 400483,
+    "deaths": 13612,
+    "recovered": 325793
+  },
+  "Philippines": {
+    "date": "2020-10-28",
+    "confirmed": 375180,
+    "deaths": 7114,
+    "recovered": 329111
   },
   "Ukraine": {
     "date": "2020-10-28",
     "confirmed": 374023,
     "deaths": 6938,
     "recovered": 155028
-  },
-  "Philippines": {
-    "date": "2020-10-28",
-    "confirmed": 373144,
-    "deaths": 7053,
-    "recovered": 328602
   },
   "Turkey": {
     "date": "2020-10-28",
@@ -171,7 +171,7 @@
     "date": "2020-10-28",
     "confirmed": 280229,
     "deaths": 4615,
-    "recovered": 119237
+    "recovered": 123504
   },
   "Canada": {
     "date": "2020-10-28",
@@ -289,8 +289,8 @@
   },
   "Japan": {
     "date": "2020-10-28",
-    "confirmed": 98436,
-    "deaths": 1727,
+    "confirmed": 98558,
+    "deaths": 1728,
     "recovered": 89465
   },
   "Honduras": {
@@ -437,6 +437,12 @@
     "deaths": 934,
     "recovered": 34832
   },
+  "Slovakia": {
+    "date": "2020-10-28",
+    "confirmed": 48943,
+    "deaths": 184,
+    "recovered": 11799
+  },
   "Ghana": {
     "date": "2020-10-28",
     "confirmed": 47775,
@@ -448,12 +454,6 @@
     "confirmed": 47666,
     "deaths": 1147,
     "recovered": 27373
-  },
-  "Slovakia": {
-    "date": "2020-10-28",
-    "confirmed": 46056,
-    "deaths": 176,
-    "recovered": 11008
   },
   "Bosnia and Herzegovina": {
     "date": "2020-10-28",
@@ -803,17 +803,17 @@
     "deaths": 62,
     "recovered": 1924
   },
+  "Estonia": {
+    "date": "2020-10-28",
+    "confirmed": 4590,
+    "deaths": 73,
+    "recovered": 3626
+  },
   "Iceland": {
     "date": "2020-10-28",
     "confirmed": 4574,
     "deaths": 11,
     "recovered": 3515
-  },
-  "Estonia": {
-    "date": "2020-10-28",
-    "confirmed": 4465,
-    "deaths": 73,
-    "recovered": 3561
   },
   "Andorra": {
     "date": "2020-10-28",
@@ -1083,7 +1083,7 @@
     "date": "2020-10-28",
     "confirmed": 33,
     "deaths": 2,
-    "recovered": 30
+    "recovered": 31
   },
   "Timor-Leste": {
     "date": "2020-10-28",
