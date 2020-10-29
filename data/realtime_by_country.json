@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-10-29",
-    "confirmed": 8855433,
-    "deaths": 227673,
+    "confirmed": 8856413,
+    "deaths": 227685,
     "recovered": 3518140
   },
   "India": {
     "date": "2020-10-29",
-    "confirmed": 7990322,
-    "deaths": 120010,
-    "recovered": 7259509
+    "confirmed": 8040203,
+    "deaths": 120527,
+    "recovered": 7315989
   },
   "Brazil": {
     "date": "2020-10-29",
@@ -63,7 +63,7 @@
     "date": "2020-10-29",
     "confirmed": 892497,
     "deaths": 34257,
-    "recovered": 814204
+    "recovered": 816688
   },
   "South Africa": {
     "date": "2020-10-29",
@@ -91,9 +91,9 @@
   },
   "Germany": {
     "date": "2020-10-29",
-    "confirmed": 479621,
-    "deaths": 10218,
-    "recovered": 333865
+    "confirmed": 486972,
+    "deaths": 10259,
+    "recovered": 336764
   },
   "Iraq": {
     "date": "2020-10-29",
@@ -133,9 +133,9 @@
   },
   "Belgium": {
     "date": "2020-10-29",
-    "confirmed": 347289,
-    "deaths": 11038,
-    "recovered": 23504
+    "confirmed": 368337,
+    "deaths": 11170,
+    "recovered": 23969
   },
   "Saudi Arabia": {
     "date": "2020-10-29",
@@ -299,17 +299,17 @@
     "deaths": 969,
     "recovered": 84690
   },
+  "Honduras": {
+    "date": "2020-10-29",
+    "confirmed": 95199,
+    "deaths": 2652,
+    "recovered": 39126
+  },
   "Ethiopia": {
     "date": "2020-10-29",
     "confirmed": 94820,
     "deaths": 1451,
     "recovered": 49886
-  },
-  "Honduras": {
-    "date": "2020-10-29",
-    "confirmed": 94623,
-    "deaths": 2639,
-    "recovered": 38833
   },
   "China": {
     "date": "2020-10-29",
@@ -529,9 +529,9 @@
   },
   "Australia": {
     "date": "2020-10-29",
-    "confirmed": 27567,
+    "confirmed": 27565,
     "deaths": 907,
-    "recovered": 25225
+    "recovered": 25231
   },
   "Korea, South": {
     "date": "2020-10-29",
@@ -841,9 +841,9 @@
   },
   "Thailand": {
     "date": "2020-10-29",
-    "confirmed": 3759,
+    "confirmed": 3763,
     "deaths": 59,
-    "recovered": 3561
+    "recovered": 3570
   },
   "Gambia": {
     "date": "2020-10-29",
@@ -1015,9 +1015,9 @@
   },
   "Bhutan": {
     "date": "2020-10-29",
-    "confirmed": 345,
+    "confirmed": 346,
     "deaths": 0,
-    "recovered": 314
+    "recovered": 315
   },
   "Mongolia": {
     "date": "2020-10-29",
@@ -1132,5 +1132,11 @@
     "confirmed": 8,
     "deaths": 0,
     "recovered": 4
+  },
+  "Marshall Islands": {
+    "date": "2020-10-29",
+    "confirmed": 2,
+    "deaths": 0,
+    "recovered": null
   }
 }
