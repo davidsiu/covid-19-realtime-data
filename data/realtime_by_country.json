@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-29",
-    "confirmed": 8859642,
-    "deaths": 227703,
+    "confirmed": 8861207,
+    "deaths": 227706,
     "recovered": 3518140
   },
   "India": {
@@ -49,9 +49,9 @@
   },
   "United Kingdom": {
     "date": "2020-10-29",
-    "confirmed": 945378,
+    "confirmed": 945384,
     "deaths": 45765,
-    "recovered": 2776
+    "recovered": 2798
   },
   "Mexico": {
     "date": "2020-10-29",
@@ -91,15 +91,15 @@
   },
   "Germany": {
     "date": "2020-10-29",
-    "confirmed": 487166,
+    "confirmed": 488236,
     "deaths": 10288,
     "recovered": 336688
   },
   "Iraq": {
     "date": "2020-10-29",
-    "confirmed": 463951,
-    "deaths": 10770,
-    "recovered": 391010
+    "confirmed": 467755,
+    "deaths": 10815,
+    "recovered": 394386
   },
   "Bangladesh": {
     "date": "2020-10-29",
@@ -139,21 +139,21 @@
   },
   "Saudi Arabia": {
     "date": "2020-10-29",
-    "confirmed": 346047,
-    "deaths": 5348,
-    "recovered": 332550
+    "confirmed": 346482,
+    "deaths": 5363,
+    "recovered": 333005
+  },
+  "Netherlands": {
+    "date": "2020-10-29",
+    "confirmed": 336575,
+    "deaths": 7321,
+    "recovered": 5757
   },
   "Pakistan": {
     "date": "2020-10-29",
     "confirmed": 331108,
     "deaths": 6775,
     "recovered": 312638
-  },
-  "Netherlands": {
-    "date": "2020-10-29",
-    "confirmed": 326311,
-    "deaths": 7265,
-    "recovered": 5757
   },
   "Poland": {
     "date": "2020-10-29",
@@ -183,7 +183,7 @@
     "date": "2020-10-29",
     "confirmed": 228366,
     "deaths": 10084,
-    "recovered": 191723
+    "recovered": 191726
   },
   "Morocco": {
     "date": "2020-10-29",
@@ -217,9 +217,9 @@
   },
   "Qatar": {
     "date": "2020-10-29",
-    "confirmed": 131939,
-    "deaths": 230,
-    "recovered": 128884
+    "confirmed": 132150,
+    "deaths": 231,
+    "recovered": 129124
   },
   "Panama": {
     "date": "2020-10-29",
@@ -253,8 +253,8 @@
   },
   "Sweden": {
     "date": "2020-10-29",
-    "confirmed": 117913,
-    "deaths": 5927,
+    "confirmed": 121167,
+    "deaths": 5934,
     "recovered": null
   },
   "Oman": {
@@ -289,8 +289,8 @@
   },
   "Japan": {
     "date": "2020-10-29",
-    "confirmed": 99681,
-    "deaths": 1738,
+    "confirmed": 99685,
+    "deaths": 1743,
     "recovered": 90624
   },
   "Belarus": {
@@ -311,6 +311,12 @@
     "deaths": 1451,
     "recovered": 49886
   },
+  "Austria": {
+    "date": "2020-10-29",
+    "confirmed": 93949,
+    "deaths": 1056,
+    "recovered": 63366
+  },
   "China": {
     "date": "2020-10-29",
     "confirmed": 91274,
@@ -322,12 +328,6 @@
     "confirmed": 90876,
     "deaths": 784,
     "recovered": 85402
-  },
-  "Austria": {
-    "date": "2020-10-29",
-    "confirmed": 89496,
-    "deaths": 1027,
-    "recovered": 61684
   },
   "Armenia": {
     "date": "2020-10-29",
@@ -361,9 +361,9 @@
   },
   "Uzbekistan": {
     "date": "2020-10-29",
-    "confirmed": 66313,
-    "deaths": 560,
-    "recovered": 63446
+    "confirmed": 66392,
+    "deaths": 561,
+    "recovered": 63581
   },
   "Nigeria": {
     "date": "2020-10-29",
@@ -383,17 +383,17 @@
     "deaths": 1359,
     "recovered": 41288
   },
+  "Libya": {
+    "date": "2020-10-29",
+    "confirmed": 59656,
+    "deaths": 831,
+    "recovered": 33550
+  },
   "Ireland": {
     "date": "2020-10-29",
     "confirmed": 59434,
     "deaths": 1896,
     "recovered": 23364
-  },
-  "Libya": {
-    "date": "2020-10-29",
-    "confirmed": 58874,
-    "deaths": 823,
-    "recovered": 32962
   },
   "Singapore": {
     "date": "2020-10-29",
@@ -427,9 +427,9 @@
   },
   "West Bank and Gaza": {
     "date": "2020-10-29",
-    "confirmed": 51948,
-    "deaths": 465,
-    "recovered": 44985
+    "confirmed": 52571,
+    "deaths": 473,
+    "recovered": 45448
   },
   "Kenya": {
     "date": "2020-10-29",
@@ -451,9 +451,9 @@
   },
   "Ghana": {
     "date": "2020-10-29",
-    "confirmed": 47775,
-    "deaths": 316,
-    "recovered": 46971
+    "confirmed": 47991,
+    "deaths": 320,
+    "recovered": 47136
   },
   "Bulgaria": {
     "date": "2020-10-29",
@@ -467,17 +467,17 @@
     "deaths": 1161,
     "recovered": 27087
   },
+  "Denmark": {
+    "date": "2020-10-29",
+    "confirmed": 44545,
+    "deaths": 716,
+    "recovered": 34095
+  },
   "Croatia": {
     "date": "2020-10-29",
     "confirmed": 43775,
     "deaths": 511,
     "recovered": 29233
-  },
-  "Denmark": {
-    "date": "2020-10-29",
-    "confirmed": 43685,
-    "deaths": 715,
-    "recovered": 33620
   },
   "Serbia": {
     "date": "2020-10-29",
