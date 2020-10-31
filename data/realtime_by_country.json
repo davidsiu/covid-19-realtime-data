@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-10-31",
-    "confirmed": 9043957,
-    "deaths": 229676,
+    "confirmed": 9044255,
+    "deaths": 229686,
     "recovered": 3578452
   },
   "India": {
     "date": "2020-10-31",
-    "confirmed": 8088851,
-    "deaths": 121090,
-    "recovered": 7373375
+    "confirmed": 8137119,
+    "deaths": 121641,
+    "recovered": 7432829
   },
   "Brazil": {
     "date": "2020-10-31",
@@ -87,7 +87,7 @@
     "date": "2020-10-31",
     "confirmed": 517736,
     "deaths": 10391,
-    "recovered": 346941
+    "recovered": 351921
   },
   "Chile": {
     "date": "2020-10-31",
@@ -101,6 +101,12 @@
     "deaths": 10862,
     "recovered": 397241
   },
+  "Belgium": {
+    "date": "2020-10-31",
+    "confirmed": 412314,
+    "deaths": 11452,
+    "recovered": 24906
+  },
   "Indonesia": {
     "date": "2020-10-31",
     "confirmed": 406945,
@@ -112,12 +118,6 @@
     "confirmed": 406364,
     "deaths": 5905,
     "recovered": 322703
-  },
-  "Belgium": {
-    "date": "2020-10-31",
-    "confirmed": 392258,
-    "deaths": 11308,
-    "recovered": 24443
   },
   "Ukraine": {
     "date": "2020-10-31",
@@ -307,9 +307,9 @@
   },
   "Honduras": {
     "date": "2020-10-31",
-    "confirmed": 96150,
-    "deaths": 2661,
-    "recovered": 39804
+    "confirmed": 96888,
+    "deaths": 2669,
+    "recovered": 40129
   },
   "Ethiopia": {
     "date": "2020-10-31",
@@ -841,9 +841,9 @@
   },
   "Thailand": {
     "date": "2020-10-31",
-    "confirmed": 3775,
+    "confirmed": 3780,
     "deaths": 59,
-    "recovered": 3585
+    "recovered": 3590
   },
   "Gambia": {
     "date": "2020-10-31",
@@ -859,9 +859,9 @@
   },
   "Belize": {
     "date": "2020-10-31",
-    "confirmed": 3382,
-    "deaths": 56,
-    "recovered": 2127
+    "confirmed": 3462,
+    "deaths": 58,
+    "recovered": 2148
   },
   "Uruguay": {
     "date": "2020-10-31",
@@ -1021,13 +1021,13 @@
   },
   "Bhutan": {
     "date": "2020-10-31",
-    "confirmed": 346,
+    "confirmed": 348,
     "deaths": 0,
-    "recovered": 316
+    "recovered": 319
   },
   "Mongolia": {
     "date": "2020-10-31",
-    "confirmed": 340,
+    "confirmed": 346,
     "deaths": 0,
     "recovered": 313
   },
