@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-10-31",
-    "confirmed": 9047792,
-    "deaths": 229708,
+    "confirmed": 9048177,
+    "deaths": 229710,
     "recovered": 3578452
   },
   "India": {
@@ -87,7 +87,7 @@
     "date": "2020-10-31",
     "confirmed": 527916,
     "deaths": 10462,
-    "recovered": 351659
+    "recovered": 347207
   },
   "Chile": {
     "date": "2020-10-31",
@@ -115,9 +115,9 @@
   },
   "Bangladesh": {
     "date": "2020-10-31",
-    "confirmed": 406364,
-    "deaths": 5905,
-    "recovered": 322703
+    "confirmed": 407684,
+    "deaths": 5923,
+    "recovered": 324145
   },
   "Ukraine": {
     "date": "2020-10-31",
@@ -137,6 +137,12 @@
     "deaths": 10177,
     "recovered": 322465
   },
+  "Poland": {
+    "date": "2020-10-31",
+    "confirmed": 362731,
+    "deaths": 5631,
+    "recovered": 140280
+  },
   "Netherlands": {
     "date": "2020-10-31",
     "confirmed": 347801,
@@ -148,12 +154,6 @@
     "confirmed": 346880,
     "deaths": 5383,
     "recovered": 333409
-  },
-  "Poland": {
-    "date": "2020-10-31",
-    "confirmed": 340834,
-    "deaths": 5351,
-    "recovered": 134724
   },
   "Pakistan": {
     "date": "2020-10-31",
@@ -229,9 +229,9 @@
   },
   "Qatar": {
     "date": "2020-10-31",
-    "confirmed": 132343,
+    "confirmed": 132556,
     "deaths": 232,
-    "recovered": 129349
+    "recovered": 129583
   },
   "United Arab Emirates": {
     "date": "2020-10-31",
@@ -289,7 +289,7 @@
   },
   "Japan": {
     "date": "2020-10-31",
-    "confirmed": 100805,
+    "confirmed": 100835,
     "deaths": 1759,
     "recovered": 91184
   },
@@ -338,7 +338,7 @@
   "Bahrain": {
     "date": "2020-10-31",
     "confirmed": 81466,
-    "deaths": 319,
+    "deaths": 320,
     "recovered": 78365
   },
   "Lebanon": {
@@ -347,17 +347,17 @@
     "deaths": 625,
     "recovered": 40352
   },
+  "Hungary": {
+    "date": "2020-10-31",
+    "confirmed": 75321,
+    "deaths": 1750,
+    "recovered": 19032
+  },
   "Moldova": {
     "date": "2020-10-31",
     "confirmed": 75201,
     "deaths": 1766,
     "recovered": 55190
-  },
-  "Hungary": {
-    "date": "2020-10-31",
-    "confirmed": 71413,
-    "deaths": 1699,
-    "recovered": 17953
   },
   "Jordan": {
     "date": "2020-10-31",
@@ -455,6 +455,12 @@
     "deaths": 1254,
     "recovered": 19877
   },
+  "Croatia": {
+    "date": "2020-10-31",
+    "confirmed": 49316,
+    "deaths": 546,
+    "recovered": 32818
+  },
   "Bosnia and Herzegovina": {
     "date": "2020-10-31",
     "confirmed": 48137,
@@ -466,12 +472,6 @@
     "confirmed": 48055,
     "deaths": 320,
     "recovered": 47169
-  },
-  "Croatia": {
-    "date": "2020-10-31",
-    "confirmed": 46547,
-    "deaths": 531,
-    "recovered": 30910
   },
   "Denmark": {
     "date": "2020-10-31",
@@ -503,23 +503,23 @@
     "deaths": 620,
     "recovered": 1347
   },
+  "Slovenia": {
+    "date": "2020-10-31",
+    "confirmed": 34306,
+    "deaths": 330,
+    "recovered": 12091
+  },
   "El Salvador": {
     "date": "2020-10-31",
     "confirmed": 33445,
-    "deaths": 971,
+    "deaths": 975,
     "recovered": 29186
-  },
-  "Slovenia": {
-    "date": "2020-10-31",
-    "confirmed": 32503,
-    "deaths": 315,
-    "recovered": 11208
   },
   "Malaysia": {
     "date": "2020-10-31",
-    "confirmed": 30889,
+    "confirmed": 31548,
     "deaths": 249,
-    "recovered": 20248
+    "recovered": 21248
   },
   "North Macedonia": {
     "date": "2020-10-31",
@@ -797,6 +797,12 @@
     "deaths": 83,
     "recovered": 4964
   },
+  "Estonia": {
+    "date": "2020-10-31",
+    "confirmed": 4905,
+    "deaths": 73,
+    "recovered": 3811
+  },
   "Central African Republic": {
     "date": "2020-10-31",
     "confirmed": 4866,
@@ -808,12 +814,6 @@
     "confirmed": 4797,
     "deaths": 12,
     "recovered": 3788
-  },
-  "Estonia": {
-    "date": "2020-10-31",
-    "confirmed": 4771,
-    "deaths": 73,
-    "recovered": 3747
   },
   "Andorra": {
     "date": "2020-10-31",
@@ -1075,9 +1075,9 @@
   },
   "Dominica": {
     "date": "2020-10-31",
-    "confirmed": 42,
+    "confirmed": 50,
     "deaths": 0,
-    "recovered": 29
+    "recovered": 33
   },
   "Fiji": {
     "date": "2020-10-31",
