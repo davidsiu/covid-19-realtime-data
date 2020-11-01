@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-1",
-    "confirmed": 9127108,
+    "confirmed": 9127229,
     "deaths": 230566,
     "recovered": 3612478
   },
@@ -49,9 +49,9 @@
   },
   "United Kingdom": {
     "date": "2020-11-1",
-    "confirmed": 1014794,
+    "confirmed": 1014800,
     "deaths": 46645,
-    "recovered": 2839
+    "recovered": 2841
   },
   "Mexico": {
     "date": "2020-11-1",
@@ -175,9 +175,9 @@
   },
   "Romania": {
     "date": "2020-11-1",
-    "confirmed": 241339,
-    "deaths": 6968,
-    "recovered": 172513
+    "confirmed": 246663,
+    "deaths": 7067,
+    "recovered": 175975
   },
   "Canada": {
     "date": "2020-11-1",
@@ -247,9 +247,9 @@
   },
   "Kuwait": {
     "date": "2020-11-1",
-    "confirmed": 125926,
-    "deaths": 779,
-    "recovered": 116862
+    "confirmed": 126534,
+    "deaths": 782,
+    "recovered": 117558
   },
   "Sweden": {
     "date": "2020-11-1",
@@ -295,9 +295,9 @@
   },
   "Japan": {
     "date": "2020-11-1",
-    "confirmed": 101936,
+    "confirmed": 101941,
     "deaths": 1774,
-    "recovered": 89765
+    "recovered": 92250
   },
   "Belarus": {
     "date": "2020-11-1",
@@ -599,17 +599,17 @@
     "deaths": 358,
     "recovered": 11300
   },
+  "Lithuania": {
+    "date": "2020-11-1",
+    "confirmed": 15719,
+    "deaths": 166,
+    "recovered": 4883
+  },
   "Senegal": {
     "date": "2020-11-1",
     "confirmed": 15630,
     "deaths": 325,
     "recovered": 14958
-  },
-  "Lithuania": {
-    "date": "2020-11-1",
-    "confirmed": 14824,
-    "deaths": 165,
-    "recovered": 4872
   },
   "Sudan": {
     "date": "2020-11-1",
@@ -727,9 +727,15 @@
   },
   "Malta": {
     "date": "2020-11-1",
-    "confirmed": 6042,
-    "deaths": 62,
-    "recovered": 4155
+    "confirmed": 6182,
+    "deaths": 64,
+    "recovered": 4286
+  },
+  "Latvia": {
+    "date": "2020-11-1",
+    "confirmed": 6136,
+    "deaths": 74,
+    "recovered": 1406
   },
   "Malawi": {
     "date": "2020-11-1",
@@ -742,12 +748,6 @@
     "confirmed": 5917,
     "deaths": 117,
     "recovered": 5646
-  },
-  "Latvia": {
-    "date": "2020-11-1",
-    "confirmed": 5894,
-    "deaths": 71,
-    "recovered": 1406
   },
   "Syria": {
     "date": "2020-11-1",
@@ -877,9 +877,9 @@
   },
   "Benin": {
     "date": "2020-11-1",
-    "confirmed": 2643,
+    "confirmed": 2683,
     "deaths": 41,
-    "recovered": 2418
+    "recovered": 2455
   },
   "Burkina Faso": {
     "date": "2020-11-1",
