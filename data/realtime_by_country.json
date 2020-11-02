@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-2",
-    "confirmed": 9207364,
+    "confirmed": 9207362,
     "deaths": 230996,
     "recovered": 3630579
   },
@@ -107,6 +107,12 @@
     "deaths": 11737,
     "recovered": 25819
   },
+  "Ukraine": {
+    "date": "2020-11-2",
+    "confirmed": 414327,
+    "deaths": 7584,
+    "recovered": 170822
+  },
   "Indonesia": {
     "date": "2020-11-2",
     "confirmed": 412784,
@@ -118,12 +124,6 @@
     "confirmed": 409252,
     "deaths": 5941,
     "recovered": 325940
-  },
-  "Ukraine": {
-    "date": "2020-11-2",
-    "confirmed": 407573,
-    "deaths": 7515,
-    "recovered": 168495
   },
   "Philippines": {
     "date": "2020-11-2",
@@ -317,17 +317,17 @@
     "deaths": 1478,
     "recovered": 53452
   },
+  "Armenia": {
+    "date": "2020-11-2",
+    "confirmed": 93448,
+    "deaths": 1391,
+    "recovered": 56466
+  },
   "Venezuela": {
     "date": "2020-11-2",
     "confirmed": 92325,
     "deaths": 801,
     "recovered": 87156
-  },
-  "Armenia": {
-    "date": "2020-11-2",
-    "confirmed": 92254,
-    "deaths": 1363,
-    "recovered": 55827
   },
   "China": {
     "date": "2020-11-2",
@@ -485,6 +485,12 @@
     "deaths": 723,
     "recovered": 35465
   },
+  "Georgia": {
+    "date": "2020-11-2",
+    "confirmed": 42579,
+    "deaths": 342,
+    "recovered": 26800
+  },
   "Afghanistan": {
     "date": "2020-11-2",
     "confirmed": 41501,
@@ -496,12 +502,6 @@
     "confirmed": 40929,
     "deaths": 635,
     "recovered": 23074
-  },
-  "Georgia": {
-    "date": "2020-11-2",
-    "confirmed": 40727,
-    "deaths": 335,
-    "recovered": 25104
   },
   "Slovenia": {
     "date": "2020-11-2",
@@ -656,7 +656,7 @@
   "Sri Lanka": {
     "date": "2020-11-2",
     "confirmed": 11060,
-    "deaths": 21,
+    "deaths": 22,
     "recovered": 4905
   },
   "Tajikistan": {
