@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-3",
-    "confirmed": 9293310,
+    "confirmed": 9293589,
     "deaths": 231566,
     "recovered": 3674981
   },
@@ -87,7 +87,7 @@
     "date": "2020-11-3",
     "confirmed": 569598,
     "deaths": 10681,
-    "recovered": 366589
+    "recovered": 372038
   },
   "Chile": {
     "date": "2020-11-3",
@@ -97,9 +97,9 @@
   },
   "Iraq": {
     "date": "2020-11-3",
-    "confirmed": 478701,
-    "deaths": 11017,
-    "recovered": 405777
+    "confirmed": 482296,
+    "deaths": 11068,
+    "recovered": 408756
   },
   "Belgium": {
     "date": "2020-11-3",
@@ -137,17 +137,17 @@
     "deaths": 7318,
     "recovered": 348967
   },
+  "Netherlands": {
+    "date": "2020-11-3",
+    "confirmed": 382406,
+    "deaths": 7640,
+    "recovered": 5934
+  },
   "Turkey": {
     "date": "2020-11-3",
     "confirmed": 379775,
     "deaths": 10402,
     "recovered": 327007
-  },
-  "Netherlands": {
-    "date": "2020-11-3",
-    "confirmed": 374663,
-    "deaths": 7527,
-    "recovered": 5934
   },
   "Czechia": {
     "date": "2020-11-3",
@@ -194,7 +194,7 @@
   "Switzerland": {
     "date": "2020-11-3",
     "confirmed": 182303,
-    "deaths": 2418,
+    "deaths": 2430,
     "recovered": 83400
   },
   "Nepal": {
@@ -233,6 +233,12 @@
     "deaths": 2720,
     "recovered": 112565
   },
+  "Sweden": {
+    "date": "2020-11-3",
+    "confirmed": 134532,
+    "deaths": 5969,
+    "recovered": null
+  },
   "Qatar": {
     "date": "2020-11-3",
     "confirmed": 133143,
@@ -250,12 +256,6 @@
     "confirmed": 127591,
     "deaths": 2250,
     "recovered": 105634
-  },
-  "Sweden": {
-    "date": "2020-11-3",
-    "confirmed": 124355,
-    "deaths": 5938,
-    "recovered": null
   },
   "Oman": {
     "date": "2020-11-3",
@@ -295,9 +295,9 @@
   },
   "Japan": {
     "date": "2020-11-3",
-    "confirmed": 103210,
-    "deaths": 1793,
-    "recovered": 92673
+    "confirmed": 103291,
+    "deaths": 1794,
+    "recovered": 93133
   },
   "Belarus": {
     "date": "2020-11-3",
@@ -463,21 +463,21 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-11-3",
-    "confirmed": 52269,
-    "deaths": 1280,
-    "recovered": 28567
+    "confirmed": 53822,
+    "deaths": 1317,
+    "recovered": 29156
+  },
+  "Denmark": {
+    "date": "2020-11-3",
+    "confirmed": 50106,
+    "deaths": 728,
+    "recovered": 36617
   },
   "Serbia": {
     "date": "2020-11-3",
     "confirmed": 49205,
     "deaths": 833,
     "recovered": null
-  },
-  "Denmark": {
-    "date": "2020-11-3",
-    "confirmed": 48753,
-    "deaths": 724,
-    "recovered": 35917
   },
   "Ghana": {
     "date": "2020-11-3",
