@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-4",
-    "confirmed": 9394282,
-    "deaths": 232742,
+    "confirmed": 9405705,
+    "deaths": 232889,
     "recovered": 3705130
   },
   "India": {
@@ -43,7 +43,7 @@
   },
   "United Kingdom": {
     "date": "2020-11-4",
-    "confirmed": 1102289,
+    "confirmed": 1102290,
     "deaths": 47832,
     "recovered": 2918
   },
@@ -85,7 +85,7 @@
   },
   "Germany": {
     "date": "2020-11-4",
-    "confirmed": 593362,
+    "confirmed": 594499,
     "deaths": 10878,
     "recovered": 383372
   },
@@ -181,9 +181,9 @@
   },
   "Canada": {
     "date": "2020-11-4",
-    "confirmed": 248077,
+    "confirmed": 248081,
     "deaths": 10335,
-    "recovered": 206884
+    "recovered": 206885
   },
   "Morocco": {
     "date": "2020-11-4",
@@ -419,29 +419,29 @@
     "deaths": 1412,
     "recovered": 21544
   },
+  "Algeria": {
+    "date": "2020-11-4",
+    "confirmed": 59527,
+    "deaths": 1999,
+    "recovered": 41001
+  },
   "Azerbaijan": {
     "date": "2020-11-4",
     "confirmed": 59509,
     "deaths": 780,
     "recovered": 45697
   },
-  "Algeria": {
+  "Kenya": {
     "date": "2020-11-4",
-    "confirmed": 58979,
-    "deaths": 1980,
-    "recovered": 40577
+    "confirmed": 58587,
+    "deaths": 1051,
+    "recovered": 38381
   },
   "Singapore": {
     "date": "2020-11-4",
     "confirmed": 58036,
     "deaths": 28,
     "recovered": 57938
-  },
-  "Kenya": {
-    "date": "2020-11-4",
-    "confirmed": 57093,
-    "deaths": 1039,
-    "recovered": 37846
   },
   "Burma": {
     "date": "2020-11-4",
@@ -485,17 +485,17 @@
     "deaths": 320,
     "recovered": 47446
   },
+  "Greece": {
+    "date": "2020-11-4",
+    "confirmed": 46892,
+    "deaths": 673,
+    "recovered": 23074
+  },
   "Georgia": {
     "date": "2020-11-4",
     "confirmed": 46817,
     "deaths": 381,
     "recovered": 31170
-  },
-  "Greece": {
-    "date": "2020-11-4",
-    "confirmed": 44246,
-    "deaths": 655,
-    "recovered": 23074
   },
   "Afghanistan": {
     "date": "2020-11-4",
@@ -539,29 +539,35 @@
     "deaths": 474,
     "recovered": 24616
   },
+  "Albania": {
+    "date": "2020-11-4",
+    "confirmed": 22300,
+    "deaths": 536,
+    "recovered": 11578
+  },
+  "Norway": {
+    "date": "2020-11-4",
+    "confirmed": 22282,
+    "deaths": 282,
+    "recovered": 11863
+  },
   "Cameroon": {
     "date": "2020-11-4",
     "confirmed": 22103,
     "deaths": 429,
     "recovered": 21151
   },
-  "Norway": {
-    "date": "2020-11-4",
-    "confirmed": 21956,
-    "deaths": 282,
-    "recovered": 11863
-  },
-  "Albania": {
-    "date": "2020-11-4",
-    "confirmed": 21904,
-    "deaths": 532,
-    "recovered": 11473
-  },
   "Kosovo": {
     "date": "2020-11-4",
     "confirmed": 21545,
     "deaths": 714,
     "recovered": 15829
+  },
+  "Montenegro": {
+    "date": "2020-11-4",
+    "confirmed": 20851,
+    "deaths": 326,
+    "recovered": 14887
   },
   "Cote d'Ivoire": {
     "date": "2020-11-4",
@@ -574,12 +580,6 @@
     "confirmed": 20344,
     "deaths": 171,
     "recovered": 11063
-  },
-  "Montenegro": {
-    "date": "2020-11-4",
-    "confirmed": 19977,
-    "deaths": 322,
-    "recovered": 14635
   },
   "Lithuania": {
     "date": "2020-11-4",
@@ -625,9 +625,9 @@
   },
   "Mozambique": {
     "date": "2020-11-4",
-    "confirmed": 13202,
+    "confirmed": 13283,
     "deaths": 95,
-    "recovered": 10695
+    "recovered": 10983
   },
   "Namibia": {
     "date": "2020-11-4",
@@ -643,8 +643,8 @@
   },
   "Sri Lanka": {
     "date": "2020-11-4",
-    "confirmed": 12018,
-    "deaths": 23,
+    "confirmed": 12187,
+    "deaths": 24,
     "recovered": 5858
   },
   "Maldives": {
@@ -709,9 +709,9 @@
   },
   "Cuba": {
     "date": "2020-11-4",
-    "confirmed": 7035,
+    "confirmed": 7144,
     "deaths": 129,
-    "recovered": 6374
+    "recovered": 6394
   },
   "Bahamas": {
     "date": "2020-11-4",
@@ -763,9 +763,9 @@
   },
   "Djibouti": {
     "date": "2020-11-4",
-    "confirmed": 5575,
+    "confirmed": 5580,
     "deaths": 61,
-    "recovered": 5467
+    "recovered": 5472
   },
   "Nicaragua": {
     "date": "2020-11-4",
