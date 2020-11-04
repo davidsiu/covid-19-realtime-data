@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-4",
-    "confirmed": 9385506,
+    "confirmed": 9385505,
     "deaths": 232638,
     "recovered": 3705130
   },
@@ -86,8 +86,8 @@
   "Germany": {
     "date": "2020-11-4",
     "confirmed": 587396,
-    "deaths": 10828,
-    "recovered": 373391
+    "deaths": 10838,
+    "recovered": 382679
   },
   "Chile": {
     "date": "2020-11-4",
@@ -131,17 +131,17 @@
     "deaths": 6004,
     "recovered": 331697
   },
+  "Netherlands": {
+    "date": "2020-11-4",
+    "confirmed": 390073,
+    "deaths": 7746,
+    "recovered": 5975
+  },
   "Philippines": {
     "date": "2020-11-4",
     "confirmed": 388137,
     "deaths": 7367,
     "recovered": 349091
-  },
-  "Netherlands": {
-    "date": "2020-11-4",
-    "confirmed": 382440,
-    "deaths": 7640,
-    "recovered": 5975
   },
   "Turkey": {
     "date": "2020-11-4",
@@ -194,7 +194,7 @@
   "Switzerland": {
     "date": "2020-11-4",
     "confirmed": 192376,
-    "deaths": 2492,
+    "deaths": 2500,
     "recovered": 87100
   },
   "Nepal": {
@@ -221,6 +221,12 @@
     "deaths": 8751,
     "recovered": 112526
   },
+  "Sweden": {
+    "date": "2020-11-4",
+    "confirmed": 137730,
+    "deaths": 5997,
+    "recovered": null
+  },
   "United Arab Emirates": {
     "date": "2020-11-4",
     "confirmed": 137310,
@@ -232,12 +238,6 @@
     "confirmed": 135592,
     "deaths": 2731,
     "recovered": 113379
-  },
-  "Sweden": {
-    "date": "2020-11-4",
-    "confirmed": 134532,
-    "deaths": 5969,
-    "recovered": null
   },
   "Qatar": {
     "date": "2020-11-4",
@@ -295,9 +295,9 @@
   },
   "Japan": {
     "date": "2020-11-4",
-    "confirmed": 103914,
+    "confirmed": 103917,
     "deaths": 1798,
-    "recovered": 93133
+    "recovered": 93564
   },
   "Belarus": {
     "date": "2020-11-4",
@@ -463,9 +463,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-11-4",
-    "confirmed": 53822,
-    "deaths": 1317,
-    "recovered": 29156
+    "confirmed": 55598,
+    "deaths": 1358,
+    "recovered": 29389
   },
   "Serbia": {
     "date": "2020-11-4",
