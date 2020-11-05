@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-5",
-    "confirmed": 9477239,
-    "deaths": 233650,
+    "confirmed": 9477709,
+    "deaths": 233651,
     "recovered": 3743527
   },
   "India": {
@@ -25,8 +25,8 @@
   },
   "France": {
     "date": "2020-11-5",
-    "confirmed": 1590814,
-    "deaths": 38727,
+    "confirmed": 1591152,
+    "deaths": 38728,
     "recovered": 126195
   },
   "Spain": {
@@ -37,9 +37,9 @@
   },
   "Argentina": {
     "date": "2020-11-5",
-    "confirmed": 1195276,
-    "deaths": 32052,
-    "recovered": 1009278
+    "confirmed": 1205928,
+    "deaths": 32520,
+    "recovered": 1017647
   },
   "Colombia": {
     "date": "2020-11-5",
@@ -49,9 +49,9 @@
   },
   "United Kingdom": {
     "date": "2020-11-5",
-    "confirmed": 1102304,
+    "confirmed": 1102305,
     "deaths": 47832,
-    "recovered": 2923
+    "recovered": 2925
   },
   "Mexico": {
     "date": "2020-11-5",
@@ -133,7 +133,7 @@
   },
   "Netherlands": {
     "date": "2020-11-5",
-    "confirmed": 390109,
+    "confirmed": 390120,
     "deaths": 7748,
     "recovered": 6007
   },
@@ -151,9 +151,9 @@
   },
   "Czechia": {
     "date": "2020-11-5",
-    "confirmed": 370285,
-    "deaths": 4089,
-    "recovered": 185866
+    "confirmed": 378716,
+    "deaths": 4133,
+    "recovered": 199763
   },
   "Saudi Arabia": {
     "date": "2020-11-5",
@@ -181,9 +181,9 @@
   },
   "Canada": {
     "date": "2020-11-5",
-    "confirmed": 250363,
-    "deaths": 10384,
-    "recovered": 208584
+    "confirmed": 250698,
+    "deaths": 10385,
+    "recovered": 208815
   },
   "Morocco": {
     "date": "2020-11-5",
@@ -331,9 +331,9 @@
   },
   "China": {
     "date": "2020-11-5",
-    "confirmed": 91481,
+    "confirmed": 91505,
     "deaths": 4740,
-    "recovered": 86221
+    "recovered": 86232
   },
   "Jordan": {
     "date": "2020-11-5",
@@ -531,7 +531,7 @@
     "date": "2020-11-5",
     "confirmed": 27624,
     "deaths": 907,
-    "recovered": 25405
+    "recovered": 25415
   },
   "Korea, South": {
     "date": "2020-11-5",
@@ -679,9 +679,9 @@
   },
   "Haiti": {
     "date": "2020-11-5",
-    "confirmed": 9057,
+    "confirmed": 9100,
     "deaths": 232,
-    "recovered": 7429
+    "recovered": 7589
   },
   "Cabo Verde": {
     "date": "2020-11-5",
@@ -715,9 +715,9 @@
   },
   "Bahamas": {
     "date": "2020-11-5",
-    "confirmed": 6790,
-    "deaths": 149,
-    "recovered": 4632
+    "confirmed": 6843,
+    "deaths": 150,
+    "recovered": 4701
   },
   "Latvia": {
     "date": "2020-11-5",
@@ -737,6 +737,12 @@
     "deaths": 65,
     "recovered": 4672
   },
+  "Syria": {
+    "date": "2020-11-5",
+    "confirmed": 5964,
+    "deaths": 301,
+    "recovered": 2143
+  },
   "Eswatini": {
     "date": "2020-11-5",
     "confirmed": 5955,
@@ -748,12 +754,6 @@
     "confirmed": 5934,
     "deaths": 184,
     "recovered": 5336
-  },
-  "Syria": {
-    "date": "2020-11-5",
-    "confirmed": 5888,
-    "deaths": 298,
-    "recovered": 2100
   },
   "Trinidad and Tobago": {
     "date": "2020-11-5",
@@ -787,9 +787,9 @@
   },
   "Suriname": {
     "date": "2020-11-5",
-    "confirmed": 5218,
-    "deaths": 111,
-    "recovered": 5087
+    "confirmed": 5220,
+    "deaths": 112,
+    "recovered": 5090
   },
   "Rwanda": {
     "date": "2020-11-5",
@@ -797,29 +797,29 @@
     "deaths": 35,
     "recovered": 4930
   },
+  "Cyprus": {
+    "date": "2020-11-5",
+    "confirmed": 5100,
+    "deaths": 27,
+    "recovered": 1882
+  },
   "Equatorial Guinea": {
     "date": "2020-11-5",
     "confirmed": 5089,
     "deaths": 83,
     "recovered": 4965
   },
+  "Andorra": {
+    "date": "2020-11-5",
+    "confirmed": 5045,
+    "deaths": 75,
+    "recovered": 3734
+  },
   "Iceland": {
     "date": "2020-11-5",
     "confirmed": 4989,
     "deaths": 17,
     "recovered": 4174
-  },
-  "Cyprus": {
-    "date": "2020-11-5",
-    "confirmed": 4934,
-    "deaths": 27,
-    "recovered": 1882
-  },
-  "Andorra": {
-    "date": "2020-11-5",
-    "confirmed": 4910,
-    "deaths": 75,
-    "recovered": 3627
   },
   "Central African Republic": {
     "date": "2020-11-5",
@@ -1039,7 +1039,7 @@
   },
   "Barbados": {
     "date": "2020-11-5",
-    "confirmed": 238,
+    "confirmed": 239,
     "deaths": 7,
     "recovered": 224
   },
