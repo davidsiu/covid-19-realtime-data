@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-5",
-    "confirmed": 9486486,
+    "confirmed": 9486677,
     "deaths": 233729,
     "recovered": 3743527
   },
@@ -87,7 +87,7 @@
     "date": "2020-11-5",
     "confirmed": 608611,
     "deaths": 10949,
-    "recovered": 384012
+    "recovered": 383016
   },
   "Chile": {
     "date": "2020-11-5",
@@ -107,17 +107,17 @@
     "deaths": 12331,
     "recovered": 27334
   },
+  "Ukraine": {
+    "date": "2020-11-5",
+    "confirmed": 443342,
+    "deaths": 8145,
+    "recovered": 192519
+  },
   "Poland": {
     "date": "2020-11-5",
     "confirmed": 439536,
     "deaths": 6475,
     "recovered": 168960
-  },
-  "Ukraine": {
-    "date": "2020-11-5",
-    "confirmed": 433492,
-    "deaths": 7952,
-    "recovered": 184141
   },
   "Indonesia": {
     "date": "2020-11-5",
@@ -295,7 +295,7 @@
   },
   "Japan": {
     "date": "2020-11-5",
-    "confirmed": 103934,
+    "confirmed": 104286,
     "deaths": 1799,
     "recovered": 93564
   },
@@ -304,6 +304,12 @@
     "confirmed": 102313,
     "deaths": 995,
     "recovered": 88701
+  },
+  "Armenia": {
+    "date": "2020-11-5",
+    "confirmed": 99563,
+    "deaths": 1476,
+    "recovered": 60135
   },
   "Honduras": {
     "date": "2020-11-5",
@@ -316,12 +322,6 @@
     "confirmed": 97881,
     "deaths": 1503,
     "recovered": 56156
-  },
-  "Armenia": {
-    "date": "2020-11-5",
-    "confirmed": 97150,
-    "deaths": 1448,
-    "recovered": 58811
   },
   "Venezuela": {
     "date": "2020-11-5",
@@ -356,7 +356,7 @@
   "Bahrain": {
     "date": "2020-11-5",
     "confirmed": 82624,
-    "deaths": 327,
+    "deaths": 328,
     "recovered": 79929
   },
   "Moldova": {
@@ -479,6 +479,12 @@
     "deaths": 729,
     "recovered": 37398
   },
+  "Georgia": {
+    "date": "2020-11-5",
+    "confirmed": 49218,
+    "deaths": 401,
+    "recovered": 33459
+  },
   "Ghana": {
     "date": "2020-11-5",
     "confirmed": 48643,
@@ -490,12 +496,6 @@
     "confirmed": 46892,
     "deaths": 673,
     "recovered": 23074
-  },
-  "Georgia": {
-    "date": "2020-11-5",
-    "confirmed": 46817,
-    "deaths": 381,
-    "recovered": 31170
   },
   "Afghanistan": {
     "date": "2020-11-5",
