@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-11-6",
-    "confirmed": 9606645,
-    "deaths": 234911,
+    "confirmed": 9607336,
+    "deaths": 234927,
     "recovered": 3781751
   },
   "India": {
     "date": "2020-11-6",
-    "confirmed": 8364086,
-    "deaths": 124315,
-    "recovered": 7711809
+    "confirmed": 8411724,
+    "deaths": 124985,
+    "recovered": 7765966
   },
   "Brazil": {
     "date": "2020-11-6",
@@ -61,8 +61,8 @@
   },
   "Peru": {
     "date": "2020-11-6",
-    "confirmed": 911787,
-    "deaths": 34671,
+    "confirmed": 914722,
+    "deaths": 34730,
     "recovered": 838265
   },
   "Italy": {
@@ -371,6 +371,12 @@
     "deaths": 286,
     "recovered": 16426
   },
+  "Bulgaria": {
+    "date": "2020-11-6",
+    "confirmed": 68345,
+    "deaths": 1518,
+    "recovered": 22709
+  },
   "Uzbekistan": {
     "date": "2020-11-6",
     "confirmed": 68009,
@@ -394,12 +400,6 @@
     "confirmed": 65440,
     "deaths": 907,
     "recovered": 38110
-  },
-  "Bulgaria": {
-    "date": "2020-11-6",
-    "confirmed": 64591,
-    "deaths": 1466,
-    "recovered": 21947
   },
   "Ireland": {
     "date": "2020-11-6",
@@ -529,7 +529,7 @@
   },
   "Australia": {
     "date": "2020-11-6",
-    "confirmed": 27643,
+    "confirmed": 27644,
     "deaths": 907,
     "recovered": 25427
   },
