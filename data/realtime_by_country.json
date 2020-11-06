@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-6",
-    "confirmed": 9609862,
-    "deaths": 234937,
+    "confirmed": 9610967,
+    "deaths": 234944,
     "recovered": 3781751
   },
   "India": {
@@ -95,6 +95,12 @@
     "deaths": 14404,
     "recovered": 493250
   },
+  "Poland": {
+    "date": "2020-11-6",
+    "confirmed": 493765,
+    "deaths": 7287,
+    "recovered": 188675
+  },
   "Iraq": {
     "date": "2020-11-6",
     "confirmed": 489571,
@@ -106,12 +112,6 @@
     "confirmed": 479341,
     "deaths": 12520,
     "recovered": 27987
-  },
-  "Poland": {
-    "date": "2020-11-6",
-    "confirmed": 466679,
-    "deaths": 6842,
-    "recovered": 177681
   },
   "Ukraine": {
     "date": "2020-11-6",
@@ -127,9 +127,9 @@
   },
   "Bangladesh": {
     "date": "2020-11-6",
-    "confirmed": 416006,
-    "deaths": 6021,
-    "recovered": 333588
+    "confirmed": 417475,
+    "deaths": 6036,
+    "recovered": 335027
   },
   "Netherlands": {
     "date": "2020-11-6",
@@ -367,9 +367,9 @@
   },
   "Slovakia": {
     "date": "2020-11-6",
-    "confirmed": 68734,
-    "deaths": 286,
-    "recovered": 16426
+    "confirmed": 71088,
+    "deaths": 317,
+    "recovered": 16990
   },
   "Bulgaria": {
     "date": "2020-11-6",
@@ -413,6 +413,12 @@
     "deaths": 1155,
     "recovered": 59748
   },
+  "Croatia": {
+    "date": "2020-11-6",
+    "confirmed": 62305,
+    "deaths": 717,
+    "recovered": 46021
+  },
   "Kyrgyzstan": {
     "date": "2020-11-6",
     "confirmed": 61309,
@@ -436,12 +442,6 @@
     "confirmed": 59595,
     "deaths": 1072,
     "recovered": 39193
-  },
-  "Croatia": {
-    "date": "2020-11-6",
-    "confirmed": 59415,
-    "deaths": 683,
-    "recovered": 43376
   },
   "Singapore": {
     "date": "2020-11-6",
@@ -589,7 +589,7 @@
   },
   "Finland": {
     "date": "2020-11-6",
-    "confirmed": 17119,
+    "confirmed": 17385,
     "deaths": 361,
     "recovered": 12700
   },
@@ -639,7 +639,7 @@
     "date": "2020-11-6",
     "confirmed": 12570,
     "deaths": 29,
-    "recovered": 6623
+    "recovered": 7186
   },
   "Guinea": {
     "date": "2020-11-6",
