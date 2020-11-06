@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-6",
-    "confirmed": 9600324,
-    "deaths": 234876,
+    "confirmed": 9604077,
+    "deaths": 234904,
     "recovered": 3781751
   },
   "India": {
@@ -133,9 +133,15 @@
   },
   "Netherlands": {
     "date": "2020-11-6",
-    "confirmed": 397105,
-    "deaths": 7835,
-    "recovered": 6033
+    "confirmed": 397112,
+    "deaths": 7836,
+    "recovered": 6045
+  },
+  "Czechia": {
+    "date": "2020-11-6",
+    "confirmed": 391945,
+    "deaths": 4330,
+    "recovered": 214272
   },
   "Philippines": {
     "date": "2020-11-6",
@@ -148,12 +154,6 @@
     "confirmed": 386820,
     "deaths": 10639,
     "recovered": 332379
-  },
-  "Czechia": {
-    "date": "2020-11-6",
-    "confirmed": 385302,
-    "deaths": 4301,
-    "recovered": 200435
   },
   "Saudi Arabia": {
     "date": "2020-11-6",
@@ -343,9 +343,9 @@
   },
   "China": {
     "date": "2020-11-6",
-    "confirmed": 91516,
+    "confirmed": 91535,
     "deaths": 4740,
-    "recovered": 86249
+    "recovered": 86254
   },
   "Lebanon": {
     "date": "2020-11-6",
@@ -957,7 +957,7 @@
     "date": "2020-11-6",
     "confirmed": 958,
     "deaths": 16,
-    "recovered": 907
+    "recovered": 909
   },
   "Diamond Princess": {
     "date": "2020-11-6",
