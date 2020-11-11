@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-11",
-    "confirmed": 10256094,
-    "deaths": 239673,
+    "confirmed": 10257826,
+    "deaths": 239683,
     "recovered": 3961873
   },
   "India": {
@@ -81,7 +81,7 @@
     "date": "2020-11-11",
     "confirmed": 715693,
     "deaths": 11781,
-    "recovered": 446402
+    "recovered": 445042
   },
   "Iran": {
     "date": "2020-11-11",
@@ -115,9 +115,9 @@
   },
   "Ukraine": {
     "date": "2020-11-11",
-    "confirmed": 493544,
-    "deaths": 9018,
-    "recovered": 223530
+    "confirmed": 504155,
+    "deaths": 9209,
+    "recovered": 230332
   },
   "Indonesia": {
     "date": "2020-11-11",
@@ -301,21 +301,21 @@
   },
   "Japan": {
     "date": "2020-11-11",
-    "confirmed": 110487,
-    "deaths": 1840,
+    "confirmed": 110883,
+    "deaths": 1841,
     "recovered": 98487
+  },
+  "Armenia": {
+    "date": "2020-11-11",
+    "confirmed": 110687,
+    "deaths": 1636,
+    "recovered": 68336
   },
   "Egypt": {
     "date": "2020-11-11",
     "confirmed": 109654,
     "deaths": 6394,
     "recovered": 100540
-  },
-  "Armenia": {
-    "date": "2020-11-11",
-    "confirmed": 108687,
-    "deaths": 1609,
-    "recovered": 66835
   },
   "Belarus": {
     "date": "2020-11-11",
@@ -356,7 +356,7 @@
   "Bahrain": {
     "date": "2020-11-11",
     "confirmed": 83811,
-    "deaths": 331,
+    "deaths": 332,
     "recovered": 81415
   },
   "Moldova": {
@@ -419,6 +419,12 @@
     "deaths": 915,
     "recovered": null
   },
+  "Georgia": {
+    "date": "2020-11-11",
+    "confirmed": 66561,
+    "deaths": 566,
+    "recovered": 49811
+  },
   "Ireland": {
     "date": "2020-11-11",
     "confirmed": 65889,
@@ -448,12 +454,6 @@
     "confirmed": 64336,
     "deaths": 1160,
     "recovered": 60333
-  },
-  "Georgia": {
-    "date": "2020-11-11",
-    "confirmed": 63650,
-    "deaths": 521,
-    "recovered": 47390
   },
   "Algeria": {
     "date": "2020-11-11",
@@ -524,7 +524,7 @@
   "El Salvador": {
     "date": "2020-11-11",
     "confirmed": 35145,
-    "deaths": 1020,
+    "deaths": 1024,
     "recovered": 31172
   },
   "Korea, South": {
@@ -1058,7 +1058,7 @@
   "Saint Lucia": {
     "date": "2020-11-11",
     "confirmed": 148,
-    "deaths": 1,
+    "deaths": 2,
     "recovered": 32
   },
   "Antigua and Barbuda": {
