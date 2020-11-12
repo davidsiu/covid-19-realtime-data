@@ -2,7 +2,7 @@
   "US": {
     "date": "2020-11-12",
     "confirmed": 10401132,
-    "deaths": 241801,
+    "deaths": 241800,
     "recovered": 3997175
   },
   "India": {
@@ -81,7 +81,7 @@
     "date": "2020-11-12",
     "confirmed": 738094,
     "deaths": 11994,
-    "recovered": 460504
+    "recovered": 458572
   },
   "Iran": {
     "date": "2020-11-12",
@@ -101,6 +101,12 @@
     "deaths": 14633,
     "recovered": 501426
   },
+  "Ukraine": {
+    "date": "2020-11-12",
+    "confirmed": 515480,
+    "deaths": 9412,
+    "recovered": 237002
+  },
   "Belgium": {
     "date": "2020-11-12",
     "confirmed": 515391,
@@ -112,12 +118,6 @@
     "confirmed": 508508,
     "deaths": 11482,
     "recovered": 436657
-  },
-  "Ukraine": {
-    "date": "2020-11-12",
-    "confirmed": 504423,
-    "deaths": 9214,
-    "recovered": 230767
   },
   "Indonesia": {
     "date": "2020-11-12",
@@ -299,17 +299,17 @@
     "deaths": 3845,
     "recovered": 102643
   },
+  "Armenia": {
+    "date": "2020-11-12",
+    "confirmed": 112680,
+    "deaths": 1668,
+    "recovered": 70130
+  },
   "Japan": {
     "date": "2020-11-12",
     "confirmed": 112018,
     "deaths": 1847,
     "recovered": 98305
-  },
-  "Armenia": {
-    "date": "2020-11-12",
-    "confirmed": 110548,
-    "deaths": 1636,
-    "recovered": 68336
   },
   "Egypt": {
     "date": "2020-11-12",
@@ -401,6 +401,12 @@
     "deaths": 936,
     "recovered": null
   },
+  "Georgia": {
+    "date": "2020-11-12",
+    "confirmed": 69681,
+    "deaths": 599,
+    "recovered": 52169
+  },
   "Uzbekistan": {
     "date": "2020-11-12",
     "confirmed": 69397,
@@ -424,12 +430,6 @@
     "confirmed": 66565,
     "deaths": 1701,
     "recovered": 32769
-  },
-  "Georgia": {
-    "date": "2020-11-12",
-    "confirmed": 66561,
-    "deaths": 566,
-    "recovered": 49811
   },
   "Ireland": {
     "date": "2020-11-12",
@@ -511,9 +511,9 @@
   },
   "Afghanistan": {
     "date": "2020-11-12",
-    "confirmed": 42609,
-    "deaths": 1581,
-    "recovered": 34967
+    "confirmed": 42795,
+    "deaths": 1591,
+    "recovered": 35024
   },
   "North Macedonia": {
     "date": "2020-11-12",
