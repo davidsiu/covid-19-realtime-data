@@ -107,6 +107,12 @@
     "deaths": 9422,
     "recovered": 237399
   },
+  "Belgium": {
+    "date": "2020-11-12",
+    "confirmed": 515391,
+    "deaths": 13758,
+    "recovered": null
+  },
   "Iraq": {
     "date": "2020-11-12",
     "confirmed": 511806,
@@ -358,12 +364,6 @@
     "confirmed": 86038,
     "deaths": 1969,
     "recovered": 67270
-  },
-  "Belgium": {
-    "date": "2020-11-12",
-    "confirmed": 8491,
-    "deaths": 0,
-    "recovered": null
   },
   "Bahrain": {
     "date": "2020-11-12",
@@ -1072,5 +1072,71 @@
     "confirmed": 77,
     "deaths": 0,
     "recovered": 74
+  },
+  "Dominica": {
+    "date": "2020-11-12",
+    "confirmed": 68,
+    "deaths": 0,
+    "recovered": 41
+  },
+  "Fiji": {
+    "date": "2020-11-12",
+    "confirmed": 35,
+    "deaths": 2,
+    "recovered": 32
+  },
+  "Grenada": {
+    "date": "2020-11-12",
+    "confirmed": 32,
+    "deaths": 0,
+    "recovered": 27
+  },
+  "Timor-Leste": {
+    "date": "2020-11-12",
+    "confirmed": 30,
+    "deaths": 0,
+    "recovered": 29
+  },
+  "Holy See": {
+    "date": "2020-11-12",
+    "confirmed": 27,
+    "deaths": 0,
+    "recovered": 15
+  },
+  "Laos": {
+    "date": "2020-11-12",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 23
+  },
+  "Saint Kitts and Nevis": {
+    "date": "2020-11-12",
+    "confirmed": 19,
+    "deaths": 0,
+    "recovered": 19
+  },
+  "Solomon Islands": {
+    "date": "2020-11-12",
+    "confirmed": 16,
+    "deaths": 0,
+    "recovered": 5
+  },
+  "Western Sahara": {
+    "date": "2020-11-12",
+    "confirmed": 10,
+    "deaths": 1,
+    "recovered": 8
+  },
+  "MS Zaandam": {
+    "date": "2020-11-12",
+    "confirmed": 9,
+    "deaths": 2,
+    "recovered": null
+  },
+  "Marshall Islands": {
+    "date": "2020-11-12",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": null
   }
 }
