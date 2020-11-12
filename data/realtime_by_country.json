@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-12",
-    "confirmed": 10441937,
-    "deaths": 242073,
+    "confirmed": 10457240,
+    "deaths": 242248,
     "recovered": 3997175
   },
   "India": {
@@ -31,8 +31,8 @@
   },
   "Spain": {
     "date": "2020-11-12",
-    "confirmed": 1417709,
-    "deaths": 40105,
+    "confirmed": 1437220,
+    "deaths": 40461,
     "recovered": 150376
   },
   "United Kingdom": {
@@ -63,7 +63,7 @@
     "date": "2020-11-12",
     "confirmed": 986177,
     "deaths": 96430,
-    "recovered": 1555823
+    "recovered": 731468
   },
   "Peru": {
     "date": "2020-11-12",
@@ -73,8 +73,8 @@
   },
   "Germany": {
     "date": "2020-11-12",
-    "confirmed": 747555,
-    "deaths": 12040,
+    "confirmed": 748601,
+    "deaths": 12043,
     "recovered": 466277
   },
   "South Africa": {
@@ -109,9 +109,9 @@
   },
   "Belgium": {
     "date": "2020-11-12",
-    "confirmed": 515391,
-    "deaths": 13758,
-    "recovered": 31130
+    "confirmed": 8491,
+    "deaths": 0,
+    "recovered": null
   },
   "Iraq": {
     "date": "2020-11-12",
@@ -181,15 +181,15 @@
   },
   "Canada": {
     "date": "2020-11-12",
-    "confirmed": 280763,
-    "deaths": 10751,
-    "recovered": 227019
+    "confirmed": 282151,
+    "deaths": 10793,
+    "recovered": 227875
   },
   "Morocco": {
     "date": "2020-11-12",
-    "confirmed": 270626,
-    "deaths": 4506,
-    "recovered": 221743
+    "confirmed": 276821,
+    "deaths": 4570,
+    "recovered": 226040
   },
   "Switzerland": {
     "date": "2020-11-12",
@@ -337,9 +337,9 @@
   },
   "Lebanon": {
     "date": "2020-11-12",
-    "confirmed": 98829,
-    "deaths": 763,
-    "recovered": 54869
+    "confirmed": 100703,
+    "deaths": 775,
+    "recovered": 55706
   },
   "Venezuela": {
     "date": "2020-11-12",
@@ -437,9 +437,15 @@
     "deaths": 1203,
     "recovered": 44040
   },
+  "Greece": {
+    "date": "2020-11-12",
+    "confirmed": 66637,
+    "deaths": 959,
+    "recovered": 23074
+  },
   "Ireland": {
     "date": "2020-11-12",
-    "confirmed": 66247,
+    "confirmed": 66632,
     "deaths": 1965,
     "recovered": 23364
   },
@@ -466,12 +472,6 @@
     "confirmed": 64516,
     "deaths": 1162,
     "recovered": 60737
-  },
-  "Greece": {
-    "date": "2020-11-12",
-    "confirmed": 63321,
-    "deaths": 909,
-    "recovered": 23074
   },
   "West Bank and Gaza": {
     "date": "2020-11-12",
@@ -1015,9 +1015,9 @@
   },
   "Mauritius": {
     "date": "2020-11-12",
-    "confirmed": 453,
+    "confirmed": 468,
     "deaths": 10,
-    "recovered": 416
+    "recovered": 427
   },
   "Mongolia": {
     "date": "2020-11-12",
@@ -1066,77 +1066,5 @@
     "confirmed": 131,
     "deaths": 3,
     "recovered": 124
-  },
-  "Saint Vincent and the Grenadines": {
-    "date": "2020-11-12",
-    "confirmed": 77,
-    "deaths": 0,
-    "recovered": 74
-  },
-  "Dominica": {
-    "date": "2020-11-12",
-    "confirmed": 68,
-    "deaths": 0,
-    "recovered": 41
-  },
-  "Fiji": {
-    "date": "2020-11-12",
-    "confirmed": 35,
-    "deaths": 2,
-    "recovered": 32
-  },
-  "Grenada": {
-    "date": "2020-11-12",
-    "confirmed": 32,
-    "deaths": 0,
-    "recovered": 27
-  },
-  "Timor-Leste": {
-    "date": "2020-11-12",
-    "confirmed": 30,
-    "deaths": 0,
-    "recovered": 29
-  },
-  "Holy See": {
-    "date": "2020-11-12",
-    "confirmed": 27,
-    "deaths": 0,
-    "recovered": 15
-  },
-  "Laos": {
-    "date": "2020-11-12",
-    "confirmed": 24,
-    "deaths": 0,
-    "recovered": 23
-  },
-  "Saint Kitts and Nevis": {
-    "date": "2020-11-12",
-    "confirmed": 19,
-    "deaths": 0,
-    "recovered": 19
-  },
-  "Solomon Islands": {
-    "date": "2020-11-12",
-    "confirmed": 16,
-    "deaths": 0,
-    "recovered": 5
-  },
-  "Western Sahara": {
-    "date": "2020-11-12",
-    "confirmed": 10,
-    "deaths": 1,
-    "recovered": 8
-  },
-  "MS Zaandam": {
-    "date": "2020-11-12",
-    "confirmed": 9,
-    "deaths": 2,
-    "recovered": null
-  },
-  "Marshall Islands": {
-    "date": "2020-11-12",
-    "confirmed": 1,
-    "deaths": 0,
-    "recovered": null
   }
 }
