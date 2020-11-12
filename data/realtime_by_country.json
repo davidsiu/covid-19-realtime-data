@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-12",
-    "confirmed": 10500259,
-    "deaths": 242436,
+    "confirmed": 10513068,
+    "deaths": 242527,
     "recovered": 3997204
   },
   "India": {
@@ -37,7 +37,7 @@
   },
   "United Kingdom": {
     "date": "2020-11-12",
-    "confirmed": 1293713,
+    "confirmed": 1293715,
     "deaths": 51020,
     "recovered": 3031
   },
@@ -175,9 +175,9 @@
   },
   "Canada": {
     "date": "2020-11-12",
-    "confirmed": 283290,
-    "deaths": 10803,
-    "recovered": 228253
+    "confirmed": 283329,
+    "deaths": 10804,
+    "recovered": 228310
   },
   "Morocco": {
     "date": "2020-11-12",
@@ -367,9 +367,9 @@
   },
   "Bahrain": {
     "date": "2020-11-12",
-    "confirmed": 84042,
+    "confirmed": 84192,
     "deaths": 332,
-    "recovered": 81658
+    "recovered": 81846
   },
   "Slovakia": {
     "date": "2020-11-12",
@@ -503,6 +503,12 @@
     "deaths": 320,
     "recovered": 48019
   },
+  "North Macedonia": {
+    "date": "2020-11-12",
+    "confirmed": 43835,
+    "deaths": 1238,
+    "recovered": 25782
+  },
   "Malaysia": {
     "date": "2020-11-12",
     "confirmed": 43791,
@@ -514,12 +520,6 @@
     "confirmed": 42795,
     "deaths": 1591,
     "recovered": 35024
-  },
-  "North Macedonia": {
-    "date": "2020-11-12",
-    "confirmed": 42540,
-    "deaths": 1212,
-    "recovered": 25353
   },
   "El Salvador": {
     "date": "2020-11-12",
@@ -655,9 +655,9 @@
   },
   "Maldives": {
     "date": "2020-11-12",
-    "confirmed": 12059,
+    "confirmed": 12085,
     "deaths": 41,
-    "recovered": 11199
+    "recovered": 11225
   },
   "Congo (Kinshasa)": {
     "date": "2020-11-12",
@@ -743,17 +743,17 @@
     "deaths": 76,
     "recovered": 4453
   },
+  "Syria": {
+    "date": "2020-11-12",
+    "confirmed": 6486,
+    "deaths": 333,
+    "recovered": 2558
+  },
   "Cyprus": {
     "date": "2020-11-12",
     "confirmed": 6461,
     "deaths": 33,
     "recovered": 1882
-  },
-  "Syria": {
-    "date": "2020-11-12",
-    "confirmed": 6421,
-    "deaths": 329,
-    "recovered": 2504
   },
   "Eswatini": {
     "date": "2020-11-12",
@@ -1045,9 +1045,9 @@
   },
   "Seychelles": {
     "date": "2020-11-12",
-    "confirmed": 158,
+    "confirmed": 160,
     "deaths": 0,
-    "recovered": 155
+    "recovered": 157
   },
   "Brunei": {
     "date": "2020-11-12",
