@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-13",
-    "confirmed": 10594879,
-    "deaths": 242811,
+    "confirmed": 10607221,
+    "deaths": 242918,
     "recovered": 4051256
   },
   "India": {
@@ -31,8 +31,8 @@
   },
   "Spain": {
     "date": "2020-11-13",
-    "confirmed": 1437220,
-    "deaths": 40461,
+    "confirmed": 1458591,
+    "deaths": 40769,
     "recovered": 150376
   },
   "United Kingdom": {
@@ -67,13 +67,13 @@
   },
   "Peru": {
     "date": "2020-11-13",
-    "confirmed": 928006,
-    "deaths": 35031,
+    "confirmed": 930237,
+    "deaths": 35067,
     "recovered": 856023
   },
   "Germany": {
     "date": "2020-11-13",
-    "confirmed": 770912,
+    "confirmed": 771976,
     "deaths": 12270,
     "recovered": 481510
   },
@@ -110,7 +110,7 @@
   "Belgium": {
     "date": "2020-11-13",
     "confirmed": 520393,
-    "deaths": 13891,
+    "deaths": 27782,
     "recovered": null
   },
   "Iraq": {
@@ -187,9 +187,9 @@
   },
   "Morocco": {
     "date": "2020-11-13",
-    "confirmed": 276821,
-    "deaths": 4570,
-    "recovered": 226040
+    "confirmed": 282336,
+    "deaths": 4631,
+    "recovered": 229160
   },
   "Switzerland": {
     "date": "2020-11-13",
@@ -323,6 +323,12 @@
     "deaths": 6417,
     "recovered": 100760
   },
+  "Lebanon": {
+    "date": "2020-11-13",
+    "confirmed": 102607,
+    "deaths": 796,
+    "recovered": 57693
+  },
   "Honduras": {
     "date": "2020-11-13",
     "confirmed": 101468,
@@ -334,12 +340,6 @@
     "confirmed": 101248,
     "deaths": 1554,
     "recovered": 63268
-  },
-  "Lebanon": {
-    "date": "2020-11-13",
-    "confirmed": 100703,
-    "deaths": 775,
-    "recovered": 55706
   },
   "Venezuela": {
     "date": "2020-11-13",
