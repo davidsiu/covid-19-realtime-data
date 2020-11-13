@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-13",
-    "confirmed": 10607221,
-    "deaths": 242918,
+    "confirmed": 10642218,
+    "deaths": 243044,
     "recovered": 4051256
   },
   "India": {
@@ -37,9 +37,9 @@
   },
   "United Kingdom": {
     "date": "2020-11-13",
-    "confirmed": 1321029,
+    "confirmed": 1321031,
     "deaths": 51396,
-    "recovered": 3041
+    "recovered": 3042
   },
   "Argentina": {
     "date": "2020-11-13",
@@ -73,9 +73,9 @@
   },
   "Germany": {
     "date": "2020-11-13",
-    "confirmed": 771976,
-    "deaths": 12270,
-    "recovered": 481510
+    "confirmed": 772428,
+    "deaths": 12281,
+    "recovered": 481797
   },
   "South Africa": {
     "date": "2020-11-13",
@@ -443,17 +443,17 @@
     "deaths": 1228,
     "recovered": 44872
   },
+  "Ireland": {
+    "date": "2020-11-13",
+    "confirmed": 67099,
+    "deaths": 1972,
+    "recovered": 23364
+  },
   "Burma": {
     "date": "2020-11-13",
     "confirmed": 66734,
     "deaths": 1534,
     "recovered": 50336
-  },
-  "Ireland": {
-    "date": "2020-11-13",
-    "confirmed": 66632,
-    "deaths": 1965,
-    "recovered": 23364
   },
   "Algeria": {
     "date": "2020-11-13",
@@ -511,9 +511,9 @@
   },
   "North Macedonia": {
     "date": "2020-11-13",
-    "confirmed": 43835,
-    "deaths": 1238,
-    "recovered": 25782
+    "confirmed": 44898,
+    "deaths": 1263,
+    "recovered": 26289
   },
   "Afghanistan": {
     "date": "2020-11-13",
@@ -677,17 +677,17 @@
     "deaths": 116,
     "recovered": 1515
   },
+  "Cabo Verde": {
+    "date": "2020-11-13",
+    "confirmed": 9741,
+    "deaths": 102,
+    "recovered": 9076
+  },
   "Jamaica": {
     "date": "2020-11-13",
     "confirmed": 9723,
     "deaths": 227,
     "recovered": 5168
-  },
-  "Cabo Verde": {
-    "date": "2020-11-13",
-    "confirmed": 9694,
-    "deaths": 102,
-    "recovered": 9004
   },
   "Haiti": {
     "date": "2020-11-13",
@@ -773,6 +773,12 @@
     "deaths": 111,
     "recovered": 5317
   },
+  "Andorra": {
+    "date": "2020-11-13",
+    "confirmed": 5725,
+    "deaths": 75,
+    "recovered": 4675
+  },
   "Nicaragua": {
     "date": "2020-11-13",
     "confirmed": 5661,
@@ -784,12 +790,6 @@
     "confirmed": 5641,
     "deaths": 61,
     "recovered": 5509
-  },
-  "Andorra": {
-    "date": "2020-11-13",
-    "confirmed": 5616,
-    "deaths": 75,
-    "recovered": 4585
   },
   "Congo (Brazzaville)": {
     "date": "2020-11-13",
@@ -1137,6 +1137,6 @@
     "date": "2020-11-13",
     "confirmed": 1,
     "deaths": 0,
-    "recovered": null
+    "recovered": 1
   }
 }
