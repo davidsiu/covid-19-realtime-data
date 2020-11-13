@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-13",
-    "confirmed": 10557551,
-    "deaths": 242436,
+    "confirmed": 10560771,
+    "deaths": 242477,
     "recovered": 4051256
   },
   "India": {
@@ -73,9 +73,9 @@
   },
   "Germany": {
     "date": "2020-11-13",
-    "confirmed": 762832,
-    "deaths": 12227,
-    "recovered": 473236
+    "confirmed": 763746,
+    "deaths": 12228,
+    "recovered": 475598
   },
   "South Africa": {
     "date": "2020-11-13",
@@ -95,17 +95,17 @@
     "deaths": 9499,
     "recovered": 267580
   },
+  "Chile": {
+    "date": "2020-11-13",
+    "confirmed": 528030,
+    "deaths": 14738,
+    "recovered": 503540
+  },
   "Ukraine": {
     "date": "2020-11-13",
     "confirmed": 527808,
     "deaths": 9604,
     "recovered": 243901
-  },
-  "Chile": {
-    "date": "2020-11-13",
-    "confirmed": 526438,
-    "deaths": 14699,
-    "recovered": 502475
   },
   "Belgium": {
     "date": "2020-11-13",
@@ -133,8 +133,8 @@
   },
   "Netherlands": {
     "date": "2020-11-13",
-    "confirmed": 437376,
-    "deaths": 8375,
+    "confirmed": 443467,
+    "deaths": 8429,
     "recovered": 6372
   },
   "Bangladesh": {
@@ -427,9 +427,15 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2020-11-13",
-    "confirmed": 68293,
-    "deaths": 1750,
-    "recovered": 33690
+    "confirmed": 69625,
+    "deaths": 1808,
+    "recovered": 34491
+  },
+  "Burma": {
+    "date": "2020-11-13",
+    "confirmed": 66734,
+    "deaths": 1534,
+    "recovered": 50336
   },
   "Kenya": {
     "date": "2020-11-13",
@@ -448,12 +454,6 @@
     "confirmed": 66632,
     "deaths": 1965,
     "recovered": 23364
-  },
-  "Burma": {
-    "date": "2020-11-13",
-    "confirmed": 65598,
-    "deaths": 1508,
-    "recovered": 49563
   },
   "Kyrgyzstan": {
     "date": "2020-11-13",
@@ -475,9 +475,9 @@
   },
   "West Bank and Gaza": {
     "date": "2020-11-13",
-    "confirmed": 60784,
-    "deaths": 542,
-    "recovered": 52861
+    "confirmed": 61514,
+    "deaths": 548,
+    "recovered": 53367
   },
   "Denmark": {
     "date": "2020-11-13",
@@ -548,7 +548,7 @@
   "Norway": {
     "date": "2020-11-13",
     "confirmed": 27228,
-    "deaths": 291,
+    "deaths": 294,
     "recovered": 11863
   },
   "Kosovo": {
@@ -1063,7 +1063,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2020-11-13",
-    "confirmed": 131,
+    "confirmed": 133,
     "deaths": 3,
     "recovered": 124
   },
