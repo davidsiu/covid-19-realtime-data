@@ -1,13 +1,7 @@
 {
-  "Colombia": {
-    "date": "2020-11-14",
-    "confirmed": 11826972,
-    "deaths": 33669,
-    "recovered": 1089340
-  },
   "US": {
     "date": "2020-11-14",
-    "confirmed": 10714001,
+    "confirmed": 10715764,
     "deaths": 244217,
     "recovered": 4095146
   },
@@ -45,13 +39,19 @@
     "date": "2020-11-14",
     "confirmed": 1321031,
     "deaths": 51396,
-    "recovered": 3042
+    "recovered": 3089
   },
   "Argentina": {
     "date": "2020-11-14",
     "confirmed": 1296378,
     "deaths": 35045,
     "recovered": 1110477
+  },
+  "Colombia": {
+    "date": "2020-11-14",
+    "confirmed": 1182697,
+    "deaths": 33669,
+    "recovered": 1089340
   },
   "Italy": {
     "date": "2020-11-14",
@@ -129,13 +129,13 @@
     "date": "2020-11-14",
     "confirmed": 450392,
     "deaths": 5878,
-    "recovered": 301385
+    "recovered": 316352
   },
   "Netherlands": {
     "date": "2020-11-14",
-    "confirmed": 443524,
-    "deaths": 8429,
-    "recovered": 6400
+    "confirmed": 443533,
+    "deaths": 8430,
+    "recovered": 6410
   },
   "Bangladesh": {
     "date": "2020-11-14",
@@ -539,6 +539,12 @@
     "deaths": 488,
     "recovered": 25537
   },
+  "Norway": {
+    "date": "2020-11-14",
+    "confirmed": 27916,
+    "deaths": 294,
+    "recovered": 11863
+  },
   "Kosovo": {
     "date": "2020-11-14",
     "confirmed": 27851,
@@ -550,12 +556,6 @@
     "confirmed": 27682,
     "deaths": 907,
     "recovered": 25463
-  },
-  "Norway": {
-    "date": "2020-11-14",
-    "confirmed": 27485,
-    "deaths": 294,
-    "recovered": 11863
   },
   "Albania": {
     "date": "2020-11-14",
@@ -883,15 +883,15 @@
   },
   "Togo": {
     "date": "2020-11-14",
-    "confirmed": 2605,
+    "confirmed": 2627,
     "deaths": 60,
-    "recovered": 1815
+    "recovered": 1856
   },
   "Burkina Faso": {
     "date": "2020-11-14",
-    "confirmed": 2586,
-    "deaths": 67,
-    "recovered": 2411
+    "confirmed": 2609,
+    "deaths": 68,
+    "recovered": 2413
   },
   "Guinea-Bissau": {
     "date": "2020-11-14",
@@ -901,7 +901,7 @@
   },
   "Sierra Leone": {
     "date": "2020-11-14",
-    "confirmed": 2387,
+    "confirmed": 2389,
     "deaths": 74,
     "recovered": 1816
   },
@@ -957,7 +957,7 @@
     "date": "2020-11-14",
     "confirmed": 963,
     "deaths": 16,
-    "recovered": 914
+    "recovered": 916
   },
   "Liechtenstein": {
     "date": "2020-11-14",
@@ -973,7 +973,7 @@
   },
   "Burundi": {
     "date": "2020-11-14",
-    "confirmed": 623,
+    "confirmed": 624,
     "deaths": 1,
     "recovered": 549
   },
