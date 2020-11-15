@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-15",
-    "confirmed": 10975004,
-    "deaths": 245942,
+    "confirmed": 10997987,
+    "deaths": 245979,
     "recovered": 4148444
   },
   "India": {
@@ -73,7 +73,7 @@
   },
   "Germany": {
     "date": "2020-11-15",
-    "confirmed": 801403,
+    "confirmed": 802705,
     "deaths": 12523,
     "recovered": 501044
   },
@@ -181,9 +181,9 @@
   },
   "Canada": {
     "date": "2020-11-15",
-    "confirmed": 296634,
+    "confirmed": 296642,
     "deaths": 10968,
-    "recovered": 238291
+    "recovered": 238293
   },
   "Morocco": {
     "date": "2020-11-15",
@@ -533,6 +533,12 @@
     "deaths": 277,
     "recovered": 7753
   },
+  "Kosovo": {
+    "date": "2020-11-15",
+    "confirmed": 29117,
+    "deaths": 822,
+    "recovered": 17305
+  },
   "Korea, South": {
     "date": "2020-11-15",
     "confirmed": 28546,
@@ -544,12 +550,6 @@
     "confirmed": 28434,
     "deaths": 294,
     "recovered": 11863
-  },
-  "Kosovo": {
-    "date": "2020-11-15",
-    "confirmed": 27851,
-    "deaths": 798,
-    "recovered": 16862
   },
   "Albania": {
     "date": "2020-11-15",
@@ -583,9 +583,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2020-11-15",
-    "confirmed": 20945,
-    "deaths": 127,
-    "recovered": 20630
+    "confirmed": 20976,
+    "deaths": 128,
+    "recovered": 20647
   },
   "Finland": {
     "date": "2020-11-15",
@@ -751,9 +751,9 @@
   },
   "Syria": {
     "date": "2020-11-15",
-    "confirmed": 6613,
-    "deaths": 341,
-    "recovered": 2665
+    "confirmed": 6684,
+    "deaths": 345,
+    "recovered": 2714
   },
   "Eswatini": {
     "date": "2020-11-15",
@@ -769,7 +769,7 @@
   },
   "Malawi": {
     "date": "2020-11-15",
-    "confirmed": 5964,
+    "confirmed": 5965,
     "deaths": 185,
     "recovered": 5399
   },
@@ -997,9 +997,9 @@
   },
   "Monaco": {
     "date": "2020-11-15",
-    "confirmed": 545,
+    "confirmed": 548,
     "deaths": 2,
-    "recovered": 446
+    "recovered": 450
   },
   "Tanzania": {
     "date": "2020-11-15",
@@ -1045,7 +1045,7 @@
   },
   "Saint Lucia": {
     "date": "2020-11-15",
-    "confirmed": 160,
+    "confirmed": 162,
     "deaths": 2,
     "recovered": 46
   },
