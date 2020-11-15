@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-15",
-    "confirmed": 10906725,
-    "deaths": 245615,
+    "confirmed": 10908852,
+    "deaths": 245617,
     "recovered": 4148444
   },
   "India": {
@@ -74,8 +74,8 @@
   "Germany": {
     "date": "2020-11-15",
     "confirmed": 799733,
-    "deaths": 12514,
-    "recovered": 498685
+    "deaths": 12515,
+    "recovered": 500631
   },
   "Iran": {
     "date": "2020-11-15",
@@ -109,9 +109,9 @@
   },
   "Chile": {
     "date": "2020-11-15",
-    "confirmed": 529676,
-    "deaths": 14777,
-    "recovered": 505243
+    "confirmed": 531273,
+    "deaths": 14819,
+    "recovered": 506700
   },
   "Iraq": {
     "date": "2020-11-15",
@@ -133,8 +133,8 @@
   },
   "Netherlands": {
     "date": "2020-11-15",
-    "confirmed": 449501,
-    "deaths": 8516,
+    "confirmed": 454914,
+    "deaths": 8559,
     "recovered": 6430
   },
   "Bangladesh": {
@@ -169,9 +169,9 @@
   },
   "Saudi Arabia": {
     "date": "2020-11-15",
-    "confirmed": 352950,
-    "deaths": 5641,
-    "recovered": 339947
+    "confirmed": 353255,
+    "deaths": 5657,
+    "recovered": 340304
   },
   "Israel": {
     "date": "2020-11-15",
@@ -295,9 +295,9 @@
   },
   "Japan": {
     "date": "2020-11-15",
-    "confirmed": 118602,
+    "confirmed": 118601,
     "deaths": 1872,
-    "recovered": 101162
+    "recovered": 91954
   },
   "Armenia": {
     "date": "2020-11-15",
@@ -355,9 +355,9 @@
   },
   "China": {
     "date": "2020-11-15",
-    "confirmed": 91828,
+    "confirmed": 91842,
     "deaths": 4742,
-    "recovered": 86543
+    "recovered": 86551
   },
   "Moldova": {
     "date": "2020-11-15",
@@ -371,6 +371,12 @@
     "deaths": 510,
     "recovered": 30519
   },
+  "Serbia": {
+    "date": "2020-11-15",
+    "confirmed": 84568,
+    "deaths": 1009,
+    "recovered": null
+  },
   "Bahrain": {
     "date": "2020-11-15",
     "confirmed": 84523,
@@ -382,12 +388,6 @@
     "confirmed": 84206,
     "deaths": 1049,
     "recovered": 66231
-  },
-  "Serbia": {
-    "date": "2020-11-15",
-    "confirmed": 81086,
-    "deaths": 989,
-    "recovered": null
   },
   "Georgia": {
     "date": "2020-11-15",
@@ -401,17 +401,17 @@
     "deaths": 2279,
     "recovered": 53758
   },
+  "Azerbaijan": {
+    "date": "2020-11-15",
+    "confirmed": 75688,
+    "deaths": 967,
+    "recovered": 55150
+  },
   "Libya": {
     "date": "2020-11-15",
     "confirmed": 73602,
     "deaths": 1017,
     "recovered": 44133
-  },
-  "Azerbaijan": {
-    "date": "2020-11-15",
-    "confirmed": 73429,
-    "deaths": 946,
-    "recovered": 54049
   },
   "Greece": {
     "date": "2020-11-15",
@@ -445,9 +445,9 @@
   },
   "Burma": {
     "date": "2020-11-15",
-    "confirmed": 68011,
-    "deaths": 1552,
-    "recovered": 51362
+    "confirmed": 68994,
+    "deaths": 1577,
+    "recovered": 52351
   },
   "Ireland": {
     "date": "2020-11-15",
@@ -481,15 +481,15 @@
   },
   "Denmark": {
     "date": "2020-11-15",
-    "confirmed": 62651,
+    "confirmed": 62652,
     "deaths": 760,
-    "recovered": 48258
+    "recovered": 48259
   },
   "Singapore": {
     "date": "2020-11-15",
     "confirmed": 58119,
     "deaths": 28,
-    "recovered": 58019
+    "recovered": 58029
   },
   "Slovenia": {
     "date": "2020-11-15",
@@ -602,7 +602,7 @@
   "Sri Lanka": {
     "date": "2020-11-15",
     "confirmed": 17127,
-    "deaths": 53,
+    "deaths": 58,
     "recovered": 11495
   },
   "Zambia": {
@@ -667,9 +667,9 @@
   },
   "Tajikistan": {
     "date": "2020-11-15",
-    "confirmed": 11573,
+    "confirmed": 11610,
     "deaths": 85,
-    "recovered": 10934
+    "recovered": 10973
   },
   "Latvia": {
     "date": "2020-11-15",
@@ -977,17 +977,17 @@
     "deaths": 1,
     "recovered": 549
   },
+  "Taiwan*": {
+    "date": "2020-11-15",
+    "confirmed": 602,
+    "deaths": 7,
+    "recovered": 536
+  },
   "Papua New Guinea": {
     "date": "2020-11-15",
     "confirmed": 600,
     "deaths": 7,
     "recovered": 586
-  },
-  "Taiwan*": {
-    "date": "2020-11-15",
-    "confirmed": 600,
-    "deaths": 7,
-    "recovered": 535
   },
   "Comoros": {
     "date": "2020-11-15",
