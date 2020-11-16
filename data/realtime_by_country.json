@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-16",
-    "confirmed": 11037776,
-    "deaths": 246217,
+    "confirmed": 11038312,
+    "deaths": 246224,
     "recovered": 4185463
   },
   "India": {
@@ -73,8 +73,8 @@
   },
   "Germany": {
     "date": "2020-11-16",
-    "confirmed": 806178,
-    "deaths": 12573,
+    "confirmed": 806983,
+    "deaths": 12577,
     "recovered": 505520
   },
   "Iran": {
@@ -91,9 +91,9 @@
   },
   "Poland": {
     "date": "2020-11-16",
-    "confirmed": 712972,
-    "deaths": 10348,
-    "recovered": 294783
+    "confirmed": 733788,
+    "deaths": 10491,
+    "recovered": 306022
   },
   "Ukraine": {
     "date": "2020-11-16",
@@ -229,9 +229,9 @@
   },
   "United Arab Emirates": {
     "date": "2020-11-16",
-    "confirmed": 150345,
-    "deaths": 530,
-    "recovered": 143252
+    "confirmed": 151554,
+    "deaths": 534,
+    "recovered": 143932
   },
   "Hungary": {
     "date": "2020-11-16",
@@ -289,15 +289,15 @@
   },
   "Oman": {
     "date": "2020-11-16",
-    "confirmed": 120389,
-    "deaths": 1338,
-    "recovered": 111096
+    "confirmed": 120718,
+    "deaths": 1350,
+    "recovered": 111446
   },
   "Japan": {
     "date": "2020-11-16",
-    "confirmed": 119347,
-    "deaths": 1878,
-    "recovered": 91954
+    "confirmed": 119438,
+    "deaths": 1880,
+    "recovered": 101954
   },
   "Armenia": {
     "date": "2020-11-16",
@@ -371,6 +371,12 @@
     "deaths": 526,
     "recovered": 31053
   },
+  "Croatia": {
+    "date": "2020-11-16",
+    "confirmed": 85519,
+    "deaths": 1082,
+    "recovered": 68738
+  },
   "Bahrain": {
     "date": "2020-11-16",
     "confirmed": 84703,
@@ -382,12 +388,6 @@
     "confirmed": 84568,
     "deaths": 1009,
     "recovered": null
-  },
-  "Croatia": {
-    "date": "2020-11-16",
-    "confirmed": 84206,
-    "deaths": 1049,
-    "recovered": 66231
   },
   "Georgia": {
     "date": "2020-11-16",
@@ -407,17 +407,17 @@
     "deaths": 967,
     "recovered": 55150
   },
+  "Libya": {
+    "date": "2020-11-16",
+    "confirmed": 74324,
+    "deaths": 1025,
+    "recovered": 44733
+  },
   "Greece": {
     "date": "2020-11-16",
     "confirmed": 74205,
     "deaths": 1106,
     "recovered": 23074
-  },
-  "Libya": {
-    "date": "2020-11-16",
-    "confirmed": 73602,
-    "deaths": 1017,
-    "recovered": 44133
   },
   "Bosnia and Herzegovina": {
     "date": "2020-11-16",
@@ -529,9 +529,9 @@
   },
   "Lithuania": {
     "date": "2020-11-16",
-    "confirmed": 34758,
-    "deaths": 277,
-    "recovered": 7753
+    "confirmed": 35911,
+    "deaths": 285,
+    "recovered": 7882
   },
   "Kosovo": {
     "date": "2020-11-16",
@@ -589,7 +589,7 @@
   },
   "Finland": {
     "date": "2020-11-16",
-    "confirmed": 19315,
+    "confirmed": 19419,
     "deaths": 369,
     "recovered": 14000
   },
