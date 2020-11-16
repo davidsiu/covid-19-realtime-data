@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-16",
-    "confirmed": 11037776,
+    "confirmed": 11037777,
     "deaths": 246217,
     "recovered": 4185463
   },
@@ -17,17 +17,17 @@
     "deaths": 165798,
     "recovered": 5279452
   },
+  "Russia": {
+    "date": "2020-11-16",
+    "confirmed": 1932711,
+    "deaths": 33184,
+    "recovered": 1443393
+  },
   "France": {
     "date": "2020-11-16",
     "confirmed": 1915713,
     "deaths": 42601,
     "recovered": 139760
-  },
-  "Russia": {
-    "date": "2020-11-16",
-    "confirmed": 1910149,
-    "deaths": 32885,
-    "recovered": 1429565
   },
   "Spain": {
     "date": "2020-11-16",
@@ -97,9 +97,9 @@
   },
   "Ukraine": {
     "date": "2020-11-16",
-    "confirmed": 561365,
-    "deaths": 9998,
-    "recovered": 254617
+    "confirmed": 561581,
+    "deaths": 10002,
+    "recovered": 254653
   },
   "Belgium": {
     "date": "2020-11-16",
@@ -151,9 +151,9 @@
   },
   "Philippines": {
     "date": "2020-11-16",
-    "confirmed": 407838,
-    "deaths": 7832,
-    "recovered": 374329
+    "confirmed": 409574,
+    "deaths": 7839,
+    "recovered": 374366
   },
   "Romania": {
     "date": "2020-11-16",
@@ -233,6 +233,12 @@
     "deaths": 530,
     "recovered": 143252
   },
+  "Hungary": {
+    "date": "2020-11-16",
+    "confirmed": 147456,
+    "deaths": 3190,
+    "recovered": 34010
+  },
   "Panama": {
     "date": "2020-11-16",
     "confirmed": 146653,
@@ -250,12 +256,6 @@
     "confirmed": 143246,
     "deaths": 8849,
     "recovered": 117137
-  },
-  "Hungary": {
-    "date": "2020-11-16",
-    "confirmed": 140961,
-    "deaths": 3097,
-    "recovered": 31599
   },
   "Kuwait": {
     "date": "2020-11-16",
@@ -295,8 +295,8 @@
   },
   "Japan": {
     "date": "2020-11-16",
-    "confirmed": 118846,
-    "deaths": 1875,
+    "confirmed": 119156,
+    "deaths": 1877,
     "recovered": 91954
   },
   "Armenia": {
@@ -487,7 +487,7 @@
   },
   "Singapore": {
     "date": "2020-11-16",
-    "confirmed": 58119,
+    "confirmed": 58124,
     "deaths": 28,
     "recovered": 58029
   },
