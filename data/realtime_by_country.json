@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-17",
-    "confirmed": 11214231,
-    "deaths": 247356,
+    "confirmed": 11220320,
+    "deaths": 247437,
     "recovered": 4244811
   },
   "India": {
@@ -21,7 +21,7 @@
     "date": "2020-11-17",
     "confirmed": 2041293,
     "deaths": 45122,
-    "recovered": 146396
+    "recovered": 146397
   },
   "Russia": {
     "date": "2020-11-17",
@@ -271,9 +271,9 @@
   },
   "Dominican Republic": {
     "date": "2020-11-17",
-    "confirmed": 134203,
-    "deaths": 2286,
-    "recovered": 110381
+    "confirmed": 134697,
+    "deaths": 2290,
+    "recovered": 110761
   },
   "Costa Rica": {
     "date": "2020-11-17",
@@ -313,9 +313,9 @@
   },
   "Guatemala": {
     "date": "2020-11-17",
-    "confirmed": 115032,
-    "deaths": 3938,
-    "recovered": 104786
+    "confirmed": 115730,
+    "deaths": 3947,
+    "recovered": 105355
   },
   "Egypt": {
     "date": "2020-11-17",
@@ -353,6 +353,12 @@
     "deaths": 855,
     "recovered": 92767
   },
+  "Serbia": {
+    "date": "2020-11-17",
+    "confirmed": 92375,
+    "deaths": 1054,
+    "recovered": null
+  },
   "China": {
     "date": "2020-11-17",
     "confirmed": 91876,
@@ -376,12 +382,6 @@
     "confirmed": 87464,
     "deaths": 1113,
     "recovered": 70980
-  },
-  "Serbia": {
-    "date": "2020-11-17",
-    "confirmed": 87381,
-    "deaths": 1054,
-    "recovered": null
   },
   "Georgia": {
     "date": "2020-11-17",
@@ -541,7 +541,7 @@
   },
   "Norway": {
     "date": "2020-11-17",
-    "confirmed": 29514,
+    "confirmed": 29749,
     "deaths": 298,
     "recovered": 17998
   },
@@ -679,9 +679,9 @@
   },
   "Jamaica": {
     "date": "2020-11-17",
-    "confirmed": 9929,
+    "confirmed": 9959,
     "deaths": 231,
-    "recovered": 5330
+    "recovered": 5338
   },
   "Cabo Verde": {
     "date": "2020-11-17",
