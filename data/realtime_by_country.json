@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-17",
-    "confirmed": 11205486,
+    "confirmed": 11205485,
     "deaths": 247220,
     "recovered": 4244811
   },
@@ -25,9 +25,9 @@
   },
   "Russia": {
     "date": "2020-11-17",
-    "confirmed": 1932711,
-    "deaths": 33184,
-    "recovered": 1443393
+    "confirmed": 1954912,
+    "deaths": 33619,
+    "recovered": 1465051
   },
   "Spain": {
     "date": "2020-11-17",
@@ -73,7 +73,7 @@
   },
   "Germany": {
     "date": "2020-11-17",
-    "confirmed": 819127,
+    "confirmed": 819668,
     "deaths": 12833,
     "recovered": 521565
   },
@@ -97,9 +97,9 @@
   },
   "Ukraine": {
     "date": "2020-11-17",
-    "confirmed": 561581,
-    "deaths": 10161,
-    "recovered": 261439
+    "confirmed": 573758,
+    "deaths": 10168,
+    "recovered": 261836
   },
   "Belgium": {
     "date": "2020-11-17",
@@ -151,9 +151,9 @@
   },
   "Philippines": {
     "date": "2020-11-17",
-    "confirmed": 409574,
-    "deaths": 7839,
-    "recovered": 374366
+    "confirmed": 410718,
+    "deaths": 7862,
+    "recovered": 374543
   },
   "Romania": {
     "date": "2020-11-17",
@@ -227,6 +227,12 @@
     "deaths": 6164,
     "recovered": null
   },
+  "Hungary": {
+    "date": "2020-11-17",
+    "confirmed": 152659,
+    "deaths": 3281,
+    "recovered": 34185
+  },
   "United Arab Emirates": {
     "date": "2020-11-17",
     "confirmed": 151554,
@@ -244,12 +250,6 @@
     "confirmed": 147667,
     "deaths": 2881,
     "recovered": 126746
-  },
-  "Hungary": {
-    "date": "2020-11-17",
-    "confirmed": 147456,
-    "deaths": 3190,
-    "recovered": 34010
   },
   "Bolivia": {
     "date": "2020-11-17",
@@ -295,7 +295,7 @@
   },
   "Japan": {
     "date": "2020-11-17",
-    "confirmed": 120169,
+    "confirmed": 120249,
     "deaths": 1885,
     "recovered": 102810
   },
@@ -487,7 +487,7 @@
   },
   "Singapore": {
     "date": "2020-11-17",
-    "confirmed": 58124,
+    "confirmed": 58130,
     "deaths": 28,
     "recovered": 58033
   },
@@ -517,9 +517,9 @@
   },
   "Afghanistan": {
     "date": "2020-11-17",
-    "confirmed": 43403,
-    "deaths": 1626,
-    "recovered": 35137
+    "confirmed": 43628,
+    "deaths": 1638,
+    "recovered": 35160
   },
   "El Salvador": {
     "date": "2020-11-17",
