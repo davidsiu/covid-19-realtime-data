@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-18",
-    "confirmed": 11361395,
+    "confirmed": 11361394,
     "deaths": 248707,
     "recovered": 4293640
   },
@@ -37,7 +37,7 @@
   },
   "United Kingdom": {
     "date": "2020-11-18",
-    "confirmed": 1414359,
+    "confirmed": 1414370,
     "deaths": 52839,
     "recovered": 3182
   },
@@ -133,8 +133,8 @@
   },
   "Netherlands": {
     "date": "2020-11-18",
-    "confirmed": 464205,
-    "deaths": 8689,
+    "confirmed": 468814,
+    "deaths": 8771,
     "recovered": 6511
   },
   "Bangladesh": {
@@ -157,7 +157,7 @@
   },
   "Romania": {
     "date": "2020-11-18",
-    "confirmed": 373474,
+    "confirmed": 383743,
     "deaths": 9429,
     "recovered": 261387
   },
@@ -170,8 +170,8 @@
   "Saudi Arabia": {
     "date": "2020-11-18",
     "confirmed": 353918,
-    "deaths": 5692,
-    "recovered": 341104
+    "deaths": 5710,
+    "recovered": 341515
   },
   "Israel": {
     "date": "2020-11-18",
@@ -193,8 +193,8 @@
   },
   "Switzerland": {
     "date": "2020-11-18",
-    "confirmed": 274534,
-    "deaths": 3686,
+    "confirmed": 280648,
+    "deaths": 3726,
     "recovered": 169100
   },
   "Portugal": {
@@ -217,8 +217,8 @@
   },
   "Sweden": {
     "date": "2020-11-18",
-    "confirmed": 192439,
-    "deaths": 6225,
+    "confirmed": 196446,
+    "deaths": 6321,
     "recovered": null
   },
   "Ecuador": {
@@ -281,17 +281,17 @@
     "deaths": 1578,
     "recovered": 77558
   },
+  "Japan": {
+    "date": "2020-11-18",
+    "confirmed": 123458,
+    "deaths": 1905,
+    "recovered": 104837
+  },
   "Kazakhstan": {
     "date": "2020-11-18",
     "confirmed": 122335,
     "deaths": 1899,
     "recovered": 110835
-  },
-  "Japan": {
-    "date": "2020-11-18",
-    "confirmed": 121269,
-    "deaths": 1895,
-    "recovered": 104837
   },
   "Oman": {
     "date": "2020-11-18",
@@ -403,7 +403,7 @@
   },
   "Azerbaijan": {
     "date": "2020-11-18",
-    "confirmed": 79158,
+    "confirmed": 81397,
     "deaths": 1030,
     "recovered": 58111
   },
@@ -413,17 +413,17 @@
     "deaths": 1228,
     "recovered": 23074
   },
-  "Libya": {
-    "date": "2020-11-18",
-    "confirmed": 74936,
-    "deaths": 1041,
-    "recovered": 45371
-  },
   "Bosnia and Herzegovina": {
     "date": "2020-11-18",
-    "confirmed": 73944,
-    "deaths": 2042,
-    "recovered": 38660
+    "confirmed": 75577,
+    "deaths": 2089,
+    "recovered": 39886
+  },
+  "Libya": {
+    "date": "2020-11-18",
+    "confirmed": 75465,
+    "deaths": 1053,
+    "recovered": 46127
   },
   "Paraguay": {
     "date": "2020-11-18",
@@ -445,7 +445,7 @@
   },
   "Uzbekistan": {
     "date": "2020-11-18",
-    "confirmed": 70648,
+    "confirmed": 70719,
     "deaths": 599,
     "recovered": 67927
   },
@@ -467,6 +467,12 @@
     "deaths": 1212,
     "recovered": 58846
   },
+  "West Bank and Gaza": {
+    "date": "2020-11-18",
+    "confirmed": 66186,
+    "deaths": 589,
+    "recovered": 56843
+  },
   "Nigeria": {
     "date": "2020-11-18",
     "confirmed": 65457,
@@ -476,14 +482,8 @@
   "Denmark": {
     "date": "2020-11-18",
     "confirmed": 65067,
-    "deaths": 768,
-    "recovered": 50473
-  },
-  "West Bank and Gaza": {
-    "date": "2020-11-18",
-    "confirmed": 64935,
-    "deaths": 589,
-    "recovered": 56843
+    "deaths": 770,
+    "recovered": 51729
   },
   "Slovenia": {
     "date": "2020-11-18",
@@ -542,7 +542,7 @@
   "Norway": {
     "date": "2020-11-18",
     "confirmed": 30114,
-    "deaths": 298,
+    "deaths": 299,
     "recovered": 17998
   },
   "Korea, South": {
@@ -668,8 +668,8 @@
   "Tajikistan": {
     "date": "2020-11-18",
     "confirmed": 11689,
-    "deaths": 85,
-    "recovered": 11061
+    "deaths": 86,
+    "recovered": 11105
   },
   "Latvia": {
     "date": "2020-11-18",
@@ -895,9 +895,9 @@
   },
   "Guinea-Bissau": {
     "date": "2020-11-18",
-    "confirmed": 2419,
+    "confirmed": 2421,
     "deaths": 43,
-    "recovered": 2255
+    "recovered": 2286
   },
   "Sierra Leone": {
     "date": "2020-11-18",
@@ -915,7 +915,7 @@
     "date": "2020-11-18",
     "confirmed": 2052,
     "deaths": 44,
-    "recovered": 1223
+    "recovered": 1273
   },
   "New Zealand": {
     "date": "2020-11-18",
@@ -955,9 +955,9 @@
   },
   "Liechtenstein": {
     "date": "2020-11-18",
-    "confirmed": 1002,
+    "confirmed": 1051,
     "deaths": 8,
-    "recovered": 796
+    "recovered": 841
   },
   "Sao Tome and Principe": {
     "date": "2020-11-18",
