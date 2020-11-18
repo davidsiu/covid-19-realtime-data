@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-18",
-    "confirmed": 11383703,
-    "deaths": 248995,
+    "confirmed": 11400796,
+    "deaths": 249187,
     "recovered": 4293640
   },
   "India": {
@@ -19,7 +19,7 @@
   },
   "France": {
     "date": "2020-11-18",
-    "confirmed": 2087236,
+    "confirmed": 2087466,
     "deaths": 46351,
     "recovered": 148727
   },
@@ -37,8 +37,8 @@
   },
   "United Kingdom": {
     "date": "2020-11-18",
-    "confirmed": 1414371,
-    "deaths": 52839,
+    "confirmed": 1433991,
+    "deaths": 53368,
     "recovered": 3197
   },
   "Argentina": {
@@ -49,9 +49,9 @@
   },
   "Italy": {
     "date": "2020-11-18",
-    "confirmed": 1238072,
-    "deaths": 46464,
-    "recovered": 457798
+    "confirmed": 1272352,
+    "deaths": 47217,
+    "recovered": 481967
   },
   "Colombia": {
     "date": "2020-11-18",
@@ -73,9 +73,9 @@
   },
   "Germany": {
     "date": "2020-11-18",
-    "confirmed": 849297,
-    "deaths": 13184,
-    "recovered": 543455
+    "confirmed": 851931,
+    "deaths": 13231,
+    "recovered": 547614
   },
   "Iran": {
     "date": "2020-11-18",
@@ -127,9 +127,9 @@
   },
   "Czechia": {
     "date": "2020-11-18",
-    "confirmed": 469769,
-    "deaths": 6558,
-    "recovered": 353794
+    "confirmed": 472250,
+    "deaths": 6707,
+    "recovered": 354413
   },
   "Netherlands": {
     "date": "2020-11-18",
@@ -145,7 +145,7 @@
   },
   "Turkey": {
     "date": "2020-11-18",
-    "confirmed": 421413,
+    "confirmed": 425628,
     "deaths": 11820,
     "recovered": 361655
   },
@@ -325,9 +325,9 @@
   },
   "Lebanon": {
     "date": "2020-11-18",
-    "confirmed": 107953,
-    "deaths": 839,
-    "recovered": 62395
+    "confirmed": 110037,
+    "deaths": 852,
+    "recovered": 62528
   },
   "Bulgaria": {
     "date": "2020-11-18",
@@ -359,17 +359,17 @@
     "deaths": 1081,
     "recovered": null
   },
+  "Moldova": {
+    "date": "2020-11-18",
+    "confirmed": 92519,
+    "deaths": 2072,
+    "recovered": 74229
+  },
   "China": {
     "date": "2020-11-18",
     "confirmed": 91894,
     "deaths": 4742,
     "recovered": 86679
-  },
-  "Moldova": {
-    "date": "2020-11-18",
-    "confirmed": 90912,
-    "deaths": 2054,
-    "recovered": 73059
   },
   "Croatia": {
     "date": "2020-11-18",
@@ -395,6 +395,12 @@
     "deaths": 337,
     "recovered": 82900
   },
+  "Greece": {
+    "date": "2020-11-18",
+    "confirmed": 82034,
+    "deaths": 1288,
+    "recovered": 23074
+  },
   "Tunisia": {
     "date": "2020-11-18",
     "confirmed": 81723,
@@ -406,12 +412,6 @@
     "confirmed": 81397,
     "deaths": 1030,
     "recovered": 58111
-  },
-  "Greece": {
-    "date": "2020-11-18",
-    "confirmed": 78825,
-    "deaths": 1288,
-    "recovered": 23074
   },
   "Bosnia and Herzegovina": {
     "date": "2020-11-18",
@@ -445,13 +445,13 @@
   },
   "Uzbekistan": {
     "date": "2020-11-18",
-    "confirmed": 70719,
+    "confirmed": 70781,
     "deaths": 599,
-    "recovered": 67927
+    "recovered": 68042
   },
   "Algeria": {
     "date": "2020-11-18",
-    "confirmed": 69591,
+    "confirmed": 70629,
     "deaths": 2206,
     "recovered": 46326
   },
@@ -513,7 +513,7 @@
     "date": "2020-11-18",
     "confirmed": 48613,
     "deaths": 1376,
-    "recovered": 28646
+    "recovered": 29583
   },
   "Afghanistan": {
     "date": "2020-11-18",
@@ -557,17 +557,17 @@
     "deaths": 496,
     "recovered": 25973
   },
+  "Montenegro": {
+    "date": "2020-11-18",
+    "confirmed": 29031,
+    "deaths": 414,
+    "recovered": 18410
+  },
   "Luxembourg": {
     "date": "2020-11-18",
     "confirmed": 28573,
     "deaths": 248,
     "recovered": 18504
-  },
-  "Montenegro": {
-    "date": "2020-11-18",
-    "confirmed": 28392,
-    "deaths": 405,
-    "recovered": 18121
   },
   "Australia": {
     "date": "2020-11-18",
@@ -613,7 +613,7 @@
   },
   "Uganda": {
     "date": "2020-11-18",
-    "confirmed": 16563,
+    "confirmed": 16905,
     "deaths": 157,
     "recovered": 8394
   },
@@ -643,7 +643,7 @@
   },
   "Namibia": {
     "date": "2020-11-18",
-    "confirmed": 13566,
+    "confirmed": 13610,
     "deaths": 140,
     "recovered": 13152
   },
@@ -661,7 +661,7 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-11-18",
-    "confirmed": 11866,
+    "confirmed": 11918,
     "deaths": 323,
     "recovered": 11190
   },
@@ -745,7 +745,7 @@
   },
   "Bahamas": {
     "date": "2020-11-18",
-    "confirmed": 7312,
+    "confirmed": 7323,
     "deaths": 163,
     "recovered": 5483
   },
@@ -1015,7 +1015,7 @@
   },
   "Mauritius": {
     "date": "2020-11-18",
-    "confirmed": 491,
+    "confirmed": 494,
     "deaths": 10,
     "recovered": 433
   },
