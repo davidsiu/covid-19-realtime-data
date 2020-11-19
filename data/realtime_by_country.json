@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-19",
-    "confirmed": 11531743,
-    "deaths": 250579,
+    "confirmed": 11538104,
+    "deaths": 250652,
     "recovered": 4350789
   },
   "India": {
@@ -73,9 +73,9 @@
   },
   "Germany": {
     "date": "2020-11-19",
-    "confirmed": 867484,
+    "confirmed": 867724,
     "deaths": 13418,
-    "recovered": 555817
+    "recovered": 558818
   },
   "Iran": {
     "date": "2020-11-19",
@@ -194,7 +194,7 @@
   "Switzerland": {
     "date": "2020-11-19",
     "confirmed": 285655,
-    "deaths": 3799,
+    "deaths": 3827,
     "recovered": 180700
   },
   "Portugal": {
@@ -335,6 +335,12 @@
     "deaths": 852,
     "recovered": 62528
   },
+  "Serbia": {
+    "date": "2020-11-19",
+    "confirmed": 104097,
+    "deaths": 1110,
+    "recovered": null
+  },
   "Ethiopia": {
     "date": "2020-11-19",
     "confirmed": 103928,
@@ -352,12 +358,6 @@
     "confirmed": 98350,
     "deaths": 860,
     "recovered": 93390
-  },
-  "Serbia": {
-    "date": "2020-11-19",
-    "confirmed": 97988,
-    "deaths": 1081,
-    "recovered": null
   },
   "Croatia": {
     "date": "2020-11-19",
@@ -425,17 +425,17 @@
     "deaths": 1062,
     "recovered": 46793
   },
+  "Burma": {
+    "date": "2020-11-19",
+    "confirmed": 74882,
+    "deaths": 1676,
+    "recovered": 55633
+  },
   "Paraguay": {
     "date": "2020-11-19",
     "confirmed": 73639,
     "deaths": 1624,
     "recovered": 52608
-  },
-  "Burma": {
-    "date": "2020-11-19",
-    "confirmed": 73322,
-    "deaths": 1650,
-    "recovered": 54764
   },
   "Kenya": {
     "date": "2020-11-19",
@@ -667,9 +667,9 @@
   },
   "Tajikistan": {
     "date": "2020-11-19",
-    "confirmed": 11731,
+    "confirmed": 11772,
     "deaths": 86,
-    "recovered": 11105
+    "recovered": 11148
   },
   "Latvia": {
     "date": "2020-11-19",
