@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-21",
-    "confirmed": 11910858,
+    "confirmed": 11910906,
     "deaths": 254413,
     "recovered": 4457930
   },
@@ -283,7 +283,7 @@
   },
   "Japan": {
     "date": "2020-11-21",
-    "confirmed": 128285,
+    "confirmed": 128323,
     "deaths": 1930,
     "recovered": 107521
   },
@@ -451,15 +451,21 @@
   },
   "Uzbekistan": {
     "date": "2020-11-21",
-    "confirmed": 71208,
+    "confirmed": 71280,
     "deaths": 603,
-    "recovered": 68451
+    "recovered": 68525
   },
   "Ireland": {
     "date": "2020-11-21",
     "confirmed": 69802,
     "deaths": 2018,
     "recovered": 23364
+  },
+  "Kyrgyzstan": {
+    "date": "2020-11-21",
+    "confirmed": 69149,
+    "deaths": 1223,
+    "recovered": 60294
   },
   "Denmark": {
     "date": "2020-11-21",
@@ -472,12 +478,6 @@
     "confirmed": 68768,
     "deaths": 606,
     "recovered": 57879
-  },
-  "Kyrgyzstan": {
-    "date": "2020-11-21",
-    "confirmed": 68702,
-    "deaths": 1223,
-    "recovered": 59789
   },
   "Nigeria": {
     "date": "2020-11-21",
@@ -1089,7 +1089,7 @@
     "date": "2020-11-21",
     "confirmed": 35,
     "deaths": 2,
-    "recovered": 32
+    "recovered": 33
   },
   "Timor-Leste": {
     "date": "2020-11-21",
