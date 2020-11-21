@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-21",
-    "confirmed": 11915859,
-    "deaths": 254451,
+    "confirmed": 11922422,
+    "deaths": 254473,
     "recovered": 4457930
   },
   "India": {
@@ -74,8 +74,8 @@
   "Germany": {
     "date": "2020-11-21",
     "confirmed": 914118,
-    "deaths": 13947,
-    "recovered": 589793
+    "deaths": 13959,
+    "recovered": 592422
   },
   "Poland": {
     "date": "2020-11-21",
@@ -109,15 +109,15 @@
   },
   "Chile": {
     "date": "2020-11-21",
-    "confirmed": 537585,
-    "deaths": 15003,
-    "recovered": 512927
+    "confirmed": 539143,
+    "deaths": 15030,
+    "recovered": 514584
   },
   "Iraq": {
     "date": "2020-11-21",
-    "confirmed": 531769,
-    "deaths": 11883,
-    "recovered": 460394
+    "confirmed": 533555,
+    "deaths": 11925,
+    "recovered": 463040
   },
   "Indonesia": {
     "date": "2020-11-21",
@@ -277,7 +277,7 @@
   },
   "Japan": {
     "date": "2020-11-21",
-    "confirmed": 130858,
+    "confirmed": 130866,
     "deaths": 1932,
     "recovered": 108981
   },
@@ -323,6 +323,12 @@
     "deaths": 4067,
     "recovered": 106725
   },
+  "Serbia": {
+    "date": "2020-11-21",
+    "confirmed": 116125,
+    "deaths": 1168,
+    "recovered": null
+  },
   "Lebanon": {
     "date": "2020-11-21",
     "confirmed": 113655,
@@ -334,12 +340,6 @@
     "confirmed": 112318,
     "deaths": 6521,
     "recovered": 101685
-  },
-  "Serbia": {
-    "date": "2020-11-21",
-    "confirmed": 110351,
-    "deaths": 1140,
-    "recovered": null
   },
   "Ethiopia": {
     "date": "2020-11-21",
@@ -419,17 +419,17 @@
     "deaths": 2209,
     "recovered": 42916
   },
+  "Burma": {
+    "date": "2020-11-21",
+    "confirmed": 77848,
+    "deaths": 1722,
+    "recovered": 57679
+  },
   "Libya": {
     "date": "2020-11-21",
     "confirmed": 76808,
     "deaths": 1068,
     "recovered": 47587
-  },
-  "Burma": {
-    "date": "2020-11-21",
-    "confirmed": 76414,
-    "deaths": 1695,
-    "recovered": 56601
   },
   "Kenya": {
     "date": "2020-11-21",
@@ -487,7 +487,7 @@
   },
   "Slovenia": {
     "date": "2020-11-21",
-    "confirmed": 64270,
+    "confirmed": 64284,
     "deaths": 1026,
     "recovered": 43272
   },
@@ -523,9 +523,9 @@
   },
   "Afghanistan": {
     "date": "2020-11-21",
-    "confirmed": 44514,
-    "deaths": 1672,
-    "recovered": 35418
+    "confirmed": 44503,
+    "deaths": 1675,
+    "recovered": 35422
   },
   "El Salvador": {
     "date": "2020-11-21",
@@ -595,9 +595,9 @@
   },
   "Sri Lanka": {
     "date": "2020-11-21",
-    "confirmed": 19280,
+    "confirmed": 19537,
     "deaths": 74,
-    "recovered": 13271
+    "recovered": 13590
   },
   "Uganda": {
     "date": "2020-11-21",
@@ -607,9 +607,9 @@
   },
   "Zambia": {
     "date": "2020-11-21",
-    "confirmed": 17373,
+    "confirmed": 17394,
     "deaths": 356,
-    "recovered": 16606
+    "recovered": 16659
   },
   "Madagascar": {
     "date": "2020-11-21",
@@ -787,9 +787,9 @@
   },
   "Djibouti": {
     "date": "2020-11-21",
-    "confirmed": 5660,
+    "confirmed": 5661,
     "deaths": 61,
-    "recovered": 5551
+    "recovered": 5552
   },
   "Congo (Brazzaville)": {
     "date": "2020-11-21",
