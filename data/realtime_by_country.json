@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-22",
-    "confirmed": 12094789,
-    "deaths": 255909,
+    "confirmed": 12095024,
+    "deaths": 255911,
     "recovered": 4529700
   },
   "India": {
@@ -109,9 +109,9 @@
   },
   "Chile": {
     "date": "2020-11-22",
-    "confirmed": 539143,
-    "deaths": 15030,
-    "recovered": 514584
+    "confirmed": 540640,
+    "deaths": 15069,
+    "recovered": 516121
   },
   "Iraq": {
     "date": "2020-11-22",
@@ -125,17 +125,17 @@
     "deaths": 15884,
     "recovered": 418188
   },
+  "Netherlands": {
+    "date": "2020-11-22",
+    "confirmed": 492208,
+    "deaths": 8967,
+    "recovered": 6618
+  },
   "Czechia": {
     "date": "2020-11-22",
     "confirmed": 490750,
     "deaths": 7095,
     "recovered": 394830
-  },
-  "Netherlands": {
-    "date": "2020-11-22",
-    "confirmed": 486820,
-    "deaths": 8967,
-    "recovered": 6618
   },
   "Bangladesh": {
     "date": "2020-11-22",
@@ -311,6 +311,12 @@
     "deaths": 1380,
     "recovered": 113269
   },
+  "Serbia": {
+    "date": "2020-11-22",
+    "confirmed": 121120,
+    "deaths": 1199,
+    "recovered": null
+  },
   "Bulgaria": {
     "date": "2020-11-22",
     "confirmed": 120697,
@@ -322,12 +328,6 @@
     "confirmed": 118417,
     "deaths": 4074,
     "recovered": 107241
-  },
-  "Serbia": {
-    "date": "2020-11-22",
-    "confirmed": 116125,
-    "deaths": 1168,
-    "recovered": null
   },
   "Lebanon": {
     "date": "2020-11-22",
@@ -421,9 +421,9 @@
   },
   "Burma": {
     "date": "2020-11-22",
-    "confirmed": 77848,
-    "deaths": 1722,
-    "recovered": 57679
+    "confirmed": 79246,
+    "deaths": 1739,
+    "recovered": 58758
   },
   "Libya": {
     "date": "2020-11-22",
@@ -463,7 +463,7 @@
   },
   "Denmark": {
     "date": "2020-11-22",
-    "confirmed": 71002,
+    "confirmed": 71003,
     "deaths": 784,
     "recovered": 55789
   },
@@ -613,9 +613,9 @@
   },
   "Madagascar": {
     "date": "2020-11-22",
-    "confirmed": 17310,
-    "deaths": 250,
-    "recovered": 16592
+    "confirmed": 17341,
+    "deaths": 251,
+    "recovered": 16657
   },
   "Senegal": {
     "date": "2020-11-22",
