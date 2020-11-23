@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2020-11-23",
-    "confirmed": 12228144,
+    "confirmed": 12229265,
     "deaths": 256746,
     "recovered": 4526513
   },
   "India": {
     "date": "2020-11-23",
-    "confirmed": 9095806,
-    "deaths": 133227,
-    "recovered": 8521617
+    "confirmed": 9139865,
+    "deaths": 133738,
+    "recovered": 8562641
   },
   "Brazil": {
     "date": "2020-11-23",
@@ -74,8 +74,8 @@
   "Germany": {
     "date": "2020-11-23",
     "confirmed": 932367,
-    "deaths": 14091,
-    "recovered": 623861
+    "deaths": 14159,
+    "recovered": 611627
   },
   "Poland": {
     "date": "2020-11-23",
@@ -571,9 +571,9 @@
   },
   "Australia": {
     "date": "2020-11-23",
-    "confirmed": 27829,
+    "confirmed": 27834,
     "deaths": 907,
-    "recovered": 25525
+    "recovered": 25527
   },
   "Cameroon": {
     "date": "2020-11-23",
@@ -815,6 +815,12 @@
     "deaths": 26,
     "recovered": 5046
   },
+  "Belize": {
+    "date": "2020-11-23",
+    "confirmed": 5183,
+    "deaths": 116,
+    "recovered": 2842
+  },
   "Guyana": {
     "date": "2020-11-23",
     "confirmed": 5133,
@@ -826,12 +832,6 @@
     "confirmed": 5130,
     "deaths": 85,
     "recovered": 4975
-  },
-  "Belize": {
-    "date": "2020-11-23",
-    "confirmed": 5110,
-    "deaths": 112,
-    "recovered": 2800
   },
   "Central African Republic": {
     "date": "2020-11-23",
@@ -859,9 +859,9 @@
   },
   "Thailand": {
     "date": "2020-11-23",
-    "confirmed": 3913,
+    "confirmed": 3920,
     "deaths": 60,
-    "recovered": 3761
+    "recovered": 3766
   },
   "Gambia": {
     "date": "2020-11-23",
@@ -979,7 +979,7 @@
   },
   "Mongolia": {
     "date": "2020-11-23",
-    "confirmed": 629,
+    "confirmed": 640,
     "deaths": 0,
     "recovered": 340
   },
@@ -1027,7 +1027,7 @@
   },
   "Bhutan": {
     "date": "2020-11-23",
-    "confirmed": 379,
+    "confirmed": 382,
     "deaths": 0,
     "recovered": 360
   },
