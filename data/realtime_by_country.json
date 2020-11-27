@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-27",
-    "confirmed": 13062364,
-    "deaths": 264684,
+    "confirmed": 13072584,
+    "deaths": 264764,
     "recovered": 4871203
   },
   "India": {
@@ -91,9 +91,9 @@
   },
   "South Africa": {
     "date": "2020-11-27",
-    "confirmed": 778571,
-    "deaths": 21289,
-    "recovered": 716444
+    "confirmed": 781941,
+    "deaths": 21378,
+    "recovered": 722876
   },
   "Ukraine": {
     "date": "2020-11-27",
@@ -169,9 +169,9 @@
   },
   "Canada": {
     "date": "2020-11-27",
-    "confirmed": 360463,
-    "deaths": 11896,
-    "recovered": 287626
+    "confirmed": 361690,
+    "deaths": 11905,
+    "recovered": 288679
   },
   "Saudi Arabia": {
     "date": "2020-11-27",
@@ -281,6 +281,12 @@
     "deaths": 2324,
     "recovered": 113817
   },
+  "Bulgaria": {
+    "date": "2020-11-27",
+    "confirmed": 139955,
+    "deaths": 3680,
+    "recovered": 46740
+  },
   "Qatar": {
     "date": "2020-11-27",
     "confirmed": 138250,
@@ -292,12 +298,6 @@
     "confirmed": 137093,
     "deaths": 1690,
     "recovered": 84991
-  },
-  "Bulgaria": {
-    "date": "2020-11-27",
-    "confirmed": 136628,
-    "deaths": 3529,
-    "recovered": 44875
   },
   "Armenia": {
     "date": "2020-11-27",
@@ -395,17 +395,17 @@
     "deaths": 884,
     "recovered": 96072
   },
+  "Tunisia": {
+    "date": "2020-11-27",
+    "confirmed": 93770,
+    "deaths": 3106,
+    "recovered": 68464
+  },
   "China": {
     "date": "2020-11-27",
     "confirmed": 92580,
     "deaths": 4742,
     "recovered": 86913
-  },
-  "Tunisia": {
-    "date": "2020-11-27",
-    "confirmed": 92475,
-    "deaths": 3034,
-    "recovered": 67453
   },
   "Burma": {
     "date": "2020-11-27",
@@ -701,17 +701,17 @@
     "deaths": 31,
     "recovered": 7717
   },
+  "Cyprus": {
+    "date": "2020-11-27",
+    "confirmed": 9983,
+    "deaths": 48,
+    "recovered": 2057
+  },
   "Zimbabwe": {
     "date": "2020-11-27",
     "confirmed": 9714,
     "deaths": 275,
     "recovered": 8470
-  },
-  "Cyprus": {
-    "date": "2020-11-27",
-    "confirmed": 9673,
-    "deaths": 48,
-    "recovered": 2055
   },
   "Malta": {
     "date": "2020-11-27",
@@ -1075,7 +1075,7 @@
   },
   "Dominica": {
     "date": "2020-11-27",
-    "confirmed": 77,
+    "confirmed": 80,
     "deaths": 0,
     "recovered": 63
   },
