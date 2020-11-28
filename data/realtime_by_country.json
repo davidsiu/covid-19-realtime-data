@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-28",
-    "confirmed": 13072584,
-    "deaths": 264764,
+    "confirmed": 13079305,
+    "deaths": 264823,
     "recovered": 4871203
   },
   "India": {
@@ -49,9 +49,9 @@
   },
   "Argentina": {
     "date": "2020-11-28",
-    "confirmed": 1399431,
-    "deaths": 37941,
-    "recovered": 1226662
+    "confirmed": 1407277,
+    "deaths": 38216,
+    "recovered": 1235257
   },
   "Colombia": {
     "date": "2020-11-28",
@@ -69,7 +69,7 @@
     "date": "2020-11-28",
     "confirmed": 1027325,
     "deaths": 15796,
-    "recovered": 696794
+    "recovered": 704263
   },
   "Poland": {
     "date": "2020-11-28",
@@ -247,9 +247,9 @@
   },
   "Panama": {
     "date": "2020-11-28",
-    "confirmed": 160287,
-    "deaths": 3018,
-    "recovered": 140976
+    "confirmed": 161744,
+    "deaths": 3030,
+    "recovered": 142046
   },
   "Serbia": {
     "date": "2020-11-28",
@@ -425,11 +425,23 @@
     "deaths": 2542,
     "recovered": 50001
   },
+  "Kenya": {
+    "date": "2020-11-28",
+    "confirmed": 81656,
+    "deaths": 1441,
+    "recovered": 54125
+  },
   "Libya": {
     "date": "2020-11-28",
     "confirmed": 81273,
     "deaths": 1153,
     "recovered": 52299
+  },
+  "Paraguay": {
+    "date": "2020-11-28",
+    "confirmed": 80436,
+    "deaths": 1720,
+    "recovered": 56991
   },
   "West Bank and Gaza": {
     "date": "2020-11-28",
@@ -442,18 +454,6 @@
     "confirmed": 80168,
     "deaths": 2372,
     "recovered": 51946
-  },
-  "Kenya": {
-    "date": "2020-11-28",
-    "confirmed": 80102,
-    "deaths": 1427,
-    "recovered": 53526
-  },
-  "Paraguay": {
-    "date": "2020-11-28",
-    "confirmed": 79517,
-    "deaths": 1704,
-    "recovered": 56510
   },
   "Denmark": {
     "date": "2020-11-28",
@@ -571,9 +571,9 @@
   },
   "Australia": {
     "date": "2020-11-28",
-    "confirmed": 27874,
+    "confirmed": 27883,
     "deaths": 907,
-    "recovered": 25570
+    "recovered": 25572
   },
   "Cameroon": {
     "date": "2020-11-28",
@@ -827,17 +827,17 @@
     "deaths": 117,
     "recovered": 5185
   },
+  "Uruguay": {
+    "date": "2020-11-28",
+    "confirmed": 5303,
+    "deaths": 74,
+    "recovered": 4107
+  },
   "Equatorial Guinea": {
     "date": "2020-11-28",
     "confirmed": 5146,
     "deaths": 85,
     "recovered": 5005
-  },
-  "Uruguay": {
-    "date": "2020-11-28",
-    "confirmed": 5117,
-    "deaths": 74,
-    "recovered": 4021
   },
   "Central African Republic": {
     "date": "2020-11-28",
