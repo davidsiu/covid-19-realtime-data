@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-11-30",
-    "confirmed": 13384651,
-    "deaths": 266875,
+    "confirmed": 13385495,
+    "deaths": 266887,
     "recovered": 5065030
   },
   "India": {
@@ -67,15 +67,15 @@
   },
   "Germany": {
     "date": "2020-11-30",
-    "confirmed": 1057333,
-    "deaths": 16306,
-    "recovered": 730797
+    "confirmed": 1063752,
+    "deaths": 16312,
+    "recovered": 731964
   },
   "Poland": {
     "date": "2020-11-30",
-    "confirmed": 985075,
-    "deaths": 17029,
-    "recovered": 559429
+    "confirmed": 990811,
+    "deaths": 17150,
+    "recovered": 577514
   },
   "Peru": {
     "date": "2020-11-30",
@@ -205,9 +205,9 @@
   },
   "Austria": {
     "date": "2020-11-30",
-    "confirmed": 279708,
-    "deaths": 3105,
-    "recovered": 216998
+    "confirmed": 282456,
+    "deaths": 3184,
+    "recovered": 221692
   },
   "Sweden": {
     "date": "2020-11-30",
@@ -379,9 +379,9 @@
   },
   "Slovakia": {
     "date": "2020-11-30",
-    "confirmed": 105733,
-    "deaths": 816,
-    "recovered": 64197
+    "confirmed": 105929,
+    "deaths": 839,
+    "recovered": 66041
   },
   "Greece": {
     "date": "2020-11-30",
@@ -523,9 +523,9 @@
   },
   "Afghanistan": {
     "date": "2020-11-30",
-    "confirmed": 46215,
-    "deaths": 1763,
-    "recovered": 36731
+    "confirmed": 46498,
+    "deaths": 1774,
+    "recovered": 36788
   },
   "Kosovo": {
     "date": "2020-11-30",
@@ -571,9 +571,9 @@
   },
   "Australia": {
     "date": "2020-11-30",
-    "confirmed": 27902,
+    "confirmed": 27904,
     "deaths": 908,
-    "recovered": 25595
+    "recovered": 25598
   },
   "Finland": {
     "date": "2020-11-30",
@@ -671,17 +671,17 @@
     "deaths": 333,
     "recovered": 11585
   },
+  "Estonia": {
+    "date": "2020-11-30",
+    "confirmed": 12308,
+    "deaths": 118,
+    "recovered": 7078
+  },
   "Tajikistan": {
     "date": "2020-11-30",
     "confirmed": 12155,
     "deaths": 86,
     "recovered": 11559
-  },
-  "Estonia": {
-    "date": "2020-11-30",
-    "confirmed": 12052,
-    "deaths": 112,
-    "recovered": 7010
   },
   "Cabo Verde": {
     "date": "2020-11-30",
@@ -1079,6 +1079,12 @@
     "deaths": 0,
     "recovered": 79
   },
+  "Fiji": {
+    "date": "2020-11-30",
+    "confirmed": 42,
+    "deaths": 2,
+    "recovered": 33
+  },
   "Grenada": {
     "date": "2020-11-30",
     "confirmed": 41,
@@ -1090,12 +1096,6 @@
     "confirmed": 39,
     "deaths": 0,
     "recovered": 26
-  },
-  "Fiji": {
-    "date": "2020-11-30",
-    "confirmed": 38,
-    "deaths": 2,
-    "recovered": 33
   },
   "Timor-Leste": {
     "date": "2020-11-30",
