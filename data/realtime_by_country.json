@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-11-30",
-    "confirmed": 13384650,
+    "confirmed": 13384651,
     "deaths": 266875,
     "recovered": 5065030
   },
@@ -17,17 +17,17 @@
     "deaths": 172833,
     "recovered": 5581436
   },
+  "Russia": {
+    "date": "2020-11-30",
+    "confirmed": 2275936,
+    "deaths": 39491,
+    "recovered": 1763493
+  },
   "France": {
     "date": "2020-11-30",
     "confirmed": 2270573,
     "deaths": 52410,
     "recovered": 167005
-  },
-  "Russia": {
-    "date": "2020-11-30",
-    "confirmed": 2249890,
-    "deaths": 39127,
-    "recovered": 1746279
   },
   "Spain": {
     "date": "2020-11-30",
@@ -67,7 +67,7 @@
   },
   "Germany": {
     "date": "2020-11-30",
-    "confirmed": 1055691,
+    "confirmed": 1063752,
     "deaths": 16306,
     "recovered": 730797
   },
@@ -97,9 +97,9 @@
   },
   "Ukraine": {
     "date": "2020-11-30",
-    "confirmed": 752051,
-    "deaths": 12727,
-    "recovered": 360327
+    "confirmed": 752343,
+    "deaths": 12731,
+    "recovered": 360360
   },
   "Turkey": {
     "date": "2020-11-30",
@@ -157,9 +157,9 @@
   },
   "Philippines": {
     "date": "2020-11-30",
-    "confirmed": 429864,
-    "deaths": 8373,
-    "recovered": 398624
+    "confirmed": 431630,
+    "deaths": 8392,
+    "recovered": 398658
   },
   "Pakistan": {
     "date": "2020-11-30",
@@ -221,17 +221,17 @@
     "deaths": 1479,
     "recovered": 212590
   },
+  "Hungary": {
+    "date": "2020-11-30",
+    "confirmed": 217122,
+    "deaths": 4823,
+    "recovered": 63860
+  },
   "Jordan": {
     "date": "2020-11-30",
     "confirmed": 214307,
     "deaths": 2694,
     "recovered": 148572
-  },
-  "Hungary": {
-    "date": "2020-11-30",
-    "confirmed": 211527,
-    "deaths": 4672,
-    "recovered": 55637
   },
   "Ecuador": {
     "date": "2020-11-30",
@@ -259,8 +259,8 @@
   },
   "Japan": {
     "date": "2020-11-30",
-    "confirmed": 147603,
-    "deaths": 2058,
+    "confirmed": 148128,
+    "deaths": 2059,
     "recovered": 121735
   },
   "Bolivia": {
@@ -505,13 +505,13 @@
   },
   "Lithuania": {
     "date": "2020-11-30",
-    "confirmed": 60193,
-    "deaths": 493,
-    "recovered": 14120
+    "confirmed": 61325,
+    "deaths": 506,
+    "recovered": 14211
   },
   "Singapore": {
     "date": "2020-11-30",
-    "confirmed": 58213,
+    "confirmed": 58218,
     "deaths": 29,
     "recovered": 58124
   },
