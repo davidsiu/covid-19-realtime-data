@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-5",
-    "confirmed": 14457984,
-    "deaths": 280090,
+    "confirmed": 14502143,
+    "deaths": 280581,
     "recovered": 5470389
   },
   "India": {
@@ -61,7 +61,7 @@
   },
   "Germany": {
     "date": "2020-12-5",
-    "confirmed": 1168638,
+    "confirmed": 1168920,
     "deaths": 18654,
     "recovered": 837216
   },
@@ -97,9 +97,9 @@
   },
   "South Africa": {
     "date": "2020-12-5",
-    "confirmed": 805804,
-    "deaths": 21963,
-    "recovered": 740450
+    "confirmed": 810449,
+    "deaths": 22067,
+    "recovered": 744298
   },
   "Turkey": {
     "date": "2020-12-5",
@@ -169,9 +169,9 @@
   },
   "Canada": {
     "date": "2020-12-5",
-    "confirmed": 409672,
+    "confirmed": 409875,
     "deaths": 12592,
-    "recovered": 326246
+    "recovered": 326894
   },
   "Morocco": {
     "date": "2020-12-5",
@@ -385,9 +385,9 @@
   },
   "Honduras": {
     "date": "2020-12-5",
-    "confirmed": 109760,
-    "deaths": 2938,
-    "recovered": 48953
+    "confirmed": 109960,
+    "deaths": 2941,
+    "recovered": 49096
   },
   "Venezuela": {
     "date": "2020-12-5",
@@ -397,9 +397,9 @@
   },
   "Tunisia": {
     "date": "2020-12-5",
-    "confirmed": 101900,
-    "deaths": 3481,
-    "recovered": 75464
+    "confirmed": 102991,
+    "deaths": 3526,
+    "recovered": 76441
   },
   "Burma": {
     "date": "2020-12-5",
@@ -619,9 +619,9 @@
   },
   "Zambia": {
     "date": "2020-12-5",
-    "confirmed": 17857,
+    "confirmed": 17898,
     "deaths": 364,
-    "recovered": 17145
+    "recovered": 17168
   },
   "Madagascar": {
     "date": "2020-12-5",
@@ -643,9 +643,9 @@
   },
   "Angola": {
     "date": "2020-12-5",
-    "confirmed": 15493,
-    "deaths": 353,
-    "recovered": 8299
+    "confirmed": 15536,
+    "deaths": 354,
+    "recovered": 8335
   },
   "Namibia": {
     "date": "2020-12-5",
@@ -685,7 +685,7 @@
   },
   "Cyprus": {
     "date": "2020-12-5",
-    "confirmed": 11812,
+    "confirmed": 12181,
     "deaths": 57,
     "recovered": 2057
   },
@@ -719,6 +719,12 @@
     "deaths": 149,
     "recovered": 8289
   },
+  "Mauritania": {
+    "date": "2020-12-5",
+    "confirmed": 9359,
+    "deaths": 184,
+    "recovered": 7835
+  },
   "Haiti": {
     "date": "2020-12-5",
     "confirmed": 9347,
@@ -730,12 +736,6 @@
     "confirmed": 9254,
     "deaths": 60,
     "recovered": 9106
-  },
-  "Mauritania": {
-    "date": "2020-12-5",
-    "confirmed": 9181,
-    "deaths": 182,
-    "recovered": 7812
   },
   "Cuba": {
     "date": "2020-12-5",
@@ -781,15 +781,15 @@
   },
   "Eswatini": {
     "date": "2020-12-5",
-    "confirmed": 6480,
+    "confirmed": 6495,
     "deaths": 122,
-    "recovered": 6066
+    "recovered": 6078
   },
   "Malawi": {
     "date": "2020-12-5",
-    "confirmed": 6047,
+    "confirmed": 6049,
     "deaths": 185,
-    "recovered": 5472
+    "recovered": 5476
   },
   "Rwanda": {
     "date": "2020-12-5",
@@ -811,7 +811,7 @@
   },
   "Djibouti": {
     "date": "2020-12-5",
-    "confirmed": 5690,
+    "confirmed": 5692,
     "deaths": 61,
     "recovered": 5592
   },
@@ -843,7 +843,7 @@
     "date": "2020-12-5",
     "confirmed": 5062,
     "deaths": 163,
-    "recovered": 3307
+    "recovered": 3334
   },
   "Central African Republic": {
     "date": "2020-12-5",
@@ -923,23 +923,23 @@
     "deaths": 25,
     "recovered": 1994
   },
+  "Niger": {
+    "date": "2020-12-5",
+    "confirmed": 1789,
+    "deaths": 77,
+    "recovered": 1237
+  },
   "San Marino": {
     "date": "2020-12-5",
     "confirmed": 1789,
     "deaths": 48,
     "recovered": 1412
   },
-  "Niger": {
-    "date": "2020-12-5",
-    "confirmed": 1726,
-    "deaths": 77,
-    "recovered": 1237
-  },
   "Chad": {
     "date": "2020-12-5",
-    "confirmed": 1719,
+    "confirmed": 1722,
     "deaths": 102,
-    "recovered": 1555
+    "recovered": 1561
   },
   "Liberia": {
     "date": "2020-12-5",
@@ -1045,9 +1045,9 @@
   },
   "Saint Lucia": {
     "date": "2020-12-5",
-    "confirmed": 262,
+    "confirmed": 265,
     "deaths": 2,
-    "recovered": 141
+    "recovered": 158
   },
   "Seychelles": {
     "date": "2020-12-5",
