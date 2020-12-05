@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-5",
-    "confirmed": 14373720,
-    "deaths": 279008,
+    "confirmed": 14385385,
+    "deaths": 279137,
     "recovered": 5470389
   },
   "India": {
@@ -61,7 +61,7 @@
   },
   "Germany": {
     "date": "2020-12-5",
-    "confirmed": 1159257,
+    "confirmed": 1159665,
     "deaths": 18619,
     "recovered": 836708
   },
@@ -85,7 +85,7 @@
   },
   "Peru": {
     "date": "2020-12-5",
-    "confirmed": 967075,
+    "confirmed": 970860,
     "deaths": 36195,
     "recovered": 903958
   },
@@ -134,8 +134,8 @@
   "Chile": {
     "date": "2020-12-5",
     "confirmed": 557135,
-    "deaths": 15558,
-    "recovered": 531543
+    "deaths": 15592,
+    "recovered": 533250
   },
   "Czechia": {
     "date": "2020-12-5",
@@ -181,9 +181,9 @@
   },
   "Saudi Arabia": {
     "date": "2020-12-5",
-    "confirmed": 358336,
-    "deaths": 5940,
-    "recovered": 348238
+    "confirmed": 358526,
+    "deaths": 5954,
+    "recovered": 348562
   },
   "Switzerland": {
     "date": "2020-12-5",
@@ -236,7 +236,7 @@
   "Serbia": {
     "date": "2020-12-5",
     "confirmed": 206940,
-    "deaths": 1834,
+    "deaths": 1891,
     "recovered": null
   },
   "Ecuador": {
@@ -265,7 +265,7 @@
   },
   "Japan": {
     "date": "2020-12-5",
-    "confirmed": 160862,
+    "confirmed": 160859,
     "deaths": 2218,
     "recovered": 133287
   },
@@ -299,6 +299,12 @@
     "deaths": 8987,
     "recovered": 124390
   },
+  "Belarus": {
+    "date": "2020-12-5",
+    "confirmed": 145279,
+    "deaths": 1198,
+    "recovered": 122339
+  },
   "Kuwait": {
     "date": "2020-12-5",
     "confirmed": 143917,
@@ -310,12 +316,6 @@
     "confirmed": 143685,
     "deaths": 1773,
     "recovered": 95789
-  },
-  "Belarus": {
-    "date": "2020-12-5",
-    "confirmed": 143383,
-    "deaths": 1190,
-    "recovered": 120571
   },
   "Azerbaijan": {
     "date": "2020-12-5",
@@ -403,9 +403,9 @@
   },
   "Burma": {
     "date": "2020-12-5",
-    "confirmed": 96520,
-    "deaths": 2059,
-    "recovered": 74973
+    "confirmed": 98047,
+    "deaths": 2081,
+    "recovered": 76382
   },
   "West Bank and Gaza": {
     "date": "2020-12-5",
@@ -463,7 +463,7 @@
   },
   "Slovenia": {
     "date": "2020-12-5",
-    "confirmed": 84769,
+    "confirmed": 84775,
     "deaths": 1700,
     "recovered": 62600
   },
@@ -583,9 +583,9 @@
   },
   "Sri Lanka": {
     "date": "2020-12-5",
-    "confirmed": 26559,
+    "confirmed": 27060,
     "deaths": 130,
-    "recovered": 19438
+    "recovered": 20090
   },
   "Cameroon": {
     "date": "2020-12-5",
@@ -679,9 +679,9 @@
   },
   "Tajikistan": {
     "date": "2020-12-5",
-    "confirmed": 12349,
+    "confirmed": 12389,
     "deaths": 87,
-    "recovered": 11758
+    "recovered": 11796
   },
   "Cyprus": {
     "date": "2020-12-5",
