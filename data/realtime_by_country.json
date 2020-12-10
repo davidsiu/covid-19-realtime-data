@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-10",
-    "confirmed": 15381450,
-    "deaths": 289298,
+    "confirmed": 15384264,
+    "deaths": 289357,
     "recovered": 5889896
   },
   "India": {
@@ -109,8 +109,8 @@
   },
   "Belgium": {
     "date": "2020-12-10",
-    "confirmed": 594572,
-    "deaths": 17507,
+    "confirmed": 597643,
+    "deaths": 17603,
     "recovered": null
   },
   "Indonesia": {
@@ -121,7 +121,7 @@
   },
   "Netherlands": {
     "date": "2020-12-10",
-    "confirmed": 586619,
+    "confirmed": 586643,
     "deaths": 9923,
     "recovered": 7551
   },
@@ -169,9 +169,9 @@
   },
   "Pakistan": {
     "date": "2020-12-10",
-    "confirmed": 426142,
-    "deaths": 8547,
-    "recovered": 372271
+    "confirmed": 429280,
+    "deaths": 8603,
+    "recovered": 374301
   },
   "Morocco": {
     "date": "2020-12-10",
@@ -253,9 +253,9 @@
   },
   "Kazakhstan": {
     "date": "2020-12-10",
-    "confirmed": 182498,
-    "deaths": 2544,
-    "recovered": 154356
+    "confirmed": 182657,
+    "deaths": 2546,
+    "recovered": 154432
   },
   "United Arab Emirates": {
     "date": "2020-12-10",
@@ -277,7 +277,7 @@
   },
   "Japan": {
     "date": "2020-12-10",
-    "confirmed": 169405,
+    "confirmed": 169427,
     "deaths": 2376,
     "recovered": 140466
   },
@@ -313,7 +313,7 @@
   },
   "Bolivia": {
     "date": "2020-12-10",
-    "confirmed": 145846,
+    "confirmed": 146060,
     "deaths": 9004,
     "recovered": 125490
   },
@@ -386,8 +386,8 @@
   "Honduras": {
     "date": "2020-12-10",
     "confirmed": 112175,
-    "deaths": 2952,
-    "recovered": 50344
+    "deaths": 2961,
+    "recovered": 50888
   },
   "Tunisia": {
     "date": "2020-12-10",
@@ -545,6 +545,12 @@
     "deaths": 1174,
     "recovered": 37172
   },
+  "Korea, South": {
+    "date": "2020-12-10",
+    "confirmed": 40098,
+    "deaths": 564,
+    "recovered": 30637
+  },
   "Montenegro": {
     "date": "2020-12-10",
     "confirmed": 39607,
@@ -556,12 +562,6 @@
     "confirmed": 39525,
     "deaths": 361,
     "recovered": 17998
-  },
-  "Korea, South": {
-    "date": "2020-12-10",
-    "confirmed": 39432,
-    "deaths": 564,
-    "recovered": 30637
   },
   "Luxembourg": {
     "date": "2020-12-10",
@@ -1033,7 +1033,7 @@
   },
   "Cambodia": {
     "date": "2020-12-10",
-    "confirmed": 354,
+    "confirmed": 356,
     "deaths": 0,
     "recovered": 307
   },
