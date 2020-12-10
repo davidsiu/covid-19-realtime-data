@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-10",
-    "confirmed": 15359348,
-    "deaths": 288716,
+    "confirmed": 15371953,
+    "deaths": 289188,
     "recovered": 5788509
   },
   "India": {
@@ -25,15 +25,15 @@
   },
   "France": {
     "date": "2020-12-10",
-    "confirmed": 2377692,
-    "deaths": 56747,
+    "confirmed": 2377771,
+    "deaths": 56751,
     "recovered": 178937
   },
   "United Kingdom": {
     "date": "2020-12-10",
     "confirmed": 1771544,
     "deaths": 62663,
-    "recovered": 3775
+    "recovered": 3777
   },
   "Italy": {
     "date": "2020-12-10",
@@ -163,9 +163,9 @@
   },
   "Canada": {
     "date": "2020-12-10",
-    "confirmed": 438523,
-    "deaths": 12993,
-    "recovered": 353731
+    "confirmed": 439142,
+    "deaths": 13009,
+    "recovered": 354282
   },
   "Pakistan": {
     "date": "2020-12-10",
@@ -254,8 +254,8 @@
   "Panama": {
     "date": "2020-12-10",
     "confirmed": 181166,
-    "deaths": 3241,
-    "recovered": 155870
+    "deaths": 3264,
+    "recovered": 156870
   },
   "United Arab Emirates": {
     "date": "2020-12-10",
@@ -269,17 +269,17 @@
     "deaths": 1614,
     "recovered": 145287
   },
+  "Bulgaria": {
+    "date": "2020-12-10",
+    "confirmed": 171493,
+    "deaths": 5283,
+    "recovered": 72078
+  },
   "Japan": {
     "date": "2020-12-10",
     "confirmed": 169402,
     "deaths": 2376,
     "recovered": 140466
-  },
-  "Bulgaria": {
-    "date": "2020-12-10",
-    "confirmed": 168165,
-    "deaths": 5283,
-    "recovered": 72078
   },
   "Croatia": {
     "date": "2020-12-10",
@@ -307,9 +307,9 @@
   },
   "Costa Rica": {
     "date": "2020-12-10",
-    "confirmed": 147430,
-    "deaths": 1846,
-    "recovered": 105686
+    "confirmed": 148688,
+    "deaths": 1864,
+    "recovered": 107624
   },
   "Bolivia": {
     "date": "2020-12-10",
@@ -428,8 +428,14 @@
   "China": {
     "date": "2020-12-10",
     "confirmed": 93886,
-    "deaths": 4747,
+    "deaths": 4748,
     "recovered": 87572
+  },
+  "Paraguay": {
+    "date": "2020-12-10",
+    "confirmed": 90146,
+    "deaths": 1901,
+    "recovered": 63891
   },
   "Slovenia": {
     "date": "2020-12-10",
@@ -448,12 +454,6 @@
     "confirmed": 89661,
     "deaths": 1552,
     "recovered": 70194
-  },
-  "Paraguay": {
-    "date": "2020-12-10",
-    "confirmed": 89421,
-    "deaths": 1901,
-    "recovered": 63891
   },
   "Libya": {
     "date": "2020-12-10",
@@ -499,7 +499,7 @@
   },
   "Nigeria": {
     "date": "2020-12-10",
-    "confirmed": 70195,
+    "confirmed": 70669,
     "deaths": 1184,
     "recovered": 65242
   },
@@ -551,17 +551,17 @@
     "deaths": 556,
     "recovered": 28461
   },
+  "Norway": {
+    "date": "2020-12-10",
+    "confirmed": 39525,
+    "deaths": 361,
+    "recovered": 17998
+  },
   "Korea, South": {
     "date": "2020-12-10",
     "confirmed": 39432,
     "deaths": 556,
     "recovered": 30177
-  },
-  "Norway": {
-    "date": "2020-12-10",
-    "confirmed": 39163,
-    "deaths": 361,
-    "recovered": 17998
   },
   "Luxembourg": {
     "date": "2020-12-10",
@@ -583,9 +583,9 @@
   },
   "Australia": {
     "date": "2020-12-10",
-    "confirmed": 27993,
+    "confirmed": 27999,
     "deaths": 908,
-    "recovered": 25657
+    "recovered": 25662
   },
   "Uganda": {
     "date": "2020-12-10",
@@ -661,9 +661,9 @@
   },
   "Congo (Kinshasa)": {
     "date": "2020-12-10",
-    "confirmed": 13750,
-    "deaths": 344,
-    "recovered": 12059
+    "confirmed": 13843,
+    "deaths": 350,
+    "recovered": 12208
   },
   "Guinea": {
     "date": "2020-12-10",
@@ -705,7 +705,7 @@
     "date": "2020-12-10",
     "confirmed": 11118,
     "deaths": 109,
-    "recovered": 10712
+    "recovered": 10760
   },
   "Zimbabwe": {
     "date": "2020-12-10",
@@ -729,7 +729,7 @@
     "date": "2020-12-10",
     "confirmed": 9399,
     "deaths": 233,
-    "recovered": 8148
+    "recovered": 8170
   },
   "Gabon": {
     "date": "2020-12-10",
@@ -749,17 +749,17 @@
     "deaths": 465,
     "recovered": 4114
   },
+  "Uruguay": {
+    "date": "2020-12-10",
+    "confirmed": 8104,
+    "deaths": 87,
+    "recovered": 5564
+  },
   "Belize": {
     "date": "2020-12-10",
     "confirmed": 8013,
     "deaths": 179,
     "recovered": 4012
-  },
-  "Uruguay": {
-    "date": "2020-12-10",
-    "confirmed": 7806,
-    "deaths": 87,
-    "recovered": 5564
   },
   "Bahamas": {
     "date": "2020-12-10",
