@@ -107,23 +107,23 @@
     "deaths": 22747,
     "recovered": 756671
   },
+  "Belgium": {
+    "date": "2020-12-11",
+    "confirmed": 600397,
+    "deaths": 17692,
+    "recovered": null
+  },
   "Indonesia": {
     "date": "2020-12-11",
     "confirmed": 598933,
     "deaths": 18336,
     "recovered": 491975
   },
-  "Belgium": {
-    "date": "2020-12-11",
-    "confirmed": 597643,
-    "deaths": 17603,
-    "recovered": null
-  },
   "Netherlands": {
     "date": "2020-12-11",
-    "confirmed": 595378,
+    "confirmed": 595394,
     "deaths": 9985,
-    "recovered": 7571
+    "recovered": 7651
   },
   "Iraq": {
     "date": "2020-12-11",
@@ -169,9 +169,9 @@
   },
   "Pakistan": {
     "date": "2020-12-11",
-    "confirmed": 429280,
-    "deaths": 8603,
-    "recovered": 374301
+    "confirmed": 432327,
+    "deaths": 8653,
+    "recovered": 379092
   },
   "Morocco": {
     "date": "2020-12-11",
@@ -277,8 +277,8 @@
   },
   "Japan": {
     "date": "2020-12-11",
-    "confirmed": 172375,
-    "deaths": 2394,
+    "confirmed": 172406,
+    "deaths": 2395,
     "recovered": 142850
   },
   "Croatia": {
@@ -313,7 +313,7 @@
   },
   "Bolivia": {
     "date": "2020-12-11",
-    "confirmed": 146060,
+    "confirmed": 146385,
     "deaths": 9008,
     "recovered": 125716
   },
@@ -429,7 +429,7 @@
     "date": "2020-12-11",
     "confirmed": 94025,
     "deaths": 4748,
-    "recovered": 87704
+    "recovered": 87707
   },
   "Slovenia": {
     "date": "2020-12-11",
@@ -539,6 +539,12 @@
     "deaths": 1161,
     "recovered": 31802
   },
+  "Korea, South": {
+    "date": "2020-12-11",
+    "confirmed": 40786,
+    "deaths": 572,
+    "recovered": 31157
+  },
   "El Salvador": {
     "date": "2020-12-11",
     "confirmed": 40741,
@@ -550,12 +556,6 @@
     "confirmed": 40165,
     "deaths": 566,
     "recovered": 29054
-  },
-  "Korea, South": {
-    "date": "2020-12-11",
-    "confirmed": 40098,
-    "deaths": 572,
-    "recovered": 31157
   },
   "Luxembourg": {
     "date": "2020-12-11",
@@ -919,7 +919,7 @@
   },
   "New Zealand": {
     "date": "2020-12-11",
-    "confirmed": 2088,
+    "confirmed": 2092,
     "deaths": 25,
     "recovered": 2010
   },
@@ -1033,7 +1033,7 @@
   },
   "Cambodia": {
     "date": "2020-12-11",
-    "confirmed": 356,
+    "confirmed": 357,
     "deaths": 0,
     "recovered": 307
   },
