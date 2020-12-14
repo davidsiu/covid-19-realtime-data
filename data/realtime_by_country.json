@@ -1,9 +1,9 @@
 {
   "US": {
     "date": "2020-12-14",
-    "confirmed": 16225124,
-    "deaths": 299057,
-    "recovered": 6246605
+    "confirmed": 16226561,
+    "deaths": 299093,
+    "recovered": 6298082
   },
   "India": {
     "date": "2020-12-14",
@@ -159,7 +159,7 @@
     "date": "2020-12-14",
     "confirmed": 464443,
     "deaths": 13451,
-    "recovered": 377073
+    "recovered": 378653
   },
   "Philippines": {
     "date": "2020-12-14",
@@ -434,20 +434,20 @@
   "China": {
     "date": "2020-12-14",
     "confirmed": 94312,
-    "deaths": 4750,
+    "deaths": 4751,
     "recovered": 88032
+  },
+  "Paraguay": {
+    "date": "2020-12-14",
+    "confirmed": 93582,
+    "deaths": 1953,
+    "recovered": 66543
   },
   "Lithuania": {
     "date": "2020-12-14",
     "confirmed": 93101,
     "deaths": 815,
     "recovered": 38893
-  },
-  "Paraguay": {
-    "date": "2020-12-14",
-    "confirmed": 92913,
-    "deaths": 1937,
-    "recovered": 65852
   },
   "Algeria": {
     "date": "2020-12-14",
@@ -559,7 +559,7 @@
   },
   "Norway": {
     "date": "2020-12-14",
-    "confirmed": 40927,
+    "confirmed": 41003,
     "deaths": 387,
     "recovered": 17998
   },
@@ -583,7 +583,7 @@
   },
   "Australia": {
     "date": "2020-12-14",
-    "confirmed": 28033,
+    "confirmed": 28036,
     "deaths": 908,
     "recovered": 25676
   },
@@ -725,6 +725,12 @@
     "deaths": 225,
     "recovered": 8076
   },
+  "Uruguay": {
+    "date": "2020-12-14",
+    "confirmed": 9708,
+    "deaths": 92,
+    "recovered": 6358
+  },
   "Haiti": {
     "date": "2020-12-14",
     "confirmed": 9491,
@@ -743,17 +749,11 @@
     "deaths": 63,
     "recovered": 9182
   },
-  "Uruguay": {
-    "date": "2020-12-14",
-    "confirmed": 9180,
-    "deaths": 91,
-    "recovered": 6155
-  },
   "Belize": {
     "date": "2020-12-14",
-    "confirmed": 9173,
-    "deaths": 192,
-    "recovered": 4279
+    "confirmed": 9295,
+    "deaths": 195,
+    "recovered": 4321
   },
   "Syria": {
     "date": "2020-12-14",
@@ -835,9 +835,9 @@
   },
   "Suriname": {
     "date": "2020-12-14",
-    "confirmed": 5340,
+    "confirmed": 5353,
     "deaths": 117,
-    "recovered": 5221
+    "recovered": 5224
   },
   "Equatorial Guinea": {
     "date": "2020-12-14",
