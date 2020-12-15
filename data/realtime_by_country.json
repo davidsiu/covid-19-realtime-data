@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-15",
-    "confirmed": 16432408,
-    "deaths": 300586,
+    "confirmed": 16508067,
+    "deaths": 300382,
     "recovered": 6399531
   },
   "India": {
@@ -33,7 +33,7 @@
     "date": "2020-12-15",
     "confirmed": 1874803,
     "deaths": 64500,
-    "recovered": 4022
+    "recovered": 4048
   },
   "Turkey": {
     "date": "2020-12-15",
@@ -111,7 +111,7 @@
     "date": "2020-12-15",
     "confirmed": 632068,
     "deaths": 10168,
-    "recovered": 7920
+    "recovered": 7944
   },
   "Indonesia": {
     "date": "2020-12-15",
@@ -159,7 +159,7 @@
     "date": "2020-12-15",
     "confirmed": 472820,
     "deaths": 13569,
-    "recovered": 383525
+    "recovered": 385020
   },
   "Philippines": {
     "date": "2020-12-15",
@@ -565,7 +565,7 @@
   },
   "Norway": {
     "date": "2020-12-15",
-    "confirmed": 41158,
+    "confirmed": 41334,
     "deaths": 393,
     "recovered": 17998
   },
@@ -583,9 +583,9 @@
   },
   "Australia": {
     "date": "2020-12-15",
-    "confirmed": 28040,
+    "confirmed": 28045,
     "deaths": 908,
-    "recovered": 25685
+    "recovered": 25686
   },
   "Uganda": {
     "date": "2020-12-15",
@@ -743,6 +743,12 @@
     "deaths": 137,
     "recovered": 8484
   },
+  "Belize": {
+    "date": "2020-12-15",
+    "confirmed": 9377,
+    "deaths": 197,
+    "recovered": 4414
+  },
   "Gabon": {
     "date": "2020-12-15",
     "confirmed": 9351,
@@ -754,12 +760,6 @@
     "confirmed": 9302,
     "deaths": 530,
     "recovered": 4432
-  },
-  "Belize": {
-    "date": "2020-12-15",
-    "confirmed": 9295,
-    "deaths": 195,
-    "recovered": 4414
   },
   "Bahamas": {
     "date": "2020-12-15",
@@ -791,17 +791,17 @@
     "deaths": 56,
     "recovered": 5996
   },
+  "Congo (Brazzaville)": {
+    "date": "2020-12-15",
+    "confirmed": 6200,
+    "deaths": 100,
+    "recovered": 4988
+  },
   "Malawi": {
     "date": "2020-12-15",
     "confirmed": 6070,
     "deaths": 187,
     "recovered": 5491
-  },
-  "Congo (Brazzaville)": {
-    "date": "2020-12-15",
-    "confirmed": 6049,
-    "deaths": 99,
-    "recovered": 4988
   },
   "Guyana": {
     "date": "2020-12-15",
@@ -835,7 +835,7 @@
   },
   "Suriname": {
     "date": "2020-12-15",
-    "confirmed": 5353,
+    "confirmed": 5359,
     "deaths": 117,
     "recovered": 5227
   },
@@ -865,9 +865,9 @@
   },
   "Burkina Faso": {
     "date": "2020-12-15",
-    "confirmed": 4030,
+    "confirmed": 4209,
     "deaths": 71,
-    "recovered": 2910
+    "recovered": 2940
   },
   "Gambia": {
     "date": "2020-12-15",
@@ -914,8 +914,8 @@
   "Niger": {
     "date": "2020-12-15",
     "confirmed": 2258,
-    "deaths": 80,
-    "recovered": 1292
+    "deaths": 82,
+    "recovered": 1294
   },
   "New Zealand": {
     "date": "2020-12-15",
@@ -933,7 +933,7 @@
     "date": "2020-12-15",
     "confirmed": 1932,
     "deaths": 51,
-    "recovered": 1575
+    "recovered": 1608
   },
   "Chad": {
     "date": "2020-12-15",
@@ -1047,7 +1047,7 @@
     "date": "2020-12-15",
     "confirmed": 275,
     "deaths": 4,
-    "recovered": 203
+    "recovered": 240
   },
   "Seychelles": {
     "date": "2020-12-15",
