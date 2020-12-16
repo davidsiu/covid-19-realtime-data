@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-16",
-    "confirmed": 16715932,
-    "deaths": 303500,
+    "confirmed": 16715260,
+    "deaths": 303529,
     "recovered": null
   },
   "India": {
@@ -25,7 +25,7 @@
   },
   "France": {
     "date": "2020-12-16",
-    "confirmed": 2447457,
+    "confirmed": 2447406,
     "deaths": 59182,
     "recovered": 184780
   },
@@ -67,15 +67,15 @@
   },
   "Germany": {
     "date": "2020-12-16",
-    "confirmed": 1378518,
+    "confirmed": 1378717,
     "deaths": 23100,
     "recovered": 1013358
   },
   "Mexico": {
     "date": "2020-12-16",
-    "confirmed": 1255974,
-    "deaths": 114298,
-    "recovered": 927754
+    "confirmed": 1267202,
+    "deaths": 115099,
+    "recovered": 938089
   },
   "Poland": {
     "date": "2020-12-16",
@@ -121,8 +121,8 @@
   },
   "Belgium": {
     "date": "2020-12-16",
-    "confirmed": 609211,
-    "deaths": 18054,
+    "confirmed": 611422,
+    "deaths": 18178,
     "recovered": null
   },
   "Czechia": {
@@ -169,9 +169,9 @@
   },
   "Pakistan": {
     "date": "2020-12-16",
-    "confirmed": 443246,
-    "deaths": 8905,
-    "recovered": 386333
+    "confirmed": 445977,
+    "deaths": 9010,
+    "recovered": 388598
   },
   "Morocco": {
     "date": "2020-12-16",
@@ -257,17 +257,17 @@
     "deaths": 1883,
     "recovered": 164786
   },
+  "Kazakhstan": {
+    "date": "2020-12-16",
+    "confirmed": 187709,
+    "deaths": 2613,
+    "recovered": 159827
+  },
   "United Arab Emirates": {
     "date": "2020-12-16",
     "confirmed": 187267,
     "deaths": 622,
     "recovered": 165023
-  },
-  "Kazakhstan": {
-    "date": "2020-12-16",
-    "confirmed": 186960,
-    "deaths": 2613,
-    "recovered": 159827
   },
   "Japan": {
     "date": "2020-12-16",
@@ -445,7 +445,7 @@
   },
   "China": {
     "date": "2020-12-16",
-    "confirmed": 94534,
+    "confirmed": 94537,
     "deaths": 4757,
     "recovered": 88211
   },
@@ -545,6 +545,12 @@
     "deaths": 612,
     "recovered": 32947
   },
+  "Luxembourg": {
+    "date": "2020-12-16",
+    "confirmed": 42250,
+    "deaths": 418,
+    "recovered": 33486
+  },
   "Montenegro": {
     "date": "2020-12-16",
     "confirmed": 42148,
@@ -556,12 +562,6 @@
     "confirmed": 42132,
     "deaths": 1212,
     "recovered": 38260
-  },
-  "Luxembourg": {
-    "date": "2020-12-16",
-    "confirmed": 41900,
-    "deaths": 410,
-    "recovered": 33367
   },
   "Norway": {
     "date": "2020-12-16",
@@ -967,7 +967,7 @@
   },
   "Mongolia": {
     "date": "2020-12-16",
-    "confirmed": 917,
+    "confirmed": 918,
     "deaths": 0,
     "recovered": 384
   },
