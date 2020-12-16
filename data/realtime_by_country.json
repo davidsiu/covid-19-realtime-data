@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-16",
-    "confirmed": 16716777,
-    "deaths": 303773,
+    "confirmed": 16717014,
+    "deaths": 303797,
     "recovered": null
   },
   "India": {
@@ -271,8 +271,8 @@
   },
   "Japan": {
     "date": "2020-12-16",
-    "confirmed": 184752,
-    "deaths": 2581,
+    "confirmed": 184820,
+    "deaths": 2587,
     "recovered": 153363
   },
   "Bulgaria": {
@@ -493,9 +493,9 @@
   },
   "Uzbekistan": {
     "date": "2020-12-16",
-    "confirmed": 75241,
+    "confirmed": 75396,
     "deaths": 612,
-    "recovered": 72522
+    "recovered": 72661
   },
   "North Macedonia": {
     "date": "2020-12-16",
@@ -545,6 +545,12 @@
     "deaths": 612,
     "recovered": 32947
   },
+  "El Salvador": {
+    "date": "2020-12-16",
+    "confirmed": 42397,
+    "deaths": 1219,
+    "recovered": 38481
+  },
   "Luxembourg": {
     "date": "2020-12-16",
     "confirmed": 42250,
@@ -556,12 +562,6 @@
     "confirmed": 42148,
     "deaths": 597,
     "recovered": 32097
-  },
-  "El Salvador": {
-    "date": "2020-12-16",
-    "confirmed": 42132,
-    "deaths": 1212,
-    "recovered": 38260
   },
   "Norway": {
     "date": "2020-12-16",
@@ -1081,7 +1081,7 @@
   },
   "Grenada": {
     "date": "2020-12-16",
-    "confirmed": 69,
+    "confirmed": 85,
     "deaths": 0,
     "recovered": 41
   },
