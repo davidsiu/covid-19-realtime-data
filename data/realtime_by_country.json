@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-19",
-    "confirmed": 17410003,
-    "deaths": 312983,
+    "confirmed": 17416108,
+    "deaths": 313035,
     "recovered": null
   },
   "India": {
@@ -149,17 +149,17 @@
     "deaths": 16051,
     "recovered": 552289
   },
+  "Canada": {
+    "date": "2020-12-19",
+    "confirmed": 499282,
+    "deaths": 14055,
+    "recovered": 409122
+  },
   "Bangladesh": {
     "date": "2020-12-19",
     "confirmed": 498293,
     "deaths": 7217,
     "recovered": 433614
-  },
-  "Canada": {
-    "date": "2020-12-19",
-    "confirmed": 497245,
-    "deaths": 14019,
-    "recovered": 406850
   },
   "Philippines": {
     "date": "2020-12-19",
@@ -441,13 +441,13 @@
     "date": "2020-12-19",
     "confirmed": 97028,
     "deaths": 2032,
-    "recovered": 69351
+    "recovered": 70101
   },
   "China": {
     "date": "2020-12-19",
     "confirmed": 94804,
-    "deaths": 4762,
-    "recovered": 88524
+    "deaths": 4763,
+    "recovered": 88531
   },
   "Algeria": {
     "date": "2020-12-19",
@@ -595,7 +595,7 @@
   },
   "Australia": {
     "date": "2020-12-19",
-    "confirmed": 28096,
+    "confirmed": 28126,
     "deaths": 908,
     "recovered": 25700
   },
@@ -707,6 +707,12 @@
     "deaths": 283,
     "recovered": 8668
   },
+  "Uruguay": {
+    "date": "2020-12-19",
+    "confirmed": 11950,
+    "deaths": 109,
+    "recovered": 7699
+  },
   "Zimbabwe": {
     "date": "2020-12-19",
     "confirmed": 11866,
@@ -724,12 +730,6 @@
     "confirmed": 11526,
     "deaths": 110,
     "recovered": 11164
-  },
-  "Uruguay": {
-    "date": "2020-12-19",
-    "confirmed": 11436,
-    "deaths": 109,
-    "recovered": 7699
   },
   "Syria": {
     "date": "2020-12-19",
@@ -837,7 +837,7 @@
     "date": "2020-12-19",
     "confirmed": 5428,
     "deaths": 117,
-    "recovered": 5240
+    "recovered": 5249
   },
   "Equatorial Guinea": {
     "date": "2020-12-19",
@@ -1055,17 +1055,17 @@
     "deaths": 0,
     "recovered": 184
   },
+  "Antigua and Barbuda": {
+    "date": "2020-12-19",
+    "confirmed": 152,
+    "deaths": 5,
+    "recovered": 141
+  },
   "Brunei": {
     "date": "2020-12-19",
     "confirmed": 152,
     "deaths": 3,
     "recovered": 148
-  },
-  "Antigua and Barbuda": {
-    "date": "2020-12-19",
-    "confirmed": 151,
-    "deaths": 5,
-    "recovered": 141
   },
   "Saint Vincent and the Grenadines": {
     "date": "2020-12-19",
