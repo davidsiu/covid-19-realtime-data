@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-23",
-    "confirmed": 18238233,
-    "deaths": 322849,
+    "confirmed": 18238314,
+    "deaths": 322851,
     "recovered": null
   },
   "India": {
@@ -32,8 +32,8 @@
   "United Kingdom": {
     "date": "2020-12-23",
     "confirmed": 2116609,
-    "deaths": 68409,
-    "recovered": 4409
+    "deaths": 68412,
+    "recovered": 4614
   },
   "Turkey": {
     "date": "2020-12-23",
@@ -145,9 +145,9 @@
   },
   "Iraq": {
     "date": "2020-12-23",
-    "confirmed": 586503,
-    "deaths": 12725,
-    "recovered": 524344
+    "confirmed": 587676,
+    "deaths": 12737,
+    "recovered": 525792
   },
   "Canada": {
     "date": "2020-12-23",
@@ -173,22 +173,22 @@
     "deaths": 9557,
     "recovered": 415352
   },
+  "Switzerland": {
+    "date": "2020-12-23",
+    "confirmed": 423299,
+    "deaths": 6975,
+    "recovered": 311500
+  },
   "Morocco": {
     "date": "2020-12-23",
     "confirmed": 420648,
     "deaths": 7030,
     "recovered": 382925
   },
-  "Switzerland": {
-    "date": "2020-12-23",
-    "confirmed": 418266,
-    "deaths": 6924,
-    "recovered": 311500
-  },
   "Sweden": {
     "date": "2020-12-23",
-    "confirmed": 389439,
-    "deaths": 8167,
+    "confirmed": 396048,
+    "deaths": 8279,
     "recovered": null
   },
   "Israel": {
@@ -251,6 +251,12 @@
     "deaths": 2233,
     "recovered": 191968
   },
+  "Japan": {
+    "date": "2020-12-23",
+    "confirmed": 207001,
+    "deaths": 2920,
+    "recovered": 171959
+  },
   "Ecuador": {
     "date": "2020-12-23",
     "confirmed": 206364,
@@ -262,12 +268,6 @@
     "confirmed": 205877,
     "deaths": 2294,
     "recovered": 147199
-  },
-  "Japan": {
-    "date": "2020-12-23",
-    "confirmed": 205622,
-    "deaths": 2898,
-    "recovered": 171959
   },
   "Croatia": {
     "date": "2020-12-23",
@@ -535,9 +535,9 @@
   },
   "Afghanistan": {
     "date": "2020-12-23",
-    "confirmed": 50190,
-    "deaths": 2096,
-    "recovered": 39585
+    "confirmed": 50433,
+    "deaths": 2117,
+    "recovered": 39692
   },
   "Kosovo": {
     "date": "2020-12-23",
@@ -943,9 +943,9 @@
   },
   "Liechtenstein": {
     "date": "2020-12-23",
-    "confirmed": 1826,
-    "deaths": 28,
-    "recovered": 1542
+    "confirmed": 1858,
+    "deaths": 30,
+    "recovered": 1591
   },
   "Liberia": {
     "date": "2020-12-23",
