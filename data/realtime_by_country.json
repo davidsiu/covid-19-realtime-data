@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-12-24",
-    "confirmed": 18465880,
+    "confirmed": 18465883,
     "deaths": 326217,
     "recovered": null
   },
@@ -56,7 +56,7 @@
   "Germany": {
     "date": "2020-12-24",
     "confirmed": 1604129,
-    "deaths": 28909,
+    "deaths": 28914,
     "recovered": 1197472
   },
   "Argentina": {
@@ -91,9 +91,9 @@
   },
   "Ukraine": {
     "date": "2020-12-24",
-    "confirmed": 1018199,
-    "deaths": 17823,
-    "recovered": 638265
+    "confirmed": 1029689,
+    "deaths": 18046,
+    "recovered": 654040
   },
   "Peru": {
     "date": "2020-12-24",
@@ -122,8 +122,8 @@
   "Czechia": {
     "date": "2020-12-24",
     "confirmed": 646312,
-    "deaths": 10664,
-    "recovered": 546926
+    "deaths": 10776,
+    "recovered": 552444
   },
   "Belgium": {
     "date": "2020-12-24",
@@ -251,6 +251,12 @@
     "deaths": 2233,
     "recovered": 191968
   },
+  "Japan": {
+    "date": "2020-12-24",
+    "confirmed": 208302,
+    "deaths": 2941,
+    "recovered": 171959
+  },
   "Azerbaijan": {
     "date": "2020-12-24",
     "confirmed": 208211,
@@ -262,12 +268,6 @@
     "confirmed": 207084,
     "deaths": 13962,
     "recovered": 181618
-  },
-  "Japan": {
-    "date": "2020-12-24",
-    "confirmed": 207073,
-    "deaths": 2941,
-    "recovered": 171959
   },
   "Croatia": {
     "date": "2020-12-24",
@@ -566,7 +566,7 @@
   "El Salvador": {
     "date": "2020-12-24",
     "confirmed": 43772,
-    "deaths": 1274,
+    "deaths": 1283,
     "recovered": 39362
   },
   "Sri Lanka": {
