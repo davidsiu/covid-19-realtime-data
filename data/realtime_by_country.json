@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-25",
-    "confirmed": 18696477,
-    "deaths": 329662,
+    "confirmed": 18725322,
+    "deaths": 329792,
     "recovered": null
   },
   "India": {
@@ -25,9 +25,9 @@
   },
   "France": {
     "date": "2020-12-25",
-    "confirmed": 2584471,
-    "deaths": 62389,
-    "recovered": 194836
+    "confirmed": 2604595,
+    "deaths": 62548,
+    "recovered": 195365
   },
   "United Kingdom": {
     "date": "2020-12-25",
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2020-12-25",
-    "confirmed": 1630596,
+    "confirmed": 1631472,
     "deaths": 29389,
     "recovered": 1221208
   },
@@ -541,9 +541,9 @@
   },
   "Kosovo": {
     "date": "2020-12-25",
-    "confirmed": 49440,
-    "deaths": 1274,
-    "recovered": 37192
+    "confirmed": 50135,
+    "deaths": 1298,
+    "recovered": 38658
   },
   "Norway": {
     "date": "2020-12-25",
@@ -691,9 +691,9 @@
   },
   "Maldives": {
     "date": "2020-12-25",
-    "confirmed": 13558,
+    "confirmed": 13583,
     "deaths": 48,
-    "recovered": 13011
+    "recovered": 13026
   },
   "Tajikistan": {
     "date": "2020-12-25",
@@ -733,9 +733,9 @@
   },
   "Cuba": {
     "date": "2020-12-25",
-    "confirmed": 10717,
-    "deaths": 139,
-    "recovered": 9378
+    "confirmed": 10900,
+    "deaths": 140,
+    "recovered": 9503
   },
   "Syria": {
     "date": "2020-12-25",
@@ -977,6 +977,12 @@
     "deaths": 1,
     "recovered": 600
   },
+  "Burundi": {
+    "date": "2020-12-25",
+    "confirmed": 786,
+    "deaths": 2,
+    "recovered": 687
+  },
   "Monaco": {
     "date": "2020-12-25",
     "confirmed": 783,
@@ -994,12 +1000,6 @@
     "confirmed": 780,
     "deaths": 7,
     "recovered": 640
-  },
-  "Burundi": {
-    "date": "2020-12-25",
-    "confirmed": 773,
-    "deaths": 2,
-    "recovered": 687
   },
   "Comoros": {
     "date": "2020-12-25",
