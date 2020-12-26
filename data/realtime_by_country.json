@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-26",
-    "confirmed": 18897780,
-    "deaths": 331495,
+    "confirmed": 18902164,
+    "deaths": 331561,
     "recovered": null
   },
   "India": {
@@ -103,9 +103,9 @@
   },
   "South Africa": {
     "date": "2020-12-26",
-    "confirmed": 983359,
-    "deaths": 26276,
-    "recovered": 830251
+    "confirmed": 994911,
+    "deaths": 26521,
+    "recovered": 839194
   },
   "Netherlands": {
     "date": "2020-12-26",
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-12-26",
-    "confirmed": 540718,
-    "deaths": 14767,
-    "recovered": 450449
+    "confirmed": 540931,
+    "deaths": 14769,
+    "recovered": 450669
   },
   "Bangladesh": {
     "date": "2020-12-26",
@@ -187,9 +187,9 @@
   },
   "Israel": {
     "date": "2020-12-26",
-    "confirmed": 398015,
-    "deaths": 3203,
-    "recovered": 359817
+    "confirmed": 398664,
+    "deaths": 3210,
+    "recovered": 359984
   },
   "Sweden": {
     "date": "2020-12-26",
@@ -377,6 +377,12 @@
     "deaths": 1281,
     "recovered": 108118
   },
+  "Tunisia": {
+    "date": "2020-12-26",
+    "confirmed": 130230,
+    "deaths": 4426,
+    "recovered": 99514
+  },
   "Egypt": {
     "date": "2020-12-26",
     "confirmed": 130126,
@@ -389,12 +395,6 @@
     "deaths": 1228,
     "recovered": 61345
   },
-  "Tunisia": {
-    "date": "2020-12-26",
-    "confirmed": 128578,
-    "deaths": 4385,
-    "recovered": 98426
-  },
   "Oman": {
     "date": "2020-12-26",
     "confirmed": 128290,
@@ -403,9 +403,9 @@
   },
   "Ethiopia": {
     "date": "2020-12-26",
-    "confirmed": 121880,
-    "deaths": 1897,
-    "recovered": 107599
+    "confirmed": 122413,
+    "deaths": 1901,
+    "recovered": 108269
   },
   "Burma": {
     "date": "2020-12-26",
@@ -493,9 +493,9 @@
   },
   "North Macedonia": {
     "date": "2020-12-26",
-    "confirmed": 80896,
-    "deaths": 2401,
-    "recovered": 58182
+    "confirmed": 81425,
+    "deaths": 2427,
+    "recovered": 58720
   },
   "Kyrgyzstan": {
     "date": "2020-12-26",
@@ -697,9 +697,9 @@
   },
   "Mauritania": {
     "date": "2020-12-26",
-    "confirmed": 13264,
-    "deaths": 314,
-    "recovered": 9787
+    "confirmed": 13516,
+    "deaths": 321,
+    "recovered": 10065
   },
   "Tajikistan": {
     "date": "2020-12-26",
@@ -709,9 +709,9 @@
   },
   "Zimbabwe": {
     "date": "2020-12-26",
-    "confirmed": 12880,
+    "confirmed": 12963,
     "deaths": 341,
-    "recovered": 10468
+    "recovered": 10519
   },
   "Jamaica": {
     "date": "2020-12-26",
@@ -763,9 +763,15 @@
   },
   "Eswatini": {
     "date": "2020-12-26",
-    "confirmed": 8170,
-    "deaths": 154,
+    "confirmed": 8367,
+    "deaths": 163,
     "recovered": 7016
+  },
+  "Rwanda": {
+    "date": "2020-12-26",
+    "confirmed": 7817,
+    "deaths": 72,
+    "recovered": 6227
   },
   "Bahamas": {
     "date": "2020-12-26",
@@ -779,29 +785,23 @@
     "deaths": 83,
     "recovered": 7203
   },
-  "Rwanda": {
-    "date": "2020-12-26",
-    "confirmed": 7743,
-    "deaths": 69,
-    "recovered": 6203
-  },
   "Trinidad and Tobago": {
     "date": "2020-12-26",
-    "confirmed": 7097,
+    "confirmed": 7104,
     "deaths": 125,
-    "recovered": 6527
+    "recovered": 6545
+  },
+  "Mali": {
+    "date": "2020-12-26",
+    "confirmed": 6574,
+    "deaths": 249,
+    "recovered": 4204
   },
   "Congo (Brazzaville)": {
     "date": "2020-12-26",
     "confirmed": 6571,
     "deaths": 100,
     "recovered": 4988
-  },
-  "Mali": {
-    "date": "2020-12-26",
-    "confirmed": 6488,
-    "deaths": 245,
-    "recovered": 4026
   },
   "Malawi": {
     "date": "2020-12-26",
@@ -943,8 +943,8 @@
   },
   "Chad": {
     "date": "2020-12-26",
-    "confirmed": 1971,
-    "deaths": 102,
+    "confirmed": 1986,
+    "deaths": 103,
     "recovered": 1654
   },
   "Liberia": {
