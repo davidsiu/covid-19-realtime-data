@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-30",
-    "confirmed": 19674100,
-    "deaths": 341059,
+    "confirmed": 19679455,
+    "deaths": 341313,
     "recovered": null
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2020-12-30",
     "confirmed": 7563551,
     "deaths": 192681,
-    "recovered": 6796732
+    "recovered": 6802651
   },
   "Russia": {
     "date": "2020-12-30",
@@ -61,15 +61,15 @@
   },
   "Colombia": {
     "date": "2020-12-30",
-    "confirmed": 1614822,
-    "deaths": 42620,
-    "recovered": 1483017
+    "confirmed": 1626461,
+    "deaths": 42909,
+    "recovered": 1497180
   },
   "Argentina": {
     "date": "2020-12-30",
-    "confirmed": 1602163,
-    "deaths": 43018,
-    "recovered": 1420885
+    "confirmed": 1613928,
+    "deaths": 43163,
+    "recovered": 1426676
   },
   "Mexico": {
     "date": "2020-12-30",
@@ -371,6 +371,12 @@
     "deaths": 4788,
     "recovered": 93764
   },
+  "Tunisia": {
+    "date": "2020-12-30",
+    "confirmed": 137216,
+    "deaths": 4620,
+    "recovered": 104980
+  },
   "Guatemala": {
     "date": "2020-12-30",
     "confirmed": 137166,
@@ -388,12 +394,6 @@
     "confirmed": 135233,
     "deaths": 7520,
     "recovered": 111040
-  },
-  "Tunisia": {
-    "date": "2020-12-30",
-    "confirmed": 134802,
-    "deaths": 4570,
-    "recovered": 104401
   },
   "Oman": {
     "date": "2020-12-30",
@@ -475,9 +475,9 @@
   },
   "Bahrain": {
     "date": "2020-12-30",
-    "confirmed": 92169,
-    "deaths": 351,
-    "recovered": 89804
+    "confirmed": 92425,
+    "deaths": 352,
+    "recovered": 90026
   },
   "Ireland": {
     "date": "2020-12-30",
@@ -595,9 +595,9 @@
   },
   "Australia": {
     "date": "2020-12-30",
-    "confirmed": 28381,
+    "confirmed": 28384,
     "deaths": 909,
-    "recovered": 25757
+    "recovered": 25758
   },
   "Estonia": {
     "date": "2020-12-30",
@@ -665,17 +665,17 @@
     "deaths": 261,
     "recovered": 17228
   },
+  "Angola": {
+    "date": "2020-12-30",
+    "confirmed": 17433,
+    "deaths": 405,
+    "recovered": 10859
+  },
   "Congo (Kinshasa)": {
     "date": "2020-12-30",
     "confirmed": 17376,
     "deaths": 584,
     "recovered": 14658
-  },
-  "Angola": {
-    "date": "2020-12-30",
-    "confirmed": 17371,
-    "deaths": 403,
-    "recovered": 10627
   },
   "Mauritania": {
     "date": "2020-12-30",
@@ -769,9 +769,9 @@
   },
   "Rwanda": {
     "date": "2020-12-30",
-    "confirmed": 8128,
-    "deaths": 79,
-    "recovered": 6339
+    "confirmed": 8250,
+    "deaths": 86,
+    "recovered": 6369
   },
   "Andorra": {
     "date": "2020-12-30",
@@ -979,9 +979,9 @@
   },
   "Monaco": {
     "date": "2020-12-30",
-    "confirmed": 827,
+    "confirmed": 853,
     "deaths": 3,
-    "recovered": 692
+    "recovered": 704
   },
   "Burundi": {
     "date": "2020-12-30",
