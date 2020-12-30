@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2020-12-30",
-    "confirmed": 19515428,
+    "confirmed": 19515430,
     "deaths": 338632,
     "recovered": null
   },
@@ -19,13 +19,13 @@
   },
   "Russia": {
     "date": "2020-12-30",
-    "confirmed": 3073923,
-    "deaths": 55107,
-    "recovered": 2470783
+    "confirmed": 3100018,
+    "deaths": 55692,
+    "recovered": 2499465
   },
   "France": {
     "date": "2020-12-30",
-    "confirmed": 2631110,
+    "confirmed": 2631111,
     "deaths": 64204,
     "recovered": 197727
   },
@@ -55,9 +55,9 @@
   },
   "Germany": {
     "date": "2020-12-30",
-    "confirmed": 1692109,
+    "confirmed": 1695364,
     "deaths": 32267,
-    "recovered": 1319757
+    "recovered": 1320048
   },
   "Colombia": {
     "date": "2020-12-30",
@@ -91,9 +91,9 @@
   },
   "Ukraine": {
     "date": "2020-12-30",
-    "confirmed": 1076462,
-    "deaths": 19044,
-    "recovered": 707235
+    "confirmed": 1076880,
+    "deaths": 19058,
+    "recovered": 724143
   },
   "South Africa": {
     "date": "2020-12-30",
@@ -223,9 +223,9 @@
   },
   "Hungary": {
     "date": "2020-12-30",
-    "confirmed": 317571,
-    "deaths": 9292,
-    "recovered": 138365
+    "confirmed": 319543,
+    "deaths": 9429,
+    "recovered": 144234
   },
   "Jordan": {
     "date": "2020-12-30",
@@ -247,8 +247,8 @@
   },
   "Japan": {
     "date": "2020-12-30",
-    "confirmed": 228562,
-    "deaths": 3198,
+    "confirmed": 229087,
+    "deaths": 3215,
     "recovered": 186790
   },
   "Georgia": {
@@ -325,9 +325,9 @@
   },
   "Denmark": {
     "date": "2020-12-30",
-    "confirmed": 159074,
+    "confirmed": 159075,
     "deaths": 1226,
-    "recovered": 119281
+    "recovered": 119282
   },
   "Armenia": {
     "date": "2020-12-30",
@@ -359,6 +359,12 @@
     "deaths": 2934,
     "recovered": 128501
   },
+  "Lithuania": {
+    "date": "2020-12-30",
+    "confirmed": 138219,
+    "deaths": 1422,
+    "recovered": 66485
+  },
   "Greece": {
     "date": "2020-12-30",
     "confirmed": 136976,
@@ -388,12 +394,6 @@
     "confirmed": 134802,
     "deaths": 4570,
     "recovered": 104401
-  },
-  "Lithuania": {
-    "date": "2020-12-30",
-    "confirmed": 134285,
-    "deaths": 1347,
-    "recovered": 66485
   },
   "Oman": {
     "date": "2020-12-30",
