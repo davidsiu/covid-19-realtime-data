@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2020-12-31",
-    "confirmed": 19821487,
-    "deaths": 343818,
+    "confirmed": 19852041,
+    "deaths": 344030,
     "recovered": null
   },
   "India": {
@@ -31,9 +31,9 @@
   },
   "United Kingdom": {
     "date": "2020-12-31",
-    "confirmed": 2496161,
+    "confirmed": 2496204,
     "deaths": 73622,
-    "recovered": 5436
+    "recovered": 5460
   },
   "Turkey": {
     "date": "2020-12-31",
@@ -55,9 +55,9 @@
   },
   "Germany": {
     "date": "2020-12-31",
-    "confirmed": 1742961,
-    "deaths": 33338,
-    "recovered": 1346578
+    "confirmed": 1744049,
+    "deaths": 33495,
+    "recovered": 1350708
   },
   "Colombia": {
     "date": "2020-12-31",
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2020-12-31",
-    "confirmed": 582027,
-    "deaths": 15603,
-    "recovered": 491698
+    "confirmed": 582247,
+    "deaths": 15609,
+    "recovered": 491828
   },
   "Bangladesh": {
     "date": "2020-12-31",
@@ -176,7 +176,7 @@
   "Switzerland": {
     "date": "2020-12-31",
     "confirmed": 452296,
-    "deaths": 7624,
+    "deaths": 7645,
     "recovered": 317600
   },
   "Morocco": {
@@ -613,9 +613,9 @@
   },
   "Namibia": {
     "date": "2020-12-31",
-    "confirmed": 23333,
-    "deaths": 196,
-    "recovered": 19655
+    "confirmed": 23941,
+    "deaths": 205,
+    "recovered": 20076
   },
   "Sudan": {
     "date": "2020-12-31",
@@ -763,9 +763,9 @@
   },
   "Eswatini": {
     "date": "2020-12-31",
-    "confirmed": 9146,
-    "deaths": 184,
-    "recovered": 7062
+    "confirmed": 9358,
+    "deaths": 205,
+    "recovered": 7073
   },
   "Rwanda": {
     "date": "2020-12-31",
@@ -817,9 +817,9 @@
   },
   "Malawi": {
     "date": "2020-12-31",
-    "confirmed": 6471,
+    "confirmed": 6583,
     "deaths": 189,
-    "recovered": 5700
+    "recovered": 5705
   },
   "Guyana": {
     "date": "2020-12-31",
@@ -935,17 +935,17 @@
     "deaths": 39,
     "recovered": 1810
   },
+  "Chad": {
+    "date": "2020-12-31",
+    "confirmed": 2113,
+    "deaths": 104,
+    "recovered": 1704
+  },
   "Yemen": {
     "date": "2020-12-31",
     "confirmed": 2097,
     "deaths": 610,
     "recovered": 1392
-  },
-  "Chad": {
-    "date": "2020-12-31",
-    "confirmed": 2077,
-    "deaths": 104,
-    "recovered": 1703
   },
   "Liberia": {
     "date": "2020-12-31",
@@ -983,6 +983,12 @@
     "deaths": 3,
     "recovered": 704
   },
+  "Comoros": {
+    "date": "2020-12-31",
+    "confirmed": 823,
+    "deaths": 10,
+    "recovered": 705
+  },
   "Burundi": {
     "date": "2020-12-31",
     "confirmed": 818,
@@ -1000,12 +1006,6 @@
     "confirmed": 780,
     "deaths": 9,
     "recovered": 661
-  },
-  "Comoros": {
-    "date": "2020-12-31",
-    "confirmed": 765,
-    "deaths": 9,
-    "recovered": 700
   },
   "Diamond Princess": {
     "date": "2020-12-31",
@@ -1057,7 +1057,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2020-12-31",
-    "confirmed": 158,
+    "confirmed": 159,
     "deaths": 5,
     "recovered": 148
   },
