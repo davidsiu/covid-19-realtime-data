@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-2",
-    "confirmed": 20205931,
-    "deaths": 348617,
+    "confirmed": 20252964,
+    "deaths": 348942,
     "recovered": null
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2021-1-2",
     "confirmed": 7700578,
     "deaths": 195411,
-    "recovered": 6855372
+    "recovered": 6889734
   },
   "Russia": {
     "date": "2021-1-2",
@@ -55,9 +55,9 @@
   },
   "Germany": {
     "date": "2021-1-2",
-    "confirmed": 1773080,
-    "deaths": 34238,
-    "recovered": 1389144
+    "confirmed": 1773099,
+    "deaths": 34247,
+    "recovered": 1389247
   },
   "Colombia": {
     "date": "2021-1-2",
@@ -109,9 +109,9 @@
   },
   "Netherlands": {
     "date": "2021-1-2",
-    "confirmed": 825217,
+    "confirmed": 825240,
     "deaths": 11660,
-    "recovered": 9651
+    "recovered": 9681
   },
   "Indonesia": {
     "date": "2021-1-2",
@@ -151,9 +151,9 @@
   },
   "Canada": {
     "date": "2021-1-2",
-    "confirmed": 588736,
-    "deaths": 15684,
-    "recovered": 496523
+    "confirmed": 589072,
+    "deaths": 15695,
+    "recovered": 496784
   },
   "Bangladesh": {
     "date": "2021-1-2",
@@ -265,8 +265,8 @@
   },
   "Ecuador": {
     "date": "2021-1-2",
-    "confirmed": 213378,
-    "deaths": 14051,
+    "confirmed": 214513,
+    "deaths": 14059,
     "recovered": 184507
   },
   "Croatia": {
@@ -461,6 +461,12 @@
     "deaths": 2762,
     "recovered": 67395
   },
+  "Ireland": {
+    "date": "2021-1-2",
+    "confirmed": 96926,
+    "deaths": 2252,
+    "recovered": 23364
+  },
   "Kenya": {
     "date": "2021-1-2",
     "confirmed": 96678,
@@ -472,12 +478,6 @@
     "confirmed": 96058,
     "deaths": 4784,
     "recovered": 90087
-  },
-  "Ireland": {
-    "date": "2021-1-2",
-    "confirmed": 93532,
-    "deaths": 2248,
-    "recovered": 23364
   },
   "Bahrain": {
     "date": "2021-1-2",
@@ -613,9 +613,9 @@
   },
   "Namibia": {
     "date": "2021-1-2",
-    "confirmed": 24545,
-    "deaths": 208,
-    "recovered": 20727
+    "confirmed": 24654,
+    "deaths": 213,
+    "recovered": 20931
   },
   "Sudan": {
     "date": "2021-1-2",
