@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-5",
-    "confirmed": 20823341,
-    "deaths": 353621,
+    "confirmed": 20823856,
+    "deaths": 353628,
     "recovered": null
   },
   "India": {
@@ -55,8 +55,8 @@
   },
   "Germany": {
     "date": "2021-1-5",
-    "confirmed": 1797858,
-    "deaths": 35750,
+    "confirmed": 1798753,
+    "deaths": 35755,
     "recovered": 1445442
   },
   "Colombia": {
@@ -79,8 +79,8 @@
   },
   "Poland": {
     "date": "2021-1-5",
-    "confirmed": 1322947,
-    "deaths": 29161,
+    "confirmed": 1330543,
+    "deaths": 29502,
     "recovered": 1078892
   },
   "Iran": {
@@ -115,9 +115,9 @@
   },
   "Indonesia": {
     "date": "2021-1-5",
-    "confirmed": 772103,
-    "deaths": 22911,
-    "recovered": 639103
+    "confirmed": 779548,
+    "deaths": 23109,
+    "recovered": 645746
   },
   "Czechia": {
     "date": "2021-1-5",
@@ -157,9 +157,9 @@
   },
   "Bangladesh": {
     "date": "2021-1-5",
-    "confirmed": 516929,
-    "deaths": 7650,
-    "recovered": 461515
+    "confirmed": 517920,
+    "deaths": 7670,
+    "recovered": 462459
   },
   "Pakistan": {
     "date": "2021-1-5",
@@ -181,9 +181,9 @@
   },
   "Israel": {
     "date": "2021-1-5",
-    "confirmed": 450116,
-    "deaths": 3445,
-    "recovered": 391360
+    "confirmed": 451044,
+    "deaths": 3448,
+    "recovered": 391374
   },
   "Morocco": {
     "date": "2021-1-5",
@@ -277,9 +277,9 @@
   },
   "Croatia": {
     "date": "2021-1-5",
-    "confirmed": 213319,
-    "deaths": 4126,
-    "recovered": 203294
+    "confirmed": 214390,
+    "deaths": 4179,
+    "recovered": 204303
   },
   "Kazakhstan": {
     "date": "2021-1-5",
@@ -397,9 +397,15 @@
   },
   "Oman": {
     "date": "2021-1-5",
-    "confirmed": 129584,
+    "confirmed": 129774,
     "deaths": 1502,
-    "recovered": 122372
+    "recovered": 122406
+  },
+  "Slovenia": {
+    "date": "2021-1-5",
+    "confirmed": 128359,
+    "deaths": 2861,
+    "recovered": 104988
   },
   "Burma": {
     "date": "2021-1-5",
@@ -412,12 +418,6 @@
     "confirmed": 125919,
     "deaths": 1950,
     "recovered": 112610
-  },
-  "Slovenia": {
-    "date": "2021-1-5",
-    "confirmed": 125858,
-    "deaths": 2838,
-    "recovered": 103467
   },
   "Honduras": {
     "date": "2021-1-5",
@@ -603,7 +603,7 @@
     "date": "2021-1-5",
     "confirmed": 28523,
     "deaths": 909,
-    "recovered": 25789
+    "recovered": 25790
   },
   "Cameroon": {
     "date": "2021-1-5",
