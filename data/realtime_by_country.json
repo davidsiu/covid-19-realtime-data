@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-8",
-    "confirmed": 21581749,
-    "deaths": 365321,
+    "confirmed": 21585272,
+    "deaths": 365346,
     "recovered": null
   },
   "India": {
@@ -56,7 +56,7 @@
   "Germany": {
     "date": "2021-1-8",
     "confirmed": 1886561,
-    "deaths": 38988,
+    "deaths": 39074,
     "recovered": 1517019
   },
   "Colombia": {
@@ -105,7 +105,7 @@
     "date": "2021-1-8",
     "confirmed": 1022018,
     "deaths": 37925,
-    "recovered": 962566
+    "recovered": 964354
   },
   "Netherlands": {
     "date": "2021-1-8",
@@ -157,9 +157,9 @@
   },
   "Bangladesh": {
     "date": "2021-1-8",
-    "confirmed": 519905,
-    "deaths": 7718,
-    "recovered": 464446
+    "confirmed": 520690,
+    "deaths": 7734,
+    "recovered": 465279
   },
   "Pakistan": {
     "date": "2021-1-8",
@@ -247,9 +247,9 @@
   },
   "Nepal": {
     "date": "2021-1-8",
-    "confirmed": 263605,
-    "deaths": 1903,
-    "recovered": 256644
+    "confirmed": 264159,
+    "deaths": 1909,
+    "recovered": 257229
   },
   "Georgia": {
     "date": "2021-1-8",
@@ -277,9 +277,9 @@
   },
   "Croatia": {
     "date": "2021-1-8",
-    "confirmed": 216848,
-    "deaths": 4266,
-    "recovered": 206310
+    "confirmed": 217946,
+    "deaths": 4304,
+    "recovered": 207848
   },
   "Belarus": {
     "date": "2021-1-8",
@@ -296,7 +296,7 @@
   "Kazakhstan": {
     "date": "2021-1-8",
     "confirmed": 206840,
-    "deaths": 2781,
+    "deaths": 2838,
     "recovered": 181193
   },
   "Lebanon": {
@@ -373,9 +373,9 @@
   },
   "Qatar": {
     "date": "2021-1-8",
-    "confirmed": 145271,
-    "deaths": 245,
-    "recovered": 142314
+    "confirmed": 145466,
+    "deaths": 246,
+    "recovered": 142453
   },
   "West Bank and Gaza": {
     "date": "2021-1-8",
@@ -397,9 +397,15 @@
   },
   "Slovenia": {
     "date": "2021-1-8",
-    "confirmed": 134545,
-    "deaths": 2922,
-    "recovered": 109148
+    "confirmed": 136590,
+    "deaths": 2947,
+    "recovered": 110925
+  },
+  "Malaysia": {
+    "date": "2021-1-8",
+    "confirmed": 131108,
+    "deaths": 537,
+    "recovered": 105431
   },
   "Oman": {
     "date": "2021-1-8",
@@ -412,12 +418,6 @@
     "confirmed": 128772,
     "deaths": 2799,
     "recovered": 112048
-  },
-  "Malaysia": {
-    "date": "2021-1-8",
-    "confirmed": 128465,
-    "deaths": 521,
-    "recovered": 102723
   },
   "Ireland": {
     "date": "2021-1-8",
@@ -543,7 +543,7 @@
     "date": "2021-1-8",
     "confirmed": 53332,
     "deaths": 2257,
-    "recovered": 43291
+    "recovered": 43440
   },
   "Kosovo": {
     "date": "2021-1-8",
@@ -563,6 +563,12 @@
     "deaths": 1398,
     "recovered": 42902
   },
+  "Latvia": {
+    "date": "2021-1-8",
+    "confirmed": 47782,
+    "deaths": 801,
+    "recovered": 34268
+  },
   "Luxembourg": {
     "date": "2021-1-8",
     "confirmed": 47592,
@@ -575,15 +581,9 @@
     "deaths": 222,
     "recovered": 39661
   },
-  "Latvia": {
-    "date": "2021-1-8",
-    "confirmed": 46545,
-    "deaths": 790,
-    "recovered": 34268
-  },
   "Finland": {
     "date": "2021-1-8",
-    "confirmed": 37772,
+    "confirmed": 38068,
     "deaths": 584,
     "recovered": 31000
   },
@@ -649,9 +649,9 @@
   },
   "Senegal": {
     "date": "2021-1-8",
-    "confirmed": 20376,
-    "deaths": 438,
-    "recovered": 17885
+    "confirmed": 20672,
+    "deaths": 446,
+    "recovered": 18016
   },
   "Mozambique": {
     "date": "2021-1-8",
@@ -839,17 +839,17 @@
     "deaths": 166,
     "recovered": 4225
   },
+  "Iceland": {
+    "date": "2021-1-8",
+    "confirmed": 5867,
+    "deaths": 29,
+    "recovered": 5704
+  },
   "Djibouti": {
     "date": "2021-1-8",
     "confirmed": 5857,
     "deaths": 61,
     "recovered": 5766
-  },
-  "Iceland": {
-    "date": "2021-1-8",
-    "confirmed": 5845,
-    "deaths": 29,
-    "recovered": 5690
   },
   "Equatorial Guinea": {
     "date": "2021-1-8",
@@ -997,9 +997,9 @@
   },
   "Taiwan*": {
     "date": "2021-1-8",
-    "confirmed": 822,
+    "confirmed": 825,
     "deaths": 7,
-    "recovered": 708
+    "recovered": 714
   },
   "Papua New Guinea": {
     "date": "2021-1-8",
