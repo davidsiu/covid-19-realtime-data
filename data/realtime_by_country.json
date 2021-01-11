@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-11",
-    "confirmed": 22410294,
-    "deaths": 374342,
+    "confirmed": 22410609,
+    "deaths": 374348,
     "recovered": null
   },
   "India": {
@@ -55,8 +55,8 @@
   },
   "Germany": {
     "date": "2021-1-11",
-    "confirmed": 1934674,
-    "deaths": 40970,
+    "confirmed": 1935366,
+    "deaths": 40971,
     "recovered": 1566927
   },
   "Colombia": {
@@ -211,14 +211,14 @@
   },
   "Saudi Arabia": {
     "date": "2021-1-11",
-    "confirmed": 363809,
+    "confirmed": 363949,
     "deaths": 6295,
     "recovered": 355706
   },
   "Serbia": {
     "date": "2021-1-11",
-    "confirmed": 359689,
-    "deaths": 3582,
+    "confirmed": 361782,
+    "deaths": 3610,
     "recovered": null
   },
   "Hungary": {
@@ -235,7 +235,7 @@
   },
   "Japan": {
     "date": "2021-1-11",
-    "confirmed": 293704,
+    "confirmed": 293706,
     "deaths": 3894,
     "recovered": 222807
   },
@@ -313,9 +313,9 @@
   },
   "Denmark": {
     "date": "2021-1-11",
-    "confirmed": 182161,
+    "confirmed": 183400,
     "deaths": 1598,
-    "recovered": 156348
+    "recovered": 156351
   },
   "Dominican Republic": {
     "date": "2021-1-11",
@@ -422,8 +422,8 @@
   "Burma": {
     "date": "2021-1-11",
     "confirmed": 130604,
-    "deaths": 2846,
-    "recovered": 114049
+    "deaths": 2858,
+    "recovered": 114609
   },
   "Ethiopia": {
     "date": "2021-1-11",
@@ -457,7 +457,7 @@
   },
   "Libya": {
     "date": "2021-1-11",
-    "confirmed": 104745,
+    "confirmed": 105378,
     "deaths": 1589,
     "recovered": 81237
   },
@@ -541,9 +541,9 @@
   },
   "Kosovo": {
     "date": "2021-1-11",
-    "confirmed": 53776,
-    "deaths": 1377,
-    "recovered": 46261
+    "confirmed": 53982,
+    "deaths": 1383,
+    "recovered": 46650
   },
   "Afghanistan": {
     "date": "2021-1-11",
@@ -571,7 +571,7 @@
   },
   "Sri Lanka": {
     "date": "2021-1-11",
-    "confirmed": 48380,
+    "confirmed": 48665,
     "deaths": 232,
     "recovered": 42091
   },
@@ -614,8 +614,8 @@
   "Zambia": {
     "date": "2021-1-11",
     "confirmed": 27728,
-    "deaths": 469,
-    "recovered": 20598
+    "deaths": 471,
+    "recovered": 20781
   },
   "Cyprus": {
     "date": "2021-1-11",
@@ -953,17 +953,17 @@
     "deaths": 83,
     "recovered": 1406
   },
+  "Eritrea": {
+    "date": "2021-1-11",
+    "confirmed": 1556,
+    "deaths": 6,
+    "recovered": 803
+  },
   "Vietnam": {
     "date": "2021-1-11",
     "confirmed": 1515,
     "deaths": 35,
     "recovered": 1361
-  },
-  "Eritrea": {
-    "date": "2021-1-11",
-    "confirmed": 1445,
-    "deaths": 3,
-    "recovered": 740
   },
   "Mongolia": {
     "date": "2021-1-11",
@@ -1007,23 +1007,29 @@
     "deaths": 7,
     "recovered": 726
   },
+  "Bhutan": {
+    "date": "2021-1-11",
+    "confirmed": 825,
+    "deaths": 1,
+    "recovered": 469
+  },
   "Papua New Guinea": {
     "date": "2021-1-11",
     "confirmed": 811,
     "deaths": 9,
     "recovered": 755
   },
-  "Bhutan": {
-    "date": "2021-1-11",
-    "confirmed": 767,
-    "deaths": 0,
-    "recovered": 459
-  },
   "Diamond Princess": {
     "date": "2021-1-11",
     "confirmed": 712,
     "deaths": 13,
     "recovered": 699
+  },
+  "Seychelles": {
+    "date": "2021-1-11",
+    "confirmed": 583,
+    "deaths": 1,
+    "recovered": 317
   },
   "Mauritius": {
     "date": "2021-1-11",
@@ -1049,11 +1055,11 @@
     "deaths": 0,
     "recovered": 374
   },
-  "Seychelles": {
+  "Saint Vincent and the Grenadines": {
     "date": "2021-1-11",
-    "confirmed": 313,
+    "confirmed": 225,
     "deaths": 0,
-    "recovered": 214
+    "recovered": 106
   },
   "Antigua and Barbuda": {
     "date": "2021-1-11",
@@ -1067,17 +1073,11 @@
     "deaths": 3,
     "recovered": 153
   },
-  "Saint Vincent and the Grenadines": {
-    "date": "2021-1-11",
-    "confirmed": 149,
-    "deaths": 0,
-    "recovered": 100
-  },
   "Grenada": {
     "date": "2021-1-11",
-    "confirmed": 127,
-    "deaths": 0,
-    "recovered": 107
+    "confirmed": 132,
+    "deaths": 1,
+    "recovered": 123
   },
   "Dominica": {
     "date": "2021-1-11",
