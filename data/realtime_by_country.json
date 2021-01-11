@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-11",
-    "confirmed": 22529399,
-    "deaths": 375350,
+    "confirmed": 22540969,
+    "deaths": 375373,
     "recovered": null
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2021-1-11",
     "confirmed": 8105790,
     "deaths": 203100,
-    "recovered": 7241539
+    "recovered": 7245875
   },
   "Russia": {
     "date": "2021-1-11",
@@ -25,7 +25,7 @@
   },
   "United Kingdom": {
     "date": "2021-1-11",
-    "confirmed": 3127566,
+    "confirmed": 3127636,
     "deaths": 82096,
     "recovered": 7241
   },
@@ -56,8 +56,8 @@
   "Germany": {
     "date": "2021-1-11",
     "confirmed": 1941116,
-    "deaths": 41169,
-    "recovered": 1571076
+    "deaths": 41266,
+    "recovered": 1571218
   },
   "Colombia": {
     "date": "2021-1-11",
@@ -91,9 +91,9 @@
   },
   "South Africa": {
     "date": "2021-1-11",
-    "confirmed": 1231597,
-    "deaths": 33163,
-    "recovered": 966368
+    "confirmed": 1246643,
+    "deaths": 33579,
+    "recovered": 973265
   },
   "Ukraine": {
     "date": "2021-1-11",
@@ -103,15 +103,15 @@
   },
   "Peru": {
     "date": "2021-1-11",
-    "confirmed": 1033648,
+    "confirmed": 1035184,
     "deaths": 38280,
     "recovered": 969863
   },
   "Netherlands": {
     "date": "2021-1-11",
-    "confirmed": 890540,
+    "confirmed": 890546,
     "deaths": 12512,
-    "recovered": 10975
+    "recovered": 11078
   },
   "Indonesia": {
     "date": "2021-1-11",
@@ -133,9 +133,9 @@
   },
   "Canada": {
     "date": "2021-1-11",
-    "confirmed": 670586,
+    "confirmed": 670817,
     "deaths": 17051,
-    "recovered": 569298
+    "recovered": 569722
   },
   "Belgium": {
     "date": "2021-1-11",
@@ -489,7 +489,7 @@
     "date": "2021-1-11",
     "confirmed": 95558,
     "deaths": 356,
-    "recovered": 92362
+    "recovered": 92645
   },
   "North Macedonia": {
     "date": "2021-1-11",
@@ -647,17 +647,17 @@
     "deaths": 1468,
     "recovered": 13524
   },
+  "Mozambique": {
+    "date": "2021-1-11",
+    "confirmed": 22334,
+    "deaths": 197,
+    "recovered": 17623
+  },
   "Zimbabwe": {
     "date": "2021-1-11",
     "confirmed": 22297,
     "deaths": 528,
     "recovered": 13213
-  },
-  "Mozambique": {
-    "date": "2021-1-11",
-    "confirmed": 21939,
-    "deaths": 197,
-    "recovered": 17623
   },
   "Senegal": {
     "date": "2021-1-11",
@@ -673,9 +673,9 @@
   },
   "Angola": {
     "date": "2021-1-11",
-    "confirmed": 18193,
-    "deaths": 416,
-    "recovered": 13872
+    "confirmed": 18254,
+    "deaths": 420,
+    "recovered": 14825
   },
   "Madagascar": {
     "date": "2021-1-11",
@@ -709,7 +709,7 @@
   },
   "Maldives": {
     "date": "2021-1-11",
-    "confirmed": 14109,
+    "confirmed": 14159,
     "deaths": 49,
     "recovered": 13365
   },
@@ -740,8 +740,8 @@
   "Syria": {
     "date": "2021-1-11",
     "confirmed": 12364,
-    "deaths": 774,
-    "recovered": 6029
+    "deaths": 781,
+    "recovered": 6098
   },
   "Eswatini": {
     "date": "2021-1-11",
@@ -830,8 +830,8 @@
   "Guyana": {
     "date": "2021-1-11",
     "confirmed": 6574,
-    "deaths": 169,
-    "recovered": 6036
+    "deaths": 170,
+    "recovered": 6040
   },
   "Nicaragua": {
     "date": "2021-1-11",
@@ -883,9 +883,9 @@
   },
   "Niger": {
     "date": "2021-1-11",
-    "confirmed": 3877,
-    "deaths": 126,
-    "recovered": 2386
+    "confirmed": 3924,
+    "deaths": 128,
+    "recovered": 2404
   },
   "Gambia": {
     "date": "2021-1-11",
@@ -919,7 +919,7 @@
   },
   "Chad": {
     "date": "2021-1-11",
-    "confirmed": 2537,
+    "confirmed": 2589,
     "deaths": 107,
     "recovered": 1994
   },
@@ -977,21 +977,21 @@
     "deaths": 18,
     "recovered": 860
   },
+  "Monaco": {
+    "date": "2021-1-11",
+    "confirmed": 1070,
+    "deaths": 4,
+    "recovered": 883
+  },
   "Sao Tome and Principe": {
     "date": "2021-1-11",
     "confirmed": 1066,
     "deaths": 17,
     "recovered": 988
   },
-  "Monaco": {
-    "date": "2021-1-11",
-    "confirmed": 1057,
-    "deaths": 4,
-    "recovered": 883
-  },
   "Burundi": {
     "date": "2021-1-11",
-    "confirmed": 986,
+    "confirmed": 1019,
     "deaths": 2,
     "recovered": 773
   },
