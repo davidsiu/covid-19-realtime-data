@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-1-15",
-    "confirmed": 23314238,
+    "confirmed": 23314663,
     "deaths": 388705,
     "recovered": null
   },
@@ -133,9 +133,9 @@
   },
   "Romania": {
     "date": "2021-1-15",
-    "confirmed": 684917,
-    "deaths": 17035,
-    "recovered": 614545
+    "confirmed": 688270,
+    "deaths": 17098,
+    "recovered": 618673
   },
   "Belgium": {
     "date": "2021-1-15",
@@ -229,8 +229,8 @@
   },
   "Japan": {
     "date": "2021-1-15",
-    "confirmed": 317776,
-    "deaths": 4162,
+    "confirmed": 317831,
+    "deaths": 4164,
     "recovered": 238311
   },
   "Jordan": {
@@ -287,17 +287,17 @@
     "deaths": 4550,
     "recovered": 214609
   },
+  "Belarus": {
+    "date": "2021-1-15",
+    "confirmed": 221604,
+    "deaths": 1564,
+    "recovered": 204500
+  },
   "Slovakia": {
     "date": "2021-1-15",
     "confirmed": 220707,
     "deaths": 3362,
     "recovered": 163323
-  },
-  "Belarus": {
-    "date": "2021-1-15",
-    "confirmed": 219663,
-    "deaths": 1554,
-    "recovered": 202446
   },
   "Kazakhstan": {
     "date": "2021-1-15",
@@ -395,6 +395,12 @@
     "deaths": 5387,
     "recovered": 93764
   },
+  "Slovenia": {
+    "date": "2021-1-15",
+    "confirmed": 146956,
+    "deaths": 3121,
+    "recovered": 120894
+  },
   "Guatemala": {
     "date": "2021-1-15",
     "confirmed": 146937,
@@ -403,15 +409,9 @@
   },
   "Qatar": {
     "date": "2021-1-15",
-    "confirmed": 146689,
+    "confirmed": 146885,
     "deaths": 246,
-    "recovered": 143261
-  },
-  "Slovenia": {
-    "date": "2021-1-15",
-    "confirmed": 145472,
-    "deaths": 3093,
-    "recovered": 119149
+    "recovered": 143435
   },
   "Burma": {
     "date": "2021-1-15",
@@ -551,17 +551,17 @@
     "deaths": 740,
     "recovered": 43940
   },
+  "Latvia": {
+    "date": "2021-1-15",
+    "confirmed": 54066,
+    "deaths": 935,
+    "recovered": 40971
+  },
   "Afghanistan": {
     "date": "2021-1-15",
     "confirmed": 53775,
     "deaths": 2314,
     "recovered": 45298
-  },
-  "Latvia": {
-    "date": "2021-1-15",
-    "confirmed": 52982,
-    "deaths": 920,
-    "recovered": 40971
   },
   "Sri Lanka": {
     "date": "2021-1-15",
@@ -584,7 +584,7 @@
   "Finland": {
     "date": "2021-1-15",
     "confirmed": 39911,
-    "deaths": 616,
+    "deaths": 618,
     "recovered": 31000
   },
   "Uganda": {
@@ -703,9 +703,9 @@
   },
   "Malta": {
     "date": "2021-1-15",
-    "confirmed": 15079,
-    "deaths": 235,
-    "recovered": 12250
+    "confirmed": 15272,
+    "deaths": 236,
+    "recovered": 12393
   },
   "Maldives": {
     "date": "2021-1-15",
@@ -847,9 +847,9 @@
   },
   "Iceland": {
     "date": "2021-1-15",
-    "confirmed": 5948,
+    "confirmed": 5956,
     "deaths": 29,
-    "recovered": 5749
+    "recovered": 5767
   },
   "Djibouti": {
     "date": "2021-1-15",
