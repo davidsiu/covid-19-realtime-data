@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-20",
-    "confirmed": 24313076,
-    "deaths": 403482,
+    "confirmed": 24331161,
+    "deaths": 403952,
     "recovered": null
   },
   "India": {
@@ -25,15 +25,15 @@
   },
   "United Kingdom": {
     "date": "2021-1-20",
-    "confirmed": 3515744,
-    "deaths": 93463,
-    "recovered": 8397
+    "confirmed": 3515796,
+    "deaths": 93469,
+    "recovered": 8477
   },
   "France": {
     "date": "2021-1-20",
-    "confirmed": 2996903,
-    "deaths": 71482,
-    "recovered": 217928
+    "confirmed": 3023400,
+    "deaths": 71792,
+    "recovered": 219354
   },
   "Italy": {
     "date": "2021-1-20",
@@ -55,9 +55,9 @@
   },
   "Germany": {
     "date": "2021-1-20",
-    "confirmed": 2088487,
-    "deaths": 49404,
-    "recovered": 1761707
+    "confirmed": 2089094,
+    "deaths": 49499,
+    "recovered": 1761750
   },
   "Colombia": {
     "date": "2021-1-20",
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-1-20",
-    "confirmed": 727464,
-    "deaths": 18333,
-    "recovered": 639177
+    "confirmed": 727717,
+    "deaths": 18340,
+    "recovered": 639387
   },
   "Romania": {
     "date": "2021-1-20",
@@ -343,8 +343,8 @@
   },
   "Ireland": {
     "date": "2021-1-20",
-    "confirmed": 176839,
-    "deaths": 2708,
+    "confirmed": 179324,
+    "deaths": 2768,
     "recovered": 23364
   },
   "Lithuania": {
@@ -793,9 +793,9 @@
   },
   "Andorra": {
     "date": "2021-1-20",
-    "confirmed": 9194,
+    "confirmed": 9308,
     "deaths": 92,
-    "recovered": 8349
+    "recovered": 8399
   },
   "Bahamas": {
     "date": "2021-1-20",
@@ -947,6 +947,12 @@
     "deaths": 612,
     "recovered": 1422
   },
+  "Comoros": {
+    "date": "2021-1-20",
+    "confirmed": 1933,
+    "deaths": 54,
+    "recovered": 1210
+  },
   "Eritrea": {
     "date": "2021-1-20",
     "confirmed": 1910,
@@ -958,12 +964,6 @@
     "confirmed": 1901,
     "deaths": 84,
     "recovered": 1714
-  },
-  "Comoros": {
-    "date": "2021-1-20",
-    "confirmed": 1864,
-    "deaths": 51,
-    "recovered": 1144
   },
   "Mongolia": {
     "date": "2021-1-20",
@@ -1025,17 +1025,17 @@
     "deaths": 2,
     "recovered": 601
   },
+  "Saint Lucia": {
+    "date": "2021-1-20",
+    "confirmed": 713,
+    "deaths": 8,
+    "recovered": 344
+  },
   "Diamond Princess": {
     "date": "2021-1-20",
     "confirmed": 712,
     "deaths": 13,
     "recovered": 699
-  },
-  "Saint Lucia": {
-    "date": "2021-1-20",
-    "confirmed": 656,
-    "deaths": 8,
-    "recovered": 336
   },
   "Saint Vincent and the Grenadines": {
     "date": "2021-1-20",
