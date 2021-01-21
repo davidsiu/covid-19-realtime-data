@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-21",
-    "confirmed": 24502349,
-    "deaths": 407653,
+    "confirmed": 24538028,
+    "deaths": 408011,
     "recovered": null
   },
   "India": {
@@ -31,9 +31,15 @@
   },
   "France": {
     "date": "2021-1-21",
-    "confirmed": 3023785,
-    "deaths": 71792,
-    "recovered": 219354
+    "confirmed": 3046248,
+    "deaths": 72138,
+    "recovered": 220650
+  },
+  "Spain": {
+    "date": "2021-1-21",
+    "confirmed": 2456675,
+    "deaths": 55041,
+    "recovered": 150376
   },
   "Italy": {
     "date": "2021-1-21",
@@ -47,17 +53,11 @@
     "deaths": 24640,
     "recovered": 2290032
   },
-  "Spain": {
-    "date": "2021-1-21",
-    "confirmed": 2412318,
-    "deaths": 55041,
-    "recovered": 150376
-  },
   "Germany": {
     "date": "2021-1-21",
-    "confirmed": 2107906,
+    "confirmed": 2108420,
     "deaths": 50381,
-    "recovered": 1782473
+    "recovered": 1782548
   },
   "Colombia": {
     "date": "2021-1-21",
@@ -85,9 +85,9 @@
   },
   "South Africa": {
     "date": "2021-1-21",
-    "confirmed": 1369426,
-    "deaths": 38854,
-    "recovered": 1160412
+    "confirmed": 1380807,
+    "deaths": 39501,
+    "recovered": 1183443
   },
   "Iran": {
     "date": "2021-1-21",
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-1-21",
-    "confirmed": 733577,
-    "deaths": 18451,
-    "recovered": 646832
+    "confirmed": 733805,
+    "deaths": 18456,
+    "recovered": 646980
   },
   "Romania": {
     "date": "2021-1-21",
@@ -343,8 +343,8 @@
   },
   "Ireland": {
     "date": "2021-1-21",
-    "confirmed": 179324,
-    "deaths": 2768,
+    "confirmed": 181922,
+    "deaths": 2818,
     "recovered": 23364
   },
   "Lithuania": {
@@ -985,9 +985,9 @@
   },
   "Monaco": {
     "date": "2021-1-21",
-    "confirmed": 1262,
+    "confirmed": 1287,
     "deaths": 9,
-    "recovered": 1050
+    "recovered": 1058
   },
   "Sao Tome and Principe": {
     "date": "2021-1-21",
@@ -1027,9 +1027,9 @@
   },
   "Saint Lucia": {
     "date": "2021-1-21",
-    "confirmed": 713,
-    "deaths": 8,
-    "recovered": 344
+    "confirmed": 718,
+    "deaths": 9,
+    "recovered": 354
   },
   "Diamond Princess": {
     "date": "2021-1-21",
