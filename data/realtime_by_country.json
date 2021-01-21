@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-21",
-    "confirmed": 24570340,
-    "deaths": 408877,
+    "confirmed": 24588373,
+    "deaths": 409148,
     "recovered": null
   },
   "India": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-1-21",
-    "confirmed": 2108870,
+    "confirmed": 2108895,
     "deaths": 50381,
     "recovered": 1782548
   },
@@ -63,7 +63,7 @@
     "date": "2021-1-21",
     "confirmed": 1956979,
     "deaths": 49792,
-    "recovered": 1786170
+    "recovered": 1801134
   },
   "Argentina": {
     "date": "2021-1-21",
@@ -617,6 +617,12 @@
     "deaths": 310,
     "recovered": 29230
   },
+  "Mozambique": {
+    "date": "2021-1-21",
+    "confirmed": 30225,
+    "deaths": 283,
+    "recovered": 19510
+  },
   "Cyprus": {
     "date": "2021-1-21",
     "confirmed": 29472,
@@ -629,17 +635,11 @@
     "deaths": 879,
     "recovered": 19253
   },
-  "Mozambique": {
-    "date": "2021-1-21",
-    "confirmed": 29396,
-    "deaths": 271,
-    "recovered": 19484
-  },
   "Australia": {
     "date": "2021-1-21",
-    "confirmed": 28750,
+    "confirmed": 28751,
     "deaths": 909,
-    "recovered": 25956
+    "recovered": 25960
   },
   "Cameroon": {
     "date": "2021-1-21",
@@ -655,9 +655,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2021-1-21",
-    "confirmed": 25597,
+    "confirmed": 25751,
     "deaths": 142,
-    "recovered": 23867
+    "recovered": 24119
   },
   "Senegal": {
     "date": "2021-1-21",
@@ -710,7 +710,7 @@
   "Malawi": {
     "date": "2021-1-21",
     "confirmed": 16049,
-    "deaths": 353,
+    "deaths": 396,
     "recovered": 6314
   },
   "Maldives": {
@@ -751,9 +751,9 @@
   },
   "Cabo Verde": {
     "date": "2021-1-21",
-    "confirmed": 13224,
-    "deaths": 121,
-    "recovered": 12400
+    "confirmed": 13307,
+    "deaths": 122,
+    "recovered": 12517
   },
   "Thailand": {
     "date": "2021-1-21",
@@ -835,9 +835,9 @@
   },
   "Guyana": {
     "date": "2021-1-21",
-    "confirmed": 7015,
+    "confirmed": 7067,
     "deaths": 170,
-    "recovered": 6266
+    "recovered": 6277
   },
   "Nicaragua": {
     "date": "2021-1-21",
