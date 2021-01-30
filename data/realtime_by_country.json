@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-30",
-    "confirmed": 25907343,
-    "deaths": 436257,
+    "confirmed": 25909336,
+    "deaths": 436541,
     "recovered": null
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2021-1-30",
     "confirmed": 9118513,
     "deaths": 222666,
-    "recovered": 8061710
+    "recovered": 8062503
   },
   "United Kingdom": {
     "date": "2021-1-30",
@@ -291,7 +291,7 @@
     "date": "2021-1-30",
     "confirmed": 231716,
     "deaths": 3040,
-    "recovered": 201105
+    "recovered": 202557
   },
   "Croatia": {
     "date": "2021-1-30",
@@ -313,9 +313,9 @@
   },
   "Bolivia": {
     "date": "2021-1-30",
-    "confirmed": 210726,
-    "deaths": 10226,
-    "recovered": 155722
+    "confirmed": 213392,
+    "deaths": 10279,
+    "recovered": 157263
   },
   "Dominican Republic": {
     "date": "2021-1-30",
@@ -487,9 +487,9 @@
   },
   "China": {
     "date": "2021-1-30",
-    "confirmed": 99798,
+    "confirmed": 99833,
     "deaths": 4814,
-    "recovered": 92304
+    "recovered": 92320
   },
   "North Macedonia": {
     "date": "2021-1-30",
@@ -511,9 +511,9 @@
   },
   "Korea, South": {
     "date": "2021-1-30",
-    "confirmed": 77395,
-    "deaths": 1399,
-    "recovered": 66503
+    "confirmed": 77850,
+    "deaths": 1414,
+    "recovered": 67121
   },
   "Albania": {
     "date": "2021-1-30",
@@ -943,9 +943,9 @@
   },
   "New Zealand": {
     "date": "2021-1-30",
-    "confirmed": 2305,
+    "confirmed": 2303,
     "deaths": 25,
-    "recovered": 2208
+    "recovered": 2207
   },
   "Eritrea": {
     "date": "2021-1-30",
@@ -1001,23 +1001,29 @@
     "deaths": 17,
     "recovered": 1019
   },
-  "Seychelles": {
-    "date": "2021-1-30",
-    "confirmed": 1149,
-    "deaths": 3,
-    "recovered": 854
-  },
   "Saint Lucia": {
     "date": "2021-1-30",
-    "confirmed": 1106,
+    "confirmed": 1195,
     "deaths": 13,
-    "recovered": 586
+    "recovered": 618
+  },
+  "Seychelles": {
+    "date": "2021-1-30",
+    "confirmed": 1162,
+    "deaths": 3,
+    "recovered": 928
   },
   "Taiwan*": {
     "date": "2021-1-30",
     "confirmed": 899,
     "deaths": 7,
     "recovered": 813
+  },
+  "Saint Vincent and the Grenadines": {
+    "date": "2021-1-30",
+    "confirmed": 896,
+    "deaths": 2,
+    "recovered": 232
   },
   "Bhutan": {
     "date": "2021-1-30",
@@ -1030,12 +1036,6 @@
     "confirmed": 851,
     "deaths": 9,
     "recovered": 812
-  },
-  "Saint Vincent and the Grenadines": {
-    "date": "2021-1-30",
-    "confirmed": 827,
-    "deaths": 2,
-    "recovered": 174
   },
   "Diamond Princess": {
     "date": "2021-1-30",
