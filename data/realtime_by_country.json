@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-1-30",
-    "confirmed": 25935182,
-    "deaths": 436841,
+    "confirmed": 25942141,
+    "deaths": 436988,
     "recovered": null
   },
   "India": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-1-30",
-    "confirmed": 2211111,
+    "confirmed": 2211966,
     "deaths": 56797,
     "recovered": 1928813
   },
@@ -115,8 +115,8 @@
   },
   "Netherlands": {
     "date": "2021-1-30",
-    "confirmed": 984120,
-    "deaths": 13981,
+    "confirmed": 988293,
+    "deaths": 14068,
     "recovered": 12789
   },
   "Czechia": {
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-1-30",
-    "confirmed": 774925,
-    "deaths": 19801,
-    "recovered": 701306
+    "confirmed": 775515,
+    "deaths": 19824,
+    "recovered": 702099
   },
   "Romania": {
     "date": "2021-1-30",
@@ -143,17 +143,17 @@
     "deaths": 18257,
     "recovered": 673582
   },
+  "Portugal": {
+    "date": "2021-1-30",
+    "confirmed": 711018,
+    "deaths": 12179,
+    "recovered": 518900
+  },
   "Belgium": {
     "date": "2021-1-30",
     "confirmed": 705120,
     "deaths": 21018,
     "recovered": null
-  },
-  "Portugal": {
-    "date": "2021-1-30",
-    "confirmed": 698583,
-    "deaths": 11886,
-    "recovered": 504886
   },
   "Israel": {
     "date": "2021-1-30",
@@ -383,6 +383,12 @@
     "deaths": 959,
     "recovered": 157404
   },
+  "Guatemala": {
+    "date": "2021-1-30",
+    "confirmed": 159118,
+    "deaths": 5618,
+    "recovered": 143871
+  },
   "Moldova": {
     "date": "2021-1-30",
     "confirmed": 158860,
@@ -394,12 +400,6 @@
     "confirmed": 158559,
     "deaths": 1831,
     "recovered": 148583
-  },
-  "Guatemala": {
-    "date": "2021-1-30",
-    "confirmed": 158336,
-    "deaths": 5582,
-    "recovered": 143065
   },
   "Greece": {
     "date": "2021-1-30",
@@ -421,9 +421,9 @@
   },
   "Burma": {
     "date": "2021-1-30",
-    "confirmed": 139515,
-    "deaths": 3115,
-    "recovered": 124064
+    "confirmed": 139864,
+    "deaths": 3125,
+    "recovered": 124441
   },
   "Ethiopia": {
     "date": "2021-1-30",
@@ -667,9 +667,9 @@
   },
   "Cuba": {
     "date": "2021-1-30",
-    "confirmed": 24764,
-    "deaths": 210,
-    "recovered": 19613
+    "confirmed": 25674,
+    "deaths": 213,
+    "recovered": 20310
   },
   "Malawi": {
     "date": "2021-1-30",
@@ -853,7 +853,7 @@
   },
   "Djibouti": {
     "date": "2021-1-30",
-    "confirmed": 5930,
+    "confirmed": 5931,
     "deaths": 62,
     "recovered": 5845
   },
