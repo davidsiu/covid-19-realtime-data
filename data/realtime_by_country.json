@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-2-1",
-    "confirmed": 26201301,
-    "deaths": 441454,
+    "confirmed": 26215984,
+    "deaths": 441722,
     "recovered": null
   },
   "India": {
@@ -37,8 +37,8 @@
   },
   "Spain": {
     "date": "2021-2-1",
-    "confirmed": 2743119,
-    "deaths": 58319,
+    "confirmed": 2822805,
+    "deaths": 59081,
     "recovered": 150376
   },
   "Italy": {
@@ -49,13 +49,13 @@
   },
   "Turkey": {
     "date": "2021-2-1",
-    "confirmed": 2477463,
-    "deaths": 25993,
-    "recovered": 2362415
+    "confirmed": 2485182,
+    "deaths": 26117,
+    "recovered": 2370431
   },
   "Germany": {
     "date": "2021-2-1",
-    "confirmed": 2231502,
+    "confirmed": 2232054,
     "deaths": 57411,
     "recovered": 1951889
   },
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-2-1",
-    "confirmed": 783895,
+    "confirmed": 784178,
     "deaths": 20051,
-    "recovered": 711392
+    "recovered": 711833
   },
   "Chile": {
     "date": "2021-2-1",
@@ -157,9 +157,9 @@
   },
   "Israel": {
     "date": "2021-2-1",
-    "confirmed": 647237,
-    "deaths": 4808,
-    "recovered": 572925
+    "confirmed": 651405,
+    "deaths": 4813,
+    "recovered": 572975
   },
   "Iraq": {
     "date": "2021-2-1",
@@ -253,8 +253,8 @@
   },
   "Lebanon": {
     "date": "2021-2-1",
-    "confirmed": 301052,
-    "deaths": 3082,
+    "confirmed": 303072,
+    "deaths": 3145,
     "recovered": 180877
   },
   "Nepal": {
@@ -535,8 +535,8 @@
   },
   "Sri Lanka": {
     "date": "2021-2-1",
-    "confirmed": 64505,
-    "deaths": 316,
+    "confirmed": 64983,
+    "deaths": 323,
     "recovered": 58075
   },
   "Norway": {
@@ -607,9 +607,9 @@
   },
   "Uganda": {
     "date": "2021-2-1",
-    "confirmed": 39579,
-    "deaths": 324,
-    "recovered": 14179
+    "confirmed": 39606,
+    "deaths": 325,
+    "recovered": 14229
   },
   "Mozambique": {
     "date": "2021-2-1",
@@ -721,21 +721,21 @@
   },
   "Maldives": {
     "date": "2021-2-1",
-    "confirmed": 15841,
+    "confirmed": 16056,
     "deaths": 52,
-    "recovered": 14139
+    "recovered": 14190
+  },
+  "Eswatini": {
+    "date": "2021-2-1",
+    "confirmed": 15804,
+    "deaths": 574,
+    "recovered": 10650
   },
   "Jamaica": {
     "date": "2021-2-1",
     "confirmed": 15778,
     "deaths": 352,
     "recovered": 12068
-  },
-  "Eswatini": {
-    "date": "2021-2-1",
-    "confirmed": 15711,
-    "deaths": 565,
-    "recovered": 10478
   },
   "Rwanda": {
     "date": "2021-2-1",
