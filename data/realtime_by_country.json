@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-2-4",
-    "confirmed": 26543209,
-    "deaths": 450200,
+    "confirmed": 26545905,
+    "deaths": 450273,
     "recovered": null
   },
   "India": {
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2021-2-4",
-    "confirmed": 9283418,
-    "deaths": 226309,
+    "confirmed": 9339420,
+    "deaths": 227563,
     "recovered": 8310683
   },
   "United Kingdom": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-2-4",
-    "confirmed": 2252489,
+    "confirmed": 2252504,
     "deaths": 59310,
     "recovered": 1989309
   },
@@ -241,9 +241,9 @@
   },
   "Panama": {
     "date": "2021-2-4",
-    "confirmed": 322201,
-    "deaths": 5339,
-    "recovered": 280827
+    "confirmed": 323382,
+    "deaths": 5366,
+    "recovered": 283298
   },
   "United Arab Emirates": {
     "date": "2021-2-4",
@@ -365,6 +365,12 @@
     "deaths": 3564,
     "recovered": 149385
   },
+  "Egypt": {
+    "date": "2021-2-4",
+    "confirmed": 167525,
+    "deaths": 9460,
+    "recovered": 130912
+  },
   "Armenia": {
     "date": "2021-2-4",
     "confirmed": 167421,
@@ -376,12 +382,6 @@
     "confirmed": 167410,
     "deaths": 961,
     "recovered": 159543
-  },
-  "Egypt": {
-    "date": "2021-2-4",
-    "confirmed": 167013,
-    "deaths": 9407,
-    "recovered": 130514
   },
   "Moldova": {
     "date": "2021-2-4",
@@ -445,9 +445,9 @@
   },
   "Nigeria": {
     "date": "2021-2-4",
-    "confirmed": 133552,
-    "deaths": 1613,
-    "recovered": 107551
+    "confirmed": 134690,
+    "deaths": 1618,
+    "recovered": 108657
   },
   "Venezuela": {
     "date": "2021-2-4",
@@ -469,15 +469,15 @@
   },
   "Algeria": {
     "date": "2021-2-4",
-    "confirmed": 107841,
-    "deaths": 2898,
-    "recovered": 73732
+    "confirmed": 108116,
+    "deaths": 2900,
+    "recovered": 73940
   },
   "Bahrain": {
     "date": "2021-2-4",
-    "confirmed": 104239,
+    "confirmed": 104792,
     "deaths": 376,
-    "recovered": 99285
+    "recovered": 99527
   },
   "Kenya": {
     "date": "2021-2-4",
@@ -487,9 +487,9 @@
   },
   "China": {
     "date": "2021-2-4",
-    "confirmed": 100196,
-    "deaths": 4820,
-    "recovered": 93171
+    "confirmed": 100199,
+    "deaths": 4821,
+    "recovered": 93173
   },
   "North Macedonia": {
     "date": "2021-2-4",
@@ -541,7 +541,7 @@
   },
   "Norway": {
     "date": "2021-2-4",
-    "confirmed": 63745,
+    "confirmed": 63839,
     "deaths": 574,
     "recovered": 17998
   },
@@ -601,15 +601,15 @@
   },
   "Uruguay": {
     "date": "2021-2-4",
-    "confirmed": 42667,
-    "deaths": 453,
-    "recovered": 36178
+    "confirmed": 43215,
+    "deaths": 464,
+    "recovered": 36820
   },
   "Mozambique": {
     "date": "2021-2-4",
-    "confirmed": 40260,
-    "deaths": 403,
-    "recovered": 25010
+    "confirmed": 41433,
+    "deaths": 415,
+    "recovered": 25485
   },
   "Uganda": {
     "date": "2021-2-4",
@@ -631,8 +631,8 @@
   },
   "Cyprus": {
     "date": "2021-2-4",
-    "confirmed": 31124,
-    "deaths": 202,
+    "confirmed": 31263,
+    "deaths": 203,
     "recovered": 2057
   },
   "Cameroon": {
@@ -644,8 +644,8 @@
   "Sudan": {
     "date": "2021-2-4",
     "confirmed": 29536,
-    "deaths": 1829,
-    "recovered": 21614
+    "deaths": 1830,
+    "recovered": 21695
   },
   "Cuba": {
     "date": "2021-2-4",
@@ -655,7 +655,7 @@
   },
   "Australia": {
     "date": "2021-2-4",
-    "confirmed": 28832,
+    "confirmed": 28835,
     "deaths": 909,
     "recovered": 26075
   },
@@ -749,17 +749,17 @@
     "deaths": 83,
     "recovered": 14228
   },
+  "Cabo Verde": {
+    "date": "2021-2-4",
+    "confirmed": 14214,
+    "deaths": 135,
+    "recovered": 13401
+  },
   "Syria": {
     "date": "2021-2-4",
     "confirmed": 14202,
     "deaths": 933,
     "recovered": 7807
-  },
-  "Cabo Verde": {
-    "date": "2021-2-4",
-    "confirmed": 14152,
-    "deaths": 134,
-    "recovered": 13335
   },
   "Tajikistan": {
     "date": "2021-2-4",
@@ -865,9 +865,9 @@
   },
   "Togo": {
     "date": "2021-2-4",
-    "confirmed": 5166,
+    "confirmed": 5224,
     "deaths": 79,
-    "recovered": 4352
+    "recovered": 4380
   },
   "Central African Republic": {
     "date": "2021-2-4",
