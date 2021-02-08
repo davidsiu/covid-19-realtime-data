@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-2-8",
-    "confirmed": 27064922,
-    "deaths": 464470,
+    "confirmed": 27074482,
+    "deaths": 464747,
     "recovered": null
   },
   "India": {
@@ -51,19 +51,19 @@
     "date": "2021-2-8",
     "confirmed": 2539559,
     "deaths": 26900,
-    "recovered": 2449273
+    "recovered": 2429273
   },
   "Germany": {
     "date": "2021-2-8",
-    "confirmed": 2296203,
+    "confirmed": 2296323,
     "deaths": 61873,
     "recovered": 2054340
   },
   "Colombia": {
     "date": "2021-2-8",
-    "confirmed": 2157216,
-    "deaths": 55993,
-    "recovered": 2027333
+    "confirmed": 2161462,
+    "deaths": 56290,
+    "recovered": 2034228
   },
   "Argentina": {
     "date": "2021-2-8",
@@ -283,8 +283,8 @@
   },
   "Ecuador": {
     "date": "2021-2-8",
-    "confirmed": 258282,
-    "deaths": 15012,
+    "confirmed": 258607,
+    "deaths": 15013,
     "recovered": 220398
   },
   "Malaysia": {
@@ -475,9 +475,9 @@
   },
   "Bahrain": {
     "date": "2021-2-8",
-    "confirmed": 107329,
-    "deaths": 380,
-    "recovered": 101168
+    "confirmed": 108048,
+    "deaths": 383,
+    "recovered": 101629
   },
   "Kenya": {
     "date": "2021-2-8",
@@ -649,9 +649,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2021-2-8",
-    "confirmed": 29825,
-    "deaths": 162,
-    "recovered": 27981
+    "confirmed": 29967,
+    "deaths": 165,
+    "recovered": 28186
   },
   "Sudan": {
     "date": "2021-2-8",
@@ -669,13 +669,19 @@
     "date": "2021-2-8",
     "confirmed": 28857,
     "deaths": 909,
-    "recovered": 26089
+    "recovered": 26095
   },
   "Malawi": {
     "date": "2021-2-8",
-    "confirmed": 27195,
-    "deaths": 856,
-    "recovered": 11596
+    "confirmed": 27422,
+    "deaths": 874,
+    "recovered": 11756
+  },
+  "Botswana": {
+    "date": "2021-2-8",
+    "confirmed": 24435,
+    "deaths": 179,
+    "recovered": 20542
   },
   "Congo (Kinshasa)": {
     "date": "2021-2-8",
@@ -688,12 +694,6 @@
     "confirmed": 23557,
     "deaths": 79,
     "recovered": 17410
-  },
-  "Botswana": {
-    "date": "2021-2-8",
-    "confirmed": 23503,
-    "deaths": 163,
-    "recovered": 19574
   },
   "Angola": {
     "date": "2021-2-8",
@@ -733,9 +733,9 @@
   },
   "Rwanda": {
     "date": "2021-2-8",
-    "confirmed": 16451,
-    "deaths": 220,
-    "recovered": 12342
+    "confirmed": 16621,
+    "deaths": 223,
+    "recovered": 12629
   },
   "Eswatini": {
     "date": "2021-2-8",
@@ -751,9 +751,9 @@
   },
   "Syria": {
     "date": "2021-2-8",
-    "confirmed": 14477,
-    "deaths": 952,
-    "recovered": 8134
+    "confirmed": 14551,
+    "deaths": 958,
+    "recovered": 8213
   },
   "Cabo Verde": {
     "date": "2021-2-8",
@@ -837,7 +837,7 @@
     "date": "2021-2-8",
     "confirmed": 7616,
     "deaths": 135,
-    "recovered": 7266
+    "recovered": 7287
   },
   "Nicaragua": {
     "date": "2021-2-8",
@@ -853,9 +853,9 @@
   },
   "Djibouti": {
     "date": "2021-2-8",
-    "confirmed": 5947,
+    "confirmed": 5950,
     "deaths": 63,
-    "recovered": 5852
+    "recovered": 5854
   },
   "Equatorial Guinea": {
     "date": "2021-2-8",
@@ -865,9 +865,9 @@
   },
   "Togo": {
     "date": "2021-2-8",
-    "confirmed": 5483,
+    "confirmed": 5496,
     "deaths": 80,
-    "recovered": 4550
+    "recovered": 4561
   },
   "Central African Republic": {
     "date": "2021-2-8",
@@ -955,7 +955,7 @@
   },
   "Yemen": {
     "date": "2021-2-8",
-    "confirmed": 2127,
+    "confirmed": 2131,
     "deaths": 615,
     "recovered": 1428
   },
@@ -971,17 +971,17 @@
     "deaths": 35,
     "recovered": 1472
   },
+  "Saint Lucia": {
+    "date": "2021-2-8",
+    "confirmed": 2027,
+    "deaths": 19,
+    "recovered": 883
+  },
   "Liberia": {
     "date": "2021-2-8",
     "confirmed": 1956,
     "deaths": 84,
     "recovered": 1770
-  },
-  "Saint Lucia": {
-    "date": "2021-2-8",
-    "confirmed": 1813,
-    "deaths": 18,
-    "recovered": 875
   },
   "Burundi": {
     "date": "2021-2-8",
@@ -997,9 +997,9 @@
   },
   "Monaco": {
     "date": "2021-2-8",
-    "confirmed": 1655,
+    "confirmed": 1665,
     "deaths": 19,
-    "recovered": 1380
+    "recovered": 1403
   },
   "Seychelles": {
     "date": "2021-2-8",
@@ -1063,9 +1063,9 @@
   },
   "Antigua and Barbuda": {
     "date": "2021-2-8",
-    "confirmed": 299,
+    "confirmed": 316,
     "deaths": 7,
-    "recovered": 187
+    "recovered": 189
   },
   "Brunei": {
     "date": "2021-2-8",
