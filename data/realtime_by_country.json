@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-2-19",
-    "confirmed": 27893463,
-    "deaths": 492999,
+    "confirmed": 27895780,
+    "deaths": 493082,
     "recovered": null
   },
   "India": {
@@ -19,9 +19,9 @@
   },
   "United Kingdom": {
     "date": "2021-2-19",
-    "confirmed": 4095181,
+    "confirmed": 4095187,
     "deaths": 119614,
-    "recovered": 11154
+    "recovered": 11160
   },
   "Russia": {
     "date": "2021-2-19",
@@ -73,9 +73,9 @@
   },
   "Mexico": {
     "date": "2021-2-19",
-    "confirmed": 2013563,
-    "deaths": 177061,
-    "recovered": 1571071
+    "confirmed": 2022662,
+    "deaths": 178108,
+    "recovered": 1577838
   },
   "Poland": {
     "date": "2021-2-19",
@@ -297,19 +297,19 @@
     "date": "2021-2-19",
     "confirmed": 253751,
     "deaths": 3144,
-    "recovered": 228479
+    "recovered": 229623
+  },
+  "Bolivia": {
+    "date": "2021-2-19",
+    "confirmed": 239524,
+    "deaths": 11353,
+    "recovered": 182534
   },
   "Croatia": {
     "date": "2021-2-19",
     "confirmed": 238866,
     "deaths": 5399,
     "recovered": 231176
-  },
-  "Bolivia": {
-    "date": "2021-2-19",
-    "confirmed": 238495,
-    "deaths": 11303,
-    "recovered": 181338
   },
   "Bulgaria": {
     "date": "2021-2-19",
@@ -487,9 +487,9 @@
   },
   "China": {
     "date": "2021-2-19",
-    "confirmed": 100683,
+    "confirmed": 100684,
     "deaths": 4833,
-    "recovered": 95028
+    "recovered": 95034
   },
   "North Macedonia": {
     "date": "2021-2-19",
@@ -503,17 +503,17 @@
     "deaths": 1617,
     "recovered": 60675
   },
+  "Korea, South": {
+    "date": "2021-2-19",
+    "confirmed": 86128,
+    "deaths": 1550,
+    "recovered": 76513
+  },
   "Kyrgyzstan": {
     "date": "2021-2-19",
     "confirmed": 85689,
     "deaths": 1447,
     "recovered": 82525
-  },
-  "Korea, South": {
-    "date": "2021-2-19",
-    "confirmed": 85567,
-    "deaths": 1544,
-    "recovered": 75896
   },
   "Uzbekistan": {
     "date": "2021-2-19",
@@ -536,7 +536,7 @@
   "Sri Lanka": {
     "date": "2021-2-19",
     "confirmed": 78420,
-    "deaths": 422,
+    "deaths": 430,
     "recovered": 71823
   },
   "Zambia": {
@@ -675,7 +675,7 @@
     "date": "2021-2-19",
     "confirmed": 28918,
     "deaths": 909,
-    "recovered": 22875
+    "recovered": 22874
   },
   "Botswana": {
     "date": "2021-2-19",
@@ -1063,7 +1063,7 @@
   },
   "Cambodia": {
     "date": "2021-2-19",
-    "confirmed": 483,
+    "confirmed": 484,
     "deaths": 0,
     "recovered": 470
   },
