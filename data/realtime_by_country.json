@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-2-22",
-    "confirmed": 28174133,
-    "deaths": 500071,
+    "confirmed": 28181128,
+    "deaths": 500159,
     "recovered": null
   },
   "India": {
@@ -61,9 +61,9 @@
   },
   "Colombia": {
     "date": "2021-2-22",
-    "confirmed": 2226262,
-    "deaths": 58834,
-    "recovered": 2120366
+    "confirmed": 2229663,
+    "deaths": 58974,
+    "recovered": 2124695
   },
   "Argentina": {
     "date": "2021-2-22",
@@ -751,9 +751,9 @@
   },
   "Syria": {
     "date": "2021-2-22",
-    "confirmed": 15179,
-    "deaths": 998,
-    "recovered": 9221
+    "confirmed": 15230,
+    "deaths": 1001,
+    "recovered": 9307
   },
   "Cabo Verde": {
     "date": "2021-2-22",
@@ -799,9 +799,9 @@
   },
   "Lesotho": {
     "date": "2021-2-22",
-    "confirmed": 10461,
-    "deaths": 285,
-    "recovered": 3312
+    "confirmed": 10466,
+    "deaths": 288,
+    "recovered": 3354
   },
   "Suriname": {
     "date": "2021-2-22",
@@ -857,6 +857,12 @@
     "deaths": 81,
     "recovered": 5323
   },
+  "Somalia": {
+    "date": "2021-2-22",
+    "confirmed": 6246,
+    "deaths": 208,
+    "recovered": 3778
+  },
   "Iceland": {
     "date": "2021-2-22",
     "confirmed": 6049,
@@ -868,12 +874,6 @@
     "confirmed": 6026,
     "deaths": 63,
     "recovered": 5879
-  },
-  "Somalia": {
-    "date": "2021-2-22",
-    "confirmed": 6017,
-    "deaths": 202,
-    "recovered": 3764
   },
   "Equatorial Guinea": {
     "date": "2021-2-22",
@@ -1021,7 +1021,7 @@
   },
   "Papua New Guinea": {
     "date": "2021-2-22",
-    "confirmed": 1029,
+    "confirmed": 1056,
     "deaths": 10,
     "recovered": 846
   },
