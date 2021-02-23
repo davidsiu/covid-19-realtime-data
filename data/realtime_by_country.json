@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-2-23",
-    "confirmed": 28188308,
+    "confirmed": 28188296,
     "deaths": 500236,
     "recovered": null
   },
@@ -15,7 +15,7 @@
     "date": "2021-2-23",
     "confirmed": 10195160,
     "deaths": 247143,
-    "recovered": 9105989
+    "recovered": 9108205
   },
   "United Kingdom": {
     "date": "2021-2-23",
@@ -149,17 +149,17 @@
     "deaths": 19894,
     "recovered": 725526
   },
+  "Belgium": {
+    "date": "2021-2-23",
+    "confirmed": 755594,
+    "deaths": 21923,
+    "recovered": null
+  },
   "Israel": {
     "date": "2021-2-23",
     "confirmed": 754998,
     "deaths": 5596,
     "recovered": 709394
-  },
-  "Belgium": {
-    "date": "2021-2-23",
-    "confirmed": 754473,
-    "deaths": 21903,
-    "recovered": null
   },
   "Iraq": {
     "date": "2021-2-23",
@@ -175,9 +175,9 @@
   },
   "Pakistan": {
     "date": "2021-2-23",
-    "confirmed": 572334,
-    "deaths": 12617,
-    "recovered": 535491
+    "confirmed": 573384,
+    "deaths": 12658,
+    "recovered": 536243
   },
   "Philippines": {
     "date": "2021-2-23",
@@ -295,9 +295,9 @@
   },
   "Kazakhstan": {
     "date": "2021-2-23",
-    "confirmed": 257100,
-    "deaths": 3152,
-    "recovered": 233498
+    "confirmed": 257792,
+    "deaths": 3153,
+    "recovered": 233700
   },
   "Bolivia": {
     "date": "2021-2-23",
@@ -409,9 +409,9 @@
   },
   "Honduras": {
     "date": "2021-2-23",
-    "confirmed": 165095,
-    "deaths": 3996,
-    "recovered": 64678
+    "confirmed": 165737,
+    "deaths": 4024,
+    "recovered": 64781
   },
   "Qatar": {
     "date": "2021-2-23",
@@ -673,9 +673,9 @@
   },
   "Australia": {
     "date": "2021-2-23",
-    "confirmed": 28936,
+    "confirmed": 28937,
     "deaths": 909,
-    "recovered": 22883
+    "recovered": 22885
   },
   "Botswana": {
     "date": "2021-2-23",
@@ -979,7 +979,7 @@
   },
   "New Zealand": {
     "date": "2021-2-23",
-    "confirmed": 2357,
+    "confirmed": 2363,
     "deaths": 26,
     "recovered": 2277
   },
@@ -1049,17 +1049,17 @@
     "deaths": 14,
     "recovered": 222
   },
-  "Cambodia": {
-    "date": "2021-2-23",
-    "confirmed": 603,
-    "deaths": 0,
-    "recovered": 477
-  },
   "Mauritius": {
     "date": "2021-2-23",
     "confirmed": 603,
     "deaths": 10,
     "recovered": 556
+  },
+  "Cambodia": {
+    "date": "2021-2-23",
+    "confirmed": 593,
+    "deaths": 0,
+    "recovered": 475
   },
   "Tanzania": {
     "date": "2021-2-23",
