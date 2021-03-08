@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-3-8",
-    "confirmed": 29004238,
-    "deaths": 525213,
+    "confirmed": 29013283,
+    "deaths": 525312,
     "recovered": null
   },
   "India": {
@@ -31,14 +31,14 @@
   },
   "France": {
     "date": "2021-3-8",
-    "confirmed": 3969405,
-    "deaths": 89086,
+    "confirmed": 3969580,
+    "deaths": 89089,
     "recovered": 272880
   },
   "Spain": {
     "date": "2021-3-8",
-    "confirmed": 3149012,
-    "deaths": 71138,
+    "confirmed": 3160970,
+    "deaths": 71436,
     "recovered": 150376
   },
   "Italy": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-3-8",
-    "confirmed": 2512907,
+    "confirmed": 2513680,
     "deaths": 72053,
     "recovered": 2315310
   },
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-3-8",
-    "confirmed": 893344,
+    "confirmed": 893603,
     "deaths": 22249,
-    "recovered": 840222
+    "recovered": 840434
   },
   "Chile": {
     "date": "2021-3-8",
@@ -151,9 +151,9 @@
   },
   "Israel": {
     "date": "2021-3-8",
-    "confirmed": 803260,
-    "deaths": 5899,
-    "recovered": 759438
+    "confirmed": 804591,
+    "deaths": 5915,
+    "recovered": 761133
   },
   "Belgium": {
     "date": "2021-3-8",
@@ -241,9 +241,9 @@
   },
   "Lebanon": {
     "date": "2021-3-8",
-    "confirmed": 395604,
-    "deaths": 5046,
-    "recovered": 310304
+    "confirmed": 397887,
+    "deaths": 5089,
+    "recovered": 312747
   },
   "Saudi Arabia": {
     "date": "2021-3-8",
@@ -337,7 +337,7 @@
   },
   "Ireland": {
     "date": "2021-3-8",
-    "confirmed": 223219,
+    "confirmed": 223651,
     "deaths": 4422,
     "recovered": 23364
   },
@@ -749,6 +749,12 @@
     "deaths": 95,
     "recovered": 15181
   },
+  "Gabon": {
+    "date": "2021-3-8",
+    "confirmed": 16015,
+    "deaths": 91,
+    "recovered": 14047
+  },
   "Syria": {
     "date": "2021-3-8",
     "confirmed": 15981,
@@ -760,12 +766,6 @@
     "confirmed": 15782,
     "deaths": 154,
     "recovered": 15040
-  },
-  "Gabon": {
-    "date": "2021-3-8",
-    "confirmed": 15625,
-    "deaths": 90,
-    "recovered": 13746
   },
   "Tajikistan": {
     "date": "2021-3-8",
@@ -971,17 +971,17 @@
     "deaths": 54,
     "recovered": 2519
   },
+  "Yemen": {
+    "date": "2021-3-8",
+    "confirmed": 2545,
+    "deaths": 653,
+    "recovered": 1447
+  },
   "Vietnam": {
     "date": "2021-3-8",
     "confirmed": 2524,
     "deaths": 35,
     "recovered": 1920
-  },
-  "Yemen": {
-    "date": "2021-3-8",
-    "confirmed": 2473,
-    "deaths": 651,
-    "recovered": 1446
   },
   "New Zealand": {
     "date": "2021-3-8",
