@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-3-13",
-    "confirmed": 29340202,
-    "deaths": 532326,
+    "confirmed": 29342894,
+    "deaths": 532384,
     "recovered": null
   },
   "Brazil": {
@@ -31,13 +31,13 @@
   },
   "France": {
     "date": "2021-3-13",
-    "confirmed": 4075718,
+    "confirmed": 4075735,
     "deaths": 90207,
     "recovered": 278470
   },
   "Spain": {
     "date": "2021-3-13",
-    "confirmed": 3183990,
+    "confirmed": 3183704,
     "deaths": 72258,
     "recovered": 150376
   },
@@ -253,9 +253,9 @@
   },
   "Panama": {
     "date": "2021-3-13",
-    "confirmed": 346775,
-    "deaths": 5972,
-    "recovered": 334256
+    "confirmed": 347226,
+    "deaths": 5981,
+    "recovered": 334795
   },
   "Slovakia": {
     "date": "2021-3-13",
@@ -355,9 +355,9 @@
   },
   "Costa Rica": {
     "date": "2021-3-13",
-    "confirmed": 207832,
-    "deaths": 2848,
-    "recovered": 188151
+    "confirmed": 209093,
+    "deaths": 2862,
+    "recovered": 188967
   },
   "Kuwait": {
     "date": "2021-3-13",
@@ -401,6 +401,12 @@
     "deaths": 6546,
     "recovered": 167425
   },
+  "Paraguay": {
+    "date": "2021-3-13",
+    "confirmed": 177593,
+    "deaths": 3436,
+    "recovered": 146771
+  },
   "Armenia": {
     "date": "2021-3-13",
     "confirmed": 177104,
@@ -412,12 +418,6 @@
     "confirmed": 176427,
     "deaths": 4311,
     "recovered": 68500
-  },
-  "Paraguay": {
-    "date": "2021-3-13",
-    "confirmed": 175827,
-    "deaths": 3436,
-    "recovered": 146771
   },
   "Ethiopia": {
     "date": "2021-3-13",
@@ -501,7 +501,7 @@
     "date": "2021-3-13",
     "confirmed": 101285,
     "deaths": 4839,
-    "recovered": 95961
+    "recovered": 95962
   },
   "Korea, South": {
     "date": "2021-3-13",
@@ -559,7 +559,7 @@
   },
   "Norway": {
     "date": "2021-3-13",
-    "confirmed": 78571,
+    "confirmed": 78946,
     "deaths": 639,
     "recovered": 17998
   },
@@ -571,7 +571,7 @@
   },
   "Uruguay": {
     "date": "2021-3-13",
-    "confirmed": 67717,
+    "confirmed": 69074,
     "deaths": 689,
     "recovered": 58627
   },
@@ -637,8 +637,8 @@
   },
   "Cyprus": {
     "date": "2021-3-13",
-    "confirmed": 38496,
-    "deaths": 236,
+    "confirmed": 38879,
+    "deaths": 238,
     "recovered": 2057
   },
   "Cote d'Ivoire": {
@@ -739,9 +739,9 @@
   },
   "Mauritania": {
     "date": "2021-3-13",
-    "confirmed": 17394,
+    "confirmed": 17410,
     "deaths": 442,
-    "recovered": 16744
+    "recovered": 16752
   },
   "Eswatini": {
     "date": "2021-3-13",
