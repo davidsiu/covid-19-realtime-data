@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-3-14",
-    "confirmed": 29401277,
-    "deaths": 534315,
+    "confirmed": 29401597,
+    "deaths": 534333,
     "recovered": null
   },
   "Brazil": {
@@ -27,7 +27,7 @@
     "date": "2021-3-14",
     "confirmed": 4267015,
     "deaths": 125701,
-    "recovered": 11950
+    "recovered": 11966
   },
   "France": {
     "date": "2021-3-14",
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-3-14",
-    "confirmed": 2576303,
+    "confirmed": 2576740,
     "deaths": 73420,
     "recovered": 2362350
   },
@@ -121,21 +121,21 @@
   },
   "Netherlands": {
     "date": "2021-3-14",
-    "confirmed": 1166923,
-    "deaths": 16176,
+    "confirmed": 1172897,
+    "deaths": 16199,
     "recovered": 14954
   },
   "Canada": {
     "date": "2021-3-14",
-    "confirmed": 911884,
-    "deaths": 22426,
-    "recovered": 858330
+    "confirmed": 912409,
+    "deaths": 22429,
+    "recovered": 858742
   },
   "Chile": {
     "date": "2021-3-14",
-    "confirmed": 885379,
-    "deaths": 21574,
-    "recovered": 830698
+    "confirmed": 891110,
+    "deaths": 21674,
+    "recovered": 835669
   },
   "Romania": {
     "date": "2021-3-14",
@@ -163,7 +163,7 @@
   },
   "Iraq": {
     "date": "2021-3-14",
-    "confirmed": 754318,
+    "confirmed": 758184,
     "deaths": 13751,
     "recovered": 685770
   },
@@ -248,8 +248,8 @@
   "Saudi Arabia": {
     "date": "2021-3-14",
     "confirmed": 382059,
-    "deaths": 6563,
-    "recovered": 372456
+    "deaths": 6567,
+    "recovered": 372703
   },
   "Panama": {
     "date": "2021-3-14",
@@ -343,7 +343,7 @@
   },
   "Denmark": {
     "date": "2021-3-14",
-    "confirmed": 220610,
+    "confirmed": 221151,
     "deaths": 2392,
     "recovered": 210290
   },
@@ -352,6 +352,12 @@
     "confirmed": 219521,
     "deaths": 7038,
     "recovered": 93764
+  },
+  "West Bank and Gaza": {
+    "date": "2021-3-14",
+    "confirmed": 209304,
+    "deaths": 2268,
+    "recovered": 186278
   },
   "Costa Rica": {
     "date": "2021-3-14",
@@ -364,12 +370,6 @@
     "confirmed": 208460,
     "deaths": 1165,
     "recovered": 192782
-  },
-  "West Bank and Gaza": {
-    "date": "2021-3-14",
-    "confirmed": 207436,
-    "deaths": 2268,
-    "recovered": 186278
   },
   "Lithuania": {
     "date": "2021-3-14",
@@ -973,7 +973,7 @@
   },
   "Liechtenstein": {
     "date": "2021-3-14",
-    "confirmed": 2602,
+    "confirmed": 2612,
     "deaths": 55,
     "recovered": 2519
   },
