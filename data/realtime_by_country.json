@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-3-18",
-    "confirmed": 29607483,
+    "confirmed": 29607487,
     "deaths": 538087,
     "recovered": null
   },
@@ -19,9 +19,9 @@
   },
   "Russia": {
     "date": "2021-3-18",
-    "confirmed": 4368943,
-    "deaths": 91815,
-    "recovered": 3979436
+    "confirmed": 4378656,
+    "deaths": 92266,
+    "recovered": 3991385
   },
   "United Kingdom": {
     "date": "2021-3-18",
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-3-18",
-    "confirmed": 2610769,
+    "confirmed": 2611464,
     "deaths": 74043,
     "recovered": 2387743
   },
@@ -91,15 +91,21 @@
   },
   "Ukraine": {
     "date": "2021-3-18",
-    "confirmed": 1553569,
-    "deaths": 30802,
-    "recovered": 1289729
+    "confirmed": 1553659,
+    "deaths": 30811,
+    "recovered": 1289841
   },
   "South Africa": {
     "date": "2021-3-18",
     "confirmed": 1532497,
     "deaths": 51634,
     "recovered": 1459056
+  },
+  "Czechia": {
+    "date": "2021-3-18",
+    "confirmed": 1439019,
+    "deaths": 24117,
+    "recovered": 1215544
   },
   "Indonesia": {
     "date": "2021-3-18",
@@ -112,12 +118,6 @@
     "confirmed": 1435598,
     "deaths": 49523,
     "recovered": 1347160
-  },
-  "Czechia": {
-    "date": "2021-3-18",
-    "confirmed": 1426991,
-    "deaths": 23902,
-    "recovered": 1215077
   },
   "Netherlands": {
     "date": "2021-3-18",
@@ -146,8 +146,8 @@
   "Israel": {
     "date": "2021-3-18",
     "confirmed": 824178,
-    "deaths": 6057,
-    "recovered": 793723
+    "deaths": 6062,
+    "recovered": 794644
   },
   "Belgium": {
     "date": "2021-3-18",
@@ -175,9 +175,9 @@
   },
   "Philippines": {
     "date": "2021-3-18",
-    "confirmed": 635698,
-    "deaths": 12866,
-    "recovered": 561099
+    "confirmed": 640984,
+    "deaths": 12887,
+    "recovered": 561530
   },
   "Pakistan": {
     "date": "2021-3-18",
@@ -199,9 +199,9 @@
   },
   "Hungary": {
     "date": "2021-3-18",
-    "confirmed": 532578,
-    "deaths": 17421,
-    "recovered": 359061
+    "confirmed": 539080,
+    "deaths": 17628,
+    "recovered": 360895
   },
   "Serbia": {
     "date": "2021-3-18",
@@ -229,8 +229,8 @@
   },
   "Japan": {
     "date": "2021-3-18",
-    "confirmed": 451104,
-    "deaths": 8718,
+    "confirmed": 451206,
+    "deaths": 8719,
     "recovered": 428627
   },
   "United Arab Emirates": {
@@ -379,9 +379,9 @@
   },
   "Lithuania": {
     "date": "2021-3-18",
-    "confirmed": 206889,
-    "deaths": 3427,
-    "recovered": 192484
+    "confirmed": 207469,
+    "deaths": 3442,
+    "recovered": 192922
   },
   "Slovenia": {
     "date": "2021-3-18",
@@ -1033,7 +1033,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2021-3-18",
-    "confirmed": 992,
+    "confirmed": 1008,
     "deaths": 27,
     "recovered": 598
   },
