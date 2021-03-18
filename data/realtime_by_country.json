@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-3-18",
-    "confirmed": 29605519,
+    "confirmed": 29605933,
     "deaths": 538052,
     "recovered": null
   },
@@ -229,7 +229,7 @@
   },
   "Japan": {
     "date": "2021-3-18",
-    "confirmed": 450678,
+    "confirmed": 450687,
     "deaths": 8718,
     "recovered": 428627
   },
@@ -407,6 +407,12 @@
     "deaths": 6619,
     "recovered": 169624
   },
+  "Honduras": {
+    "date": "2021-3-18",
+    "confirmed": 180271,
+    "deaths": 4390,
+    "recovered": 68919
+  },
   "Armenia": {
     "date": "2021-3-18",
     "confirmed": 180141,
@@ -418,12 +424,6 @@
     "confirmed": 179812,
     "deaths": 2592,
     "recovered": 145019
-  },
-  "Honduras": {
-    "date": "2021-3-18",
-    "confirmed": 179515,
-    "deaths": 4373,
-    "recovered": 68892
   },
   "Qatar": {
     "date": "2021-3-18",
@@ -905,17 +905,17 @@
     "deaths": 185,
     "recovered": 4525
   },
+  "Mongolia": {
+    "date": "2021-3-18",
+    "confirmed": 4498,
+    "deaths": 4,
+    "recovered": 3212
+  },
   "Chad": {
     "date": "2021-3-18",
     "confirmed": 4357,
     "deaths": 156,
     "recovered": 3836
-  },
-  "Mongolia": {
-    "date": "2021-3-18",
-    "confirmed": 4340,
-    "deaths": 4,
-    "recovered": 3131
   },
   "San Marino": {
     "date": "2021-3-18",
@@ -1027,9 +1027,9 @@
   },
   "Cambodia": {
     "date": "2021-3-18",
-    "confirmed": 1505,
+    "confirmed": 1541,
     "deaths": 1,
-    "recovered": 840
+    "recovered": 898
   },
   "Antigua and Barbuda": {
     "date": "2021-3-18",
