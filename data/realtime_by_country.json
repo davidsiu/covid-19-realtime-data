@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-3-20",
-    "confirmed": 29726580,
-    "deaths": 541092,
+    "confirmed": 29728104,
+    "deaths": 541096,
     "recovered": null
   },
   "Brazil": {
@@ -31,7 +31,7 @@
   },
   "France": {
     "date": "2021-3-20",
-    "confirmed": 4242065,
+    "confirmed": 4242145,
     "deaths": 91833,
     "recovered": 285055
   },
@@ -73,9 +73,9 @@
   },
   "Mexico": {
     "date": "2021-3-20",
-    "confirmed": 2182188,
-    "deaths": 196606,
-    "recovered": 1724794
+    "confirmed": 2187910,
+    "deaths": 197219,
+    "recovered": 1729269
   },
   "Poland": {
     "date": "2021-3-20",
@@ -181,9 +181,9 @@
   },
   "Pakistan": {
     "date": "2021-3-20",
-    "confirmed": 619259,
-    "deaths": 13757,
-    "recovered": 578314
+    "confirmed": 623135,
+    "deaths": 13799,
+    "recovered": 579760
   },
   "Switzerland": {
     "date": "2021-3-20",
@@ -253,9 +253,9 @@
   },
   "Panama": {
     "date": "2021-3-20",
-    "confirmed": 349505,
-    "deaths": 6025,
-    "recovered": 338181
+    "confirmed": 350220,
+    "deaths": 6035,
+    "recovered": 338745
   },
   "Slovakia": {
     "date": "2021-3-20",
@@ -289,9 +289,9 @@
   },
   "Kazakhstan": {
     "date": "2021-3-20",
-    "confirmed": 279220,
+    "confirmed": 280530,
     "deaths": 3199,
-    "recovered": 255433
+    "recovered": 256252
   },
   "Georgia": {
     "date": "2021-3-20",
@@ -449,17 +449,17 @@
     "deaths": 2487,
     "recovered": 137073
   },
+  "Venezuela": {
+    "date": "2021-3-20",
+    "confirmed": 149145,
+    "deaths": 1475,
+    "recovered": 139731
+  },
   "Oman": {
     "date": "2021-3-20",
     "confirmed": 149135,
     "deaths": 1620,
     "recovered": 137871
-  },
-  "Venezuela": {
-    "date": "2021-3-20",
-    "confirmed": 148208,
-    "deaths": 1467,
-    "recovered": 139314
   },
   "Burma": {
     "date": "2021-3-20",
@@ -499,15 +499,15 @@
   },
   "China": {
     "date": "2021-3-20",
-    "confirmed": 101494,
+    "confirmed": 101498,
     "deaths": 4839,
-    "recovered": 96166
+    "recovered": 96173
   },
   "Korea, South": {
     "date": "2021-3-20",
-    "confirmed": 97757,
-    "deaths": 1690,
-    "recovered": 89523
+    "confirmed": 98209,
+    "deaths": 1693,
+    "recovered": 89949
   },
   "Latvia": {
     "date": "2021-3-20",
@@ -685,7 +685,7 @@
   },
   "Australia": {
     "date": "2021-3-20",
-    "confirmed": 29190,
+    "confirmed": 29192,
     "deaths": 909,
     "recovered": 22965
   },
@@ -857,6 +857,12 @@
     "deaths": 140,
     "recovered": 7552
   },
+  "Benin": {
+    "date": "2021-3-20",
+    "confirmed": 6818,
+    "deaths": 90,
+    "recovered": 5552
+  },
   "Equatorial Guinea": {
     "date": "2021-3-20",
     "confirmed": 6666,
@@ -868,12 +874,6 @@
     "confirmed": 6582,
     "deaths": 176,
     "recovered": 4225
-  },
-  "Benin": {
-    "date": "2021-3-20",
-    "confirmed": 6501,
-    "deaths": 81,
-    "recovered": 5552
   },
   "Djibouti": {
     "date": "2021-3-20",
@@ -1051,7 +1051,7 @@
   },
   "Mauritius": {
     "date": "2021-3-20",
-    "confirmed": 768,
+    "confirmed": 793,
     "deaths": 10,
     "recovered": 592
   },
