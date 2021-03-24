@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-3-24",
-    "confirmed": 29922391,
-    "deaths": 543843,
+    "confirmed": 29922911,
+    "deaths": 543849,
     "recovered": null
   },
   "Brazil": {
@@ -151,7 +151,7 @@
   },
   "Israel": {
     "date": "2021-3-24",
-    "confirmed": 829689,
+    "confirmed": 829832,
     "deaths": 6131,
     "recovered": 809298
   },
@@ -229,9 +229,9 @@
   },
   "Japan": {
     "date": "2021-3-24",
-    "confirmed": 459657,
-    "deaths": 8914,
-    "recovered": 435205
+    "confirmed": 460191,
+    "deaths": 8920,
+    "recovered": 436307
   },
   "Lebanon": {
     "date": "2021-3-24",
@@ -260,7 +260,7 @@
   "Slovakia": {
     "date": "2021-3-24",
     "confirmed": 350551,
-    "deaths": 9190,
+    "deaths": 9261,
     "recovered": 255300
   },
   "Malaysia": {
@@ -509,17 +509,17 @@
     "deaths": 1707,
     "recovered": 91560
   },
+  "Estonia": {
+    "date": "2021-3-24",
+    "confirmed": 99008,
+    "deaths": 823,
+    "recovered": 70913
+  },
   "Latvia": {
     "date": "2021-3-24",
     "confirmed": 98094,
     "deaths": 1840,
     "recovered": 88322
-  },
-  "Estonia": {
-    "date": "2021-3-24",
-    "confirmed": 97456,
-    "deaths": 809,
-    "recovered": 70346
   },
   "Sri Lanka": {
     "date": "2021-3-24",
@@ -563,17 +563,17 @@
     "deaths": 827,
     "recovered": 70372
   },
+  "Kosovo": {
+    "date": "2021-3-24",
+    "confirmed": 83391,
+    "deaths": 1794,
+    "recovered": 69326
+  },
   "Uzbekistan": {
     "date": "2021-3-24",
     "confirmed": 81678,
     "deaths": 623,
     "recovered": 80045
-  },
-  "Kosovo": {
-    "date": "2021-3-24",
-    "confirmed": 80295,
-    "deaths": 1752,
-    "recovered": 67268
   },
   "Finland": {
     "date": "2021-3-24",
@@ -595,9 +595,9 @@
   },
   "El Salvador": {
     "date": "2021-3-24",
-    "confirmed": 63344,
-    "deaths": 1986,
-    "recovered": 60681
+    "confirmed": 63766,
+    "deaths": 1990,
+    "recovered": 61009
   },
   "Singapore": {
     "date": "2021-3-24",
@@ -929,6 +929,12 @@
     "deaths": 57,
     "recovered": 3963
   },
+  "Papua New Guinea": {
+    "date": "2021-3-24",
+    "confirmed": 4109,
+    "deaths": 39,
+    "recovered": 846
+  },
   "Sierra Leone": {
     "date": "2021-3-24",
     "confirmed": 3949,
@@ -940,12 +946,6 @@
     "confirmed": 3798,
     "deaths": 16,
     "recovered": 3157
-  },
-  "Papua New Guinea": {
-    "date": "2021-3-24",
-    "confirmed": 3758,
-    "deaths": 37,
-    "recovered": 846
   },
   "Comoros": {
     "date": "2021-3-24",
