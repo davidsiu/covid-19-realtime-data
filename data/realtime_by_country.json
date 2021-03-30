@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2021-3-30",
-    "confirmed": 30378955,
-    "deaths": 550727,
+    "confirmed": 30385698,
+    "deaths": 550903,
     "recovered": null
   },
   "Brazil": {
     "date": "2021-3-30",
     "confirmed": 12573615,
     "deaths": 313866,
-    "recovered": 11054211
+    "recovered": 11057882
   },
   "India": {
     "date": "2021-3-30",
@@ -55,9 +55,9 @@
   },
   "Germany": {
     "date": "2021-3-30",
-    "confirmed": 2803628,
-    "deaths": 76183,
-    "recovered": 2513120
+    "confirmed": 2808206,
+    "deaths": 76229,
+    "recovered": 2513240
   },
   "Colombia": {
     "date": "2021-3-30",
@@ -121,9 +121,9 @@
   },
   "Netherlands": {
     "date": "2021-3-30",
-    "confirmed": 1284347,
-    "deaths": 16654,
-    "recovered": 16020
+    "confirmed": 1284427,
+    "deaths": 16657,
+    "recovered": 16047
   },
   "Chile": {
     "date": "2021-3-30",
@@ -133,7 +133,7 @@
   },
   "Canada": {
     "date": "2021-3-30",
-    "confirmed": 978498,
+    "confirmed": 978664,
     "deaths": 22888,
     "recovered": 910760
   },
@@ -337,9 +337,9 @@
   },
   "Tunisia": {
     "date": "2021-3-30",
-    "confirmed": 251169,
-    "deaths": 8760,
-    "recovered": 215920
+    "confirmed": 252171,
+    "deaths": 8788,
+    "recovered": 216712
   },
   "West Bank and Gaza": {
     "date": "2021-3-30",
@@ -464,8 +464,8 @@
   "Bahrain": {
     "date": "2021-3-30",
     "confirmed": 142669,
-    "deaths": 515,
-    "recovered": 133753
+    "deaths": 517,
+    "recovered": 134442
   },
   "Burma": {
     "date": "2021-3-30",
@@ -745,9 +745,9 @@
   },
   "Syria": {
     "date": "2021-3-30",
-    "confirmed": 18638,
-    "deaths": 1247,
-    "recovered": 12492
+    "confirmed": 18775,
+    "deaths": 1254,
+    "recovered": 12610
   },
   "Mauritania": {
     "date": "2021-3-30",
@@ -809,6 +809,12 @@
     "deaths": 315,
     "recovered": 4471
   },
+  "Togo": {
+    "date": "2021-3-30",
+    "confirmed": 10249,
+    "deaths": 109,
+    "recovered": 7815
+  },
   "Guyana": {
     "date": "2021-3-30",
     "confirmed": 10182,
@@ -826,12 +832,6 @@
     "confirmed": 9998,
     "deaths": 384,
     "recovered": 6800
-  },
-  "Togo": {
-    "date": "2021-3-30",
-    "confirmed": 9992,
-    "deaths": 107,
-    "recovered": 7770
   },
   "Congo (Brazzaville)": {
     "date": "2021-3-30",
