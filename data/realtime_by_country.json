@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2021-4-2",
-    "confirmed": 30602578,
-    "deaths": 553980,
+    "confirmed": 30602678,
+    "deaths": 553979,
     "recovered": null
   },
   "Brazil": {
     "date": "2021-4-2",
     "confirmed": 12910082,
     "deaths": 328206,
-    "recovered": 11269160
+    "recovered": 11270507
   },
   "India": {
     "date": "2021-4-2",
@@ -31,9 +31,9 @@
   },
   "United Kingdom": {
     "date": "2021-4-2",
-    "confirmed": 4367949,
+    "confirmed": 4367956,
     "deaths": 127058,
-    "recovered": 13090
+    "recovered": 13093
   },
   "Italy": {
     "date": "2021-4-2",
@@ -331,9 +331,9 @@
   },
   "Tunisia": {
     "date": "2021-4-2",
-    "confirmed": 255308,
-    "deaths": 8843,
-    "recovered": 217928
+    "confirmed": 256931,
+    "deaths": 8890,
+    "recovered": 218377
   },
   "Dominican Republic": {
     "date": "2021-4-2",
@@ -439,9 +439,9 @@
   },
   "Nigeria": {
     "date": "2021-4-2",
-    "confirmed": 162997,
+    "confirmed": 163063,
     "deaths": 2058,
-    "recovered": 151708
+    "recovered": 151835
   },
   "Venezuela": {
     "date": "2021-4-2",
@@ -529,7 +529,7 @@
   },
   "Norway": {
     "date": "2021-4-2",
-    "confirmed": 97152,
+    "confirmed": 97410,
     "deaths": 673,
     "recovered": 17998
   },
@@ -757,9 +757,9 @@
   },
   "Cabo Verde": {
     "date": "2021-4-2",
-    "confirmed": 17587,
-    "deaths": 169,
-    "recovered": 16340
+    "confirmed": 17717,
+    "deaths": 171,
+    "recovered": 16398
   },
   "Eswatini": {
     "date": "2021-4-2",
@@ -803,17 +803,17 @@
     "deaths": 537,
     "recovered": 4861
   },
+  "Togo": {
+    "date": "2021-4-2",
+    "confirmed": 10848,
+    "deaths": 110,
+    "recovered": 8096
+  },
   "Lesotho": {
     "date": "2021-4-2",
     "confirmed": 10706,
     "deaths": 315,
     "recovered": 4471
-  },
-  "Togo": {
-    "date": "2021-4-2",
-    "confirmed": 10654,
-    "deaths": 110,
-    "recovered": 7996
   },
   "Guyana": {
     "date": "2021-4-2",
@@ -962,8 +962,8 @@
   "Guinea-Bissau": {
     "date": "2021-4-2",
     "confirmed": 3661,
-    "deaths": 63,
-    "recovered": 2982
+    "deaths": 65,
+    "recovered": 2992
   },
   "Barbados": {
     "date": "2021-4-2",
