@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-5",
-    "confirmed": 30705571,
-    "deaths": 554994,
+    "confirmed": 30705993,
+    "deaths": 554999,
     "recovered": null
   },
   "Brazil": {
@@ -439,21 +439,21 @@
   },
   "Venezuela": {
     "date": "2021-4-5",
-    "confirmed": 164337,
-    "deaths": 1647,
+    "confirmed": 166123,
+    "deaths": 1662,
     "recovered": 150374
+  },
+  "Nigeria": {
+    "date": "2021-4-5",
+    "confirmed": 163195,
+    "deaths": 2058,
+    "recovered": 151998
   },
   "Oman": {
     "date": "2021-4-5",
     "confirmed": 163157,
     "deaths": 1690,
     "recovered": 146677
-  },
-  "Nigeria": {
-    "date": "2021-4-5",
-    "confirmed": 163113,
-    "deaths": 2058,
-    "recovered": 151853
   },
   "Libya": {
     "date": "2021-4-5",
@@ -491,17 +491,17 @@
     "deaths": 2265,
     "recovered": 93842
   },
+  "Uruguay": {
+    "date": "2021-4-5",
+    "confirmed": 117757,
+    "deaths": 1101,
+    "recovered": 89035
+  },
   "Algeria": {
     "date": "2021-4-5",
     "confirmed": 117622,
     "deaths": 3105,
     "recovered": 81896
-  },
-  "Uruguay": {
-    "date": "2021-4-5",
-    "confirmed": 113904,
-    "deaths": 1071,
-    "recovered": 89035
   },
   "Estonia": {
     "date": "2021-4-5",
@@ -523,9 +523,9 @@
   },
   "China": {
     "date": "2021-4-5",
-    "confirmed": 101848,
+    "confirmed": 101861,
     "deaths": 4841,
-    "recovered": 96617
+    "recovered": 96618
   },
   "Norway": {
     "date": "2021-4-5",
@@ -685,7 +685,7 @@
   },
   "Australia": {
     "date": "2021-4-5",
-    "confirmed": 29348,
+    "confirmed": 29351,
     "deaths": 909,
     "recovered": 23031
   },
@@ -805,9 +805,9 @@
   },
   "Togo": {
     "date": "2021-4-5",
-    "confirmed": 11064,
-    "deaths": 110,
-    "recovered": 8201
+    "confirmed": 11187,
+    "deaths": 112,
+    "recovered": 8288
   },
   "Lesotho": {
     "date": "2021-4-5",
@@ -853,9 +853,9 @@
   },
   "Suriname": {
     "date": "2021-4-5",
-    "confirmed": 9153,
+    "confirmed": 9163,
     "deaths": 177,
-    "recovered": 8612
+    "recovered": 8620
   },
   "Djibouti": {
     "date": "2021-4-5",
@@ -1034,7 +1034,7 @@
   "Antigua and Barbuda": {
     "date": "2021-4-5",
     "confirmed": 1170,
-    "deaths": 29,
+    "deaths": 28,
     "recovered": 882
   },
   "Mauritius": {
