@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-17",
-    "confirmed": 31575182,
-    "deaths": 566215,
+    "confirmed": 31575640,
+    "deaths": 566224,
     "recovered": null
   },
   "India": {
@@ -57,7 +57,7 @@
     "date": "2021-4-17",
     "confirmed": 3134108,
     "deaths": 79894,
-    "recovered": 2763260
+    "recovered": 2774820
   },
   "Poland": {
     "date": "2021-4-17",
@@ -91,9 +91,9 @@
   },
   "Ukraine": {
     "date": "2021-4-17",
-    "confirmed": 1974056,
-    "deaths": 40832,
-    "recovered": 1514849
+    "confirmed": 1989040,
+    "deaths": 41272,
+    "recovered": 1524585
   },
   "Peru": {
     "date": "2021-4-17",
@@ -223,8 +223,8 @@
   },
   "Japan": {
     "date": "2021-4-17",
-    "confirmed": 526345,
-    "deaths": 9553,
+    "confirmed": 526368,
+    "deaths": 9555,
     "recovered": 475598
   },
   "Lebanon": {
@@ -551,6 +551,12 @@
     "deaths": 1421,
     "recovered": 90295
   },
+  "Kyrgyzstan": {
+    "date": "2021-4-17",
+    "confirmed": 91639,
+    "deaths": 1546,
+    "recovered": 86773
+  },
   "Ghana": {
     "date": "2021-4-17",
     "confirmed": 91545,
@@ -562,12 +568,6 @@
     "confirmed": 91448,
     "deaths": 500,
     "recovered": 86142
-  },
-  "Kyrgyzstan": {
-    "date": "2021-4-17",
-    "confirmed": 91374,
-    "deaths": 1544,
-    "recovered": 86621
   },
   "Zambia": {
     "date": "2021-4-17",
@@ -595,9 +595,9 @@
   },
   "El Salvador": {
     "date": "2021-4-17",
-    "confirmed": 67249,
-    "deaths": 2068,
-    "recovered": 63560
+    "confirmed": 67404,
+    "deaths": 2072,
+    "recovered": 63685
   },
   "Luxembourg": {
     "date": "2021-4-17",
@@ -659,17 +659,17 @@
     "deaths": 338,
     "recovered": 40898
   },
+  "Thailand": {
+    "date": "2021-4-17",
+    "confirmed": 40585,
+    "deaths": 99,
+    "recovered": 26873
+  },
   "Senegal": {
     "date": "2021-4-17",
     "confirmed": 39664,
     "deaths": 1087,
     "recovered": 38410
-  },
-  "Thailand": {
-    "date": "2021-4-17",
-    "confirmed": 39038,
-    "deaths": 97,
-    "recovered": 26873
   },
   "Zimbabwe": {
     "date": "2021-4-17",
