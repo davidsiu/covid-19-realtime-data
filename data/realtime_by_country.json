@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-17",
-    "confirmed": 31573791,
-    "deaths": 566359,
+    "confirmed": 31584046,
+    "deaths": 566406,
     "recovered": null
   },
   "India": {
@@ -43,9 +43,9 @@
   },
   "Italy": {
     "date": "2021-4-17",
-    "confirmed": 3842079,
-    "deaths": 116366,
-    "recovered": 3218975
+    "confirmed": 3857443,
+    "deaths": 116676,
+    "recovered": 3235459
   },
   "Spain": {
     "date": "2021-4-17",
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-4-17",
-    "confirmed": 3135569,
+    "confirmed": 3136897,
     "deaths": 79898,
     "recovered": 2775300
   },
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-4-17",
-    "confirmed": 1116753,
-    "deaths": 23544,
-    "recovered": 1008024
+    "confirmed": 1117011,
+    "deaths": 23546,
+    "recovered": 1008163
   },
   "Chile": {
     "date": "2021-4-17",
@@ -199,9 +199,9 @@
   },
   "Jordan": {
     "date": "2021-4-17",
-    "confirmed": 681870,
-    "deaths": 8117,
-    "recovered": 625912
+    "confirmed": 683466,
+    "deaths": 8178,
+    "recovered": 631944
   },
   "Serbia": {
     "date": "2021-4-17",
@@ -367,8 +367,8 @@
   },
   "Ireland": {
     "date": "2021-4-17",
-    "confirmed": 242819,
-    "deaths": 4831,
+    "confirmed": 243238,
+    "deaths": 4835,
     "recovered": 23364
   },
   "Denmark": {
@@ -551,6 +551,12 @@
     "deaths": 1427,
     "recovered": 90608
   },
+  "Cuba": {
+    "date": "2021-4-17",
+    "confirmed": 92474,
+    "deaths": 512,
+    "recovered": 87061
+  },
   "Kyrgyzstan": {
     "date": "2021-4-17",
     "confirmed": 91639,
@@ -562,12 +568,6 @@
     "confirmed": 91545,
     "deaths": 766,
     "recovered": 89400
-  },
-  "Cuba": {
-    "date": "2021-4-17",
-    "confirmed": 91448,
-    "deaths": 500,
-    "recovered": 86142
   },
   "Zambia": {
     "date": "2021-4-17",
@@ -649,13 +649,13 @@
   },
   "Jamaica": {
     "date": "2021-4-17",
-    "confirmed": 43473,
-    "deaths": 713,
-    "recovered": 19472
+    "confirmed": 43684,
+    "deaths": 721,
+    "recovered": 19599
   },
   "Uganda": {
     "date": "2021-4-17",
-    "confirmed": 41310,
+    "confirmed": 41340,
     "deaths": 338,
     "recovered": 40898
   },
