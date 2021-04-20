@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-20",
-    "confirmed": 31764062,
-    "deaths": 568104,
+    "confirmed": 31772125,
+    "deaths": 568196,
     "recovered": null
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2021-4-20",
     "confirmed": 13973695,
     "deaths": 374682,
-    "recovered": 12346828
+    "recovered": 12360962
   },
   "France": {
     "date": "2021-4-20",
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-4-20",
-    "confirmed": 1142909,
-    "deaths": 23684,
-    "recovered": 1032584
+    "confirmed": 1143328,
+    "deaths": 23686,
+    "recovered": 1032986
   },
   "Chile": {
     "date": "2021-4-20",
@@ -323,17 +323,17 @@
     "deaths": 12666,
     "recovered": 239194
   },
+  "Tunisia": {
+    "date": "2021-4-20",
+    "confirmed": 289230,
+    "deaths": 9918,
+    "recovered": 239104
+  },
   "Nepal": {
     "date": "2021-4-20",
     "confirmed": 287567,
     "deaths": 3102,
     "recovered": 275806
-  },
-  "Tunisia": {
-    "date": "2021-4-20",
-    "confirmed": 287061,
-    "deaths": 9825,
-    "recovered": 236593
   },
   "West Bank and Gaza": {
     "date": "2021-4-20",
@@ -365,6 +365,12 @@
     "deaths": 5616,
     "recovered": 233281
   },
+  "Ethiopia": {
+    "date": "2021-4-20",
+    "confirmed": 245155,
+    "deaths": 3439,
+    "recovered": 181935
+  },
   "Denmark": {
     "date": "2021-4-20",
     "confirmed": 244759,
@@ -376,12 +382,6 @@
     "confirmed": 244297,
     "deaths": 4847,
     "recovered": 23364
-  },
-  "Ethiopia": {
-    "date": "2021-4-20",
-    "confirmed": 243631,
-    "deaths": 3392,
-    "recovered": 180645
   },
   "Lithuania": {
     "date": "2021-4-20",
@@ -433,9 +433,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2021-4-20",
-    "confirmed": 191154,
-    "deaths": 7938,
-    "recovered": 148146
+    "confirmed": 191876,
+    "deaths": 8025,
+    "recovered": 149273
   },
   "Venezuela": {
     "date": "2021-4-20",
@@ -715,9 +715,9 @@
   },
   "Maldives": {
     "date": "2021-4-20",
-    "confirmed": 26505,
-    "deaths": 70,
-    "recovered": 23691
+    "confirmed": 26667,
+    "deaths": 71,
+    "recovered": 23803
   },
   "Angola": {
     "date": "2021-4-20",
@@ -1009,9 +1009,9 @@
   },
   "Monaco": {
     "date": "2021-4-20",
-    "confirmed": 2404,
+    "confirmed": 2413,
     "deaths": 31,
-    "recovered": 2304
+    "recovered": 2306
   },
   "Sao Tome and Principe": {
     "date": "2021-4-20",
