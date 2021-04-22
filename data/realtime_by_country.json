@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-22",
-    "confirmed": 31912163,
-    "deaths": 570082,
+    "confirmed": 31915280,
+    "deaths": 570147,
     "recovered": null
   },
   "India": {
@@ -15,7 +15,7 @@
     "date": "2021-4-22",
     "confirmed": 14122795,
     "deaths": 381475,
-    "recovered": 12464540
+    "recovered": 12465004
   },
   "France": {
     "date": "2021-4-22",
@@ -121,15 +121,15 @@
   },
   "Netherlands": {
     "date": "2021-4-22",
-    "confirmed": 1460682,
-    "deaths": 17221,
-    "recovered": 22139
+    "confirmed": 1460714,
+    "deaths": 17222,
+    "recovered": 22185
   },
   "Canada": {
     "date": "2021-4-22",
-    "confirmed": 1161242,
-    "deaths": 23800,
-    "recovered": 1052270
+    "confirmed": 1163099,
+    "deaths": 23806,
+    "recovered": 1055119
   },
   "Chile": {
     "date": "2021-4-22",
@@ -317,6 +317,12 @@
     "deaths": 3981,
     "recovered": 283557
   },
+  "Tunisia": {
+    "date": "2021-4-22",
+    "confirmed": 294138,
+    "deaths": 10063,
+    "recovered": 244517
+  },
   "Bolivia": {
     "date": "2021-4-22",
     "confirmed": 293061,
@@ -328,12 +334,6 @@
     "confirmed": 292152,
     "deaths": 3117,
     "recovered": 276345
-  },
-  "Tunisia": {
-    "date": "2021-4-22",
-    "confirmed": 291833,
-    "deaths": 9993,
-    "recovered": 242238
   },
   "West Bank and Gaza": {
     "date": "2021-4-22",
@@ -349,9 +349,9 @@
   },
   "Kuwait": {
     "date": "2021-4-22",
-    "confirmed": 261307,
-    "deaths": 1482,
-    "recovered": 244410
+    "confirmed": 262766,
+    "deaths": 1493,
+    "recovered": 245824
   },
   "Paraguay": {
     "date": "2021-4-22",
@@ -409,9 +409,9 @@
   },
   "Guatemala": {
     "date": "2021-4-22",
-    "confirmed": 216329,
-    "deaths": 7309,
-    "recovered": 193313
+    "confirmed": 218145,
+    "deaths": 7345,
+    "recovered": 194075
   },
   "Armenia": {
     "date": "2021-4-22",
@@ -463,9 +463,9 @@
   },
   "Bahrain": {
     "date": "2021-4-22",
-    "confirmed": 167165,
-    "deaths": 607,
-    "recovered": 155768
+    "confirmed": 168201,
+    "deaths": 614,
+    "recovered": 156981
   },
   "Nigeria": {
     "date": "2021-4-22",
@@ -673,9 +673,9 @@
   },
   "Zimbabwe": {
     "date": "2021-4-22",
-    "confirmed": 37980,
+    "confirmed": 38018,
     "deaths": 1555,
-    "recovered": 35065
+    "recovered": 35073
   },
   "Madagascar": {
     "date": "2021-4-22",
@@ -751,9 +751,9 @@
   },
   "Syria": {
     "date": "2021-4-22",
-    "confirmed": 21584,
-    "deaths": 1483,
-    "recovered": 15216
+    "confirmed": 21725,
+    "deaths": 1496,
+    "recovered": 15376
   },
   "Cabo Verde": {
     "date": "2021-4-22",
@@ -811,9 +811,9 @@
   },
   "Togo": {
     "date": "2021-4-22",
-    "confirmed": 12657,
+    "confirmed": 12698,
     "deaths": 121,
-    "recovered": 10431
+    "recovered": 10512
   },
   "Belize": {
     "date": "2021-4-22",
@@ -823,9 +823,9 @@
   },
   "Guyana": {
     "date": "2021-4-22",
-    "confirmed": 12132,
-    "deaths": 274,
-    "recovered": 10442
+    "confirmed": 12234,
+    "deaths": 277,
+    "recovered": 10555
   },
   "Lesotho": {
     "date": "2021-4-22",
@@ -871,9 +871,9 @@
   },
   "Trinidad and Tobago": {
     "date": "2021-4-22",
-    "confirmed": 9216,
+    "confirmed": 9383,
     "deaths": 157,
-    "recovered": 8036
+    "recovered": 8065
   },
   "Cambodia": {
     "date": "2021-4-22",
@@ -913,9 +913,9 @@
   },
   "Yemen": {
     "date": "2021-4-22",
-    "confirmed": 5960,
-    "deaths": 1147,
-    "recovered": 2309
+    "confirmed": 6020,
+    "deaths": 1157,
+    "recovered": 2393
   },
   "Gambia": {
     "date": "2021-4-22",
@@ -971,17 +971,17 @@
     "deaths": 44,
     "recovered": 3704
   },
+  "Burundi": {
+    "date": "2021-4-22",
+    "confirmed": 3732,
+    "deaths": 6,
+    "recovered": 773
+  },
   "Guinea-Bissau": {
     "date": "2021-4-22",
     "confirmed": 3713,
     "deaths": 66,
     "recovered": 3170
-  },
-  "Burundi": {
-    "date": "2021-4-22",
-    "confirmed": 3706,
-    "deaths": 6,
-    "recovered": 773
   },
   "Eritrea": {
     "date": "2021-4-22",
