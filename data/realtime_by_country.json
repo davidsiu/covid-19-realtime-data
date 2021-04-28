@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-28",
-    "confirmed": 32178313,
-    "deaths": 573420,
+    "confirmed": 32179505,
+    "deaths": 573452,
     "recovered": null
   },
   "India": {
@@ -37,8 +37,8 @@
   },
   "United Kingdom": {
     "date": "2021-4-28",
-    "confirmed": 4425262,
-    "deaths": 127705,
+    "confirmed": 4427428,
+    "deaths": 127734,
     "recovered": 14575
   },
   "Italy": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-4-28",
-    "confirmed": 3338564,
+    "confirmed": 3342496,
     "deaths": 82326,
     "recovered": 2960940
   },
@@ -127,15 +127,15 @@
   },
   "Canada": {
     "date": "2021-4-28",
-    "confirmed": 1204005,
+    "confirmed": 1204011,
     "deaths": 24058,
-    "recovered": 1100530
+    "recovered": 1100535
   },
   "Chile": {
     "date": "2021-4-28",
-    "confirmed": 1179772,
-    "deaths": 26020,
-    "recovered": 1112463
+    "confirmed": 1184271,
+    "deaths": 26073,
+    "recovered": 1120141
   },
   "Romania": {
     "date": "2021-4-28",
@@ -212,7 +212,7 @@
   "Switzerland": {
     "date": "2021-4-28",
     "confirmed": 656077,
-    "deaths": 10608,
+    "deaths": 10615,
     "recovered": 317600
   },
   "Austria": {
@@ -527,6 +527,12 @@
     "deaths": 753,
     "recovered": 17998
   },
+  "Sri Lanka": {
+    "date": "2021-4-28",
+    "confirmed": 104475,
+    "deaths": 661,
+    "recovered": 95083
+  },
   "Kosovo": {
     "date": "2021-4-28",
     "confirmed": 103638,
@@ -538,12 +544,6 @@
     "confirmed": 103524,
     "deaths": 604,
     "recovered": 97462
-  },
-  "Sri Lanka": {
-    "date": "2021-4-28",
-    "confirmed": 103487,
-    "deaths": 655,
-    "recovered": 95083
   },
   "China": {
     "date": "2021-4-28",
@@ -601,9 +601,9 @@
   },
   "Luxembourg": {
     "date": "2021-4-28",
-    "confirmed": 66594,
-    "deaths": 791,
-    "recovered": 62989
+    "confirmed": 66826,
+    "deaths": 792,
+    "recovered": 63175
   },
   "Cameroon": {
     "date": "2021-4-28",
@@ -715,7 +715,7 @@
   },
   "Australia": {
     "date": "2021-4-28",
-    "confirmed": 29750,
+    "confirmed": 29749,
     "deaths": 910,
     "recovered": 23267
   },
