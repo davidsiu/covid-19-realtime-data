@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-4-30",
-    "confirmed": 32289255,
+    "confirmed": 32289257,
     "deaths": 575194,
     "recovered": null
   },
@@ -73,9 +73,9 @@
   },
   "Poland": {
     "date": "2021-4-30",
-    "confirmed": 2785353,
-    "deaths": 67073,
-    "recovered": 2483780
+    "confirmed": 2792142,
+    "deaths": 67502,
+    "recovered": 2496810
   },
   "Iran": {
     "date": "2021-4-30",
@@ -103,9 +103,9 @@
   },
   "Indonesia": {
     "date": "2021-4-30",
-    "confirmed": 1662868,
-    "deaths": 45334,
-    "recovered": 1517432
+    "confirmed": 1668368,
+    "deaths": 45521,
+    "recovered": 1522634
   },
   "Czechia": {
     "date": "2021-4-30",
@@ -212,14 +212,14 @@
   "Switzerland": {
     "date": "2021-4-30",
     "confirmed": 658143,
-    "deaths": 10629,
+    "deaths": 10630,
     "recovered": 317600
   },
   "Austria": {
     "date": "2021-4-30",
-    "confirmed": 616739,
-    "deaths": 10179,
-    "recovered": 582575
+    "confirmed": 618870,
+    "deaths": 10205,
+    "recovered": 584777
   },
   "Japan": {
     "date": "2021-4-30",
@@ -497,6 +497,12 @@
     "deaths": 2389,
     "recovered": 108606
   },
+  "Estonia": {
+    "date": "2021-4-30",
+    "confirmed": 122019,
+    "deaths": 1161,
+    "recovered": 111274
+  },
   "Korea, South": {
     "date": "2021-4-30",
     "confirmed": 122007,
@@ -508,12 +514,6 @@
     "confirmed": 121866,
     "deaths": 3244,
     "recovered": 84940
-  },
-  "Estonia": {
-    "date": "2021-4-30",
-    "confirmed": 121657,
-    "deaths": 1158,
-    "recovered": 110599
   },
   "Latvia": {
     "date": "2021-4-30",
@@ -625,7 +625,7 @@
   },
   "Singapore": {
     "date": "2021-4-30",
-    "confirmed": 61121,
+    "confirmed": 61145,
     "deaths": 30,
     "recovered": 60718
   },
