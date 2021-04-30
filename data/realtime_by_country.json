@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-30",
-    "confirmed": 32283410,
-    "deaths": 575056,
+    "confirmed": 32283801,
+    "deaths": 575070,
     "recovered": null
   },
   "India": {
@@ -37,9 +37,9 @@
   },
   "United Kingdom": {
     "date": "2021-4-30",
-    "confirmed": 4429841,
-    "deaths": 127756,
-    "recovered": 14621
+    "confirmed": 4429849,
+    "deaths": 127759,
+    "recovered": 14658
   },
   "Italy": {
     "date": "2021-4-30",
@@ -157,8 +157,8 @@
   },
   "Belgium": {
     "date": "2021-4-30",
-    "confirmed": 982959,
-    "deaths": 24140,
+    "confirmed": 986622,
+    "deaths": 24185,
     "recovered": null
   },
   "Sweden": {
@@ -223,8 +223,8 @@
   },
   "Japan": {
     "date": "2021-4-30",
-    "confirmed": 588487,
-    "deaths": 10152,
+    "confirmed": 588580,
+    "deaths": 10160,
     "recovered": 515404
   },
   "Lebanon": {
@@ -283,9 +283,9 @@
   },
   "Panama": {
     "date": "2021-4-30",
-    "confirmed": 363895,
-    "deaths": 6222,
-    "recovered": 353774
+    "confirmed": 364218,
+    "deaths": 6227,
+    "recovered": 354094
   },
   "Belarus": {
     "date": "2021-4-30",
@@ -343,9 +343,9 @@
   },
   "Paraguay": {
     "date": "2021-4-30",
-    "confirmed": 274170,
-    "deaths": 6196,
-    "recovered": 225559
+    "confirmed": 276865,
+    "deaths": 6302,
+    "recovered": 227540
   },
   "Kuwait": {
     "date": "2021-4-30",
@@ -497,6 +497,12 @@
     "deaths": 2389,
     "recovered": 108606
   },
+  "Korea, South": {
+    "date": "2021-4-30",
+    "confirmed": 122007,
+    "deaths": 1828,
+    "recovered": 111422
+  },
   "Algeria": {
     "date": "2021-4-30",
     "confirmed": 121866,
@@ -508,12 +514,6 @@
     "confirmed": 121657,
     "deaths": 1158,
     "recovered": 110599
-  },
-  "Korea, South": {
-    "date": "2021-4-30",
-    "confirmed": 121351,
-    "deaths": 1825,
-    "recovered": 110787
   },
   "Latvia": {
     "date": "2021-4-30",
@@ -587,6 +587,12 @@
     "deaths": 913,
     "recovered": 46000
   },
+  "Cameroon": {
+    "date": "2021-4-30",
+    "confirmed": 72250,
+    "deaths": 1107,
+    "recovered": 35261
+  },
   "Mozambique": {
     "date": "2021-4-30",
     "confirmed": 69864,
@@ -604,12 +610,6 @@
     "confirmed": 67045,
     "deaths": 794,
     "recovered": 63448
-  },
-  "Cameroon": {
-    "date": "2021-4-30",
-    "confirmed": 65998,
-    "deaths": 991,
-    "recovered": 35261
   },
   "Cyprus": {
     "date": "2021-4-30",
@@ -715,7 +715,7 @@
   },
   "Australia": {
     "date": "2021-4-30",
-    "confirmed": 29785,
+    "confirmed": 29798,
     "deaths": 910,
     "recovered": 23279
   },
