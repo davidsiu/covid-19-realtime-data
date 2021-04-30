@@ -13,7 +13,7 @@ Near realtime covid-19 JSON time-series dataset combining data from multiple sou
 ## Real Time Snapshot Data by Country
 - [https://davidsiu.github.io/covid-19-realtime-data/data/realtime_by_country.json](https://davidsiu.github.io/covid-19-realtime-data/data/realtime_by_country.json)
 
-- Source: [John Hopkins](https://coronavirus.jhu.edu/)
+- Source: [Johns Hopkins](https://coronavirus.jhu.edu/)
 
 
 
