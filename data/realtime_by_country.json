@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-4-30",
-    "confirmed": 32289907,
-    "deaths": 575197,
+    "confirmed": 32290175,
+    "deaths": 575199,
     "recovered": null
   },
   "India": {
@@ -37,9 +37,9 @@
   },
   "United Kingdom": {
     "date": "2021-4-30",
-    "confirmed": 4429851,
+    "confirmed": 4429853,
     "deaths": 127759,
-    "recovered": 14658
+    "recovered": 14659
   },
   "Italy": {
     "date": "2021-4-30",
@@ -163,8 +163,8 @@
   },
   "Sweden": {
     "date": "2021-4-30",
-    "confirmed": 967678,
-    "deaths": 14002,
+    "confirmed": 973604,
+    "deaths": 14048,
     "recovered": null
   },
   "Israel": {
@@ -212,7 +212,7 @@
   "Switzerland": {
     "date": "2021-4-30",
     "confirmed": 658143,
-    "deaths": 10630,
+    "deaths": 10631,
     "recovered": 317600
   },
   "Austria": {
@@ -305,17 +305,17 @@
     "deaths": 7081,
     "recovered": 310595
   },
+  "Nepal": {
+    "date": "2021-4-30",
+    "confirmed": 323187,
+    "deaths": 3279,
+    "recovered": 281095
+  },
   "Azerbaijan": {
     "date": "2021-4-30",
     "confirmed": 317913,
     "deaths": 4490,
     "recovered": 287298
-  },
-  "Nepal": {
-    "date": "2021-4-30",
-    "confirmed": 317530,
-    "deaths": 3246,
-    "recovered": 280167
   },
   "Georgia": {
     "date": "2021-4-30",
@@ -547,9 +547,9 @@
   },
   "China": {
     "date": "2021-4-30",
-    "confirmed": 102474,
+    "confirmed": 102478,
     "deaths": 4845,
-    "recovered": 97144
+    "recovered": 97153
   },
   "Montenegro": {
     "date": "2021-4-30",
@@ -785,6 +785,12 @@
     "deaths": 481,
     "recovered": 8467
   },
+  "Cambodia": {
+    "date": "2021-4-30",
+    "confirmed": 13402,
+    "deaths": 93,
+    "recovered": 5152
+  },
   "Burkina Faso": {
     "date": "2021-4-30",
     "confirmed": 13309,
@@ -799,9 +805,9 @@
   },
   "Andorra": {
     "date": "2021-4-30",
-    "confirmed": 13198,
+    "confirmed": 13232,
     "deaths": 125,
-    "recovered": 12650
+    "recovered": 12684
   },
   "Guyana": {
     "date": "2021-4-30",
@@ -826,12 +832,6 @@
     "confirmed": 12646,
     "deaths": 323,
     "recovered": 12208
-  },
-  "Cambodia": {
-    "date": "2021-4-30",
-    "confirmed": 12641,
-    "deaths": 91,
-    "recovered": 4986
   },
   "Djibouti": {
     "date": "2021-4-30",
@@ -1051,9 +1051,9 @@
   },
   "Taiwan*": {
     "date": "2021-4-30",
-    "confirmed": 1121,
+    "confirmed": 1128,
     "deaths": 12,
-    "recovered": 1051
+    "recovered": 1053
   },
   "Bhutan": {
     "date": "2021-4-30",
