@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2021-5-5",
-    "confirmed": 32512575,
+    "confirmed": 32512588,
     "deaths": 578481,
     "recovered": null
   },
   "India": {
     "date": "2021-5-5",
-    "confirmed": 20282833,
-    "deaths": 222408,
-    "recovered": 16613292
+    "confirmed": 20664979,
+    "deaths": 226188,
+    "recovered": 16951521
   },
   "Brazil": {
     "date": "2021-5-5",
@@ -167,6 +167,12 @@
     "deaths": 14091,
     "recovered": null
   },
+  "Pakistan": {
+    "date": "2021-5-5",
+    "confirmed": 841636,
+    "deaths": 18429,
+    "recovered": 738727
+  },
   "Israel": {
     "date": "2021-5-5",
     "confirmed": 838697,
@@ -178,12 +184,6 @@
     "confirmed": 837715,
     "deaths": 16981,
     "recovered": 797901
-  },
-  "Pakistan": {
-    "date": "2021-5-5",
-    "confirmed": 837523,
-    "deaths": 18310,
-    "recovered": 733062
   },
   "Hungary": {
     "date": "2021-5-5",
@@ -223,7 +223,7 @@
   },
   "Japan": {
     "date": "2021-5-5",
-    "confirmed": 613822,
+    "confirmed": 613827,
     "deaths": 10441,
     "recovered": 534680
   },
@@ -723,7 +723,7 @@
     "date": "2021-5-5",
     "confirmed": 29865,
     "deaths": 910,
-    "recovered": 23349
+    "recovered": 23354
   },
   "Angola": {
     "date": "2021-5-5",
