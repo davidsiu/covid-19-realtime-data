@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-5-19",
-    "confirmed": 32997507,
-    "deaths": 587219,
+    "confirmed": 32997870,
+    "deaths": 587225,
     "recovered": null
   },
   "India": {
@@ -47,17 +47,17 @@
     "deaths": 124497,
     "recovered": 3727220
   },
+  "Germany": {
+    "date": "2021-5-19",
+    "confirmed": 3620280,
+    "deaths": 86672,
+    "recovered": 3342350
+  },
   "Spain": {
     "date": "2021-5-19",
     "confirmed": 3619848,
     "deaths": 79502,
     "recovered": 150376
-  },
-  "Germany": {
-    "date": "2021-5-19",
-    "confirmed": 3619696,
-    "deaths": 86672,
-    "recovered": 3342350
   },
   "Argentina": {
     "date": "2021-5-19",
@@ -103,9 +103,9 @@
   },
   "Indonesia": {
     "date": "2021-5-19",
-    "confirmed": 1748230,
-    "deaths": 48477,
-    "recovered": 1612239
+    "confirmed": 1753101,
+    "deaths": 48669,
+    "recovered": 1616603
   },
   "Czechia": {
     "date": "2021-5-19",
@@ -211,9 +211,9 @@
   },
   "Japan": {
     "date": "2021-5-19",
-    "confirmed": 698560,
-    "deaths": 11868,
-    "recovered": 602200
+    "confirmed": 699799,
+    "deaths": 11880,
+    "recovered": 608930
   },
   "Switzerland": {
     "date": "2021-5-19",
@@ -589,7 +589,7 @@
   },
   "Finland": {
     "date": "2021-5-19",
-    "confirmed": 90398,
+    "confirmed": 90687,
     "deaths": 929,
     "recovered": 46000
   },
