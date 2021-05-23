@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-5-23",
-    "confirmed": 33104879,
+    "confirmed": 33104963,
     "deaths": 589703,
     "recovered": null
   },
@@ -49,7 +49,7 @@
   },
   "Germany": {
     "date": "2021-5-23",
-    "confirmed": 3653019,
+    "confirmed": 3653165,
     "deaths": 87385,
     "recovered": 3398700
   },
@@ -91,9 +91,9 @@
   },
   "Ukraine": {
     "date": "2021-5-23",
-    "confirmed": 2237240,
-    "deaths": 51260,
-    "recovered": 1994944
+    "confirmed": 2239773,
+    "deaths": 51349,
+    "recovered": 2003881
   },
   "Peru": {
     "date": "2021-5-23",
@@ -521,6 +521,12 @@
     "deaths": 2323,
     "recovered": 121123
   },
+  "Thailand": {
+    "date": "2021-5-23",
+    "confirmed": 129500,
+    "deaths": 776,
+    "recovered": 26873
+  },
   "Estonia": {
     "date": "2021-5-23",
     "confirmed": 128489,
@@ -532,12 +538,6 @@
     "confirmed": 126651,
     "deaths": 3411,
     "recovered": 88208
-  },
-  "Thailand": {
-    "date": "2021-5-23",
-    "confirmed": 126118,
-    "deaths": 759,
-    "recovered": 26873
   },
   "Norway": {
     "date": "2021-5-23",
@@ -559,9 +559,9 @@
   },
   "Kyrgyzstan": {
     "date": "2021-5-23",
-    "confirmed": 102186,
-    "deaths": 1743,
-    "recovered": 95446
+    "confirmed": 102511,
+    "deaths": 1751,
+    "recovered": 95811
   },
   "Montenegro": {
     "date": "2021-5-23",
@@ -571,9 +571,9 @@
   },
   "Uzbekistan": {
     "date": "2021-5-23",
-    "confirmed": 98164,
+    "confirmed": 98451,
     "deaths": 680,
-    "recovered": 93633
+    "recovered": 93930
   },
   "Ghana": {
     "date": "2021-5-23",
@@ -729,7 +729,7 @@
     "date": "2021-5-23",
     "confirmed": 30007,
     "deaths": 910,
-    "recovered": 23539
+    "recovered": 23542
   },
   "Cabo Verde": {
     "date": "2021-5-23",
@@ -943,7 +943,7 @@
   },
   "Vietnam": {
     "date": "2021-5-23",
-    "confirmed": 5119,
+    "confirmed": 5141,
     "deaths": 42,
     "recovered": 2721
   },
