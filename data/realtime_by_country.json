@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-5-27",
-    "confirmed": 33191141,
+    "confirmed": 33191164,
     "deaths": 591957,
     "recovered": null
   },
@@ -49,7 +49,7 @@
   },
   "Germany": {
     "date": "2021-5-27",
-    "confirmed": 3669739,
+    "confirmed": 3670103,
     "deaths": 88000,
     "recovered": 3452290
   },
@@ -151,9 +151,9 @@
   },
   "Romania": {
     "date": "2021-5-27",
-    "confirmed": 1076533,
-    "deaths": 30092,
-    "recovered": 1035902
+    "confirmed": 1076840,
+    "deaths": 30131,
+    "recovered": 1036646
   },
   "Sweden": {
     "date": "2021-5-27",
@@ -218,7 +218,7 @@
   "Switzerland": {
     "date": "2021-5-27",
     "confirmed": 691119,
-    "deaths": 10791,
+    "deaths": 10795,
     "recovered": 317600
   },
   "Austria": {
@@ -233,6 +233,12 @@
     "deaths": 1661,
     "recovered": 540886
   },
+  "Malaysia": {
+    "date": "2021-5-27",
+    "confirmed": 541224,
+    "deaths": 2491,
+    "recovered": 469325
+  },
   "Lebanon": {
     "date": "2021-5-27",
     "confirmed": 539271,
@@ -244,12 +250,6 @@
     "confirmed": 535525,
     "deaths": 6845,
     "recovered": 411603
-  },
-  "Malaysia": {
-    "date": "2021-5-27",
-    "confirmed": 533367,
-    "deaths": 2432,
-    "recovered": 464727
   },
   "Morocco": {
     "date": "2021-5-27",
@@ -685,9 +685,9 @@
   },
   "Madagascar": {
     "date": "2021-5-27",
-    "confirmed": 41061,
-    "deaths": 817,
-    "recovered": 39763
+    "confirmed": 41102,
+    "deaths": 822,
+    "recovered": 39927
   },
   "Zimbabwe": {
     "date": "2021-5-27",
@@ -721,9 +721,9 @@
   },
   "Malta": {
     "date": "2021-5-27",
-    "confirmed": 30516,
+    "confirmed": 30520,
     "deaths": 419,
-    "recovered": 30028
+    "recovered": 30036
   },
   "Australia": {
     "date": "2021-5-27",
@@ -763,9 +763,9 @@
   },
   "Guinea": {
     "date": "2021-5-27",
-    "confirmed": 23080,
-    "deaths": 160,
-    "recovered": 20786
+    "confirmed": 23110,
+    "deaths": 161,
+    "recovered": 20840
   },
   "Trinidad and Tobago": {
     "date": "2021-5-27",
@@ -1009,9 +1009,9 @@
   },
   "Liechtenstein": {
     "date": "2021-5-27",
-    "confirmed": 3002,
+    "confirmed": 3006,
     "deaths": 58,
-    "recovered": 2921
+    "recovered": 2925
   },
   "New Zealand": {
     "date": "2021-5-27",
