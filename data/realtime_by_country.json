@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-5-27",
-    "confirmed": 33192280,
-    "deaths": 592425,
+    "confirmed": 33192974,
+    "deaths": 592432,
     "recovered": null
   },
   "India": {
@@ -37,8 +37,8 @@
   },
   "United Kingdom": {
     "date": "2021-5-27",
-    "confirmed": 4486168,
-    "deaths": 128010,
+    "confirmed": 4489548,
+    "deaths": 128020,
     "recovered": 15479
   },
   "Italy": {
@@ -49,7 +49,7 @@
   },
   "Germany": {
     "date": "2021-5-27",
-    "confirmed": 3671992,
+    "confirmed": 3672699,
     "deaths": 88013,
     "recovered": 3452290
   },
@@ -128,8 +128,8 @@
   "Canada": {
     "date": "2021-5-27",
     "confirmed": 1374658,
-    "deaths": 25308,
-    "recovered": 1305786
+    "deaths": 25318,
+    "recovered": 1305787
   },
   "Chile": {
     "date": "2021-5-27",
@@ -175,9 +175,9 @@
   },
   "Portugal": {
     "date": "2021-5-27",
-    "confirmed": 846434,
+    "confirmed": 847006,
     "deaths": 17022,
-    "recovered": 807065
+    "recovered": 807532
   },
   "Israel": {
     "date": "2021-5-27",
@@ -207,7 +207,7 @@
     "date": "2021-5-27",
     "confirmed": 731436,
     "deaths": 9384,
-    "recovered": 712929
+    "recovered": 713331
   },
   "Serbia": {
     "date": "2021-5-27",
@@ -361,9 +361,9 @@
   },
   "Dominican Republic": {
     "date": "2021-5-27",
-    "confirmed": 286269,
-    "deaths": 3613,
-    "recovered": 237553
+    "confirmed": 288034,
+    "deaths": 3620,
+    "recovered": 238499
   },
   "Denmark": {
     "date": "2021-5-27",
@@ -457,9 +457,9 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2021-5-27",
-    "confirmed": 203658,
-    "deaths": 9184,
-    "recovered": 173487
+    "confirmed": 203762,
+    "deaths": 9194,
+    "recovered": 173626
   },
   "Libya": {
     "date": "2021-5-27",
@@ -911,6 +911,12 @@
     "deaths": 97,
     "recovered": 6665
   },
+  "Taiwan*": {
+    "date": "2021-5-27",
+    "confirmed": 6761,
+    "deaths": 59,
+    "recovered": 1133
+  },
   "Yemen": {
     "date": "2021-5-27",
     "confirmed": 6688,
@@ -934,12 +940,6 @@
     "confirmed": 6314,
     "deaths": 46,
     "recovered": 2853
-  },
-  "Taiwan*": {
-    "date": "2021-5-27",
-    "confirmed": 6091,
-    "deaths": 46,
-    "recovered": 1133
   },
   "Gambia": {
     "date": "2021-5-27",
