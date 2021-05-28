@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-5-28",
-    "confirmed": 33235632,
-    "deaths": 593870,
+    "confirmed": 33237543,
+    "deaths": 593881,
     "recovered": null
   },
   "India": {
@@ -13,9 +13,9 @@
   },
   "Brazil": {
     "date": "2021-5-28",
-    "confirmed": 16342162,
-    "deaths": 456674,
-    "recovered": 14483128
+    "confirmed": 16391930,
+    "deaths": 459045,
+    "recovered": 14490221
   },
   "France": {
     "date": "2021-5-28",
@@ -47,6 +47,12 @@
     "deaths": 125919,
     "recovered": 3837518
   },
+  "Argentina": {
+    "date": "2021-5-28",
+    "confirmed": 3702422,
+    "deaths": 76693,
+    "recovered": 3252843
+  },
   "Germany": {
     "date": "2021-5-28",
     "confirmed": 3680159,
@@ -59,17 +65,11 @@
     "deaths": 79905,
     "recovered": 150376
   },
-  "Argentina": {
-    "date": "2021-5-28",
-    "confirmed": 3663215,
-    "deaths": 76135,
-    "recovered": 3219474
-  },
   "Colombia": {
     "date": "2021-5-28",
-    "confirmed": 3319193,
-    "deaths": 86693,
-    "recovered": 3101390
+    "confirmed": 3342567,
+    "deaths": 87207,
+    "recovered": 3121888
   },
   "Iran": {
     "date": "2021-5-28",
@@ -127,9 +127,9 @@
   },
   "Canada": {
     "date": "2021-5-28",
-    "confirmed": 1381278,
-    "deaths": 25415,
-    "recovered": 1316407
+    "confirmed": 1381790,
+    "deaths": 25422,
+    "recovered": 1317652
   },
   "Chile": {
     "date": "2021-5-28",
@@ -725,17 +725,17 @@
     "deaths": 419,
     "recovered": 30041
   },
+  "Cabo Verde": {
+    "date": "2021-5-28",
+    "confirmed": 30122,
+    "deaths": 261,
+    "recovered": 28163
+  },
   "Australia": {
     "date": "2021-5-28",
     "confirmed": 30073,
     "deaths": 910,
     "recovered": 23572
-  },
-  "Cabo Verde": {
-    "date": "2021-5-28",
-    "confirmed": 29939,
-    "deaths": 259,
-    "recovered": 27914
   },
   "Cambodia": {
     "date": "2021-5-28",
@@ -745,9 +745,9 @@
   },
   "Rwanda": {
     "date": "2021-5-28",
-    "confirmed": 26843,
-    "deaths": 351,
-    "recovered": 25453
+    "confirmed": 26878,
+    "deaths": 352,
+    "recovered": 25542
   },
   "Syria": {
     "date": "2021-5-28",
@@ -781,15 +781,15 @@
   },
   "Eswatini": {
     "date": "2021-5-28",
-    "confirmed": 18582,
+    "confirmed": 18587,
     "deaths": 672,
-    "recovered": 17854
+    "recovered": 17855
   },
   "Guyana": {
     "date": "2021-5-28",
-    "confirmed": 16654,
-    "deaths": 376,
-    "recovered": 14223
+    "confirmed": 16724,
+    "deaths": 380,
+    "recovered": 14376
   },
   "Papua New Guinea": {
     "date": "2021-5-28",
@@ -805,9 +805,9 @@
   },
   "Mali": {
     "date": "2021-5-28",
-    "confirmed": 14259,
-    "deaths": 514,
-    "recovered": 9523
+    "confirmed": 14262,
+    "deaths": 516,
+    "recovered": 9559
   },
   "Haiti": {
     "date": "2021-5-28",
@@ -827,17 +827,17 @@
     "deaths": 127,
     "recovered": 13416
   },
+  "Togo": {
+    "date": "2021-5-28",
+    "confirmed": 13432,
+    "deaths": 125,
+    "recovered": 12644
+  },
   "Burkina Faso": {
     "date": "2021-5-28",
     "confirmed": 13421,
     "deaths": 166,
     "recovered": 13243
-  },
-  "Togo": {
-    "date": "2021-5-28",
-    "confirmed": 13420,
-    "deaths": 125,
-    "recovered": 12572
   },
   "Tajikistan": {
     "date": "2021-5-28",
@@ -967,27 +967,27 @@
   },
   "Chad": {
     "date": "2021-5-28",
-    "confirmed": 4926,
+    "confirmed": 4927,
     "deaths": 173,
     "recovered": 4742
   },
   "Burundi": {
     "date": "2021-5-28",
-    "confirmed": 4650,
+    "confirmed": 4669,
     "deaths": 6,
     "recovered": 773
   },
   "Sierra Leone": {
     "date": "2021-5-28",
-    "confirmed": 4133,
+    "confirmed": 4140,
     "deaths": 79,
     "recovered": 3128
   },
   "Eritrea": {
     "date": "2021-5-28",
-    "confirmed": 4010,
+    "confirmed": 4022,
     "deaths": 14,
-    "recovered": 3811
+    "recovered": 3812
   },
   "Barbados": {
     "date": "2021-5-28",
@@ -1023,7 +1023,7 @@
     "date": "2021-5-28",
     "confirmed": 2503,
     "deaths": 32,
-    "recovered": 2462
+    "recovered": 2463
   },
   "Sao Tome and Principe": {
     "date": "2021-5-28",
