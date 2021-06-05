@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-6-5",
-    "confirmed": 33347530,
-    "deaths": 597012,
+    "confirmed": 33347989,
+    "deaths": 597030,
     "recovered": null
   },
   "India": {
@@ -43,9 +43,9 @@
   },
   "Italy": {
     "date": "2021-6-5",
-    "confirmed": 4227719,
-    "deaths": 126415,
-    "recovered": 3901112
+    "confirmed": 4230153,
+    "deaths": 126472,
+    "recovered": 3908312
   },
   "Argentina": {
     "date": "2021-6-5",
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2021-6-5",
-    "confirmed": 3706414,
+    "confirmed": 3706545,
     "deaths": 89201,
     "recovered": 3533960
   },
@@ -133,9 +133,9 @@
   },
   "Canada": {
     "date": "2021-6-5",
-    "confirmed": 1397690,
-    "deaths": 25671,
-    "recovered": 1346242
+    "confirmed": 1397707,
+    "deaths": 25672,
+    "recovered": 1346257
   },
   "Philippines": {
     "date": "2021-6-5",
@@ -205,8 +205,8 @@
   },
   "Jordan": {
     "date": "2021-6-5",
-    "confirmed": 739015,
-    "deaths": 9509,
+    "confirmed": 739319,
+    "deaths": 9516,
     "recovered": 719676
   },
   "Serbia": {
@@ -337,9 +337,9 @@
   },
   "Azerbaijan": {
     "date": "2021-6-5",
-    "confirmed": 334539,
-    "deaths": 4933,
-    "recovered": 326269
+    "confirmed": 334647,
+    "deaths": 4936,
+    "recovered": 326619
   },
   "Costa Rica": {
     "date": "2021-6-5",
@@ -643,9 +643,9 @@
   },
   "Singapore": {
     "date": "2021-6-5",
-    "confirmed": 62158,
+    "confirmed": 62176,
     "deaths": 33,
-    "recovered": 61580
+    "recovered": 61613
   },
   "Namibia": {
     "date": "2021-6-5",
@@ -667,9 +667,9 @@
   },
   "Jamaica": {
     "date": "2021-6-5",
-    "confirmed": 48638,
-    "deaths": 951,
-    "recovered": 25485
+    "confirmed": 48810,
+    "deaths": 960,
+    "recovered": 25936
   },
   "Cote d'Ivoire": {
     "date": "2021-6-5",
@@ -875,6 +875,12 @@
     "deaths": 154,
     "recovered": 11385
   },
+  "Taiwan*": {
+    "date": "2021-6-5",
+    "confirmed": 10956,
+    "deaths": 224,
+    "recovered": 1133
+  },
   "Lesotho": {
     "date": "2021-6-5",
     "confirmed": 10837,
@@ -886,12 +892,6 @@
     "confirmed": 10688,
     "deaths": 115,
     "recovered": 10514
-  },
-  "Taiwan*": {
-    "date": "2021-6-5",
-    "confirmed": 10446,
-    "deaths": 187,
-    "recovered": 1133
   },
   "Equatorial Guinea": {
     "date": "2021-6-5",
