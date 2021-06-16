@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-6-16",
-    "confirmed": 33485549,
-    "deaths": 600263,
+    "confirmed": 33485557,
+    "deaths": 600265,
     "recovered": null
   },
   "India": {
@@ -15,13 +15,13 @@
     "date": "2021-6-16",
     "confirmed": 17533221,
     "deaths": 490696,
-    "recovered": 15515886
+    "recovered": 15519955
   },
   "France": {
     "date": "2021-6-16",
-    "confirmed": 5806247,
+    "confirmed": 5806255,
     "deaths": 110692,
-    "recovered": 400238
+    "recovered": 400260
   },
   "Turkey": {
     "date": "2021-6-16",
@@ -55,9 +55,9 @@
   },
   "Colombia": {
     "date": "2021-6-16",
-    "confirmed": 3777600,
-    "deaths": 96366,
-    "recovered": 3510709
+    "confirmed": 3802052,
+    "deaths": 96965,
+    "recovered": 3539442
   },
   "Spain": {
     "date": "2021-6-16",
@@ -335,17 +335,17 @@
     "deaths": 5083,
     "recovered": 341103
   },
+  "Costa Rica": {
+    "date": "2021-6-16",
+    "confirmed": 345312,
+    "deaths": 4407,
+    "recovered": 265255
+  },
   "Uruguay": {
     "date": "2021-6-16",
     "confirmed": 343615,
     "deaths": 5089,
     "recovered": 307189
-  },
-  "Costa Rica": {
-    "date": "2021-6-16",
-    "confirmed": 343604,
-    "deaths": 4388,
-    "recovered": 262852
   },
   "Azerbaijan": {
     "date": "2021-6-16",
@@ -427,9 +427,9 @@
   },
   "Venezuela": {
     "date": "2021-6-16",
-    "confirmed": 252883,
-    "deaths": 2845,
-    "recovered": 233028
+    "confirmed": 254116,
+    "deaths": 2865,
+    "recovered": 234393
   },
   "Honduras": {
     "date": "2021-6-16",
@@ -445,7 +445,7 @@
   },
   "Sri Lanka": {
     "date": "2021-6-16",
-    "confirmed": 227765,
+    "confirmed": 228256,
     "deaths": 2260,
     "recovered": 192478
   },
@@ -571,9 +571,9 @@
   },
   "China": {
     "date": "2021-6-16",
-    "confirmed": 103403,
+    "confirmed": 103421,
     "deaths": 4846,
-    "recovered": 98003
+    "recovered": 98006
   },
   "Montenegro": {
     "date": "2021-6-16",
@@ -775,9 +775,15 @@
   },
   "Mauritania": {
     "date": "2021-6-16",
-    "confirmed": 20109,
-    "deaths": 476,
-    "recovered": 19181
+    "confirmed": 20151,
+    "deaths": 477,
+    "recovered": 19223
+  },
+  "Suriname": {
+    "date": "2021-6-16",
+    "confirmed": 18825,
+    "deaths": 418,
+    "recovered": 14423
   },
   "Eswatini": {
     "date": "2021-6-16",
@@ -785,17 +791,11 @@
     "deaths": 676,
     "recovered": 17959
   },
-  "Suriname": {
-    "date": "2021-6-16",
-    "confirmed": 18599,
-    "deaths": 412,
-    "recovered": 14172
-  },
   "Guyana": {
     "date": "2021-6-16",
-    "confirmed": 18446,
-    "deaths": 430,
-    "recovered": 16313
+    "confirmed": 18530,
+    "deaths": 437,
+    "recovered": 16401
   },
   "Papua New Guinea": {
     "date": "2021-6-16",
@@ -807,7 +807,7 @@
     "date": "2021-6-16",
     "confirmed": 16662,
     "deaths": 358,
-    "recovered": 12563
+    "recovered": 12568
   },
   "Somalia": {
     "date": "2021-6-16",
