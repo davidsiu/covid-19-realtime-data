@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-6-16",
-    "confirmed": 33491891,
-    "deaths": 600478,
+    "confirmed": 33491995,
+    "deaths": 600498,
     "recovered": null
   },
   "India": {
@@ -67,7 +67,7 @@
   },
   "Germany": {
     "date": "2021-6-16",
-    "confirmed": 3726193,
+    "confirmed": 3726472,
     "deaths": 90117,
     "recovered": 3590630
   },
@@ -109,9 +109,9 @@
   },
   "South Africa": {
     "date": "2021-6-16",
-    "confirmed": 1761066,
-    "deaths": 58087,
-    "recovered": 1616405
+    "confirmed": 1774312,
+    "deaths": 58223,
+    "recovered": 1620317
   },
   "Netherlands": {
     "date": "2021-6-16",
@@ -383,6 +383,12 @@
     "deaths": 4352,
     "recovered": 264362
   },
+  "Guatemala": {
+    "date": "2021-6-16",
+    "confirmed": 275202,
+    "deaths": 8527,
+    "recovered": 249560
+  },
   "Ethiopia": {
     "date": "2021-6-16",
     "confirmed": 274480,
@@ -394,12 +400,6 @@
     "confirmed": 274404,
     "deaths": 15691,
     "recovered": 202650
-  },
-  "Guatemala": {
-    "date": "2021-6-16",
-    "confirmed": 273730,
-    "deaths": 8500,
-    "recovered": 248316
   },
   "Ireland": {
     "date": "2021-6-16",
@@ -523,9 +523,9 @@
   },
   "Algeria": {
     "date": "2021-6-16",
-    "confirmed": 134115,
-    "deaths": 3588,
-    "recovered": 93355
+    "confirmed": 134458,
+    "deaths": 3598,
+    "recovered": 93586
   },
   "Albania": {
     "date": "2021-6-16",
@@ -637,9 +637,9 @@
   },
   "Luxembourg": {
     "date": "2021-6-16",
-    "confirmed": 70466,
+    "confirmed": 70485,
     "deaths": 818,
-    "recovered": 69130
+    "recovered": 69185
   },
   "Namibia": {
     "date": "2021-6-16",
