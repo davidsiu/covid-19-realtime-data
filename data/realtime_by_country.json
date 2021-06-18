@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-6-18",
-    "confirmed": 33508825,
+    "confirmed": 33508867,
     "deaths": 600934,
     "recovered": null
   },
@@ -15,7 +15,7 @@
     "date": "2021-6-18",
     "confirmed": 17702630,
     "deaths": 496004,
-    "recovered": 15633315
+    "recovered": 15660614
   },
   "France": {
     "date": "2021-6-18",
@@ -99,7 +99,7 @@
     "date": "2021-6-18",
     "confirmed": 2019716,
     "deaths": 189757,
-    "recovered": 1972066
+    "recovered": 1975840
   },
   "Indonesia": {
     "date": "2021-6-18",
@@ -446,7 +446,7 @@
   "Sri Lanka": {
     "date": "2021-6-18",
     "confirmed": 233064,
-    "deaths": 2374,
+    "deaths": 2425,
     "recovered": 195434
   },
   "Armenia": {
@@ -601,9 +601,9 @@
   },
   "Mongolia": {
     "date": "2021-6-18",
-    "confirmed": 85770,
-    "deaths": 400,
-    "recovered": 59220
+    "confirmed": 88516,
+    "deaths": 411,
+    "recovered": 61725
   },
   "Cameroon": {
     "date": "2021-6-18",
@@ -821,6 +821,12 @@
     "deaths": 523,
     "recovered": 10001
   },
+  "Seychelles": {
+    "date": "2021-6-18",
+    "confirmed": 14123,
+    "deaths": 55,
+    "recovered": 12505
+  },
   "Andorra": {
     "date": "2021-6-18",
     "confirmed": 13839,
@@ -832,12 +838,6 @@
     "confirmed": 13682,
     "deaths": 127,
     "recovered": 13334
-  },
-  "Seychelles": {
-    "date": "2021-6-18",
-    "confirmed": 13630,
-    "deaths": 50,
-    "recovered": 12173
   },
   "Taiwan*": {
     "date": "2021-6-18",
@@ -953,17 +953,17 @@
     "deaths": 193,
     "recovered": 5178
   },
+  "Eritrea": {
+    "date": "2021-6-18",
+    "confirmed": 5194,
+    "deaths": 19,
+    "recovered": 4654
+  },
   "Saint Lucia": {
     "date": "2021-6-18",
     "confirmed": 5188,
     "deaths": 80,
     "recovered": 5030
-  },
-  "Eritrea": {
-    "date": "2021-6-18",
-    "confirmed": 5108,
-    "deaths": 17,
-    "recovered": 4538
   },
   "Burundi": {
     "date": "2021-6-18",
@@ -1021,9 +1021,9 @@
   },
   "New Zealand": {
     "date": "2021-6-18",
-    "confirmed": 2713,
+    "confirmed": 2715,
     "deaths": 26,
-    "recovered": 2663
+    "recovered": 2665
   },
   "Monaco": {
     "date": "2021-6-18",
@@ -1063,9 +1063,9 @@
   },
   "Fiji": {
     "date": "2021-6-18",
-    "confirmed": 1443,
-    "deaths": 5,
-    "recovered": 388
+    "confirmed": 1533,
+    "deaths": 6,
+    "recovered": 452
   },
   "Antigua and Barbuda": {
     "date": "2021-6-18",
