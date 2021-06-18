@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-6-18",
-    "confirmed": 33508384,
-    "deaths": 600933,
+    "confirmed": 33508737,
+    "deaths": 600937,
     "recovered": null
   },
   "India": {
@@ -19,9 +19,9 @@
   },
   "France": {
     "date": "2021-6-18",
-    "confirmed": 5811456,
+    "confirmed": 5811461,
     "deaths": 110796,
-    "recovered": 401356
+    "recovered": 401364
   },
   "Turkey": {
     "date": "2021-6-18",
@@ -37,9 +37,9 @@
   },
   "United Kingdom": {
     "date": "2021-6-18",
-    "confirmed": 4616616,
+    "confirmed": 4616628,
     "deaths": 128209,
-    "recovered": 15563
+    "recovered": 15601
   },
   "Italy": {
     "date": "2021-6-18",
@@ -85,9 +85,9 @@
   },
   "Mexico": {
     "date": "2021-6-18",
-    "confirmed": 2463390,
-    "deaths": 230624,
-    "recovered": 1962152
+    "confirmed": 2467643,
+    "deaths": 230792,
+    "recovered": 1964300
   },
   "Ukraine": {
     "date": "2021-6-18",
@@ -115,9 +115,9 @@
   },
   "Netherlands": {
     "date": "2021-6-18",
-    "confirmed": 1704296,
+    "confirmed": 1704305,
     "deaths": 18001,
-    "recovered": 27159
+    "recovered": 27171
   },
   "Czechia": {
     "date": "2021-6-18",
@@ -163,8 +163,8 @@
   },
   "Belgium": {
     "date": "2021-6-18",
-    "confirmed": 1077758,
-    "deaths": 25110,
+    "confirmed": 1078251,
+    "deaths": 25117,
     "recovered": null
   },
   "Pakistan": {
@@ -391,9 +391,9 @@
   },
   "Egypt": {
     "date": "2021-6-18",
-    "confirmed": 275010,
-    "deaths": 15723,
-    "recovered": 203193
+    "confirmed": 275601,
+    "deaths": 15760,
+    "recovered": 203802
   },
   "Ethiopia": {
     "date": "2021-6-18",
@@ -413,6 +413,12 @@
     "deaths": 1271,
     "recovered": 250586
   },
+  "Venezuela": {
+    "date": "2021-6-18",
+    "confirmed": 256862,
+    "deaths": 2906,
+    "recovered": 236983
+  },
   "Slovenia": {
     "date": "2021-6-18",
     "confirmed": 256784,
@@ -424,12 +430,6 @@
     "confirmed": 255994,
     "deaths": 6162,
     "recovered": 248984
-  },
-  "Venezuela": {
-    "date": "2021-6-18",
-    "confirmed": 255457,
-    "deaths": 2886,
-    "recovered": 235795
   },
   "Honduras": {
     "date": "2021-6-18",
@@ -571,9 +571,9 @@
   },
   "China": {
     "date": "2021-6-18",
-    "confirmed": 103458,
+    "confirmed": 103467,
     "deaths": 4846,
-    "recovered": 98038
+    "recovered": 98051
   },
   "Montenegro": {
     "date": "2021-6-18",
@@ -739,7 +739,7 @@
   },
   "Australia": {
     "date": "2021-6-18",
-    "confirmed": 30307,
+    "confirmed": 30309,
     "deaths": 910,
     "recovered": 23720
   },
@@ -781,9 +781,9 @@
   },
   "Suriname": {
     "date": "2021-6-18",
-    "confirmed": 19108,
-    "deaths": 427,
-    "recovered": 14572
+    "confirmed": 19361,
+    "deaths": 436,
+    "recovered": 14850
   },
   "Eswatini": {
     "date": "2021-6-18",
@@ -801,7 +801,7 @@
     "date": "2021-6-18",
     "confirmed": 16859,
     "deaths": 361,
-    "recovered": 12568
+    "recovered": 12590
   },
   "Papua New Guinea": {
     "date": "2021-6-18",
@@ -823,9 +823,9 @@
   },
   "Andorra": {
     "date": "2021-6-18",
-    "confirmed": 13836,
+    "confirmed": 13839,
     "deaths": 127,
-    "recovered": 13633
+    "recovered": 13640
   },
   "Togo": {
     "date": "2021-6-18",
@@ -907,9 +907,9 @@
   },
   "Timor-Leste": {
     "date": "2021-6-18",
-    "confirmed": 8478,
+    "confirmed": 8504,
     "deaths": 19,
-    "recovered": 7184
+    "recovered": 7300
   },
   "Benin": {
     "date": "2021-6-18",
@@ -991,9 +991,9 @@
   },
   "Barbados": {
     "date": "2021-6-18",
-    "confirmed": 4038,
+    "confirmed": 4039,
     "deaths": 47,
-    "recovered": 3971
+    "recovered": 3980
   },
   "Comoros": {
     "date": "2021-6-18",
@@ -1039,9 +1039,9 @@
   },
   "Saint Vincent and the Grenadines": {
     "date": "2021-6-18",
-    "confirmed": 2172,
+    "confirmed": 2178,
     "deaths": 12,
-    "recovered": 1920
+    "recovered": 1925
   },
   "Laos": {
     "date": "2021-6-18",
@@ -1051,9 +1051,9 @@
   },
   "Bhutan": {
     "date": "2021-6-18",
-    "confirmed": 1854,
+    "confirmed": 1882,
     "deaths": 1,
-    "recovered": 1501
+    "recovered": 1530
   },
   "Mauritius": {
     "date": "2021-6-18",
