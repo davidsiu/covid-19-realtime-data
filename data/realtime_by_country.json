@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-6-24",
-    "confirmed": 33577712,
-    "deaths": 602837,
+    "confirmed": 33578819,
+    "deaths": 602838,
     "recovered": null
   },
   "India": {
@@ -199,9 +199,9 @@
   },
   "Japan": {
     "date": "2021-6-24",
-    "confirmed": 790876,
-    "deaths": 14529,
-    "recovered": 754178
+    "confirmed": 791380,
+    "deaths": 14548,
+    "recovered": 756137
   },
   "Jordan": {
     "date": "2021-6-24",
@@ -337,9 +337,9 @@
   },
   "Croatia": {
     "date": "2021-6-24",
-    "confirmed": 359302,
-    "deaths": 8190,
-    "recovered": 350595
+    "confirmed": 359403,
+    "deaths": 8192,
+    "recovered": 350669
   },
   "Costa Rica": {
     "date": "2021-6-24",
@@ -421,9 +421,15 @@
   },
   "Slovenia": {
     "date": "2021-6-24",
-    "confirmed": 257116,
+    "confirmed": 257164,
     "deaths": 4417,
-    "recovered": 251496
+    "recovered": 251692
+  },
+  "Oman": {
+    "date": "2021-6-24",
+    "confirmed": 256542,
+    "deaths": 2848,
+    "recovered": 224077
   },
   "Moldova": {
     "date": "2021-6-24",
@@ -436,12 +442,6 @@
     "confirmed": 255663,
     "deaths": 6844,
     "recovered": 92014
-  },
-  "Oman": {
-    "date": "2021-6-24",
-    "confirmed": 254656,
-    "deaths": 2816,
-    "recovered": 222344
   },
   "Sri Lanka": {
     "date": "2021-6-24",
@@ -1019,6 +1019,12 @@
     "deaths": 59,
     "recovered": 2957
   },
+  "Fiji": {
+    "date": "2021-6-24",
+    "confirmed": 2848,
+    "deaths": 13,
+    "recovered": 653
+  },
   "New Zealand": {
     "date": "2021-6-24",
     "confirmed": 2724,
@@ -1030,12 +1036,6 @@
     "confirmed": 2557,
     "deaths": 33,
     "recovered": 2491
-  },
-  "Fiji": {
-    "date": "2021-6-24",
-    "confirmed": 2549,
-    "deaths": 13,
-    "recovered": 636
   },
   "Sao Tome and Principe": {
     "date": "2021-6-24",
@@ -1099,7 +1099,7 @@
   },
   "Dominica": {
     "date": "2021-6-24",
-    "confirmed": 191,
+    "confirmed": 192,
     "deaths": 0,
     "recovered": 189
   },
