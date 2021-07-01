@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-7-1",
-    "confirmed": 33664768,
+    "confirmed": 33664909,
     "deaths": 604714,
     "recovered": null
   },
@@ -281,6 +281,12 @@
     "deaths": 16702,
     "recovered": 358851
   },
+  "Paraguay": {
+    "date": "2021-7-1",
+    "confirmed": 423282,
+    "deaths": 12895,
+    "recovered": 370655
+  },
   "Greece": {
     "date": "2021-7-1",
     "confirmed": 422456,
@@ -292,12 +298,6 @@
     "confirmed": 421829,
     "deaths": 18061,
     "recovered": 394657
-  },
-  "Paraguay": {
-    "date": "2021-7-1",
-    "confirmed": 421589,
-    "deaths": 12763,
-    "recovered": 368004
   },
   "Tunisia": {
     "date": "2021-7-1",
@@ -313,9 +313,9 @@
   },
   "Panama": {
     "date": "2021-7-1",
-    "confirmed": 402581,
-    "deaths": 6536,
-    "recovered": 383656
+    "confirmed": 403778,
+    "deaths": 6545,
+    "recovered": 384703
   },
   "Slovakia": {
     "date": "2021-7-1",
@@ -593,23 +593,23 @@
     "deaths": 1613,
     "recovered": 98352
   },
+  "Ghana": {
+    "date": "2021-7-1",
+    "confirmed": 95914,
+    "deaths": 796,
+    "recovered": 93444
+  },
   "Finland": {
     "date": "2021-7-1",
     "confirmed": 95742,
     "deaths": 969,
     "recovered": 46000
   },
-  "Ghana": {
-    "date": "2021-7-1",
-    "confirmed": 95642,
-    "deaths": 795,
-    "recovered": 93288
-  },
   "Namibia": {
     "date": "2021-7-1",
-    "confirmed": 86649,
-    "deaths": 1445,
-    "recovered": 64900
+    "confirmed": 89917,
+    "deaths": 1521,
+    "recovered": 67330
   },
   "Cameroon": {
     "date": "2021-7-1",
@@ -637,7 +637,7 @@
   },
   "Cyprus": {
     "date": "2021-7-1",
-    "confirmed": 75431,
+    "confirmed": 75860,
     "deaths": 374,
     "recovered": 39061
   },
@@ -751,9 +751,9 @@
   },
   "Australia": {
     "date": "2021-7-1",
-    "confirmed": 30611,
+    "confirmed": 30615,
     "deaths": 910,
-    "recovered": 23810
+    "recovered": 23811
   },
   "Syria": {
     "date": "2021-7-1",
@@ -811,9 +811,9 @@
   },
   "Vietnam": {
     "date": "2021-7-1",
-    "confirmed": 16507,
-    "deaths": 80,
-    "recovered": 6764
+    "confirmed": 16863,
+    "deaths": 81,
+    "recovered": 6840
   },
   "Seychelles": {
     "date": "2021-7-1",
