@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-7-5",
-    "confirmed": 33720658,
+    "confirmed": 33720860,
     "deaths": 605560,
     "recovered": null
   },
@@ -15,7 +15,7 @@
     "date": "2021-7-5",
     "confirmed": 18769808,
     "deaths": 524417,
-    "recovered": 16594870
+    "recovered": 16601720
   },
   "France": {
     "date": "2021-7-5",
@@ -67,7 +67,7 @@
   },
   "Germany": {
     "date": "2021-7-5",
-    "confirmed": 3738584,
+    "confirmed": 3738634,
     "deaths": 91045,
     "recovered": 3627620
   },
@@ -139,9 +139,9 @@
   },
   "Canada": {
     "date": "2021-7-5",
-    "confirmed": 1424774,
-    "deaths": 26322,
-    "recovered": 1392138
+    "confirmed": 1424993,
+    "deaths": 26331,
+    "recovered": 1392442
   },
   "Iraq": {
     "date": "2021-7-5",
@@ -275,17 +275,17 @@
     "deaths": 21660,
     "recovered": 423688
   },
+  "Tunisia": {
+    "date": "2021-7-5",
+    "confirmed": 447161,
+    "deaths": 15482,
+    "recovered": 364538
+  },
   "Bolivia": {
     "date": "2021-7-5",
     "confirmed": 444968,
     "deaths": 16951,
     "recovered": 368327
-  },
-  "Tunisia": {
-    "date": "2021-7-5",
-    "confirmed": 443631,
-    "deaths": 15377,
-    "recovered": 362236
   },
   "Paraguay": {
     "date": "2021-7-5",
@@ -523,9 +523,9 @@
   },
   "Algeria": {
     "date": "2021-7-5",
-    "confirmed": 141471,
-    "deaths": 3755,
-    "recovered": 98387
+    "confirmed": 141966,
+    "deaths": 3765,
+    "recovered": 98748
   },
   "Latvia": {
     "date": "2021-7-5",
@@ -593,6 +593,12 @@
     "deaths": 1619,
     "recovered": 98441
   },
+  "Namibia": {
+    "date": "2021-7-5",
+    "confirmed": 97087,
+    "deaths": 1662,
+    "recovered": 70773
+  },
   "Finland": {
     "date": "2021-7-5",
     "confirmed": 96569,
@@ -604,12 +610,6 @@
     "confirmed": 96402,
     "deaths": 796,
     "recovered": 93987
-  },
-  "Namibia": {
-    "date": "2021-7-5",
-    "confirmed": 95703,
-    "deaths": 1649,
-    "recovered": 70383
   },
   "Uganda": {
     "date": "2021-7-5",
@@ -1127,16 +1127,16 @@
     "deaths": 2,
     "recovered": 7
   },
+  "Summer Olympics 2020": {
+    "date": "2021-7-5",
+    "confirmed": 6,
+    "deaths": 0,
+    "recovered": null
+  },
   "Marshall Islands": {
     "date": "2021-7-5",
     "confirmed": 4,
     "deaths": 0,
     "recovered": 4
-  },
-  "Vanuatu": {
-    "date": "2021-7-5",
-    "confirmed": 4,
-    "deaths": 1,
-    "recovered": 3
   }
 }
