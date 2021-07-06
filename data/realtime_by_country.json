@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-7-6",
-    "confirmed": 33723122,
+    "confirmed": 33723157,
     "deaths": 605567,
     "recovered": null
   },
@@ -199,7 +199,7 @@
   },
   "Japan": {
     "date": "2021-7-6",
-    "confirmed": 808220,
+    "confirmed": 808243,
     "deaths": 14812,
     "recovered": 774886
   },
@@ -533,6 +533,12 @@
     "deaths": 2528,
     "recovered": 134354
   },
+  "Kyrgyzstan": {
+    "date": "2021-7-6",
+    "confirmed": 133303,
+    "deaths": 2054,
+    "recovered": 113975
+  },
   "Albania": {
     "date": "2021-7-6",
     "confirmed": 132537,
@@ -544,12 +550,6 @@
     "confirmed": 132136,
     "deaths": 794,
     "recovered": 17998
-  },
-  "Kyrgyzstan": {
-    "date": "2021-7-6",
-    "confirmed": 132070,
-    "deaths": 2046,
-    "recovered": 113212
   },
   "Estonia": {
     "date": "2021-7-6",
@@ -571,9 +571,9 @@
   },
   "Uzbekistan": {
     "date": "2021-7-6",
-    "confirmed": 113072,
-    "deaths": 751,
-    "recovered": 109068
+    "confirmed": 113568,
+    "deaths": 754,
+    "recovered": 109349
   },
   "Kosovo": {
     "date": "2021-7-6",
@@ -665,17 +665,17 @@
     "deaths": 36,
     "recovered": 62299
   },
+  "Cambodia": {
+    "date": "2021-7-6",
+    "confirmed": 56122,
+    "deaths": 779,
+    "recovered": 48040
+  },
   "Zimbabwe": {
     "date": "2021-7-6",
     "confirmed": 56014,
     "deaths": 1911,
     "recovered": 41406
-  },
-  "Cambodia": {
-    "date": "2021-7-6",
-    "confirmed": 55187,
-    "deaths": 748,
-    "recovered": 47386
   },
   "Jamaica": {
     "date": "2021-7-6",
@@ -745,9 +745,9 @@
   },
   "Australia": {
     "date": "2021-7-6",
-    "confirmed": 30831,
+    "confirmed": 30832,
     "deaths": 910,
-    "recovered": 23843
+    "recovered": 23844
   },
   "Malta": {
     "date": "2021-7-6",
