@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-7-9",
-    "confirmed": 33790468,
+    "confirmed": 33790505,
     "deaths": 606475,
     "recovered": null
   },
@@ -37,7 +37,7 @@
   },
   "United Kingdom": {
     "date": "2021-7-9",
-    "confirmed": 5040053,
+    "confirmed": 5040060,
     "deaths": 128601,
     "recovered": 15888
   },
@@ -109,9 +109,9 @@
   },
   "Peru": {
     "date": "2021-7-9",
-    "confirmed": 2071637,
-    "deaths": 193743,
-    "recovered": 2032613
+    "confirmed": 2074186,
+    "deaths": 193909,
+    "recovered": 2035017
   },
   "Netherlands": {
     "date": "2021-7-9",
@@ -395,17 +395,17 @@
     "deaths": 16351,
     "recovered": 216982
   },
+  "Venezuela": {
+    "date": "2021-7-9",
+    "confirmed": 281907,
+    "deaths": 3253,
+    "recovered": 263830
+  },
   "Oman": {
     "date": "2021-7-9",
     "confirmed": 281688,
     "deaths": 3371,
     "recovered": 250564
-  },
-  "Venezuela": {
-    "date": "2021-7-9",
-    "confirmed": 280980,
-    "deaths": 3239,
-    "recovered": 262677
   },
   "Lithuania": {
     "date": "2021-7-9",
@@ -539,6 +539,12 @@
     "deaths": 2073,
     "recovered": 115513
   },
+  "Mongolia": {
+    "date": "2021-7-9",
+    "confirmed": 134270,
+    "deaths": 660,
+    "recovered": 96513
+  },
   "Norway": {
     "date": "2021-7-9",
     "confirmed": 132673,
@@ -550,12 +556,6 @@
     "confirmed": 132565,
     "deaths": 2456,
     "recovered": 130037
-  },
-  "Mongolia": {
-    "date": "2021-7-9",
-    "confirmed": 131962,
-    "deaths": 655,
-    "recovered": 93840
   },
   "Estonia": {
     "date": "2021-7-9",
