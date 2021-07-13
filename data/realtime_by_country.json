@@ -1,15 +1,15 @@
 {
   "US": {
     "date": "2021-7-13",
-    "confirmed": 33890833,
-    "deaths": 607442,
+    "confirmed": 33890840,
+    "deaths": 607445,
     "recovered": null
   },
   "India": {
     "date": "2021-7-13",
-    "confirmed": 30874376,
-    "deaths": 408764,
-    "recovered": 30014713
+    "confirmed": 30907282,
+    "deaths": 410784,
+    "recovered": 30063720
   },
   "Brazil": {
     "date": "2021-7-13",
@@ -37,9 +37,9 @@
   },
   "United Kingdom": {
     "date": "2021-7-13",
-    "confirmed": 5173972,
+    "confirmed": 5173995,
     "deaths": 128697,
-    "recovered": 15991
+    "recovered": 16003
   },
   "Argentina": {
     "date": "2021-7-13",
@@ -67,15 +67,15 @@
   },
   "Germany": {
     "date": "2021-7-13",
-    "confirmed": 3744380,
+    "confirmed": 3744440,
     "deaths": 91268,
     "recovered": 3633520
   },
   "Iran": {
     "date": "2021-7-13",
-    "confirmed": 3394279,
-    "deaths": 86041,
-    "recovered": 3041541
+    "confirmed": 3417029,
+    "deaths": 86207,
+    "recovered": 3056160
   },
   "Poland": {
     "date": "2021-7-13",
@@ -223,7 +223,7 @@
   },
   "Switzerland": {
     "date": "2021-7-13",
-    "confirmed": 705765,
+    "confirmed": 706248,
     "deaths": 10900,
     "recovered": 317600
   },
@@ -697,9 +697,9 @@
   },
   "Senegal": {
     "date": "2021-7-13",
-    "confirmed": 46509,
-    "deaths": 1196,
-    "recovered": 42436
+    "confirmed": 46863,
+    "deaths": 1201,
+    "recovered": 42547
   },
   "Congo (Kinshasa)": {
     "date": "2021-7-13",
@@ -749,17 +749,17 @@
     "deaths": 125,
     "recovered": 9331
   },
+  "Malta": {
+    "date": "2021-7-13",
+    "confirmed": 31394,
+    "deaths": 420,
+    "recovered": 30192
+  },
   "Australia": {
     "date": "2021-7-13",
     "confirmed": 31323,
     "deaths": 912,
     "recovered": 23899
-  },
-  "Malta": {
-    "date": "2021-7-13",
-    "confirmed": 31240,
-    "deaths": 420,
-    "recovered": 30186
   },
   "Syria": {
     "date": "2021-7-13",
@@ -881,6 +881,12 @@
     "deaths": 167,
     "recovered": 11759
   },
+  "Fiji": {
+    "date": "2021-7-13",
+    "confirmed": 12032,
+    "deaths": 59,
+    "recovered": 2221
+  },
   "Lesotho": {
     "date": "2021-7-13",
     "confirmed": 11903,
@@ -892,12 +898,6 @@
     "confirmed": 11621,
     "deaths": 155,
     "recovered": 11454
-  },
-  "Fiji": {
-    "date": "2021-7-13",
-    "confirmed": 11385,
-    "deaths": 58,
-    "recovered": 1991
   },
   "South Sudan": {
     "date": "2021-7-13",
