@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-7-15",
-    "confirmed": 33948497,
-    "deaths": 608141,
+    "confirmed": 33951558,
+    "deaths": 608152,
     "recovered": null
   },
   "India": {
@@ -37,8 +37,8 @@
   },
   "United Kingdom": {
     "date": "2021-7-15",
-    "confirmed": 5252691,
-    "deaths": 128797,
+    "confirmed": 5252964,
+    "deaths": 128799,
     "recovered": 16133
   },
   "Argentina": {
@@ -67,7 +67,7 @@
   },
   "Germany": {
     "date": "2021-7-15",
-    "confirmed": 3747291,
+    "confirmed": 3747419,
     "deaths": 91326,
     "recovered": 3635520
   },
@@ -211,14 +211,14 @@
   },
   "Jordan": {
     "date": "2021-7-15",
-    "confirmed": 759025,
-    "deaths": 9864,
-    "recovered": 741540
+    "confirmed": 759686,
+    "deaths": 9872,
+    "recovered": 742065
   },
   "Serbia": {
     "date": "2021-7-15",
-    "confirmed": 717937,
-    "deaths": 7077,
+    "confirmed": 718093,
+    "deaths": 7078,
     "recovered": null
   },
   "Switzerland": {
@@ -481,9 +481,9 @@
   },
   "Burma": {
     "date": "2021-7-15",
-    "confirmed": 208357,
-    "deaths": 4181,
-    "recovered": 151442
+    "confirmed": 212545,
+    "deaths": 4346,
+    "recovered": 153609
   },
   "Bosnia and Herzegovina": {
     "date": "2021-7-15",
@@ -857,6 +857,12 @@
     "deaths": 109,
     "recovered": 13600
   },
+  "Fiji": {
+    "date": "2021-7-15",
+    "confirmed": 13886,
+    "deaths": 74,
+    "recovered": 2748
+  },
   "Belize": {
     "date": "2021-7-15",
     "confirmed": 13613,
@@ -886,12 +892,6 @@
     "confirmed": 12153,
     "deaths": 338,
     "recovered": 6601
-  },
-  "Fiji": {
-    "date": "2021-7-15",
-    "confirmed": 12032,
-    "deaths": 59,
-    "recovered": 2221
   },
   "Djibouti": {
     "date": "2021-7-15",
@@ -1019,17 +1019,17 @@
     "deaths": 70,
     "recovered": 3651
   },
+  "Laos": {
+    "date": "2021-7-15",
+    "confirmed": 3092,
+    "deaths": 4,
+    "recovered": 2174
+  },
   "Liechtenstein": {
     "date": "2021-7-15",
     "confirmed": 3060,
     "deaths": 59,
     "recovered": 2984
-  },
-  "Laos": {
-    "date": "2021-7-15",
-    "confirmed": 2976,
-    "deaths": 3,
-    "recovered": 2174
   },
   "New Zealand": {
     "date": "2021-7-15",
