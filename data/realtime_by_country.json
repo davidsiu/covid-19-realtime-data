@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-7-20",
-    "confirmed": 34129326,
+    "confirmed": 34129328,
     "deaths": 609227,
     "recovered": null
   },
@@ -37,7 +37,7 @@
   },
   "United Kingdom": {
     "date": "2021-7-20",
-    "confirmed": 5494848,
+    "confirmed": 5494850,
     "deaths": 129007,
     "recovered": 16443
   },
@@ -253,9 +253,9 @@
   },
   "Lebanon": {
     "date": "2021-7-20",
-    "confirmed": 550942,
-    "deaths": 7885,
-    "recovered": 535216
+    "confirmed": 551157,
+    "deaths": 7886,
+    "recovered": 535485
   },
   "Kazakhstan": {
     "date": "2021-7-20",
@@ -493,9 +493,9 @@
   },
   "Kenya": {
     "date": "2021-7-20",
-    "confirmed": 192758,
-    "deaths": 3775,
-    "recovered": 182326
+    "confirmed": 193189,
+    "deaths": 3783,
+    "recovered": 182921
   },
   "Zambia": {
     "date": "2021-7-20",
@@ -511,9 +511,9 @@
   },
   "Nigeria": {
     "date": "2021-7-20",
-    "confirmed": 169532,
-    "deaths": 2127,
-    "recovered": 164699
+    "confirmed": 169678,
+    "deaths": 2128,
+    "recovered": 164720
   },
   "North Macedonia": {
     "date": "2021-7-20",
@@ -553,7 +553,7 @@
   },
   "Norway": {
     "date": "2021-7-20",
-    "confirmed": 134339,
+    "confirmed": 134534,
     "deaths": 796,
     "recovered": 17998
   },
@@ -601,9 +601,9 @@
   },
   "Montenegro": {
     "date": "2021-7-20",
-    "confirmed": 100662,
+    "confirmed": 100690,
     "deaths": 1623,
-    "recovered": 98676
+    "recovered": 98686
   },
   "Finland": {
     "date": "2021-7-20",
@@ -617,17 +617,17 @@
     "deaths": 812,
     "recovered": 95147
   },
+  "Cyprus": {
+    "date": "2021-7-20",
+    "confirmed": 92252,
+    "deaths": 390,
+    "recovered": 39061
+  },
   "Botswana": {
     "date": "2021-7-20",
     "confirmed": 91902,
     "deaths": 1328,
     "recovered": 75782
-  },
-  "Cyprus": {
-    "date": "2021-7-20",
-    "confirmed": 91196,
-    "deaths": 385,
-    "recovered": 39061
   },
   "Uganda": {
     "date": "2021-7-20",
@@ -703,9 +703,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2021-7-20",
-    "confirmed": 49196,
-    "deaths": 320,
-    "recovered": 48445
+    "confirmed": 49219,
+    "deaths": 322,
+    "recovered": 48493
   },
   "Congo (Kinshasa)": {
     "date": "2021-7-20",
@@ -757,7 +757,7 @@
   },
   "Australia": {
     "date": "2021-7-20",
-    "confirmed": 32017,
+    "confirmed": 32032,
     "deaths": 915,
     "recovered": 23946
   },
@@ -809,6 +809,12 @@
     "deaths": 508,
     "recovered": 12961
   },
+  "Seychelles": {
+    "date": "2021-7-20",
+    "confirmed": 17541,
+    "deaths": 86,
+    "recovered": 16814
+  },
   "Fiji": {
     "date": "2021-7-20",
     "confirmed": 17514,
@@ -817,15 +823,9 @@
   },
   "Papua New Guinea": {
     "date": "2021-7-20",
-    "confirmed": 17340,
-    "deaths": 179,
-    "recovered": 16975
-  },
-  "Seychelles": {
-    "date": "2021-7-20",
-    "confirmed": 17234,
-    "deaths": 81,
-    "recovered": 16322
+    "confirmed": 17467,
+    "deaths": 187,
+    "recovered": 17146
   },
   "Taiwan*": {
     "date": "2021-7-20",
@@ -865,9 +865,9 @@
   },
   "Belize": {
     "date": "2021-7-20",
-    "confirmed": 13683,
+    "confirmed": 13772,
     "deaths": 332,
-    "recovered": 13035
+    "recovered": 13090
   },
   "Bahamas": {
     "date": "2021-7-20",
@@ -883,8 +883,8 @@
   },
   "Congo (Brazzaville)": {
     "date": "2021-7-20",
-    "confirmed": 12933,
-    "deaths": 172,
+    "confirmed": 12998,
+    "deaths": 174,
     "recovered": 11759
   },
   "Lesotho": {
@@ -973,15 +973,15 @@
   },
   "Niger": {
     "date": "2021-7-20",
-    "confirmed": 5587,
+    "confirmed": 5590,
     "deaths": 194,
-    "recovered": 5277
+    "recovered": 5283
   },
   "Saint Lucia": {
     "date": "2021-7-20",
-    "confirmed": 5480,
+    "confirmed": 5481,
     "deaths": 87,
-    "recovered": 5269
+    "recovered": 5284
   },
   "Liberia": {
     "date": "2021-7-20",
@@ -991,7 +991,7 @@
   },
   "San Marino": {
     "date": "2021-7-20",
-    "confirmed": 5094,
+    "confirmed": 5099,
     "deaths": 90,
     "recovered": 5002
   },
@@ -1003,7 +1003,7 @@
   },
   "Barbados": {
     "date": "2021-7-20",
-    "confirmed": 4258,
+    "confirmed": 4269,
     "deaths": 48,
     "recovered": 4058
   },
@@ -1027,9 +1027,9 @@
   },
   "Liechtenstein": {
     "date": "2021-7-20",
-    "confirmed": 3061,
+    "confirmed": 3069,
     "deaths": 59,
-    "recovered": 2989
+    "recovered": 2994
   },
   "New Zealand": {
     "date": "2021-7-20",
