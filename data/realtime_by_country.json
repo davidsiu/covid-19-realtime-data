@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-7-23",
-    "confirmed": 34275134,
-    "deaths": 610264,
+    "confirmed": 34278077,
+    "deaths": 610132,
     "recovered": null
   },
   "India": {
@@ -19,9 +19,9 @@
   },
   "France": {
     "date": "2021-7-23",
-    "confirmed": 5996021,
-    "deaths": 111748,
-    "recovered": 409992
+    "confirmed": 5996060,
+    "deaths": 111749,
+    "recovered": 410035
   },
   "Russia": {
     "date": "2021-7-23",
@@ -67,7 +67,7 @@
   },
   "Germany": {
     "date": "2021-7-23",
-    "confirmed": 3758435,
+    "confirmed": 3758425,
     "deaths": 91477,
     "recovered": 3641010
   },
@@ -145,9 +145,9 @@
   },
   "Canada": {
     "date": "2021-7-23",
-    "confirmed": 1432598,
+    "confirmed": 1432606,
     "deaths": 26484,
-    "recovered": 1401174
+    "recovered": 1401177
   },
   "Bangladesh": {
     "date": "2021-7-23",
@@ -595,9 +595,9 @@
   },
   "China": {
     "date": "2021-7-23",
-    "confirmed": 104443,
+    "confirmed": 104448,
     "deaths": 4848,
-    "recovered": 98878
+    "recovered": 98885
   },
   "Finland": {
     "date": "2021-7-23",
@@ -617,6 +617,12 @@
     "deaths": 815,
     "recovered": 95221
   },
+  "Botswana": {
+    "date": "2021-7-23",
+    "confirmed": 97657,
+    "deaths": 1375,
+    "recovered": 84189
+  },
   "Cyprus": {
     "date": "2021-7-23",
     "confirmed": 95307,
@@ -628,12 +634,6 @@
     "confirmed": 93421,
     "deaths": 2870,
     "recovered": 61723
-  },
-  "Botswana": {
-    "date": "2021-7-23",
-    "confirmed": 91902,
-    "deaths": 1328,
-    "recovered": 75782
   },
   "Uganda": {
     "date": "2021-7-23",
@@ -659,17 +659,17 @@
     "deaths": 218,
     "recovered": 73637
   },
+  "Vietnam": {
+    "date": "2021-7-23",
+    "confirmed": 74371,
+    "deaths": 370,
+    "recovered": 13421
+  },
   "Luxembourg": {
     "date": "2021-7-23",
     "confirmed": 73309,
     "deaths": 821,
     "recovered": 70989
-  },
-  "Vietnam": {
-    "date": "2021-7-23",
-    "confirmed": 71144,
-    "deaths": 370,
-    "recovered": 11971
   },
   "Cambodia": {
     "date": "2021-7-23",
@@ -685,9 +685,9 @@
   },
   "Rwanda": {
     "date": "2021-7-23",
-    "confirmed": 60066,
-    "deaths": 693,
-    "recovered": 43055
+    "confirmed": 61375,
+    "deaths": 704,
+    "recovered": 43924
   },
   "Senegal": {
     "date": "2021-7-23",
@@ -703,9 +703,9 @@
   },
   "Cote d'Ivoire": {
     "date": "2021-7-23",
-    "confirmed": 49288,
-    "deaths": 322,
-    "recovered": 48537
+    "confirmed": 49386,
+    "deaths": 324,
+    "recovered": 48655
   },
   "Congo (Kinshasa)": {
     "date": "2021-7-23",
@@ -727,9 +727,9 @@
   },
   "Angola": {
     "date": "2021-7-23",
-    "confirmed": 41227,
-    "deaths": 973,
-    "recovered": 34893
+    "confirmed": 41405,
+    "deaths": 977,
+    "recovered": 35082
   },
   "Sudan": {
     "date": "2021-7-23",
@@ -745,9 +745,9 @@
   },
   "Cabo Verde": {
     "date": "2021-7-23",
-    "confirmed": 33395,
+    "confirmed": 33452,
     "deaths": 297,
-    "recovered": 32570
+    "recovered": 32617
   },
   "Malta": {
     "date": "2021-7-23",
@@ -759,13 +759,13 @@
     "date": "2021-7-23",
     "confirmed": 32444,
     "deaths": 915,
-    "recovered": 23980
+    "recovered": 23982
   },
   "Syria": {
     "date": "2021-7-23",
-    "confirmed": 25849,
+    "confirmed": 25853,
     "deaths": 1905,
-    "recovered": 21928
+    "recovered": 21933
   },
   "Gabon": {
     "date": "2021-7-23",
@@ -781,15 +781,15 @@
   },
   "Suriname": {
     "date": "2021-7-23",
-    "confirmed": 24490,
-    "deaths": 625,
-    "recovered": 20681
+    "confirmed": 24573,
+    "deaths": 626,
+    "recovered": 20846
   },
   "Mauritania": {
     "date": "2021-7-23",
-    "confirmed": 23093,
-    "deaths": 516,
-    "recovered": 21010
+    "confirmed": 23223,
+    "deaths": 517,
+    "recovered": 21085
   },
   "Eswatini": {
     "date": "2021-7-23",
@@ -1015,9 +1015,9 @@
   },
   "Guinea-Bissau": {
     "date": "2021-7-23",
-    "confirmed": 4108,
+    "confirmed": 4117,
     "deaths": 74,
-    "recovered": 3744
+    "recovered": 3756
   },
   "Comoros": {
     "date": "2021-7-23",
