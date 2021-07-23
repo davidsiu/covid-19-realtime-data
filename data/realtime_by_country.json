@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-7-23",
-    "confirmed": 34273511,
-    "deaths": 610125,
+    "confirmed": 34275134,
+    "deaths": 610264,
     "recovered": null
   },
   "India": {
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2021-7-23",
-    "confirmed": 19473954,
-    "deaths": 545604,
+    "confirmed": 19523711,
+    "deaths": 547016,
     "recovered": 17464880
   },
   "France": {
@@ -359,6 +359,12 @@
     "deaths": 8245,
     "recovered": 352966
   },
+  "Guatemala": {
+    "date": "2021-7-23",
+    "confirmed": 344221,
+    "deaths": 10029,
+    "recovered": 299752
+  },
   "Azerbaijan": {
     "date": "2021-7-23",
     "confirmed": 339274,
@@ -370,12 +376,6 @@
     "confirmed": 338902,
     "deaths": 3931,
     "recovered": 287607
-  },
-  "Guatemala": {
-    "date": "2021-7-23",
-    "confirmed": 334375,
-    "deaths": 9927,
-    "recovered": 293208
   },
   "West Bank and Gaza": {
     "date": "2021-7-23",
@@ -427,9 +427,9 @@
   },
   "Egypt": {
     "date": "2021-7-23",
-    "confirmed": 283862,
-    "deaths": 16465,
-    "recovered": 225869
+    "confirmed": 283906,
+    "deaths": 16470,
+    "recovered": 226535
   },
   "Lithuania": {
     "date": "2021-7-23",
@@ -511,9 +511,9 @@
   },
   "Nigeria": {
     "date": "2021-7-23",
-    "confirmed": 170122,
+    "confirmed": 170306,
     "deaths": 2130,
-    "recovered": 164741
+    "recovered": 164772
   },
   "Algeria": {
     "date": "2021-7-23",
@@ -607,9 +607,9 @@
   },
   "Montenegro": {
     "date": "2021-7-23",
-    "confirmed": 100802,
+    "confirmed": 100865,
     "deaths": 1624,
-    "recovered": 98739
+    "recovered": 98761
   },
   "Ghana": {
     "date": "2021-7-23",
@@ -619,8 +619,8 @@
   },
   "Cyprus": {
     "date": "2021-7-23",
-    "confirmed": 94261,
-    "deaths": 394,
+    "confirmed": 95307,
+    "deaths": 398,
     "recovered": 39061
   },
   "Zimbabwe": {
@@ -649,8 +649,8 @@
   },
   "Cameroon": {
     "date": "2021-7-23",
-    "confirmed": 81467,
-    "deaths": 1330,
+    "confirmed": 81871,
+    "deaths": 1332,
     "recovered": 35261
   },
   "Maldives": {
@@ -757,9 +757,9 @@
   },
   "Australia": {
     "date": "2021-7-23",
-    "confirmed": 32427,
+    "confirmed": 32444,
     "deaths": 915,
-    "recovered": 23974
+    "recovered": 23980
   },
   "Syria": {
     "date": "2021-7-23",
@@ -967,7 +967,7 @@
   },
   "Burundi": {
     "date": "2021-7-23",
-    "confirmed": 5996,
+    "confirmed": 6018,
     "deaths": 8,
     "recovered": 773
   },
