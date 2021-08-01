@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-8-1",
-    "confirmed": 34989431,
-    "deaths": 613198,
+    "confirmed": 34991571,
+    "deaths": 613214,
     "recovered": null
   },
   "India": {
@@ -145,9 +145,9 @@
   },
   "Canada": {
     "date": "2021-8-1",
-    "confirmed": 1438774,
+    "confirmed": 1438817,
     "deaths": 26561,
-    "recovered": 1404218
+    "recovered": 1404244
   },
   "Bangladesh": {
     "date": "2021-8-1",
@@ -769,9 +769,15 @@
   },
   "Eswatini": {
     "date": "2021-8-1",
-    "confirmed": 25979,
-    "deaths": 787,
-    "recovered": 20918
+    "confirmed": 26220,
+    "deaths": 798,
+    "recovered": 21047
+  },
+  "Mauritania": {
+    "date": "2021-8-1",
+    "confirmed": 25973,
+    "deaths": 567,
+    "recovered": 22406
   },
   "Syria": {
     "date": "2021-8-1",
@@ -784,12 +790,6 @@
     "confirmed": 25801,
     "deaths": 229,
     "recovered": 24242
-  },
-  "Mauritania": {
-    "date": "2021-8-1",
-    "confirmed": 25691,
-    "deaths": 562,
-    "recovered": 22228
   },
   "Gabon": {
     "date": "2021-8-1",
@@ -829,9 +829,9 @@
   },
   "Togo": {
     "date": "2021-8-1",
-    "confirmed": 15798,
-    "deaths": 152,
-    "recovered": 14450
+    "confirmed": 15870,
+    "deaths": 153,
+    "recovered": 14493
   },
   "Taiwan*": {
     "date": "2021-8-1",
@@ -875,6 +875,12 @@
     "deaths": 337,
     "recovered": 13420
   },
+  "Lesotho": {
+    "date": "2021-8-1",
+    "confirmed": 13603,
+    "deaths": 377,
+    "recovered": 6664
+  },
   "Burkina Faso": {
     "date": "2021-8-1",
     "confirmed": 13573,
@@ -886,12 +892,6 @@
     "confirmed": 13186,
     "deaths": 178,
     "recovered": 12421
-  },
-  "Lesotho": {
-    "date": "2021-8-1",
-    "confirmed": 12908,
-    "deaths": 374,
-    "recovered": 6649
   },
   "Djibouti": {
     "date": "2021-8-1",
@@ -1005,7 +1005,7 @@
     "date": "2021-8-1",
     "confirmed": 4973,
     "deaths": 174,
-    "recovered": 4792
+    "recovered": 4793
   },
   "Guinea-Bissau": {
     "date": "2021-8-1",
