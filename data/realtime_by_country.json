@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-8-4",
-    "confirmed": 35242078,
+    "confirmed": 35242207,
     "deaths": 614317,
     "recovered": null
   },
@@ -73,7 +73,7 @@
   },
   "Germany": {
     "date": "2021-8-4",
-    "confirmed": 3782344,
+    "confirmed": 3782614,
     "deaths": 91710,
     "recovered": 3658150
   },
@@ -223,15 +223,15 @@
   },
   "Switzerland": {
     "date": "2021-8-4",
-    "confirmed": 720743,
-    "deaths": 10906,
+    "confirmed": 721776,
+    "deaths": 10907,
     "recovered": 317600
   },
   "Nepal": {
     "date": "2021-8-4",
-    "confirmed": 702097,
-    "deaths": 9922,
-    "recovered": 660116
+    "confirmed": 705072,
+    "deaths": 9957,
+    "recovered": 661651
   },
   "United Arab Emirates": {
     "date": "2021-8-4",
@@ -307,9 +307,9 @@
   },
   "Belarus": {
     "date": "2021-8-4",
-    "confirmed": 448335,
-    "deaths": 3483,
-    "recovered": 442380
+    "confirmed": 449302,
+    "deaths": 3494,
+    "recovered": 443417
   },
   "Panama": {
     "date": "2021-8-4",
@@ -455,6 +455,12 @@
     "deaths": 1384,
     "recovered": 267096
   },
+  "Libya": {
+    "date": "2021-8-4",
+    "confirmed": 260951,
+    "deaths": 3635,
+    "recovered": 195639
+  },
   "Moldova": {
     "date": "2021-8-4",
     "confirmed": 259828,
@@ -466,12 +472,6 @@
     "confirmed": 259625,
     "deaths": 4429,
     "recovered": 253972
-  },
-  "Libya": {
-    "date": "2021-8-4",
-    "confirmed": 258467,
-    "deaths": 3609,
-    "recovered": 194217
   },
   "Armenia": {
     "date": "2021-8-4",
@@ -841,9 +841,9 @@
   },
   "Somalia": {
     "date": "2021-8-4",
-    "confirmed": 15594,
-    "deaths": 828,
-    "recovered": 7633
+    "confirmed": 15658,
+    "deaths": 832,
+    "recovered": 7661
   },
   "Tajikistan": {
     "date": "2021-8-4",
@@ -919,9 +919,9 @@
   },
   "Equatorial Guinea": {
     "date": "2021-8-4",
-    "confirmed": 8911,
+    "confirmed": 8928,
     "deaths": 123,
-    "recovered": 8696
+    "recovered": 8709
   },
   "Benin": {
     "date": "2021-8-4",
@@ -929,17 +929,17 @@
     "deaths": 108,
     "recovered": 8136
   },
+  "Iceland": {
+    "date": "2021-8-4",
+    "confirmed": 8353,
+    "deaths": 30,
+    "recovered": 6993
+  },
   "Gambia": {
     "date": "2021-8-4",
     "confirmed": 8296,
     "deaths": 227,
     "recovered": 7122
-  },
-  "Iceland": {
-    "date": "2021-8-4",
-    "confirmed": 8233,
-    "deaths": 30,
-    "recovered": 6899
   },
   "Burundi": {
     "date": "2021-8-4",
