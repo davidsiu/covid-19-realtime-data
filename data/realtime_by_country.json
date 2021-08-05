@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-8-5",
-    "confirmed": 35330623,
+    "confirmed": 35330664,
     "deaths": 614785,
     "recovered": null
   },
@@ -55,8 +55,8 @@
   },
   "Spain": {
     "date": "2021-8-5",
-    "confirmed": 4544576,
-    "deaths": 81847,
+    "confirmed": 4545184,
+    "deaths": 81844,
     "recovered": 150376
   },
   "Italy": {
@@ -83,17 +83,17 @@
     "deaths": 100636,
     "recovered": 2907920
   },
+  "Mexico": {
+    "date": "2021-8-5",
+    "confirmed": 2901094,
+    "deaths": 242547,
+    "recovered": 2270427
+  },
   "Poland": {
     "date": "2021-8-5",
     "confirmed": 2883448,
     "deaths": 75269,
     "recovered": 2653981
-  },
-  "Mexico": {
-    "date": "2021-8-5",
-    "confirmed": 2880409,
-    "deaths": 241936,
-    "recovered": 2257443
   },
   "South Africa": {
     "date": "2021-8-5",
@@ -121,9 +121,9 @@
   },
   "Czechia": {
     "date": "2021-8-5",
-    "confirmed": 1673926,
-    "deaths": 30378,
-    "recovered": 1641074
+    "confirmed": 1674183,
+    "deaths": 30372,
+    "recovered": 1641321
   },
   "Iraq": {
     "date": "2021-8-5",
@@ -239,17 +239,17 @@
     "deaths": 1965,
     "recovered": 664130
   },
+  "Kazakhstan": {
+    "date": "2021-8-5",
+    "confirmed": 672895,
+    "deaths": 9077,
+    "recovered": 555079
+  },
   "Thailand": {
     "date": "2021-8-5",
     "confirmed": 672385,
     "deaths": 5503,
     "recovered": 26873
-  },
-  "Kazakhstan": {
-    "date": "2021-8-5",
-    "confirmed": 664724,
-    "deaths": 9077,
-    "recovered": 547650
   },
   "Austria": {
     "date": "2021-8-5",
@@ -409,9 +409,9 @@
   },
   "Venezuela": {
     "date": "2021-8-5",
-    "confirmed": 308452,
-    "deaths": 3637,
-    "recovered": 293672
+    "confirmed": 309218,
+    "deaths": 3649,
+    "recovered": 294607
   },
   "Ireland": {
     "date": "2021-8-5",
@@ -625,9 +625,9 @@
   },
   "China": {
     "date": "2021-8-5",
-    "confirmed": 105435,
+    "confirmed": 105433,
     "deaths": 4848,
-    "recovered": 99229
+    "recovered": 99228
   },
   "Cyprus": {
     "date": "2021-8-5",
@@ -745,7 +745,7 @@
   },
   "Australia": {
     "date": "2021-8-5",
-    "confirmed": 35390,
+    "confirmed": 35391,
     "deaths": 932,
     "recovered": 24203
   },
@@ -947,6 +947,12 @@
     "deaths": 38,
     "recovered": 773
   },
+  "Laos": {
+    "date": "2021-8-5",
+    "confirmed": 7305,
+    "deaths": 7,
+    "recovered": 3804
+  },
   "Central African Republic": {
     "date": "2021-8-5",
     "confirmed": 7151,
@@ -958,12 +964,6 @@
     "confirmed": 7096,
     "deaths": 1380,
     "recovered": 4251
-  },
-  "Laos": {
-    "date": "2021-8-5",
-    "confirmed": 7015,
-    "deaths": 7,
-    "recovered": 3392
   },
   "Eritrea": {
     "date": "2021-8-5",
