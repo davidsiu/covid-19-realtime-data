@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-8-9",
-    "confirmed": 35762751,
-    "deaths": 616827,
+    "confirmed": 35763364,
+    "deaths": 616829,
     "recovered": null
   },
   "India": {
@@ -31,8 +31,8 @@
   },
   "United Kingdom": {
     "date": "2021-8-9",
-    "confirmed": 6098085,
-    "deaths": 130624,
+    "confirmed": 6098117,
+    "deaths": 130630,
     "recovered": null
   },
   "Turkey": {
@@ -74,7 +74,7 @@
   "Germany": {
     "date": "2021-8-9",
     "confirmed": 3797849,
-    "deaths": 91789,
+    "deaths": 91791,
     "recovered": null
   },
   "Indonesia": {
@@ -109,8 +109,8 @@
   },
   "Peru": {
     "date": "2021-8-9",
-    "confirmed": 2124128,
-    "deaths": 196873,
+    "confirmed": 2125345,
+    "deaths": 196950,
     "recovered": null
   },
   "Netherlands": {
@@ -485,6 +485,12 @@
     "deaths": 601,
     "recovered": null
   },
+  "Vietnam": {
+    "date": "2021-8-9",
+    "confirmed": 215560,
+    "deaths": 3397,
+    "recovered": null
+  },
   "Korea, South": {
     "date": "2021-8-9",
     "confirmed": 212448,
@@ -495,12 +501,6 @@
     "date": "2021-8-9",
     "confirmed": 211828,
     "deaths": 4149,
-    "recovered": null
-  },
-  "Vietnam": {
-    "date": "2021-8-9",
-    "confirmed": 210405,
-    "deaths": 3397,
     "recovered": null
   },
   "Bosnia and Herzegovina": {
@@ -1111,7 +1111,7 @@
   },
   "Grenada": {
     "date": "2021-8-9",
-    "confirmed": 164,
+    "confirmed": 178,
     "deaths": 1,
     "recovered": null
   },
