@@ -17,16 +17,16 @@
     "deaths": 564773,
     "recovered": null
   },
+  "Russia": {
+    "date": "2021-8-11",
+    "confirmed": 6425918,
+    "deaths": 164413,
+    "recovered": null
+  },
   "France": {
     "date": "2021-8-11",
     "confirmed": 6407288,
     "deaths": 112575,
-    "recovered": null
-  },
-  "Russia": {
-    "date": "2021-8-11",
-    "confirmed": 6404960,
-    "deaths": 163629,
     "recovered": null
   },
   "United Kingdom": {
@@ -91,8 +91,8 @@
   },
   "Poland": {
     "date": "2021-8-11",
-    "confirmed": 2884361,
-    "deaths": 75285,
+    "confirmed": 2884557,
+    "deaths": 75289,
     "recovered": null
   },
   "South Africa": {
@@ -103,8 +103,8 @@
   },
   "Ukraine": {
     "date": "2021-8-11",
-    "confirmed": 2347682,
-    "deaths": 55962,
+    "confirmed": 2348295,
+    "deaths": 55977,
     "recovered": null
   },
   "Peru": {
@@ -187,8 +187,8 @@
   },
   "Japan": {
     "date": "2021-8-11",
-    "confirmed": 1058851,
-    "deaths": 15327,
+    "confirmed": 1066276,
+    "deaths": 15329,
     "recovered": null
   },
   "Portugal": {
@@ -259,8 +259,8 @@
   },
   "Austria": {
     "date": "2021-8-11",
-    "confirmed": 664133,
-    "deaths": 10751,
+    "confirmed": 665035,
+    "deaths": 10752,
     "recovered": null
   },
   "Tunisia": {
@@ -355,8 +355,8 @@
   },
   "Slovakia": {
     "date": "2021-8-11",
-    "confirmed": 393160,
-    "deaths": 12543,
+    "confirmed": 393228,
+    "deaths": 12544,
     "recovered": null
   },
   "Uruguay": {
@@ -923,6 +923,12 @@
     "deaths": 197,
     "recovered": null
   },
+  "Laos": {
+    "date": "2021-8-11",
+    "confirmed": 9161,
+    "deaths": 8,
+    "recovered": null
+  },
   "Benin": {
     "date": "2021-8-11",
     "confirmed": 9065,
@@ -939,12 +945,6 @@
     "date": "2021-8-11",
     "confirmed": 8951,
     "deaths": 123,
-    "recovered": null
-  },
-  "Laos": {
-    "date": "2021-8-11",
-    "confirmed": 8876,
-    "deaths": 8,
     "recovered": null
   },
   "Burundi": {
@@ -973,7 +973,7 @@
   },
   "Sierra Leone": {
     "date": "2021-8-11",
-    "confirmed": 6315,
+    "confirmed": 6318,
     "deaths": 121,
     "recovered": null
   },
