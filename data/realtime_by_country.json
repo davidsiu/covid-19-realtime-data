@@ -17,16 +17,16 @@
     "deaths": 565748,
     "recovered": null
   },
+  "Russia": {
+    "date": "2021-8-12",
+    "confirmed": 6447229,
+    "deaths": 165201,
+    "recovered": null
+  },
   "France": {
     "date": "2021-8-12",
     "confirmed": 6440082,
     "deaths": 112620,
-    "recovered": null
-  },
-  "Russia": {
-    "date": "2021-8-12",
-    "confirmed": 6425918,
-    "deaths": 164413,
     "recovered": null
   },
   "United Kingdom": {
@@ -73,7 +73,7 @@
   },
   "Germany": {
     "date": "2021-8-12",
-    "confirmed": 3808838,
+    "confirmed": 3808869,
     "deaths": 91841,
     "recovered": null
   },
@@ -91,8 +91,8 @@
   },
   "Poland": {
     "date": "2021-8-12",
-    "confirmed": 2884557,
-    "deaths": 75289,
+    "confirmed": 2884780,
+    "deaths": 75291,
     "recovered": null
   },
   "South Africa": {
@@ -103,8 +103,8 @@
   },
   "Ukraine": {
     "date": "2021-8-12",
-    "confirmed": 2349542,
-    "deaths": 56001,
+    "confirmed": 2350163,
+    "deaths": 56021,
     "recovered": null
   },
   "Peru": {
@@ -173,6 +173,12 @@
     "deaths": 14658,
     "recovered": null
   },
+  "Japan": {
+    "date": "2021-8-12",
+    "confirmed": 1086204,
+    "deaths": 15342,
+    "recovered": null
+  },
   "Romania": {
     "date": "2021-8-12",
     "confirmed": 1085738,
@@ -183,12 +189,6 @@
     "date": "2021-8-12",
     "confirmed": 1085294,
     "deaths": 24187,
-    "recovered": null
-  },
-  "Japan": {
-    "date": "2021-8-12",
-    "confirmed": 1076401,
-    "deaths": 15336,
     "recovered": null
   },
   "Portugal": {
@@ -205,8 +205,8 @@
   },
   "Thailand": {
     "date": "2021-8-12",
-    "confirmed": 816989,
-    "deaths": 6795,
+    "confirmed": 839771,
+    "deaths": 6942,
     "recovered": null
   },
   "Hungary": {
@@ -224,7 +224,7 @@
   "Switzerland": {
     "date": "2021-8-12",
     "confirmed": 731148,
-    "deaths": 10915,
+    "deaths": 10916,
     "recovered": null
   },
   "Kazakhstan": {
@@ -259,14 +259,14 @@
   },
   "Austria": {
     "date": "2021-8-12",
-    "confirmed": 665035,
-    "deaths": 10752,
+    "confirmed": 665885,
+    "deaths": 10753,
     "recovered": null
   },
   "Tunisia": {
     "date": "2021-8-12",
-    "confirmed": 616764,
-    "deaths": 21220,
+    "confirmed": 618124,
+    "deaths": 21310,
     "recovered": null
   },
   "Lebanon": {
@@ -823,7 +823,7 @@
   },
   "Papua New Guinea": {
     "date": "2021-8-12",
-    "confirmed": 17780,
+    "confirmed": 17806,
     "deaths": 192,
     "recovered": null
   },
