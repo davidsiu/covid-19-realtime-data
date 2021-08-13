@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2021-8-13",
-    "confirmed": 36306724,
+    "confirmed": 36306917,
     "deaths": 619093,
     "recovered": null
   },
   "India": {
     "date": "2021-8-13",
-    "confirmed": 32077706,
-    "deaths": 429669,
+    "confirmed": 32117826,
+    "deaths": 430254,
     "recovered": null
   },
   "Brazil": {
@@ -221,6 +221,12 @@
     "deaths": 10173,
     "recovered": null
   },
+  "Kazakhstan": {
+    "date": "2021-8-13",
+    "confirmed": 737220,
+    "deaths": 10791,
+    "recovered": null
+  },
   "Switzerland": {
     "date": "2021-8-13",
     "confirmed": 733275,
@@ -237,12 +243,6 @@
     "date": "2021-8-13",
     "confirmed": 729150,
     "deaths": 7152,
-    "recovered": null
-  },
-  "Kazakhstan": {
-    "date": "2021-8-13",
-    "confirmed": 729016,
-    "deaths": 10791,
     "recovered": null
   },
   "Nepal": {
@@ -529,8 +529,8 @@
   },
   "Mongolia": {
     "date": "2021-8-13",
-    "confirmed": 178436,
-    "deaths": 869,
+    "confirmed": 179889,
+    "deaths": 871,
     "recovered": null
   },
   "Kyrgyzstan": {
