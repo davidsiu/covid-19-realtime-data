@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-8-19",
-    "confirmed": 37158211,
+    "confirmed": 37158309,
     "deaths": 624260,
     "recovered": null
   },
@@ -31,7 +31,7 @@
   },
   "United Kingdom": {
     "date": "2021-8-19",
-    "confirmed": 6385989,
+    "confirmed": 6386006,
     "deaths": 131577,
     "recovered": null
   },
@@ -61,8 +61,8 @@
   },
   "Iran": {
     "date": "2021-8-19",
-    "confirmed": 4556417,
-    "deaths": 99691,
+    "confirmed": 4587683,
+    "deaths": 100255,
     "recovered": null
   },
   "Italy": {
@@ -163,8 +163,8 @@
   },
   "Japan": {
     "date": "2021-8-19",
-    "confirmed": 1226063,
-    "deaths": 15537,
+    "confirmed": 1232384,
+    "deaths": 15543,
     "recovered": null
   },
   "Belgium": {
@@ -253,8 +253,8 @@
   },
   "United Arab Emirates": {
     "date": "2021-8-19",
-    "confirmed": 705089,
-    "deaths": 2009,
+    "confirmed": 706166,
+    "deaths": 2012,
     "recovered": null
   },
   "Austria": {
@@ -379,8 +379,8 @@
   },
   "Croatia": {
     "date": "2021-8-19",
-    "confirmed": 367933,
-    "deaths": 8291,
+    "confirmed": 368419,
+    "deaths": 8294,
     "recovered": null
   },
   "Burma": {
@@ -397,7 +397,7 @@
   },
   "Denmark": {
     "date": "2021-8-19",
-    "confirmed": 335081,
+    "confirmed": 335083,
     "deaths": 2564,
     "recovered": null
   },
@@ -685,8 +685,8 @@
   },
   "Senegal": {
     "date": "2021-8-19",
-    "confirmed": 71266,
-    "deaths": 1636,
+    "confirmed": 71441,
+    "deaths": 1641,
     "recovered": null
   },
   "Singapore": {
@@ -727,20 +727,20 @@
   },
   "Madagascar": {
     "date": "2021-8-19",
-    "confirmed": 42832,
+    "confirmed": 42836,
     "deaths": 954,
+    "recovered": null
+  },
+  "Fiji": {
+    "date": "2021-8-19",
+    "confirmed": 42611,
+    "deaths": 421,
     "recovered": null
   },
   "Trinidad and Tobago": {
     "date": "2021-8-19",
     "confirmed": 42427,
     "deaths": 1200,
-    "recovered": null
-  },
-  "Fiji": {
-    "date": "2021-8-19",
-    "confirmed": 41830,
-    "deaths": 413,
     "recovered": null
   },
   "Australia": {
@@ -905,6 +905,12 @@
     "deaths": 156,
     "recovered": null
   },
+  "Laos": {
+    "date": "2021-8-19",
+    "confirmed": 11313,
+    "deaths": 9,
+    "recovered": null
+  },
   "Central African Republic": {
     "date": "2021-8-19",
     "confirmed": 11251,
@@ -915,12 +921,6 @@
     "date": "2021-8-19",
     "confirmed": 11223,
     "deaths": 120,
-    "recovered": null
-  },
-  "Laos": {
-    "date": "2021-8-19",
-    "confirmed": 11029,
-    "deaths": 9,
     "recovered": null
   },
   "Nicaragua": {
@@ -943,7 +943,7 @@
   },
   "Iceland": {
     "date": "2021-8-19",
-    "confirmed": 9812,
+    "confirmed": 9916,
     "deaths": 30,
     "recovered": null
   },
