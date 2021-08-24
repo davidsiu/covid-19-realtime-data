@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-8-24",
-    "confirmed": 37925802,
-    "deaths": 629371,
+    "confirmed": 37932709,
+    "deaths": 629384,
     "recovered": null
   },
   "India": {
@@ -151,7 +151,7 @@
   },
   "Canada": {
     "date": "2021-8-24",
-    "confirmed": 1481408,
+    "confirmed": 1481415,
     "deaths": 26780,
     "recovered": null
   },
@@ -301,8 +301,8 @@
   },
   "Ecuador": {
     "date": "2021-8-24",
-    "confirmed": 495115,
-    "deaths": 31985,
+    "confirmed": 498678,
+    "deaths": 32087,
     "recovered": null
   },
   "Bolivia": {
@@ -329,16 +329,16 @@
     "deaths": 7009,
     "recovered": null
   },
-  "Bulgaria": {
-    "date": "2021-8-24",
-    "confirmed": 441295,
-    "deaths": 18475,
-    "recovered": null
-  },
   "Costa Rica": {
     "date": "2021-8-24",
-    "confirmed": 440647,
-    "deaths": 5312,
+    "confirmed": 445442,
+    "deaths": 5361,
+    "recovered": null
+  },
+  "Bulgaria": {
+    "date": "2021-8-24",
+    "confirmed": 443186,
+    "deaths": 18532,
     "recovered": null
   },
   "Guatemala": {
@@ -373,7 +373,7 @@
   },
   "Uruguay": {
     "date": "2021-8-24",
-    "confirmed": 384094,
+    "confirmed": 384181,
     "deaths": 6016,
     "recovered": null
   },
@@ -457,8 +457,8 @@
   },
   "Egypt": {
     "date": "2021-8-24",
-    "confirmed": 286352,
-    "deaths": 16671,
+    "confirmed": 286541,
+    "deaths": 16676,
     "recovered": null
   },
   "Bahrain": {
@@ -529,8 +529,8 @@
   },
   "Nigeria": {
     "date": "2021-8-24",
-    "confirmed": 187023,
-    "deaths": 2268,
+    "confirmed": 187588,
+    "deaths": 2276,
     "recovered": null
   },
   "Kyrgyzstan": {
@@ -551,6 +551,12 @@
     "deaths": 7076,
     "recovered": null
   },
+  "Botswana": {
+    "date": "2021-8-24",
+    "confirmed": 150842,
+    "deaths": 2171,
+    "recovered": null
+  },
   "Uzbekistan": {
     "date": "2021-8-24",
     "confirmed": 149876,
@@ -559,14 +565,8 @@
   },
   "Norway": {
     "date": "2021-8-24",
-    "confirmed": 149212,
+    "confirmed": 149732,
     "deaths": 811,
-    "recovered": null
-  },
-  "Botswana": {
-    "date": "2021-8-24",
-    "confirmed": 146461,
-    "deaths": 2081,
     "recovered": null
   },
   "Mozambique": {
@@ -607,14 +607,20 @@
   },
   "Zimbabwe": {
     "date": "2021-8-24",
-    "confirmed": 122652,
-    "deaths": 4249,
+    "confirmed": 123001,
+    "deaths": 4293,
     "recovered": null
   },
   "Finland": {
     "date": "2021-8-24",
     "confirmed": 122417,
     "deaths": 1014,
+    "recovered": null
+  },
+  "Uganda": {
+    "date": "2021-8-24",
+    "confirmed": 118145,
+    "deaths": 2931,
     "recovered": null
   },
   "Ghana": {
@@ -639,12 +645,6 @@
     "date": "2021-8-24",
     "confirmed": 106777,
     "deaths": 4848,
-    "recovered": null
-  },
-  "Uganda": {
-    "date": "2021-8-24",
-    "confirmed": 97453,
-    "deaths": 2931,
     "recovered": null
   },
   "El Salvador": {
@@ -905,6 +905,12 @@
     "deaths": 11,
     "recovered": null
   },
+  "Benin": {
+    "date": "2021-8-24",
+    "confirmed": 12021,
+    "deaths": 125,
+    "recovered": null
+  },
   "Djibouti": {
     "date": "2021-8-24",
     "confirmed": 11698,
@@ -933,12 +939,6 @@
     "date": "2021-8-24",
     "confirmed": 10672,
     "deaths": 198,
-    "recovered": null
-  },
-  "Benin": {
-    "date": "2021-8-24",
-    "confirmed": 10183,
-    "deaths": 119,
     "recovered": null
   },
   "Iceland": {
