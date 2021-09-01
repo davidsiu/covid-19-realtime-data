@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-9-1",
-    "confirmed": 39198268,
-    "deaths": 640108,
+    "confirmed": 39198449,
+    "deaths": 640109,
     "recovered": null
   },
   "India": {
@@ -17,6 +17,12 @@
     "deaths": 580413,
     "recovered": null
   },
+  "Russia": {
+    "date": "2021-9-1",
+    "confirmed": 6838652,
+    "deaths": 180781,
+    "recovered": null
+  },
   "France": {
     "date": "2021-9-1",
     "confirmed": 6834858,
@@ -27,12 +33,6 @@
     "date": "2021-9-1",
     "confirmed": 6821356,
     "deaths": 132859,
-    "recovered": null
-  },
-  "Russia": {
-    "date": "2021-9-1",
-    "confirmed": 6820697,
-    "deaths": 180009,
     "recovered": null
   },
   "Turkey": {
@@ -91,8 +91,8 @@
   },
   "Poland": {
     "date": "2021-9-1",
-    "confirmed": 2888670,
-    "deaths": 75345,
+    "confirmed": 2889036,
+    "deaths": 75358,
     "recovered": null
   },
   "South Africa": {
@@ -103,8 +103,8 @@
   },
   "Ukraine": {
     "date": "2021-9-1",
-    "confirmed": 2386639,
-    "deaths": 57048,
+    "confirmed": 2387052,
+    "deaths": 57066,
     "recovered": null
   },
   "Peru": {
@@ -155,22 +155,22 @@
     "deaths": 26989,
     "recovered": null
   },
+  "Japan": {
+    "date": "2021-9-1",
+    "confirmed": 1505181,
+    "deaths": 16108,
+    "recovered": null
+  },
   "Bangladesh": {
     "date": "2021-9-1",
     "confirmed": 1500618,
     "deaths": 26195,
     "recovered": null
   },
-  "Japan": {
-    "date": "2021-9-1",
-    "confirmed": 1493142,
-    "deaths": 16081,
-    "recovered": null
-  },
   "Thailand": {
     "date": "2021-9-1",
-    "confirmed": 1204729,
-    "deaths": 11589,
+    "confirmed": 1213954,
+    "deaths": 11841,
     "recovered": null
   },
   "Belgium": {
@@ -259,8 +259,8 @@
   },
   "Austria": {
     "date": "2021-9-1",
-    "confirmed": 688305,
-    "deaths": 10772,
+    "confirmed": 690153,
+    "deaths": 10775,
     "recovered": null
   },
   "Tunisia": {
@@ -649,7 +649,7 @@
   },
   "El Salvador": {
     "date": "2021-9-1",
-    "confirmed": 94060,
+    "confirmed": 96067,
     "deaths": 2926,
     "recovered": null
   },
@@ -869,16 +869,16 @@
     "deaths": 835,
     "recovered": null
   },
+  "Laos": {
+    "date": "2021-9-1",
+    "confirmed": 15289,
+    "deaths": 14,
+    "recovered": null
+  },
   "Andorra": {
     "date": "2021-9-1",
     "confirmed": 15033,
     "deaths": 130,
-    "recovered": null
-  },
-  "Laos": {
-    "date": "2021-9-1",
-    "confirmed": 15015,
-    "deaths": 14,
     "recovered": null
   },
   "Mali": {
