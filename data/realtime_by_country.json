@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-9-2",
-    "confirmed": 39417142,
-    "deaths": 642255,
+    "confirmed": 39431803,
+    "deaths": 642424,
     "recovered": null
   },
   "India": {
@@ -17,6 +17,12 @@
     "deaths": 581150,
     "recovered": null
   },
+  "United Kingdom": {
+    "date": "2021-9-2",
+    "confirmed": 6894825,
+    "deaths": 133244,
+    "recovered": null
+  },
   "France": {
     "date": "2021-9-2",
     "confirmed": 6868060,
@@ -27,12 +33,6 @@
     "date": "2021-9-2",
     "confirmed": 6857243,
     "deaths": 181560,
-    "recovered": null
-  },
-  "United Kingdom": {
-    "date": "2021-9-2",
-    "confirmed": 6856995,
-    "deaths": 133066,
     "recovered": null
   },
   "Turkey": {
@@ -67,8 +67,8 @@
   },
   "Italy": {
     "date": "2021-9-2",
-    "confirmed": 4546487,
-    "deaths": 129290,
+    "confirmed": 4553241,
+    "deaths": 129352,
     "recovered": null
   },
   "Indonesia": {
@@ -79,7 +79,7 @@
   },
   "Germany": {
     "date": "2021-9-2",
-    "confirmed": 3976294,
+    "confirmed": 3976350,
     "deaths": 92263,
     "recovered": null
   },
@@ -145,8 +145,8 @@
   },
   "Chile": {
     "date": "2021-9-2",
-    "confirmed": 1639123,
-    "deaths": 36945,
+    "confirmed": 1639698,
+    "deaths": 36995,
     "recovered": null
   },
   "Japan": {
@@ -157,8 +157,8 @@
   },
   "Canada": {
     "date": "2021-9-2",
-    "confirmed": 1511481,
-    "deaths": 27024,
+    "confirmed": 1511500,
+    "deaths": 27025,
     "recovered": null
   },
   "Bangladesh": {
@@ -199,8 +199,8 @@
   },
   "Israel": {
     "date": "2021-9-2",
-    "confirmed": 1088630,
-    "deaths": 7090,
+    "confirmed": 1094596,
+    "deaths": 7122,
     "recovered": null
   },
   "Portugal": {
@@ -283,8 +283,8 @@
   },
   "Greece": {
     "date": "2021-9-2",
-    "confirmed": 590832,
-    "deaths": 13669,
+    "confirmed": 593668,
+    "deaths": 13702,
     "recovered": null
   },
   "Georgia": {
@@ -355,7 +355,7 @@
   },
   "Sri Lanka": {
     "date": "2021-9-2",
-    "confirmed": 444130,
+    "confirmed": 446903,
     "deaths": 9400,
     "recovered": null
   },
@@ -679,7 +679,7 @@
   },
   "Luxembourg": {
     "date": "2021-9-2",
-    "confirmed": 75904,
+    "confirmed": 75981,
     "deaths": 830,
     "recovered": null
   },
@@ -697,7 +697,7 @@
   },
   "Singapore": {
     "date": "2021-9-2",
-    "confirmed": 67800,
+    "confirmed": 67991,
     "deaths": 55,
     "recovered": null
   },
