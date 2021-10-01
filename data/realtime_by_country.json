@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-10-1",
-    "confirmed": 43457690,
-    "deaths": 697832,
+    "confirmed": 43459200,
+    "deaths": 697840,
     "recovered": null
   },
   "India": {
@@ -19,7 +19,7 @@
   },
   "United Kingdom": {
     "date": "2021-10-1",
-    "confirmed": 7843805,
+    "confirmed": 7843887,
     "deaths": 137043,
     "recovered": null
   },
@@ -38,7 +38,7 @@
   "France": {
     "date": "2021-10-1",
     "confirmed": 7106028,
-    "deaths": 117473,
+    "deaths": 117474,
     "recovered": null
   },
   "Iran": {
@@ -127,8 +127,8 @@
   },
   "Netherlands": {
     "date": "2021-10-1",
-    "confirmed": 2041353,
-    "deaths": 18583,
+    "confirmed": 2041429,
+    "deaths": 18584,
     "recovered": null
   },
   "Iraq": {
@@ -181,14 +181,14 @@
   },
   "Pakistan": {
     "date": "2021-10-1",
-    "confirmed": 1245127,
-    "deaths": 27729,
+    "confirmed": 1246538,
+    "deaths": 27785,
     "recovered": null
   },
   "Belgium": {
     "date": "2021-10-1",
-    "confirmed": 1242821,
-    "deaths": 25595,
+    "confirmed": 1244954,
+    "deaths": 25602,
     "recovered": null
   },
   "Romania": {
@@ -211,7 +211,7 @@
   },
   "Kazakhstan": {
     "date": "2021-10-1",
-    "confirmed": 960578,
+    "confirmed": 962842,
     "deaths": 15907,
     "recovered": null
   },
@@ -355,8 +355,8 @@
   },
   "Panama": {
     "date": "2021-10-1",
-    "confirmed": 466851,
-    "deaths": 7223,
+    "confirmed": 467113,
+    "deaths": 7228,
     "recovered": null
   },
   "Burma": {
@@ -451,20 +451,20 @@
   },
   "Korea, South": {
     "date": "2021-10-1",
-    "confirmed": 311289,
-    "deaths": 2481,
+    "confirmed": 313773,
+    "deaths": 2497,
+    "recovered": null
+  },
+  "Egypt": {
+    "date": "2021-10-1",
+    "confirmed": 304524,
+    "deaths": 17331,
     "recovered": null
   },
   "Mongolia": {
     "date": "2021-10-1",
     "confirmed": 304084,
     "deaths": 1277,
-    "recovered": null
-  },
-  "Egypt": {
-    "date": "2021-10-1",
-    "confirmed": 303783,
-    "deaths": 17294,
     "recovered": null
   },
   "Oman": {
@@ -649,14 +649,14 @@
   },
   "China": {
     "date": "2021-10-1",
-    "confirmed": 108422,
+    "confirmed": 108433,
     "deaths": 4849,
     "recovered": null
   },
   "Australia": {
     "date": "2021-10-1",
-    "confirmed": 106269,
-    "deaths": 1294,
+    "confirmed": 107180,
+    "deaths": 1311,
     "recovered": null
   },
   "El Salvador": {
@@ -901,7 +901,7 @@
   },
   "Mali": {
     "date": "2021-10-1",
-    "confirmed": 15194,
+    "confirmed": 15219,
     "deaths": 548,
     "recovered": null
   },
@@ -931,7 +931,7 @@
   },
   "Djibouti": {
     "date": "2021-10-1",
-    "confirmed": 12705,
+    "confirmed": 12811,
     "deaths": 167,
     "recovered": null
   },
@@ -943,8 +943,8 @@
   },
   "South Sudan": {
     "date": "2021-10-1",
-    "confirmed": 11995,
-    "deaths": 128,
+    "confirmed": 12010,
+    "deaths": 130,
     "recovered": null
   },
   "Iceland": {
@@ -997,13 +997,13 @@
   },
   "Sierra Leone": {
     "date": "2021-10-1",
-    "confirmed": 6393,
+    "confirmed": 6394,
     "deaths": 121,
     "recovered": null
   },
   "Guinea-Bissau": {
     "date": "2021-10-1",
-    "confirmed": 6103,
+    "confirmed": 6107,
     "deaths": 135,
     "recovered": null
   },
@@ -1049,6 +1049,18 @@
     "deaths": 147,
     "recovered": null
   },
+  "Saint Vincent and the Grenadines": {
+    "date": "2021-10-1",
+    "confirmed": 3508,
+    "deaths": 21,
+    "recovered": null
+  },
+  "Dominica": {
+    "date": "2021-10-1",
+    "confirmed": 3481,
+    "deaths": 20,
+    "recovered": null
+  },
   "Sao Tome and Principe": {
     "date": "2021-10-1",
     "confirmed": 3459,
@@ -1061,22 +1073,10 @@
     "deaths": 60,
     "recovered": null
   },
-  "Saint Vincent and the Grenadines": {
-    "date": "2021-10-1",
-    "confirmed": 3423,
-    "deaths": 19,
-    "recovered": null
-  },
   "Monaco": {
     "date": "2021-10-1",
     "confirmed": 3314,
     "deaths": 33,
-    "recovered": null
-  },
-  "Dominica": {
-    "date": "2021-10-1",
-    "confirmed": 3293,
-    "deaths": 15,
     "recovered": null
   },
   "Antigua and Barbuda": {
