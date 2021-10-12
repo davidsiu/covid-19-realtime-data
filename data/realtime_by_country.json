@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-10-12",
-    "confirmed": 44481045,
-    "deaths": 714553,
+    "confirmed": 44497535,
+    "deaths": 714706,
     "recovered": null
   },
   "India": {
@@ -73,8 +73,8 @@
   },
   "Germany": {
     "date": "2021-10-12",
-    "confirmed": 4326745,
-    "deaths": 94322,
+    "confirmed": 4327185,
+    "deaths": 94332,
     "recovered": null
   },
   "Indonesia": {
@@ -157,8 +157,8 @@
   },
   "Canada": {
     "date": "2021-10-12",
-    "confirmed": 1668488,
-    "deaths": 28268,
+    "confirmed": 1668602,
+    "deaths": 28270,
     "recovered": null
   },
   "Chile": {
@@ -611,6 +611,12 @@
     "deaths": 2000,
     "recovered": null
   },
+  "Singapore": {
+    "date": "2021-10-12",
+    "confirmed": 132205,
+    "deaths": 183,
+    "recovered": null
+  },
   "Zimbabwe": {
     "date": "2021-10-12",
     "confirmed": 131875,
@@ -621,12 +627,6 @@
     "date": "2021-10-12",
     "confirmed": 131380,
     "deaths": 1461,
-    "recovered": null
-  },
-  "Singapore": {
-    "date": "2021-10-12",
-    "confirmed": 129229,
-    "deaths": 172,
     "recovered": null
   },
   "Ghana": {
