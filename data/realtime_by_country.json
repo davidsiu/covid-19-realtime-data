@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-10-14",
-    "confirmed": 44757459,
-    "deaths": 721025,
+    "confirmed": 44764406,
+    "deaths": 721111,
     "recovered": null
   },
   "India": {
@@ -38,7 +38,7 @@
   "France": {
     "date": "2021-10-14",
     "confirmed": 7174580,
-    "deaths": 118110,
+    "deaths": 118111,
     "recovered": null
   },
   "Iran": {
@@ -49,8 +49,8 @@
   },
   "Argentina": {
     "date": "2021-10-14",
-    "confirmed": 5268653,
-    "deaths": 115582,
+    "confirmed": 5270003,
+    "deaths": 115633,
     "recovered": null
   },
   "Spain": {
@@ -127,7 +127,7 @@
   },
   "Netherlands": {
     "date": "2021-10-14",
-    "confirmed": 2075907,
+    "confirmed": 2075923,
     "deaths": 18660,
     "recovered": null
   },
@@ -157,8 +157,8 @@
   },
   "Canada": {
     "date": "2021-10-14",
-    "confirmed": 1681048,
-    "deaths": 28465,
+    "confirmed": 1681628,
+    "deaths": 28474,
     "recovered": null
   },
   "Chile": {
@@ -295,8 +295,8 @@
   },
   "Lebanon": {
     "date": "2021-10-14",
-    "confirmed": 631642,
-    "deaths": 8400,
+    "confirmed": 632271,
+    "deaths": 8406,
     "recovered": null
   },
   "Guatemala": {
@@ -325,20 +325,20 @@
   },
   "Bulgaria": {
     "date": "2021-10-14",
-    "confirmed": 531129,
-    "deaths": 22004,
+    "confirmed": 534312,
+    "deaths": 22102,
     "recovered": null
   },
   "Sri Lanka": {
     "date": "2021-10-14",
-    "confirmed": 529608,
+    "confirmed": 529755,
     "deaths": 13429,
     "recovered": null
   },
   "Ecuador": {
     "date": "2021-10-14",
-    "confirmed": 512071,
-    "deaths": 32848,
+    "confirmed": 513026,
+    "deaths": 32899,
     "recovered": null
   },
   "Bolivia": {
@@ -415,8 +415,8 @@
   },
   "Honduras": {
     "date": "2021-10-14",
-    "confirmed": 371431,
-    "deaths": 10064,
+    "confirmed": 371861,
+    "deaths": 10083,
     "recovered": null
   },
   "Denmark": {
@@ -605,6 +605,12 @@
     "deaths": 1112,
     "recovered": null
   },
+  "Australia": {
+    "date": "2021-10-14",
+    "confirmed": 138704,
+    "deaths": 1506,
+    "recovered": null
+  },
   "Singapore": {
     "date": "2021-10-14",
     "confirmed": 138327,
@@ -615,12 +621,6 @@
     "date": "2021-10-14",
     "confirmed": 136681,
     "deaths": 2010,
-    "recovered": null
-  },
-  "Australia": {
-    "date": "2021-10-14",
-    "confirmed": 136135,
-    "deaths": 1496,
     "recovered": null
   },
   "Zimbabwe": {
@@ -1069,7 +1069,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2021-10-14",
-    "confirmed": 3817,
+    "confirmed": 3830,
     "deaths": 93,
     "recovered": null
   },
