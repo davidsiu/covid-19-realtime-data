@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2021-11-13",
-    "confirmed": 46991337,
+    "confirmed": 46991365,
     "deaths": 762521,
     "recovered": null
   },
@@ -37,7 +37,7 @@
   },
   "France": {
     "date": "2021-11-13",
-    "confirmed": 7362807,
+    "confirmed": 7362837,
     "deaths": 119069,
     "recovered": null
   },
@@ -97,8 +97,8 @@
   },
   "Poland": {
     "date": "2021-11-13",
-    "confirmed": 3175769,
-    "deaths": 78555,
+    "confirmed": 3190067,
+    "deaths": 78821,
     "recovered": null
   },
   "South Africa": {
@@ -163,7 +163,7 @@
   },
   "Japan": {
     "date": "2021-11-13",
-    "confirmed": 1724573,
+    "confirmed": 1724570,
     "deaths": 18320,
     "recovered": null
   },
@@ -233,6 +233,12 @@
     "deaths": 8279,
     "recovered": null
   },
+  "Austria": {
+    "date": "2021-11-13",
+    "confirmed": 948100,
+    "deaths": 11689,
+    "recovered": null
+  },
   "Morocco": {
     "date": "2021-11-13",
     "confirmed": 948025,
@@ -243,12 +249,6 @@
     "date": "2021-11-13",
     "confirmed": 939784,
     "deaths": 31867,
-    "recovered": null
-  },
-  "Austria": {
-    "date": "2021-11-13",
-    "confirmed": 934948,
-    "deaths": 11641,
     "recovered": null
   },
   "Switzerland": {
@@ -329,6 +329,12 @@
     "deaths": 7397,
     "recovered": null
   },
+  "Slovakia": {
+    "date": "2021-11-13",
+    "confirmed": 554296,
+    "deaths": 13485,
+    "recovered": null
+  },
   "Saudi Arabia": {
     "date": "2021-11-13",
     "confirmed": 549148,
@@ -339,12 +345,6 @@
     "date": "2021-11-13",
     "confirmed": 548784,
     "deaths": 13950,
-    "recovered": null
-  },
-  "Slovakia": {
-    "date": "2021-11-13",
-    "confirmed": 547052,
-    "deaths": 13446,
     "recovered": null
   },
   "Croatia": {
@@ -443,16 +443,16 @@
     "deaths": 10349,
     "recovered": null
   },
+  "Slovenia": {
+    "date": "2021-11-13",
+    "confirmed": 375775,
+    "deaths": 4918,
+    "recovered": null
+  },
   "Mongolia": {
     "date": "2021-11-13",
     "confirmed": 372187,
     "deaths": 1869,
-    "recovered": null
-  },
-  "Slovenia": {
-    "date": "2021-11-13",
-    "confirmed": 372109,
-    "deaths": 4899,
     "recovered": null
   },
   "Ethiopia": {
@@ -541,8 +541,8 @@
   },
   "Estonia": {
     "date": "2021-11-13",
-    "confirmed": 210542,
-    "deaths": 1662,
+    "confirmed": 211535,
+    "deaths": 1668,
     "recovered": null
   },
   "Zambia": {
@@ -607,7 +607,7 @@
   },
   "Afghanistan": {
     "date": "2021-11-13",
-    "confirmed": 156487,
+    "confirmed": 156510,
     "deaths": 7292,
     "recovered": null
   },
@@ -949,8 +949,8 @@
   },
   "Brunei": {
     "date": "2021-11-13",
-    "confirmed": 14121,
-    "deaths": 95,
+    "confirmed": 14172,
+    "deaths": 96,
     "recovered": null
   },
   "Djibouti": {
@@ -967,7 +967,7 @@
   },
   "Saint Lucia": {
     "date": "2021-11-13",
-    "confirmed": 12808,
+    "confirmed": 12827,
     "deaths": 269,
     "recovered": null
   },
@@ -1093,7 +1093,7 @@
   },
   "Saint Kitts and Nevis": {
     "date": "2021-11-13",
-    "confirmed": 2736,
+    "confirmed": 2745,
     "deaths": 27,
     "recovered": null
   },
