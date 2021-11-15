@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-11-15",
-    "confirmed": 47068799,
-    "deaths": 763064,
+    "confirmed": 47074080,
+    "deaths": 763092,
     "recovered": null
   },
   "India": {
@@ -19,7 +19,7 @@
   },
   "United Kingdom": {
     "date": "2021-11-15",
-    "confirmed": 9608558,
+    "confirmed": 9608568,
     "deaths": 143337,
     "recovered": null
   },
@@ -61,7 +61,7 @@
   },
   "Germany": {
     "date": "2021-11-15",
-    "confirmed": 5038437,
+    "confirmed": 5038436,
     "deaths": 97688,
     "recovered": null
   },
@@ -121,7 +121,7 @@
   },
   "Netherlands": {
     "date": "2021-11-15",
-    "confirmed": 2335547,
+    "confirmed": 2335575,
     "deaths": 19177,
     "recovered": null
   },
@@ -409,14 +409,20 @@
   },
   "Venezuela": {
     "date": "2021-11-15",
-    "confirmed": 418900,
-    "deaths": 5019,
+    "confirmed": 419745,
+    "deaths": 5026,
     "recovered": null
   },
   "Kuwait": {
     "date": "2021-11-15",
     "confirmed": 413008,
     "deaths": 2462,
+    "recovered": null
+  },
+  "Korea, South": {
+    "date": "2021-11-15",
+    "confirmed": 397466,
+    "deaths": 3115,
     "recovered": null
   },
   "Uruguay": {
@@ -429,12 +435,6 @@
     "date": "2021-11-15",
     "confirmed": 395856,
     "deaths": 4170,
-    "recovered": null
-  },
-  "Korea, South": {
-    "date": "2021-11-15",
-    "confirmed": 395460,
-    "deaths": 3103,
     "recovered": null
   },
   "Slovenia": {
@@ -577,7 +577,7 @@
   },
   "Australia": {
     "date": "2021-11-15",
-    "confirmed": 190614,
+    "confirmed": 190624,
     "deaths": 1888,
     "recovered": null
   },
@@ -1013,16 +1013,16 @@
     "deaths": 232,
     "recovered": null
   },
+  "Guinea-Bissau": {
+    "date": "2021-11-15",
+    "confirmed": 6402,
+    "deaths": 144,
+    "recovered": null
+  },
   "Sierra Leone": {
     "date": "2021-11-15",
     "confirmed": 6400,
     "deaths": 121,
-    "recovered": null
-  },
-  "Guinea-Bissau": {
-    "date": "2021-11-15",
-    "confirmed": 6363,
-    "deaths": 143,
     "recovered": null
   },
   "Grenada": {
@@ -1043,16 +1043,16 @@
     "deaths": 92,
     "recovered": null
   },
+  "Dominica": {
+    "date": "2021-11-15",
+    "confirmed": 5336,
+    "deaths": 35,
+    "recovered": null
+  },
   "Saint Vincent and the Grenadines": {
     "date": "2021-11-15",
     "confirmed": 5270,
     "deaths": 71,
-    "recovered": null
-  },
-  "Dominica": {
-    "date": "2021-11-15",
-    "confirmed": 5235,
-    "deaths": 34,
     "recovered": null
   },
   "Chad": {
