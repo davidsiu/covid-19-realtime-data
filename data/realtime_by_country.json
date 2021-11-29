@@ -2,7 +2,7 @@
   "US": {
     "date": "2021-11-29",
     "confirmed": 48224382,
-    "deaths": 776612,
+    "deaths": 776639,
     "recovered": null
   },
   "India": {
@@ -19,7 +19,7 @@
   },
   "United Kingdom": {
     "date": "2021-11-29",
-    "confirmed": 10202303,
+    "confirmed": 10202370,
     "deaths": 145218,
     "recovered": null
   },
@@ -115,7 +115,7 @@
   },
   "Netherlands": {
     "date": "2021-11-29",
-    "confirmed": 2640725,
+    "confirmed": 2640764,
     "deaths": 19766,
     "recovered": null
   },
@@ -379,7 +379,7 @@
   },
   "Denmark": {
     "date": "2021-11-29",
-    "confirmed": 483667,
+    "confirmed": 483764,
     "deaths": 2885,
     "recovered": null
   },
@@ -409,8 +409,8 @@
   },
   "Korea, South": {
     "date": "2021-11-29",
-    "confirmed": 440896,
-    "deaths": 3548,
+    "confirmed": 444200,
+    "deaths": 3580,
     "recovered": null
   },
   "Venezuela": {
@@ -1016,13 +1016,19 @@
   "Guinea-Bissau": {
     "date": "2021-11-29",
     "confirmed": 6440,
-    "deaths": 146,
+    "deaths": 148,
     "recovered": null
   },
   "Sierra Leone": {
     "date": "2021-11-29",
     "confirmed": 6401,
     "deaths": 121,
+    "recovered": null
+  },
+  "Dominica": {
+    "date": "2021-11-29",
+    "confirmed": 5955,
+    "deaths": 38,
     "recovered": null
   },
   "San Marino": {
@@ -1041,12 +1047,6 @@
     "date": "2021-11-29",
     "confirmed": 5821,
     "deaths": 287,
-    "recovered": null
-  },
-  "Dominica": {
-    "date": "2021-11-29",
-    "confirmed": 5819,
-    "deaths": 37,
     "recovered": null
   },
   "Saint Vincent and the Grenadines": {
@@ -1069,7 +1069,7 @@
   },
   "Comoros": {
     "date": "2021-11-29",
-    "confirmed": 4489,
+    "confirmed": 4498,
     "deaths": 150,
     "recovered": null
   },
@@ -1093,7 +1093,7 @@
   },
   "Saint Kitts and Nevis": {
     "date": "2021-11-29",
-    "confirmed": 2779,
+    "confirmed": 2782,
     "deaths": 28,
     "recovered": null
   },
