@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-12-11",
-    "confirmed": 49833784,
-    "deaths": 796765,
+    "confirmed": 49844836,
+    "deaths": 796921,
     "recovered": null
   },
   "India": {
@@ -43,7 +43,7 @@
   },
   "Germany": {
     "date": "2021-12-11",
-    "confirmed": 6497379,
+    "confirmed": 6497427,
     "deaths": 105510,
     "recovered": null
   },
@@ -157,8 +157,8 @@
   },
   "Canada": {
     "date": "2021-12-11",
-    "confirmed": 1834569,
-    "deaths": 29953,
+    "confirmed": 1835582,
+    "deaths": 29958,
     "recovered": null
   },
   "Romania": {
@@ -353,6 +353,12 @@
     "deaths": 7332,
     "recovered": null
   },
+  "Denmark": {
+    "date": "2021-12-11",
+    "confirmed": 554449,
+    "deaths": 3018,
+    "recovered": null
+  },
   "Saudi Arabia": {
     "date": "2021-12-11",
     "confirmed": 550189,
@@ -363,12 +369,6 @@
     "date": "2021-12-11",
     "confirmed": 549638,
     "deaths": 19281,
-    "recovered": null
-  },
-  "Denmark": {
-    "date": "2021-12-11",
-    "confirmed": 548843,
-    "deaths": 3009,
     "recovered": null
   },
   "Ecuador": {
