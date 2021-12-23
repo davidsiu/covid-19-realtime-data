@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-12-23",
-    "confirmed": 51784213,
-    "deaths": 813872,
+    "confirmed": 51798666,
+    "deaths": 813972,
     "recovered": null
   },
   "India": {
@@ -67,14 +67,14 @@
   },
   "Argentina": {
     "date": "2021-12-23",
-    "confirmed": 5415501,
-    "deaths": 116964,
+    "confirmed": 5428957,
+    "deaths": 116979,
     "recovered": null
   },
   "Colombia": {
     "date": "2021-12-23",
-    "confirmed": 5112719,
-    "deaths": 129586,
+    "confirmed": 5115194,
+    "deaths": 129640,
     "recovered": null
   },
   "Indonesia": {
@@ -157,7 +157,7 @@
   },
   "Canada": {
     "date": "2021-12-23",
-    "confirmed": 1951247,
+    "confirmed": 1952872,
     "deaths": 30184,
     "recovered": null
   },
@@ -301,8 +301,8 @@
   },
   "Tunisia": {
     "date": "2021-12-23",
-    "confirmed": 721797,
-    "deaths": 25491,
+    "confirmed": 722123,
+    "deaths": 25509,
     "recovered": null
   },
   "Lebanon": {
@@ -503,6 +503,12 @@
     "deaths": 13243,
     "recovered": null
   },
+  "Australia": {
+    "date": "2021-12-23",
+    "confirmed": 281215,
+    "deaths": 2182,
+    "recovered": null
+  },
   "Bahrain": {
     "date": "2021-12-23",
     "confirmed": 279056,
@@ -519,12 +525,6 @@
     "date": "2021-12-23",
     "confirmed": 274645,
     "deaths": 5356,
-    "recovered": null
-  },
-  "Australia": {
-    "date": "2021-12-23",
-    "confirmed": 273542,
-    "deaths": 2173,
     "recovered": null
   },
   "Latvia": {
@@ -643,8 +643,8 @@
   },
   "Ghana": {
     "date": "2021-12-23",
-    "confirmed": 134034,
-    "deaths": 1267,
+    "confirmed": 134355,
+    "deaths": 1269,
     "recovered": null
   },
   "Uganda": {
@@ -745,8 +745,8 @@
   },
   "Cote d'Ivoire": {
     "date": "2021-12-23",
-    "confirmed": 62583,
-    "deaths": 706,
+    "confirmed": 62960,
+    "deaths": 707,
     "recovered": null
   },
   "Fiji": {
@@ -875,16 +875,16 @@
     "deaths": 38,
     "recovered": null
   },
-  "Bahamas": {
-    "date": "2021-12-23",
-    "confirmed": 23240,
-    "deaths": 713,
-    "recovered": null
-  },
   "Somalia": {
     "date": "2021-12-23",
-    "confirmed": 23169,
+    "confirmed": 23532,
     "deaths": 1333,
+    "recovered": null
+  },
+  "Bahamas": {
+    "date": "2021-12-23",
+    "confirmed": 23380,
+    "deaths": 713,
     "recovered": null
   },
   "Mauritius": {
@@ -967,7 +967,7 @@
   },
   "Equatorial Guinea": {
     "date": "2021-12-23",
-    "confirmed": 13618,
+    "confirmed": 13623,
     "deaths": 175,
     "recovered": null
   },
