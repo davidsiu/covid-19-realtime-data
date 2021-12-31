@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2021-12-31",
-    "confirmed": 54507105,
-    "deaths": 825353,
+    "confirmed": 54547092,
+    "deaths": 825394,
     "recovered": null
   },
   "India": {
@@ -73,8 +73,8 @@
   },
   "Colombia": {
     "date": "2021-12-31",
-    "confirmed": 5147039,
-    "deaths": 129901,
+    "confirmed": 5157440,
+    "deaths": 129942,
     "recovered": null
   },
   "Indonesia": {
@@ -425,6 +425,12 @@
     "deaths": 5324,
     "recovered": null
   },
+  "Ethiopia": {
+    "date": "2021-12-31",
+    "confirmed": 420342,
+    "deaths": 6937,
+    "recovered": null
+  },
   "Dominican Republic": {
     "date": "2021-12-31",
     "confirmed": 418778,
@@ -433,14 +439,8 @@
   },
   "Kuwait": {
     "date": "2021-12-31",
-    "confirmed": 416631,
+    "confirmed": 417135,
     "deaths": 2468,
-    "recovered": null
-  },
-  "Ethiopia": {
-    "date": "2021-12-31",
-    "confirmed": 415443,
-    "deaths": 6926,
     "recovered": null
   },
   "Uruguay": {
@@ -517,7 +517,7 @@
   },
   "Bahrain": {
     "date": "2021-12-31",
-    "confirmed": 281406,
+    "confirmed": 282062,
     "deaths": 1394,
     "recovered": null
   },
@@ -671,16 +671,16 @@
     "deaths": 4849,
     "recovered": null
   },
+  "Rwanda": {
+    "date": "2021-12-31",
+    "confirmed": 111786,
+    "deaths": 1350,
+    "recovered": null
+  },
   "Laos": {
     "date": "2021-12-31",
     "confirmed": 111060,
     "deaths": 372,
-    "recovered": null
-  },
-  "Rwanda": {
-    "date": "2021-12-31",
-    "confirmed": 110558,
-    "deaths": 1349,
     "recovered": null
   },
   "Cameroon": {
@@ -719,6 +719,12 @@
     "deaths": 1764,
     "recovered": null
   },
+  "Malawi": {
+    "date": "2021-12-31",
+    "confirmed": 75075,
+    "deaths": 2364,
+    "recovered": null
+  },
   "Senegal": {
     "date": "2021-12-31",
     "confirmed": 75055,
@@ -729,12 +735,6 @@
     "date": "2021-12-31",
     "confirmed": 74793,
     "deaths": 1205,
-    "recovered": null
-  },
-  "Malawi": {
-    "date": "2021-12-31",
-    "confirmed": 74201,
-    "deaths": 2355,
     "recovered": null
   },
   "Cote d'Ivoire": {
@@ -1015,8 +1015,8 @@
   },
   "Niger": {
     "date": "2021-12-31",
-    "confirmed": 7331,
-    "deaths": 274,
+    "confirmed": 7405,
+    "deaths": 275,
     "recovered": null
   },
   "Sierra Leone": {
