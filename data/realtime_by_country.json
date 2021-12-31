@@ -1,14 +1,14 @@
 {
   "US": {
     "date": "2021-12-31",
-    "confirmed": 54306755,
-    "deaths": 824301,
+    "confirmed": 54252641,
+    "deaths": 824342,
     "recovered": null
   },
   "India": {
     "date": "2021-12-31",
-    "confirmed": 34822040,
-    "deaths": 480860,
+    "confirmed": 34838804,
+    "deaths": 481080,
     "recovered": null
   },
   "Brazil": {
@@ -397,8 +397,8 @@
   },
   "Panama": {
     "date": "2021-12-31",
-    "confirmed": 491043,
-    "deaths": 7425,
+    "confirmed": 493707,
+    "deaths": 7427,
     "recovered": null
   },
   "West Bank and Gaza": {
@@ -449,6 +449,12 @@
     "deaths": 6169,
     "recovered": null
   },
+  "Australia": {
+    "date": "2021-12-31",
+    "confirmed": 394996,
+    "deaths": 2241,
+    "recovered": null
+  },
   "Norway": {
     "date": "2021-12-31",
     "confirmed": 391214,
@@ -483,12 +489,6 @@
     "date": "2021-12-31",
     "confirmed": 375780,
     "deaths": 9690,
-    "recovered": null
-  },
-  "Australia": {
-    "date": "2021-12-31",
-    "confirmed": 368596,
-    "deaths": 2233,
     "recovered": null
   },
   "Armenia": {
@@ -667,7 +667,7 @@
   },
   "China": {
     "date": "2021-12-31",
-    "confirmed": 114794,
+    "confirmed": 114793,
     "deaths": 4849,
     "recovered": null
   },
@@ -895,7 +895,7 @@
   },
   "Mauritius": {
     "date": "2021-12-31",
-    "confirmed": 23372,
+    "confirmed": 23421,
     "deaths": 240,
     "recovered": null
   },
