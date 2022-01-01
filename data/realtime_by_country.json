@@ -175,7 +175,7 @@
   },
   "Japan": {
     "date": "2022-1-1",
-    "confirmed": 1732296,
+    "confirmed": 1732295,
     "deaths": 18389,
     "recovered": null
   },
@@ -205,8 +205,8 @@
   },
   "Slovakia": {
     "date": "2022-1-1",
-    "confirmed": 1371082,
-    "deaths": 16635,
+    "confirmed": 1374354,
+    "deaths": 16665,
     "recovered": null
   },
   "Switzerland": {
@@ -541,8 +541,8 @@
   },
   "Zambia": {
     "date": "2022-1-1",
-    "confirmed": 254274,
-    "deaths": 3734,
+    "confirmed": 257948,
+    "deaths": 3740,
     "recovered": null
   },
   "Qatar": {
@@ -667,20 +667,20 @@
   },
   "China": {
     "date": "2022-1-1",
-    "confirmed": 115042,
+    "confirmed": 115059,
     "deaths": 4849,
+    "recovered": null
+  },
+  "Laos": {
+    "date": "2022-1-1",
+    "confirmed": 112083,
+    "deaths": 374,
     "recovered": null
   },
   "Rwanda": {
     "date": "2022-1-1",
     "confirmed": 111786,
     "deaths": 1350,
-    "recovered": null
-  },
-  "Laos": {
-    "date": "2022-1-1",
-    "confirmed": 111060,
-    "deaths": 372,
     "recovered": null
   },
   "Cameroon": {
@@ -833,6 +833,12 @@
     "deaths": 248,
     "recovered": null
   },
+  "Lesotho": {
+    "date": "2022-1-1",
+    "confirmed": 29652,
+    "deaths": 671,
+    "recovered": null
+  },
   "Tanzania": {
     "date": "2022-1-1",
     "confirmed": 29306,
@@ -843,12 +849,6 @@
     "date": "2022-1-1",
     "confirmed": 28565,
     "deaths": 260,
-    "recovered": null
-  },
-  "Lesotho": {
-    "date": "2022-1-1",
-    "confirmed": 28408,
-    "deaths": 665,
     "recovered": null
   },
   "Burundi": {
@@ -919,7 +919,7 @@
   },
   "Timor-Leste": {
     "date": "2022-1-1",
-    "confirmed": 19837,
+    "confirmed": 19839,
     "deaths": 122,
     "recovered": null
   },
@@ -943,7 +943,7 @@
   },
   "Taiwan*": {
     "date": "2022-1-1",
-    "confirmed": 17029,
+    "confirmed": 17050,
     "deaths": 850,
     "recovered": null
   },
