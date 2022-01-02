@@ -19,14 +19,14 @@
   },
   "United Kingdom": {
     "date": "2022-1-2",
-    "confirmed": 13174680,
+    "confirmed": 13174681,
     "deaths": 149251,
     "recovered": null
   },
   "Russia": {
     "date": "2022-1-2",
-    "confirmed": 10340011,
-    "deaths": 303496,
+    "confirmed": 10358099,
+    "deaths": 304284,
     "recovered": null
   },
   "France": {
@@ -43,7 +43,7 @@
   },
   "Germany": {
     "date": "2022-1-2",
-    "confirmed": 7196154,
+    "confirmed": 7196615,
     "deaths": 112157,
     "recovered": null
   },
@@ -79,14 +79,14 @@
   },
   "Indonesia": {
     "date": "2022-1-2",
-    "confirmed": 4262994,
-    "deaths": 144096,
+    "confirmed": 4263168,
+    "deaths": 144097,
     "recovered": null
   },
   "Poland": {
     "date": "2022-1-2",
-    "confirmed": 4120248,
-    "deaths": 97559,
+    "confirmed": 4127428,
+    "deaths": 97592,
     "recovered": null
   },
   "Mexico": {
@@ -97,8 +97,8 @@
   },
   "Ukraine": {
     "date": "2022-1-2",
-    "confirmed": 3852397,
-    "deaths": 102300,
+    "confirmed": 3854405,
+    "deaths": 102421,
     "recovered": null
   },
   "South Africa": {
@@ -181,7 +181,7 @@
   },
   "Japan": {
     "date": "2022-1-2",
-    "confirmed": 1732752,
+    "confirmed": 1732750,
     "deaths": 18389,
     "recovered": null
   },
@@ -212,7 +212,7 @@
   "Switzerland": {
     "date": "2022-1-2",
     "confirmed": 1332615,
-    "deaths": 12219,
+    "deaths": 12225,
     "recovered": null
   },
   "Sweden": {
@@ -235,8 +235,8 @@
   },
   "Austria": {
     "date": "2022-1-2",
-    "confirmed": 1282227,
-    "deaths": 13749,
+    "confirmed": 1285510,
+    "deaths": 13752,
     "recovered": null
   },
   "Hungary": {
@@ -289,8 +289,8 @@
   },
   "Nepal": {
     "date": "2022-1-2",
-    "confirmed": 828773,
-    "deaths": 11594,
+    "confirmed": 828986,
+    "deaths": 11596,
     "recovered": null
   },
   "Ireland": {
@@ -373,8 +373,8 @@
   },
   "Saudi Arabia": {
     "date": "2022-1-2",
-    "confirmed": 557082,
-    "deaths": 8878,
+    "confirmed": 558106,
+    "deaths": 8879,
     "recovered": null
   },
   "Ecuador": {
@@ -407,21 +407,21 @@
     "deaths": 4919,
     "recovered": null
   },
+  "Slovenia": {
+    "date": "2022-1-2",
+    "confirmed": 466554,
+    "deaths": 5603,
+    "recovered": null
+  },
   "Paraguay": {
     "date": "2022-1-2",
     "confirmed": 466101,
     "deaths": 16624,
     "recovered": null
   },
-  "Slovenia": {
-    "date": "2022-1-2",
-    "confirmed": 465711,
-    "deaths": 5597,
-    "recovered": null
-  },
   "Australia": {
     "date": "2022-1-2",
-    "confirmed": 462836,
+    "confirmed": 462974,
     "deaths": 2259,
     "recovered": null
   },
@@ -469,8 +469,8 @@
   },
   "Libya": {
     "date": "2022-1-2",
-    "confirmed": 388734,
-    "deaths": 5710,
+    "confirmed": 389650,
+    "deaths": 5722,
     "recovered": null
   },
   "Egypt": {
@@ -499,8 +499,8 @@
   },
   "Oman": {
     "date": "2022-1-2",
-    "confirmed": 305489,
-    "deaths": 4116,
+    "confirmed": 305832,
+    "deaths": 4117,
     "recovered": null
   },
   "Kenya": {
@@ -529,8 +529,8 @@
   },
   "Latvia": {
     "date": "2022-1-2",
-    "confirmed": 276841,
-    "deaths": 4577,
+    "confirmed": 277021,
+    "deaths": 4579,
     "recovered": null
   },
   "Finland": {
@@ -631,8 +631,8 @@
   },
   "Afghanistan": {
     "date": "2022-1-2",
-    "confirmed": 158107,
-    "deaths": 7356,
+    "confirmed": 158189,
+    "deaths": 7361,
     "recovered": null
   },
   "Namibia": {
@@ -643,8 +643,8 @@
   },
   "Ghana": {
     "date": "2022-1-2",
-    "confirmed": 143997,
-    "deaths": 1298,
+    "confirmed": 145052,
+    "deaths": 1303,
     "recovered": null
   },
   "Uganda": {
@@ -667,20 +667,20 @@
   },
   "China": {
     "date": "2022-1-2",
-    "confirmed": 115251,
+    "confirmed": 115254,
     "deaths": 4849,
+    "recovered": null
+  },
+  "Laos": {
+    "date": "2022-1-2",
+    "confirmed": 112767,
+    "deaths": 380,
     "recovered": null
   },
   "Rwanda": {
     "date": "2022-1-2",
     "confirmed": 112654,
     "deaths": 1351,
-    "recovered": null
-  },
-  "Laos": {
-    "date": "2022-1-2",
-    "confirmed": 112083,
-    "deaths": 374,
     "recovered": null
   },
   "Cameroon": {
@@ -835,7 +835,7 @@
   },
   "Lesotho": {
     "date": "2022-1-2",
-    "confirmed": 29652,
+    "confirmed": 29756,
     "deaths": 671,
     "recovered": null
   },
@@ -869,6 +869,12 @@
     "deaths": 766,
     "recovered": null
   },
+  "Bahamas": {
+    "date": "2022-1-2",
+    "confirmed": 25285,
+    "deaths": 717,
+    "recovered": null
+  },
   "Benin": {
     "date": "2022-1-2",
     "confirmed": 24935,
@@ -881,28 +887,22 @@
     "deaths": 134,
     "recovered": null
   },
-  "Bahamas": {
-    "date": "2022-1-2",
-    "confirmed": 24476,
-    "deaths": 717,
-    "recovered": null
-  },
   "Andorra": {
     "date": "2022-1-2",
     "confirmed": 23740,
     "deaths": 140,
     "recovered": null
   },
+  "Mauritius": {
+    "date": "2022-1-2",
+    "confirmed": 23554,
+    "deaths": 240,
+    "recovered": null
+  },
   "Somalia": {
     "date": "2022-1-2",
     "confirmed": 23532,
     "deaths": 1333,
-    "recovered": null
-  },
-  "Mauritius": {
-    "date": "2022-1-2",
-    "confirmed": 23493,
-    "deaths": 240,
     "recovered": null
   },
   "Mali": {
@@ -943,7 +943,7 @@
   },
   "Taiwan*": {
     "date": "2022-1-2",
-    "confirmed": 17050,
+    "confirmed": 17070,
     "deaths": 850,
     "recovered": null
   },
@@ -1033,8 +1033,8 @@
   },
   "Comoros": {
     "date": "2022-1-2",
-    "confirmed": 6688,
-    "deaths": 157,
+    "confirmed": 6835,
+    "deaths": 158,
     "recovered": null
   },
   "Guinea-Bissau": {
@@ -1055,16 +1055,16 @@
     "deaths": 287,
     "recovered": null
   },
+  "Liechtenstein": {
+    "date": "2022-1-2",
+    "confirmed": 6208,
+    "deaths": 69,
+    "recovered": null
+  },
   "Chad": {
     "date": "2022-1-2",
     "confirmed": 6183,
     "deaths": 184,
-    "recovered": null
-  },
-  "Liechtenstein": {
-    "date": "2022-1-2",
-    "confirmed": 6167,
-    "deaths": 69,
     "recovered": null
   },
   "Saint Vincent and the Grenadines": {
