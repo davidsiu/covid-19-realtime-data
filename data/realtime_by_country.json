@@ -109,7 +109,7 @@
   },
   "Netherlands": {
     "date": "2022-1-2",
-    "confirmed": 3198808,
+    "confirmed": 3200168,
     "deaths": 21419,
     "recovered": null
   },
@@ -607,7 +607,7 @@
   },
   "Kyrgyzstan": {
     "date": "2022-1-2",
-    "confirmed": 184689,
+    "confirmed": 184748,
     "deaths": 2802,
     "recovered": null
   },
@@ -667,20 +667,20 @@
   },
   "China": {
     "date": "2022-1-2",
-    "confirmed": 115059,
+    "confirmed": 115251,
     "deaths": 4849,
+    "recovered": null
+  },
+  "Rwanda": {
+    "date": "2022-1-2",
+    "confirmed": 112654,
+    "deaths": 1351,
     "recovered": null
   },
   "Laos": {
     "date": "2022-1-2",
     "confirmed": 112083,
     "deaths": 374,
-    "recovered": null
-  },
-  "Rwanda": {
-    "date": "2022-1-2",
-    "confirmed": 111786,
-    "deaths": 1350,
     "recovered": null
   },
   "Cameroon": {
@@ -767,22 +767,28 @@
     "deaths": 1189,
     "recovered": null
   },
+  "Syria": {
+    "date": "2022-1-2",
+    "confirmed": 50310,
+    "deaths": 2901,
+    "recovered": null
+  },
   "Madagascar": {
     "date": "2022-1-2",
     "confirmed": 50279,
     "deaths": 1027,
     "recovered": null
   },
-  "Syria": {
-    "date": "2022-1-2",
-    "confirmed": 50278,
-    "deaths": 2897,
-    "recovered": null
-  },
   "Sudan": {
     "date": "2022-1-2",
     "confirmed": 46518,
     "deaths": 3331,
+    "recovered": null
+  },
+  "Cabo Verde": {
+    "date": "2022-1-2",
+    "confirmed": 42463,
+    "deaths": 352,
     "recovered": null
   },
   "Mauritania": {
@@ -795,12 +801,6 @@
     "date": "2022-1-2",
     "confirmed": 41798,
     "deaths": 288,
-    "recovered": null
-  },
-  "Cabo Verde": {
-    "date": "2022-1-2",
-    "confirmed": 41732,
-    "deaths": 352,
     "recovered": null
   },
   "Guyana": {
