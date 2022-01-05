@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-5",
-    "confirmed": 57048792,
-    "deaths": 830067,
+    "confirmed": 57048800,
+    "deaths": 830068,
     "recovered": null
   },
   "India": {
@@ -19,7 +19,7 @@
   },
   "United Kingdom": {
     "date": "2022-1-5",
-    "confirmed": 13722330,
+    "confirmed": 13722759,
     "deaths": 149417,
     "recovered": null
   },
@@ -109,7 +109,7 @@
   },
   "Netherlands": {
     "date": "2022-1-5",
-    "confirmed": 3254004,
+    "confirmed": 3254947,
     "deaths": 21458,
     "recovered": null
   },
@@ -133,7 +133,7 @@
   },
   "Canada": {
     "date": "2022-1-5",
-    "confirmed": 2344052,
+    "confirmed": 2344242,
     "deaths": 30491,
     "recovered": null
   },
@@ -373,7 +373,7 @@
   },
   "Australia": {
     "date": "2022-1-5",
-    "confirmed": 565289,
+    "confirmed": 566158,
     "deaths": 2282,
     "recovered": null
   },
@@ -457,8 +457,8 @@
   },
   "Norway": {
     "date": "2022-1-5",
-    "confirmed": 404551,
-    "deaths": 1305,
+    "confirmed": 412472,
+    "deaths": 1307,
     "recovered": null
   },
   "Libya": {
@@ -511,8 +511,8 @@
   },
   "Bosnia and Herzegovina": {
     "date": "2022-1-5",
-    "confirmed": 292785,
-    "deaths": 13488,
+    "confirmed": 293684,
+    "deaths": 13517,
     "recovered": null
   },
   "Bahrain": {
@@ -673,7 +673,7 @@
   },
   "China": {
     "date": "2022-1-5",
-    "confirmed": 115611,
+    "confirmed": 115701,
     "deaths": 4849,
     "recovered": null
   },
@@ -775,8 +775,8 @@
   },
   "Syria": {
     "date": "2022-1-5",
-    "confirmed": 50364,
-    "deaths": 2908,
+    "confirmed": 50390,
+    "deaths": 2912,
     "recovered": null
   },
   "Sudan": {
@@ -817,7 +817,7 @@
   },
   "Belize": {
     "date": "2022-1-5",
-    "confirmed": 33457,
+    "confirmed": 34087,
     "deaths": 605,
     "recovered": null
   },
@@ -929,16 +929,16 @@
     "deaths": 333,
     "recovered": null
   },
+  "Nicaragua": {
+    "date": "2022-1-5",
+    "confirmed": 17526,
+    "deaths": 217,
+    "recovered": null
+  },
   "Tajikistan": {
     "date": "2022-1-5",
     "confirmed": 17493,
     "deaths": 125,
-    "recovered": null
-  },
-  "Nicaragua": {
-    "date": "2022-1-5",
-    "confirmed": 17487,
-    "deaths": 217,
     "recovered": null
   },
   "Taiwan*": {
