@@ -19,14 +19,14 @@
   },
   "United Kingdom": {
     "date": "2022-1-8",
-    "confirmed": 14280490,
+    "confirmed": 14280816,
     "deaths": 150223,
     "recovered": null
   },
   "France": {
     "date": "2022-1-8",
-    "confirmed": 11618224,
-    "deaths": 126195,
+    "confirmed": 11623327,
+    "deaths": 126202,
     "recovered": null
   },
   "Russia": {
@@ -43,8 +43,8 @@
   },
   "Germany": {
     "date": "2022-1-8",
-    "confirmed": 7458433,
-    "deaths": 113717,
+    "confirmed": 7499776,
+    "deaths": 113905,
     "recovered": null
   },
   "Spain": {
@@ -139,8 +139,8 @@
   },
   "Peru": {
     "date": "2022-1-8",
-    "confirmed": 2329717,
-    "deaths": 202934,
+    "confirmed": 2342550,
+    "deaths": 202981,
     "recovered": null
   },
   "Thailand": {
@@ -254,7 +254,7 @@
   "Kazakhstan": {
     "date": "2022-1-8",
     "confirmed": 1074283,
-    "deaths": 18267,
+    "deaths": 18274,
     "recovered": null
   },
   "Jordan": {
@@ -461,16 +461,16 @@
     "deaths": 2469,
     "recovered": null
   },
+  "Mongolia": {
+    "date": "2022-1-8",
+    "confirmed": 393470,
+    "deaths": 2070,
+    "recovered": null
+  },
   "Libya": {
     "date": "2022-1-8",
     "confirmed": 392868,
     "deaths": 5778,
-    "recovered": null
-  },
-  "Mongolia": {
-    "date": "2022-1-8",
-    "confirmed": 392430,
-    "deaths": 2068,
     "recovered": null
   },
   "Egypt": {
@@ -691,8 +691,8 @@
   },
   "Cameroon": {
     "date": "2022-1-8",
-    "confirmed": 109367,
-    "deaths": 1851,
+    "confirmed": 109666,
+    "deaths": 1853,
     "recovered": null
   },
   "Jamaica": {
@@ -827,6 +827,12 @@
     "deaths": 605,
     "recovered": null
   },
+  "Burundi": {
+    "date": "2022-1-8",
+    "confirmed": 34722,
+    "deaths": 38,
+    "recovered": null
+  },
   "Guinea": {
     "date": "2022-1-8",
     "confirmed": 34139,
@@ -837,12 +843,6 @@
     "date": "2022-1-8",
     "confirmed": 33553,
     "deaths": 252,
-    "recovered": null
-  },
-  "Burundi": {
-    "date": "2022-1-8",
-    "confirmed": 33551,
-    "deaths": 38,
     "recovered": null
   },
   "Barbados": {
@@ -1057,7 +1057,7 @@
   },
   "Liechtenstein": {
     "date": "2022-1-8",
-    "confirmed": 6530,
+    "confirmed": 6597,
     "deaths": 71,
     "recovered": null
   },
