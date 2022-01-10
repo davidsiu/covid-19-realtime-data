@@ -43,7 +43,7 @@
   },
   "Germany": {
     "date": "2022-1-10",
-    "confirmed": 7555660,
+    "confirmed": 7539922,
     "deaths": 114033,
     "recovered": null
   },
@@ -67,8 +67,8 @@
   },
   "Iran": {
     "date": "2022-1-10",
-    "confirmed": 6206405,
-    "deaths": 131878,
+    "confirmed": 6208337,
+    "deaths": 131915,
     "recovered": null
   },
   "Colombia": {
@@ -139,8 +139,8 @@
   },
   "Peru": {
     "date": "2022-1-10",
-    "confirmed": 2358685,
-    "deaths": 203019,
+    "confirmed": 2375813,
+    "deaths": 203067,
     "recovered": null
   },
   "Thailand": {
@@ -187,8 +187,14 @@
   },
   "Bangladesh": {
     "date": "2022-1-10",
-    "confirmed": 1593700,
-    "deaths": 28102,
+    "confirmed": 1595931,
+    "deaths": 28105,
+    "recovered": null
+  },
+  "Switzerland": {
+    "date": "2022-1-10",
+    "confirmed": 1546877,
+    "deaths": 12377,
     "recovered": null
   },
   "Israel": {
@@ -207,12 +213,6 @@
     "date": "2022-1-10",
     "confirmed": 1499976,
     "deaths": 19029,
-    "recovered": null
-  },
-  "Switzerland": {
-    "date": "2022-1-10",
-    "confirmed": 1483212,
-    "deaths": 12361,
     "recovered": null
   },
   "Sweden": {
@@ -259,7 +259,7 @@
   },
   "Australia": {
     "date": "2022-1-10",
-    "confirmed": 1049306,
+    "confirmed": 1050577,
     "deaths": 2389,
     "recovered": null
   },
@@ -547,8 +547,8 @@
   },
   "Qatar": {
     "date": "2022-1-10",
-    "confirmed": 270651,
-    "deaths": 618,
+    "confirmed": 274529,
+    "deaths": 619,
     "recovered": null
   },
   "Estonia": {
@@ -637,14 +637,14 @@
   },
   "Uganda": {
     "date": "2022-1-10",
-    "confirmed": 153762,
-    "deaths": 3339,
+    "confirmed": 154511,
+    "deaths": 3357,
     "recovered": null
   },
   "Namibia": {
     "date": "2022-1-10",
-    "confirmed": 152390,
-    "deaths": 3724,
+    "confirmed": 152826,
+    "deaths": 3726,
     "recovered": null
   },
   "Ghana": {
@@ -755,16 +755,16 @@
     "deaths": 487,
     "recovered": null
   },
+  "Fiji": {
+    "date": "2022-1-10",
+    "confirmed": 57849,
+    "deaths": 714,
+    "recovered": null
+  },
   "Suriname": {
     "date": "2022-1-10",
     "confirmed": 57705,
     "deaths": 1198,
-    "recovered": null
-  },
-  "Fiji": {
-    "date": "2022-1-10",
-    "confirmed": 57257,
-    "deaths": 709,
     "recovered": null
   },
   "Madagascar": {
@@ -1099,7 +1099,7 @@
   },
   "Bhutan": {
     "date": "2022-1-10",
-    "confirmed": 2781,
+    "confirmed": 2802,
     "deaths": 3,
     "recovered": null
   },
