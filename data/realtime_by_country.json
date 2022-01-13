@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-13",
-    "confirmed": 63617210,
-    "deaths": 845707,
+    "confirmed": 63744198,
+    "deaths": 845899,
     "recovered": null
   },
   "India": {
@@ -47,16 +47,16 @@
     "deaths": 140188,
     "recovered": null
   },
-  "Germany": {
-    "date": "2022-1-13",
-    "confirmed": 7783423,
-    "deaths": 115172,
-    "recovered": null
-  },
   "Spain": {
     "date": "2022-1-13",
-    "confirmed": 7771367,
-    "deaths": 90508,
+    "confirmed": 7930528,
+    "deaths": 90620,
+    "recovered": null
+  },
+  "Germany": {
+    "date": "2022-1-13",
+    "confirmed": 7805161,
+    "deaths": 115172,
     "recovered": null
   },
   "Argentina": {
@@ -127,7 +127,7 @@
   },
   "Canada": {
     "date": "2022-1-13",
-    "confirmed": 2672980,
+    "confirmed": 2682968,
     "deaths": 31231,
     "recovered": null
   },
@@ -305,6 +305,12 @@
     "deaths": 11610,
     "recovered": null
   },
+  "Lebanon": {
+    "date": "2022-1-13",
+    "confirmed": 801801,
+    "deaths": 9338,
+    "recovered": null
+  },
   "Bulgaria": {
     "date": "2022-1-13",
     "confirmed": 799943,
@@ -315,12 +321,6 @@
     "date": "2022-1-13",
     "confirmed": 795997,
     "deaths": 2182,
-    "recovered": null
-  },
-  "Lebanon": {
-    "date": "2022-1-13",
-    "confirmed": 794744,
-    "deaths": 9325,
     "recovered": null
   },
   "Croatia": {
@@ -355,8 +355,8 @@
   },
   "Guatemala": {
     "date": "2022-1-13",
-    "confirmed": 643447,
-    "deaths": 16128,
+    "confirmed": 646319,
+    "deaths": 16145,
     "recovered": null
   },
   "Azerbaijan": {
@@ -577,8 +577,8 @@
   },
   "Albania": {
     "date": "2022-1-13",
-    "confirmed": 224569,
-    "deaths": 3253,
+    "confirmed": 226598,
+    "deaths": 3255,
     "recovered": null
   },
   "Zimbabwe": {
@@ -593,16 +593,16 @@
     "deaths": 6383,
     "recovered": null
   },
+  "Cyprus": {
+    "date": "2022-1-13",
+    "confirmed": 218374,
+    "deaths": 672,
+    "recovered": null
+  },
   "Mozambique": {
     "date": "2022-1-13",
     "confirmed": 216559,
     "deaths": 2109,
-    "recovered": null
-  },
-  "Cyprus": {
-    "date": "2022-1-13",
-    "confirmed": 215271,
-    "deaths": 669,
     "recovered": null
   },
   "Uzbekistan": {
@@ -1021,7 +1021,7 @@
   },
   "Niger": {
     "date": "2022-1-13",
-    "confirmed": 8260,
+    "confirmed": 8306,
     "deaths": 286,
     "recovered": null
   },
@@ -1075,7 +1075,7 @@
   },
   "Monaco": {
     "date": "2022-1-13",
-    "confirmed": 6266,
+    "confirmed": 6362,
     "deaths": 44,
     "recovered": null
   },
