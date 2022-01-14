@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-14",
-    "confirmed": 64130148,
-    "deaths": 846638,
+    "confirmed": 64321367,
+    "deaths": 847105,
     "recovered": null
   },
   "India": {
@@ -19,8 +19,8 @@
   },
   "United Kingdom": {
     "date": "2022-1-14",
-    "confirmed": 15064941,
-    "deaths": 151833,
+    "confirmed": 15163519,
+    "deaths": 152103,
     "recovered": null
   },
   "France": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2022-1-14",
-    "confirmed": 7874955,
+    "confirmed": 7874018,
     "deaths": 115352,
     "recovered": null
   },
@@ -127,8 +127,8 @@
   },
   "Canada": {
     "date": "2022-1-14",
-    "confirmed": 2701216,
-    "deaths": 31289,
+    "confirmed": 2701279,
+    "deaths": 31358,
     "recovered": null
   },
   "Czechia": {
@@ -413,6 +413,12 @@
     "deaths": 5690,
     "recovered": null
   },
+  "Dominican Republic": {
+    "date": "2022-1-14",
+    "confirmed": 489631,
+    "deaths": 4266,
+    "recovered": null
+  },
   "Norway": {
     "date": "2022-1-14",
     "confirmed": 483952,
@@ -423,12 +429,6 @@
     "date": "2022-1-14",
     "confirmed": 483820,
     "deaths": 6211,
-    "recovered": null
-  },
-  "Dominican Republic": {
-    "date": "2022-1-14",
-    "confirmed": 482457,
-    "deaths": 4259,
     "recovered": null
   },
   "Paraguay": {
@@ -535,14 +535,14 @@
   },
   "Zambia": {
     "date": "2022-1-14",
-    "confirmed": 291582,
-    "deaths": 3834,
+    "confirmed": 293695,
+    "deaths": 3844,
     "recovered": null
   },
   "Singapore": {
     "date": "2022-1-14",
-    "confirmed": 289085,
-    "deaths": 839,
+    "confirmed": 290030,
+    "deaths": 840,
     "recovered": null
   },
   "Qatar": {
@@ -659,6 +659,12 @@
     "deaths": 1395,
     "recovered": null
   },
+  "Luxembourg": {
+    "date": "2022-1-14",
+    "confirmed": 123340,
+    "deaths": 934,
+    "recovered": null
+  },
   "Laos": {
     "date": "2022-1-14",
     "confirmed": 123293,
@@ -669,12 +675,6 @@
     "date": "2022-1-14",
     "confirmed": 123025,
     "deaths": 3832,
-    "recovered": null
-  },
-  "Luxembourg": {
-    "date": "2022-1-14",
-    "confirmed": 121237,
-    "deaths": 931,
     "recovered": null
   },
   "Cambodia": {
@@ -1015,7 +1015,7 @@
   },
   "Eritrea": {
     "date": "2022-1-14",
-    "confirmed": 8755,
+    "confirmed": 8845,
     "deaths": 85,
     "recovered": null
   },
@@ -1081,7 +1081,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2022-1-14",
-    "confirmed": 5404,
+    "confirmed": 5458,
     "deaths": 65,
     "recovered": null
   },
