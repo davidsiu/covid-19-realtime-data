@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-15",
-    "confirmed": 65266281,
-    "deaths": 849754,
+    "confirmed": 65342285,
+    "deaths": 849880,
     "recovered": null
   },
   "India": {
@@ -77,6 +77,12 @@
     "deaths": 130731,
     "recovered": null
   },
+  "Mexico": {
+    "date": "2022-1-15",
+    "confirmed": 4302069,
+    "deaths": 301107,
+    "recovered": null
+  },
   "Poland": {
     "date": "2022-1-15",
     "confirmed": 4298375,
@@ -87,12 +93,6 @@
     "date": "2022-1-15",
     "confirmed": 4270794,
     "deaths": 144167,
-    "recovered": null
-  },
-  "Mexico": {
-    "date": "2022-1-15",
-    "confirmed": 4257776,
-    "deaths": 300912,
     "recovered": null
   },
   "Ukraine": {
@@ -127,7 +127,7 @@
   },
   "Canada": {
     "date": "2022-1-15",
-    "confirmed": 2750623,
+    "confirmed": 2750742,
     "deaths": 31519,
     "recovered": null
   },
@@ -419,16 +419,16 @@
     "deaths": 1381,
     "recovered": null
   },
+  "Dominican Republic": {
+    "date": "2022-1-15",
+    "confirmed": 494595,
+    "deaths": 4268,
+    "recovered": null
+  },
   "Uruguay": {
     "date": "2022-1-15",
     "confirmed": 490626,
     "deaths": 6214,
-    "recovered": null
-  },
-  "Dominican Republic": {
-    "date": "2022-1-15",
-    "confirmed": 489631,
-    "deaths": 4266,
     "recovered": null
   },
   "Paraguay": {
@@ -481,8 +481,8 @@
   },
   "Moldova": {
     "date": "2022-1-15",
-    "confirmed": 386905,
-    "deaths": 10427,
+    "confirmed": 387920,
+    "deaths": 10437,
     "recovered": null
   },
   "Honduras": {
@@ -565,8 +565,8 @@
   },
   "North Macedonia": {
     "date": "2022-1-15",
-    "confirmed": 241651,
-    "deaths": 8083,
+    "confirmed": 243284,
+    "deaths": 8092,
     "recovered": null
   },
   "Botswana": {
@@ -595,8 +595,8 @@
   },
   "Cyprus": {
     "date": "2022-1-15",
-    "confirmed": 221416,
-    "deaths": 672,
+    "confirmed": 223767,
+    "deaths": 673,
     "recovered": null
   },
   "Mozambique": {
@@ -613,8 +613,8 @@
   },
   "Montenegro": {
     "date": "2022-1-15",
-    "confirmed": 200535,
-    "deaths": 2465,
+    "confirmed": 202348,
+    "deaths": 2466,
     "recovered": null
   },
   "Kyrgyzstan": {
@@ -1039,7 +1039,7 @@
   },
   "Sierra Leone": {
     "date": "2022-1-15",
-    "confirmed": 7500,
+    "confirmed": 7529,
     "deaths": 125,
     "recovered": null
   },
