@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-19",
-    "confirmed": 67524239,
-    "deaths": 853917,
+    "confirmed": 67581992,
+    "deaths": 853951,
     "recovered": null
   },
   "India": {
@@ -13,13 +13,13 @@
   },
   "Brazil": {
     "date": "2022-1-19",
-    "confirmed": 23221299,
-    "deaths": 621759,
+    "confirmed": 23229851,
+    "deaths": 621803,
     "recovered": null
   },
   "United Kingdom": {
     "date": "2022-1-19",
-    "confirmed": 15501765,
+    "confirmed": 15501850,
     "deaths": 153017,
     "recovered": null
   },
@@ -103,7 +103,7 @@
   },
   "Netherlands": {
     "date": "2022-1-19",
-    "confirmed": 3691386,
+    "confirmed": 3691453,
     "deaths": 21652,
     "recovered": null
   },
@@ -685,7 +685,7 @@
   },
   "China": {
     "date": "2022-1-19",
-    "confirmed": 118211,
+    "confirmed": 118297,
     "deaths": 4849,
     "recovered": null
   },
@@ -1021,7 +1021,7 @@
   },
   "Niger": {
     "date": "2022-1-19",
-    "confirmed": 8413,
+    "confirmed": 8459,
     "deaths": 293,
     "recovered": null
   },
@@ -1033,7 +1033,7 @@
   },
   "Comoros": {
     "date": "2022-1-19",
-    "confirmed": 7767,
+    "confirmed": 7771,
     "deaths": 159,
     "recovered": null
   },
@@ -1049,16 +1049,16 @@
     "deaths": 73,
     "recovered": null
   },
+  "Guinea-Bissau": {
+    "date": "2022-1-19",
+    "confirmed": 7140,
+    "deaths": 153,
+    "recovered": null
+  },
   "Liberia": {
     "date": "2022-1-19",
     "confirmed": 7121,
     "deaths": 287,
-    "recovered": null
-  },
-  "Guinea-Bissau": {
-    "date": "2022-1-19",
-    "confirmed": 7034,
-    "deaths": 152,
     "recovered": null
   },
   "Monaco": {
@@ -1075,8 +1075,8 @@
   },
   "Saint Vincent and the Grenadines": {
     "date": "2022-1-19",
-    "confirmed": 6599,
-    "deaths": 87,
+    "confirmed": 6604,
+    "deaths": 88,
     "recovered": null
   },
   "Sao Tome and Principe": {
@@ -1115,6 +1115,12 @@
     "deaths": 13,
     "recovered": null
   },
+  "Palau": {
+    "date": "2022-1-19",
+    "confirmed": 167,
+    "deaths": 0,
+    "recovered": null
+  },
   "Solomon Islands": {
     "date": "2022-1-19",
     "confirmed": 32,
@@ -1131,12 +1137,6 @@
     "date": "2022-1-19",
     "confirmed": 9,
     "deaths": 2,
-    "recovered": null
-  },
-  "Palau": {
-    "date": "2022-1-19",
-    "confirmed": 8,
-    "deaths": 0,
     "recovered": null
   }
 }
