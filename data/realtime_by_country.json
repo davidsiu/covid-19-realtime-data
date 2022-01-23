@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-23",
-    "confirmed": 70521942,
-    "deaths": 866124,
+    "confirmed": 70539713,
+    "deaths": 866198,
     "recovered": null
   },
   "India": {
@@ -25,8 +25,14 @@
   },
   "United Kingdom": {
     "date": "2022-1-23",
-    "confirmed": 15891905,
-    "deaths": 154298,
+    "confirmed": 15966705,
+    "deaths": 154373,
+    "recovered": null
+  },
+  "Turkey": {
+    "date": "2022-1-23",
+    "confirmed": 10947129,
+    "deaths": 85969,
     "recovered": null
   },
   "Russia": {
@@ -35,16 +41,10 @@
     "deaths": 319536,
     "recovered": null
   },
-  "Turkey": {
-    "date": "2022-1-23",
-    "confirmed": 10881626,
-    "deaths": 85784,
-    "recovered": null
-  },
   "Italy": {
     "date": "2022-1-23",
-    "confirmed": 9781191,
-    "deaths": 143296,
+    "confirmed": 9923678,
+    "deaths": 143523,
     "recovered": null
   },
   "Spain": {
@@ -55,7 +55,7 @@
   },
   "Germany": {
     "date": "2022-1-23",
-    "confirmed": 8704012,
+    "confirmed": 8704032,
     "deaths": 116723,
     "recovered": null
   },
@@ -277,8 +277,8 @@
   },
   "Jordan": {
     "date": "2022-1-23",
-    "confirmed": 1134097,
-    "deaths": 13062,
+    "confirmed": 1141048,
+    "deaths": 13073,
     "recovered": null
   },
   "Morocco": {
@@ -295,8 +295,8 @@
   },
   "Cuba": {
     "date": "2022-1-23",
-    "confirmed": 1018604,
-    "deaths": 8358,
+    "confirmed": 1022112,
+    "deaths": 8363,
     "recovered": null
   },
   "Nepal": {
@@ -1117,7 +1117,7 @@
   },
   "Palau": {
     "date": "2022-1-23",
-    "confirmed": 383,
+    "confirmed": 502,
     "deaths": 0,
     "recovered": null
   },
