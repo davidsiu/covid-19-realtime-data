@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-27",
-    "confirmed": 73357903,
-    "deaths": 878128,
+    "confirmed": 73373545,
+    "deaths": 878220,
     "recovered": null
   },
   "India": {
@@ -55,14 +55,14 @@
   },
   "Germany": {
     "date": "2022-1-27",
-    "confirmed": 9334650,
+    "confirmed": 9335854,
     "deaths": 117377,
     "recovered": null
   },
   "Argentina": {
     "date": "2022-1-27",
-    "confirmed": 8130023,
-    "deaths": 120019,
+    "confirmed": 8207752,
+    "deaths": 120352,
     "recovered": null
   },
   "Iran": {
@@ -127,8 +127,8 @@
   },
   "Canada": {
     "date": "2022-1-27",
-    "confirmed": 2946840,
-    "deaths": 32811,
+    "confirmed": 2992326,
+    "deaths": 33342,
     "recovered": null
   },
   "Belgium": {
@@ -155,6 +155,12 @@
     "deaths": 8556,
     "recovered": null
   },
+  "Australia": {
+    "date": "2022-1-27",
+    "confirmed": 2455027,
+    "deaths": 3476,
+    "recovered": null
+  },
   "Portugal": {
     "date": "2022-1-27",
     "confirmed": 2443524,
@@ -165,12 +171,6 @@
     "date": "2022-1-27",
     "confirmed": 2433094,
     "deaths": 18648,
-    "recovered": null
-  },
-  "Australia": {
-    "date": "2022-1-27",
-    "confirmed": 2428939,
-    "deaths": 3402,
     "recovered": null
   },
   "Thailand": {
@@ -307,8 +307,8 @@
   },
   "Bulgaria": {
     "date": "2022-1-27",
-    "confirmed": 913592,
-    "deaths": 32939,
+    "confirmed": 923466,
+    "deaths": 33017,
     "recovered": null
   },
   "Croatia": {
@@ -775,8 +775,8 @@
   },
   "Guyana": {
     "date": "2022-1-27",
-    "confirmed": 58196,
-    "deaths": 1154,
+    "confirmed": 58604,
+    "deaths": 1156,
     "recovered": null
   },
   "Mauritania": {
@@ -839,16 +839,16 @@
     "deaths": 597,
     "recovered": null
   },
+  "Seychelles": {
+    "date": "2022-1-27",
+    "confirmed": 36559,
+    "deaths": 149,
+    "recovered": null
+  },
   "Togo": {
     "date": "2022-1-27",
     "confirmed": 36421,
     "deaths": 267,
-    "recovered": null
-  },
-  "Seychelles": {
-    "date": "2022-1-27",
-    "confirmed": 36021,
-    "deaths": 143,
     "recovered": null
   },
   "Guinea": {
@@ -997,8 +997,8 @@
   },
   "Grenada": {
     "date": "2022-1-27",
-    "confirmed": 11816,
-    "deaths": 207,
+    "confirmed": 11957,
+    "deaths": 210,
     "recovered": null
   },
   "Gambia": {
@@ -1087,7 +1087,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2022-1-27",
-    "confirmed": 5856,
+    "confirmed": 5867,
     "deaths": 69,
     "recovered": null
   },
