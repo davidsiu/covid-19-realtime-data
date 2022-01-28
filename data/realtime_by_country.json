@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-28",
-    "confirmed": 73662706,
-    "deaths": 879988,
+    "confirmed": 73717903,
+    "deaths": 880866,
     "recovered": null
   },
   "India": {
@@ -19,8 +19,8 @@
   },
   "France": {
     "date": "2022-1-28",
-    "confirmed": 18244369,
-    "deaths": 131009,
+    "confirmed": 18596157,
+    "deaths": 131271,
     "recovered": null
   },
   "United Kingdom": {
@@ -49,13 +49,13 @@
   },
   "Spain": {
     "date": "2022-1-28",
-    "confirmed": 9660208,
-    "deaths": 92767,
+    "confirmed": 9779130,
+    "deaths": 92966,
     "recovered": null
   },
   "Germany": {
     "date": "2022-1-28",
-    "confirmed": 9514372,
+    "confirmed": 9516479,
     "deaths": 117560,
     "recovered": null
   },
@@ -109,8 +109,8 @@
   },
   "South Africa": {
     "date": "2022-1-28",
-    "confirmed": 3594499,
-    "deaths": 94651,
+    "confirmed": 3598288,
+    "deaths": 94784,
     "recovered": null
   },
   "Philippines": {
@@ -133,8 +133,8 @@
   },
   "Canada": {
     "date": "2022-1-28",
-    "confirmed": 3003529,
-    "deaths": 33490,
+    "confirmed": 3004420,
+    "deaths": 33495,
     "recovered": null
   },
   "Czechia": {
@@ -161,16 +161,16 @@
     "deaths": 18692,
     "recovered": null
   },
+  "Portugal": {
+    "date": "2022-1-28",
+    "confirmed": 2507357,
+    "deaths": 19788,
+    "recovered": null
+  },
   "Australia": {
     "date": "2022-1-28",
     "confirmed": 2484227,
     "deaths": 3536,
-    "recovered": null
-  },
-  "Portugal": {
-    "date": "2022-1-28",
-    "confirmed": 2443524,
-    "deaths": 19744,
     "recovered": null
   },
   "Thailand": {
@@ -559,8 +559,8 @@
   },
   "North Macedonia": {
     "date": "2022-1-28",
-    "confirmed": 263206,
-    "deaths": 8312,
+    "confirmed": 265101,
+    "deaths": 8338,
     "recovered": null
   },
   "Albania": {
@@ -749,9 +749,15 @@
     "deaths": 1256,
     "recovered": null
   },
+  "Mauritius": {
+    "date": "2022-1-28",
+    "confirmed": 70734,
+    "deaths": 786,
+    "recovered": null
+  },
   "Eswatini": {
     "date": "2022-1-28",
-    "confirmed": 68239,
+    "confirmed": 68301,
     "deaths": 1373,
     "recovered": null
   },
@@ -859,7 +865,7 @@
   },
   "Andorra": {
     "date": "2022-1-28",
-    "confirmed": 35028,
+    "confirmed": 35556,
     "deaths": 145,
     "recovered": null
   },
@@ -897,12 +903,6 @@
     "date": "2022-1-28",
     "confirmed": 26450,
     "deaths": 163,
-    "recovered": null
-  },
-  "Mauritius": {
-    "date": "2022-1-28",
-    "confirmed": 25455,
-    "deaths": 240,
     "recovered": null
   },
   "Somalia": {
