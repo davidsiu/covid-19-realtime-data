@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-1-28",
-    "confirmed": 73429392,
-    "deaths": 878472,
+    "confirmed": 73444670,
+    "deaths": 878616,
     "recovered": null
   },
   "India": {
@@ -79,8 +79,8 @@
   },
   "Mexico": {
     "date": "2022-1-28",
-    "confirmed": 4779296,
-    "deaths": 304308,
+    "confirmed": 4828446,
+    "deaths": 304803,
     "recovered": null
   },
   "Poland": {
@@ -155,6 +155,12 @@
     "deaths": 8599,
     "recovered": null
   },
+  "Japan": {
+    "date": "2022-1-28",
+    "confirmed": 2514804,
+    "deaths": 18692,
+    "recovered": null
+  },
   "Australia": {
     "date": "2022-1-28",
     "confirmed": 2484227,
@@ -165,12 +171,6 @@
     "date": "2022-1-28",
     "confirmed": 2443524,
     "deaths": 19744,
-    "recovered": null
-  },
-  "Japan": {
-    "date": "2022-1-28",
-    "confirmed": 2433068,
-    "deaths": 18648,
     "recovered": null
   },
   "Thailand": {
@@ -203,22 +203,22 @@
     "deaths": 12679,
     "recovered": null
   },
+  "Chile": {
+    "date": "2022-1-28",
+    "confirmed": 2075703,
+    "deaths": 39620,
+    "recovered": null
+  },
   "Sweden": {
     "date": "2022-1-28",
     "confirmed": 2070456,
     "deaths": 15855,
     "recovered": null
   },
-  "Chile": {
-    "date": "2022-1-28",
-    "confirmed": 2045874,
-    "deaths": 39594,
-    "recovered": null
-  },
   "Greece": {
     "date": "2022-1-28",
-    "confirmed": 1867935,
-    "deaths": 23083,
+    "confirmed": 1890296,
+    "deaths": 23195,
     "recovered": null
   },
   "Austria": {
@@ -295,8 +295,8 @@
   },
   "Cuba": {
     "date": "2022-1-28",
-    "confirmed": 1033984,
-    "deaths": 8383,
+    "confirmed": 1036783,
+    "deaths": 8388,
     "recovered": null
   },
   "Nepal": {
@@ -529,8 +529,8 @@
   },
   "Qatar": {
     "date": "2022-1-28",
-    "confirmed": 332800,
-    "deaths": 640,
+    "confirmed": 334543,
+    "deaths": 641,
     "recovered": null
   },
   "Oman": {
@@ -649,8 +649,8 @@
   },
   "Namibia": {
     "date": "2022-1-28",
-    "confirmed": 155623,
-    "deaths": 3947,
+    "confirmed": 155722,
+    "deaths": 3962,
     "recovered": null
   },
   "Luxembourg": {
@@ -1057,7 +1057,7 @@
   },
   "Sierra Leone": {
     "date": "2022-1-28",
-    "confirmed": 7611,
+    "confirmed": 7612,
     "deaths": 125,
     "recovered": null
   },
@@ -1087,7 +1087,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2022-1-28",
-    "confirmed": 5867,
+    "confirmed": 5873,
     "deaths": 69,
     "recovered": null
   },
