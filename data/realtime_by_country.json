@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-2-2",
-    "confirmed": 75542435,
-    "deaths": 893257,
+    "confirmed": 75569589,
+    "deaths": 893496,
     "recovered": null
   },
   "India": {
@@ -19,8 +19,8 @@
   },
   "France": {
     "date": "2022-2-2",
-    "confirmed": 19997824,
-    "deaths": 132583,
+    "confirmed": 20002287,
+    "deaths": 132591,
     "recovered": null
   },
   "United Kingdom": {
@@ -49,7 +49,7 @@
   },
   "Germany": {
     "date": "2022-2-2",
-    "confirmed": 10255724,
+    "confirmed": 10303755,
     "deaths": 118219,
     "recovered": null
   },
@@ -61,8 +61,8 @@
   },
   "Argentina": {
     "date": "2022-2-2",
-    "confirmed": 8427778,
-    "deaths": 121513,
+    "confirmed": 8472848,
+    "deaths": 121834,
     "recovered": null
   },
   "Iran": {
@@ -266,7 +266,7 @@
   "Kazakhstan": {
     "date": "2022-2-2",
     "confirmed": 1332643,
-    "deaths": 18528,
+    "deaths": 18547,
     "recovered": null
   },
   "Jordan": {
@@ -437,16 +437,16 @@
     "deaths": 4313,
     "recovered": null
   },
+  "West Bank and Gaza": {
+    "date": "2022-2-2",
+    "confirmed": 546176,
+    "deaths": 5116,
+    "recovered": null
+  },
   "Burma": {
     "date": "2022-2-2",
     "confirmed": 536536,
     "deaths": 19310,
-    "recovered": null
-  },
-  "West Bank and Gaza": {
-    "date": "2022-2-2",
-    "confirmed": 535160,
-    "deaths": 5104,
     "recovered": null
   },
   "Finland": {
@@ -463,20 +463,20 @@
   },
   "Ethiopia": {
     "date": "2022-2-2",
-    "confirmed": 465477,
-    "deaths": 7343,
+    "confirmed": 465792,
+    "deaths": 7346,
+    "recovered": null
+  },
+  "Moldova": {
+    "date": "2022-2-2",
+    "confirmed": 449840,
+    "deaths": 10691,
     "recovered": null
   },
   "Mongolia": {
     "date": "2022-2-2",
     "confirmed": 446076,
     "deaths": 2115,
-    "recovered": null
-  },
-  "Moldova": {
-    "date": "2022-2-2",
-    "confirmed": 445046,
-    "deaths": 10666,
     "recovered": null
   },
   "Libya": {
@@ -559,8 +559,8 @@
   },
   "North Macedonia": {
     "date": "2022-2-2",
-    "confirmed": 270897,
-    "deaths": 8444,
+    "confirmed": 272437,
+    "deaths": 8470,
     "recovered": null
   },
   "Cyprus": {
@@ -577,8 +577,8 @@
   },
   "Algeria": {
     "date": "2022-2-2",
-    "confirmed": 253520,
-    "deaths": 6593,
+    "confirmed": 254885,
+    "deaths": 6604,
     "recovered": null
   },
   "Nigeria": {
@@ -613,8 +613,8 @@
   },
   "Montenegro": {
     "date": "2022-2-2",
-    "confirmed": 220597,
-    "deaths": 2568,
+    "confirmed": 221214,
+    "deaths": 2582,
     "recovered": null
   },
   "Kosovo": {
@@ -635,16 +635,16 @@
     "deaths": 7418,
     "recovered": null
   },
+  "Uganda": {
+    "date": "2022-2-2",
+    "confirmed": 162007,
+    "deaths": 3545,
+    "recovered": null
+  },
   "Luxembourg": {
     "date": "2022-2-2",
     "confirmed": 161986,
     "deaths": 956,
-    "recovered": null
-  },
-  "Uganda": {
-    "date": "2022-2-2",
-    "confirmed": 161940,
-    "deaths": 3540,
     "recovered": null
   },
   "Ghana": {
@@ -709,8 +709,8 @@
   },
   "Trinidad and Tobago": {
     "date": "2022-2-2",
-    "confirmed": 112019,
-    "deaths": 3412,
+    "confirmed": 112679,
+    "deaths": 3423,
     "recovered": null
   },
   "Angola": {
@@ -721,7 +721,7 @@
   },
   "Congo (Kinshasa)": {
     "date": "2022-2-2",
-    "confirmed": 85379,
+    "confirmed": 85510,
     "deaths": 1278,
     "recovered": null
   },
@@ -733,8 +733,8 @@
   },
   "Malawi": {
     "date": "2022-2-2",
-    "confirmed": 84572,
-    "deaths": 2563,
+    "confirmed": 84632,
+    "deaths": 2564,
     "recovered": null
   },
   "Cote d'Ivoire": {
@@ -791,21 +791,21 @@
     "deaths": 1274,
     "recovered": null
   },
+  "Sudan": {
+    "date": "2022-2-2",
+    "confirmed": 58623,
+    "deaths": 3533,
+    "recovered": null
+  },
   "Mauritania": {
     "date": "2022-2-2",
     "confirmed": 58298,
     "deaths": 956,
     "recovered": null
   },
-  "Sudan": {
-    "date": "2022-2-2",
-    "confirmed": 58208,
-    "deaths": 3442,
-    "recovered": null
-  },
   "Cabo Verde": {
     "date": "2022-2-2",
-    "confirmed": 55721,
+    "confirmed": 55739,
     "deaths": 396,
     "recovered": null
   },
@@ -835,7 +835,7 @@
   },
   "Burundi": {
     "date": "2022-2-2",
-    "confirmed": 37432,
+    "confirmed": 37469,
     "deaths": 38,
     "recovered": null
   },
@@ -847,7 +847,7 @@
   },
   "Seychelles": {
     "date": "2022-2-2",
-    "confirmed": 37190,
+    "confirmed": 37194,
     "deaths": 154,
     "recovered": null
   },
@@ -889,7 +889,7 @@
   },
   "Mali": {
     "date": "2022-2-2",
-    "confirmed": 30101,
+    "confirmed": 30131,
     "deaths": 715,
     "recovered": null
   },
@@ -901,7 +901,7 @@
   },
   "Benin": {
     "date": "2022-2-2",
-    "confirmed": 26450,
+    "confirmed": 26498,
     "deaths": 163,
     "recovered": null
   },
@@ -943,14 +943,14 @@
   },
   "Tajikistan": {
     "date": "2022-2-2",
-    "confirmed": 17716,
+    "confirmed": 17724,
     "deaths": 125,
     "recovered": null
   },
   "Nicaragua": {
     "date": "2022-2-2",
     "confirmed": 17709,
-    "deaths": 220,
+    "deaths": 221,
     "recovered": null
   },
   "New Zealand": {
@@ -985,13 +985,13 @@
   },
   "Central African Republic": {
     "date": "2022-2-2",
-    "confirmed": 13919,
+    "confirmed": 14023,
     "deaths": 110,
     "recovered": null
   },
   "San Marino": {
     "date": "2022-2-2",
-    "confirmed": 12884,
+    "confirmed": 13085,
     "deaths": 109,
     "recovered": null
   },
@@ -1009,7 +1009,7 @@
   },
   "Yemen": {
     "date": "2022-2-2",
-    "confirmed": 11061,
+    "confirmed": 11113,
     "deaths": 2018,
     "recovered": null
   },
@@ -1040,12 +1040,12 @@
   "Monaco": {
     "date": "2022-2-2",
     "confirmed": 8183,
-    "deaths": 47,
+    "deaths": 48,
     "recovered": null
   },
   "Saint Vincent and the Grenadines": {
     "date": "2022-2-2",
-    "confirmed": 7929,
+    "confirmed": 7939,
     "deaths": 94,
     "recovered": null
   },
@@ -1075,7 +1075,7 @@
   },
   "Chad": {
     "date": "2022-2-2",
-    "confirmed": 7155,
+    "confirmed": 7157,
     "deaths": 190,
     "recovered": null
   },
