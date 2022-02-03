@@ -95,16 +95,16 @@
     "deaths": 21840,
     "recovered": null
   },
+  "Ukraine": {
+    "date": "2022-2-3",
+    "confirmed": 4362629,
+    "deaths": 107513,
+    "recovered": null
+  },
   "Indonesia": {
     "date": "2022-2-3",
     "confirmed": 4353370,
     "deaths": 144320,
-    "recovered": null
-  },
-  "Ukraine": {
-    "date": "2022-2-3",
-    "confirmed": 4323009,
-    "deaths": 107303,
     "recovered": null
   },
   "South Africa": {
@@ -169,7 +169,7 @@
   },
   "Australia": {
     "date": "2022-2-3",
-    "confirmed": 2645737,
+    "confirmed": 2645736,
     "deaths": 3988,
     "recovered": null
   },
@@ -371,6 +371,12 @@
     "deaths": 34533,
     "recovered": null
   },
+  "Lithuania": {
+    "date": "2022-2-3",
+    "confirmed": 714208,
+    "deaths": 7936,
+    "recovered": null
+  },
   "Panama": {
     "date": "2022-2-3",
     "confirmed": 711691,
@@ -381,12 +387,6 @@
     "date": "2022-2-3",
     "confirmed": 708560,
     "deaths": 7605,
-    "recovered": null
-  },
-  "Lithuania": {
-    "date": "2022-2-3",
-    "confirmed": 701601,
-    "deaths": 7917,
     "recovered": null
   },
   "Guatemala": {
@@ -511,8 +511,8 @@
   },
   "Armenia": {
     "date": "2022-2-3",
-    "confirmed": 374878,
-    "deaths": 8060,
+    "confirmed": 379266,
+    "deaths": 8065,
     "recovered": null
   },
   "Singapore": {
