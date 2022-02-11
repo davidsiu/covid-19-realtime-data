@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-2-11",
-    "confirmed": 77439456,
-    "deaths": 915651,
+    "confirmed": 77450511,
+    "deaths": 915857,
     "recovered": null
   },
   "India": {
@@ -43,8 +43,8 @@
   },
   "Germany": {
     "date": "2022-2-11",
-    "confirmed": 12090086,
-    "deaths": 119696,
+    "confirmed": 12098265,
+    "deaths": 119708,
     "recovered": null
   },
   "Italy": {
@@ -163,8 +163,8 @@
   },
   "Malaysia": {
     "date": "2022-2-11",
-    "confirmed": 2975422,
-    "deaths": 32075,
+    "confirmed": 2996361,
+    "deaths": 32099,
     "recovered": null
   },
   "Australia": {
@@ -179,6 +179,12 @@
     "deaths": 22387,
     "recovered": null
   },
+  "Chile": {
+    "date": "2022-2-11",
+    "confirmed": 2545819,
+    "deaths": 40370,
+    "recovered": null
+  },
   "Switzerland": {
     "date": "2022-2-11",
     "confirmed": 2537734,
@@ -189,12 +195,6 @@
     "date": "2022-2-11",
     "confirmed": 2531597,
     "deaths": 61363,
-    "recovered": null
-  },
-  "Chile": {
-    "date": "2022-2-11",
-    "confirmed": 2504168,
-    "deaths": 40273,
     "recovered": null
   },
   "Vietnam": {
@@ -229,8 +229,8 @@
   },
   "Greece": {
     "date": "2022-2-11",
-    "confirmed": 2129153,
-    "deaths": 24507,
+    "confirmed": 2146798,
+    "deaths": 24609,
     "recovered": null
   },
   "Bangladesh": {
@@ -263,16 +263,16 @@
     "deaths": 29687,
     "recovered": null
   },
+  "Jordan": {
+    "date": "2022-2-11",
+    "confirmed": 1436762,
+    "deaths": 13456,
+    "recovered": null
+  },
   "Georgia": {
     "date": "2022-2-11",
     "confirmed": 1418027,
     "deaths": 15459,
-    "recovered": null
-  },
-  "Jordan": {
-    "date": "2022-2-11",
-    "confirmed": 1417890,
-    "deaths": 13431,
     "recovered": null
   },
   "Kazakhstan": {
@@ -421,8 +421,8 @@
   },
   "Sri Lanka": {
     "date": "2022-2-11",
-    "confirmed": 624545,
-    "deaths": 15723,
+    "confirmed": 625804,
+    "deaths": 15754,
     "recovered": null
   },
   "Paraguay": {
@@ -457,7 +457,7 @@
   },
   "Burma": {
     "date": "2022-2-11",
-    "confirmed": 541904,
+    "confirmed": 543511,
     "deaths": 19310,
     "recovered": null
   },
@@ -491,6 +491,12 @@
     "deaths": 6113,
     "recovered": null
   },
+  "Singapore": {
+    "date": "2022-2-11",
+    "confirmed": 449570,
+    "deaths": 885,
+    "recovered": null
+  },
   "Egypt": {
     "date": "2022-2-11",
     "confirmed": 448497,
@@ -501,12 +507,6 @@
     "date": "2022-2-11",
     "confirmed": 448166,
     "deaths": 1419,
-    "recovered": null
-  },
-  "Singapore": {
-    "date": "2022-2-11",
-    "confirmed": 439640,
-    "deaths": 882,
     "recovered": null
   },
   "Estonia": {
@@ -1027,7 +1027,7 @@
   },
   "Eritrea": {
     "date": "2022-2-11",
-    "confirmed": 9660,
+    "confirmed": 9662,
     "deaths": 102,
     "recovered": null
   },
