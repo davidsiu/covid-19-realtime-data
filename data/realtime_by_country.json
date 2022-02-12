@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-2-12",
-    "confirmed": 77667513,
-    "deaths": 918743,
+    "confirmed": 77668969,
+    "deaths": 918760,
     "recovered": null
   },
   "India": {
@@ -43,14 +43,14 @@
   },
   "Germany": {
     "date": "2022-2-12",
-    "confirmed": 12287185,
+    "confirmed": 12247833,
     "deaths": 119887,
     "recovered": null
   },
   "Italy": {
     "date": "2022-2-12",
-    "confirmed": 11991109,
-    "deaths": 150555,
+    "confirmed": 12053330,
+    "deaths": 150824,
     "recovered": null
   },
   "Spain": {
@@ -137,16 +137,16 @@
     "deaths": 29624,
     "recovered": null
   },
+  "Israel": {
+    "date": "2022-2-12",
+    "confirmed": 3389368,
+    "deaths": 9458,
+    "recovered": null
+  },
   "Czechia": {
     "date": "2022-2-12",
     "confirmed": 3385250,
     "deaths": 37765,
-    "recovered": null
-  },
-  "Israel": {
-    "date": "2022-2-12",
-    "confirmed": 3374697,
-    "deaths": 9434,
     "recovered": null
   },
   "Canada": {
@@ -263,16 +263,16 @@
     "deaths": 29731,
     "recovered": null
   },
+  "Jordan": {
+    "date": "2022-2-12",
+    "confirmed": 1450810,
+    "deaths": 13477,
+    "recovered": null
+  },
   "Georgia": {
     "date": "2022-2-12",
     "confirmed": 1438353,
     "deaths": 15516,
-    "recovered": null
-  },
-  "Jordan": {
-    "date": "2022-2-12",
-    "confirmed": 1436762,
-    "deaths": 13456,
     "recovered": null
   },
   "Kazakhstan": {
@@ -295,8 +295,8 @@
   },
   "Morocco": {
     "date": "2022-2-12",
-    "confirmed": 1153562,
-    "deaths": 15747,
+    "confirmed": 1154531,
+    "deaths": 15766,
     "recovered": null
   },
   "Cuba": {
@@ -421,8 +421,8 @@
   },
   "Sri Lanka": {
     "date": "2022-2-12",
-    "confirmed": 625804,
-    "deaths": 15754,
+    "confirmed": 626966,
+    "deaths": 15777,
     "recovered": null
   },
   "Paraguay": {
@@ -491,6 +491,12 @@
     "deaths": 6113,
     "recovered": null
   },
+  "Singapore": {
+    "date": "2022-2-12",
+    "confirmed": 460075,
+    "deaths": 893,
+    "recovered": null
+  },
   "Bahrain": {
     "date": "2022-2-12",
     "confirmed": 453916,
@@ -501,12 +507,6 @@
     "date": "2022-2-12",
     "confirmed": 450676,
     "deaths": 23233,
-    "recovered": null
-  },
-  "Singapore": {
-    "date": "2022-2-12",
-    "confirmed": 449570,
-    "deaths": 885,
     "recovered": null
   },
   "Estonia": {
