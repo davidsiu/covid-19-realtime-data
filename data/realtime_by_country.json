@@ -169,20 +169,20 @@
   },
   "Australia": {
     "date": "2022-2-13",
-    "confirmed": 2897310,
-    "deaths": 4590,
+    "confirmed": 2901010,
+    "deaths": 4591,
+    "recovered": null
+  },
+  "Thailand": {
+    "date": "2022-2-13",
+    "confirmed": 2593327,
+    "deaths": 22436,
     "recovered": null
   },
   "Chile": {
     "date": "2022-2-13",
     "confirmed": 2582934,
     "deaths": 40464,
-    "recovered": null
-  },
-  "Thailand": {
-    "date": "2022-2-13",
-    "confirmed": 2577445,
-    "deaths": 22412,
     "recovered": null
   },
   "Romania": {
@@ -337,8 +337,8 @@
   },
   "Tunisia": {
     "date": "2022-2-13",
-    "confirmed": 961877,
-    "deaths": 27004,
+    "confirmed": 964957,
+    "deaths": 27065,
     "recovered": null
   },
   "Bolivia": {
@@ -691,8 +691,8 @@
   },
   "China": {
     "date": "2022-2-13",
-    "confirmed": 123547,
-    "deaths": 4852,
+    "confirmed": 123728,
+    "deaths": 4855,
     "recovered": null
   },
   "Cambodia": {
@@ -751,7 +751,7 @@
   },
   "Suriname": {
     "date": "2022-2-13",
-    "confirmed": 76876,
+    "confirmed": 76975,
     "deaths": 1298,
     "recovered": null
   },
