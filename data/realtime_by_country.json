@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2022-2-21",
-    "confirmed": 78476751,
+    "confirmed": 78476869,
     "deaths": 935331,
     "recovered": null
   },
@@ -13,8 +13,8 @@
   },
   "Brazil": {
     "date": "2022-2-21",
-    "confirmed": 28214843,
-    "deaths": 644564,
+    "confirmed": 28218180,
+    "deaths": 644592,
     "recovered": null
   },
   "France": {
@@ -73,7 +73,7 @@
   },
   "Netherlands": {
     "date": "2022-2-21",
-    "confirmed": 6171912,
+    "confirmed": 6171918,
     "deaths": 22057,
     "recovered": null
   },
@@ -169,8 +169,8 @@
   },
   "Australia": {
     "date": "2022-2-21",
-    "confirmed": 3047228,
-    "deaths": 4929,
+    "confirmed": 3047663,
+    "deaths": 4930,
     "recovered": null
   },
   "Chile": {
@@ -233,16 +233,16 @@
     "deaths": 24858,
     "recovered": null
   },
+  "Korea, South": {
+    "date": "2022-2-21",
+    "confirmed": 2058184,
+    "deaths": 7450,
+    "recovered": null
+  },
   "Slovakia": {
     "date": "2022-2-21",
     "confirmed": 2000643,
     "deaths": 18240,
-    "recovered": null
-  },
-  "Korea, South": {
-    "date": "2022-2-21",
-    "confirmed": 1962837,
-    "deaths": 7405,
     "recovered": null
   },
   "Bangladesh": {
@@ -409,8 +409,8 @@
   },
   "Panama": {
     "date": "2022-2-21",
-    "confirmed": 750087,
-    "deaths": 8010,
+    "confirmed": 750760,
+    "deaths": 8019,
     "recovered": null
   },
   "Saudi Arabia": {
@@ -875,6 +875,12 @@
     "deaths": 796,
     "recovered": null
   },
+  "New Zealand": {
+    "date": "2022-2-21",
+    "confirmed": 33319,
+    "deaths": 53,
+    "recovered": null
+  },
   "Bahamas": {
     "date": "2022-2-21",
     "confirmed": 33052,
@@ -887,12 +893,6 @@
     "deaths": 696,
     "recovered": null
   },
-  "New Zealand": {
-    "date": "2022-2-21",
-    "confirmed": 31089,
-    "deaths": 53,
-    "recovered": null
-  },
   "Mali": {
     "date": "2022-2-21",
     "confirmed": 30340,
@@ -901,8 +901,8 @@
   },
   "Haiti": {
     "date": "2022-2-21",
-    "confirmed": 30162,
-    "deaths": 814,
+    "confirmed": 30226,
+    "deaths": 819,
     "recovered": null
   },
   "Brunei": {
@@ -997,7 +997,7 @@
   },
   "Grenada": {
     "date": "2022-2-21",
-    "confirmed": 13525,
+    "confirmed": 13526,
     "deaths": 214,
     "recovered": null
   },
@@ -1099,8 +1099,8 @@
   },
   "Solomon Islands": {
     "date": "2022-2-21",
-    "confirmed": 5684,
-    "deaths": 77,
+    "confirmed": 5790,
+    "deaths": 83,
     "recovered": null
   },
   "Saint Kitts and Nevis": {
