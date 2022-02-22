@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-2-22",
-    "confirmed": 78527776,
-    "deaths": 935970,
+    "confirmed": 78529099,
+    "deaths": 935990,
     "recovered": null
   },
   "India": {
@@ -37,8 +37,8 @@
   },
   "Germany": {
     "date": "2022-2-22",
-    "confirmed": 13715145,
-    "deaths": 121344,
+    "confirmed": 13805197,
+    "deaths": 121607,
     "recovered": null
   },
   "Turkey": {
@@ -131,6 +131,12 @@
     "deaths": 10001,
     "recovered": null
   },
+  "Belgium": {
+    "date": "2022-2-22",
+    "confirmed": 3512212,
+    "deaths": 30015,
+    "recovered": null
+  },
   "Czechia": {
     "date": "2022-2-22",
     "confirmed": 3510360,
@@ -141,12 +147,6 @@
     "date": "2022-2-22",
     "confirmed": 3496009,
     "deaths": 209468,
-    "recovered": null
-  },
-  "Belgium": {
-    "date": "2022-2-22",
-    "confirmed": 3494223,
-    "deaths": 29920,
     "recovered": null
   },
   "Malaysia": {
@@ -169,8 +169,8 @@
   },
   "Australia": {
     "date": "2022-2-22",
-    "confirmed": 3071845,
-    "deaths": 4962,
+    "confirmed": 3072381,
+    "deaths": 4963,
     "recovered": null
   },
   "Chile": {
@@ -277,13 +277,13 @@
   },
   "Pakistan": {
     "date": "2022-2-22",
-    "confirmed": 1501680,
-    "deaths": 30040,
+    "confirmed": 1502641,
+    "deaths": 30053,
     "recovered": null
   },
   "Kazakhstan": {
     "date": "2022-2-22",
-    "confirmed": 1386963,
+    "confirmed": 1387446,
     "deaths": 18867,
     "recovered": null
   },
@@ -643,7 +643,7 @@
   },
   "China": {
     "date": "2022-2-22",
-    "confirmed": 168419,
+    "confirmed": 168431,
     "deaths": 4936,
     "recovered": null
   },
