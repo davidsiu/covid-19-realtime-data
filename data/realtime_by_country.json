@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-3-3",
-    "confirmed": 79143706,
-    "deaths": 954511,
+    "confirmed": 79143710,
+    "deaths": 954512,
     "recovered": null
   },
   "India": {
@@ -113,6 +113,12 @@
     "deaths": 112459,
     "recovered": null
   },
+  "Vietnam": {
+    "date": "2022-3-3",
+    "confirmed": 3709481,
+    "deaths": 40452,
+    "recovered": null
+  },
   "Korea, South": {
     "date": "2022-3-3",
     "confirmed": 3691488,
@@ -149,12 +155,6 @@
     "deaths": 30199,
     "recovered": null
   },
-  "Vietnam": {
-    "date": "2022-3-3",
-    "confirmed": 3557629,
-    "deaths": 40338,
-    "recovered": null
-  },
   "Peru": {
     "date": "2022-3-3",
     "confirmed": 3518721,
@@ -175,7 +175,7 @@
   },
   "Australia": {
     "date": "2022-3-3",
-    "confirmed": 3291142,
+    "confirmed": 3291814,
     "deaths": 5310,
     "recovered": null
   },
@@ -193,8 +193,8 @@
   },
   "Thailand": {
     "date": "2022-3-3",
-    "confirmed": 2934544,
-    "deaths": 23021,
+    "confirmed": 2958162,
+    "deaths": 23070,
     "recovered": null
   },
   "Denmark": {
@@ -277,8 +277,8 @@
   },
   "Pakistan": {
     "date": "2022-3-3",
-    "confirmed": 1510986,
-    "deaths": 30218,
+    "confirmed": 1511754,
+    "deaths": 30237,
     "recovered": null
   },
   "Kazakhstan": {
@@ -403,8 +403,8 @@
   },
   "Guatemala": {
     "date": "2022-3-3",
-    "confirmed": 780815,
-    "deaths": 17010,
+    "confirmed": 784024,
+    "deaths": 17018,
     "recovered": null
   },
   "Singapore": {
@@ -529,7 +529,7 @@
   },
   "China": {
     "date": "2022-3-3",
-    "confirmed": 403561,
+    "confirmed": 403682,
     "deaths": 5804,
     "recovered": null
   },
@@ -1075,7 +1075,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2022-3-3",
-    "confirmed": 7447,
+    "confirmed": 7449,
     "deaths": 135,
     "recovered": null
   },
