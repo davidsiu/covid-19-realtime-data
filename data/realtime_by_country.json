@@ -37,8 +37,8 @@
   },
   "Russia": {
     "date": "2022-4-1",
-    "confirmed": 17583111,
-    "deaths": 361348,
+    "confirmed": 17601907,
+    "deaths": 361679,
     "recovered": null
   },
   "Turkey": {
@@ -91,7 +91,7 @@
   },
   "Japan": {
     "date": "2022-4-1",
-    "confirmed": 6555585,
+    "confirmed": 6555578,
     "deaths": 28120,
     "recovered": null
   },
@@ -109,8 +109,8 @@
   },
   "Poland": {
     "date": "2022-4-1",
-    "confirmed": 5962931,
-    "deaths": 115173,
+    "confirmed": 5966970,
+    "deaths": 115247,
     "recovered": null
   },
   "Mexico": {
@@ -143,16 +143,16 @@
     "deaths": 10485,
     "recovered": null
   },
+  "Austria": {
+    "date": "2022-4-1",
+    "confirmed": 3854405,
+    "deaths": 15905,
+    "recovered": null
+  },
   "Belgium": {
     "date": "2022-4-1",
     "confirmed": 3851048,
     "deaths": 30826,
-    "recovered": null
-  },
-  "Austria": {
-    "date": "2022-4-1",
-    "confirmed": 3831048,
-    "deaths": 15865,
     "recovered": null
   },
   "Czechia": {
@@ -194,7 +194,7 @@
   "Switzerland": {
     "date": "2022-4-1",
     "confirmed": 3497499,
-    "deaths": 13564,
+    "deaths": 13567,
     "recovered": null
   },
   "Canada": {
@@ -659,6 +659,12 @@
     "deaths": 101,
     "recovered": null
   },
+  "Laos": {
+    "date": "2022-4-1",
+    "confirmed": 179563,
+    "deaths": 669,
+    "recovered": null
+  },
   "Afghanistan": {
     "date": "2022-4-1",
     "confirmed": 177747,
@@ -669,12 +675,6 @@
     "date": "2022-4-1",
     "confirmed": 177000,
     "deaths": 298,
-    "recovered": null
-  },
-  "Laos": {
-    "date": "2022-4-1",
-    "confirmed": 176898,
-    "deaths": 665,
     "recovered": null
   },
   "Uganda": {
