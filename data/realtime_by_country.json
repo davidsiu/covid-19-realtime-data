@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2022-4-8",
-    "confirmed": 80289235,
+    "confirmed": 80289237,
     "deaths": 984571,
     "recovered": null
   },
@@ -19,7 +19,7 @@
   },
   "France": {
     "date": "2022-4-8",
-    "confirmed": 26738251,
+    "confirmed": 26738483,
     "deaths": 144054,
     "recovered": null
   },
@@ -31,7 +31,7 @@
   },
   "United Kingdom": {
     "date": "2022-4-8",
-    "confirmed": 21674156,
+    "confirmed": 21674196,
     "deaths": 170020,
     "recovered": null
   },
@@ -47,16 +47,16 @@
     "deaths": 160402,
     "recovered": null
   },
+  "Korea, South": {
+    "date": "2022-4-8",
+    "confirmed": 14983694,
+    "deaths": 18754,
+    "recovered": null
+  },
   "Turkey": {
     "date": "2022-4-8",
     "confirmed": 14939259,
     "deaths": 98311,
-    "recovered": null
-  },
-  "Korea, South": {
-    "date": "2022-4-8",
-    "confirmed": 14778405,
-    "deaths": 18381,
     "recovered": null
   },
   "Spain": {
@@ -79,7 +79,7 @@
   },
   "Netherlands": {
     "date": "2022-4-8",
-    "confirmed": 8138678,
+    "confirmed": 8138708,
     "deaths": 22686,
     "recovered": null
   },
@@ -115,8 +115,8 @@
   },
   "Mexico": {
     "date": "2022-4-8",
-    "confirmed": 5683288,
-    "deaths": 323403,
+    "confirmed": 5715692,
+    "deaths": 323512,
     "recovered": null
   },
   "Ukraine": {
@@ -127,8 +127,8 @@
   },
   "Australia": {
     "date": "2022-4-8",
-    "confirmed": 4911725,
-    "deaths": 6495,
+    "confirmed": 4945209,
+    "deaths": 6508,
     "recovered": null
   },
   "Malaysia": {
@@ -283,7 +283,7 @@
   },
   "China": {
     "date": "2022-4-8",
-    "confirmed": 1522042,
+    "confirmed": 1522085,
     "deaths": 13195,
     "recovered": null
   },
@@ -295,7 +295,7 @@
   },
   "Norway": {
     "date": "2022-4-8",
-    "confirmed": 1412969,
+    "confirmed": 1413957,
     "deaths": 2667,
     "recovered": null
   },
@@ -385,7 +385,7 @@
   },
   "Bolivia": {
     "date": "2022-4-8",
-    "confirmed": 902749,
+    "confirmed": 902920,
     "deaths": 21897,
     "recovered": null
   },
@@ -433,8 +433,8 @@
   },
   "Panama": {
     "date": "2022-4-8",
-    "confirmed": 765930,
-    "deaths": 8172,
+    "confirmed": 766177,
+    "deaths": 8174,
     "recovered": null
   },
   "Saudi Arabia": {
@@ -469,8 +469,8 @@
   },
   "Kuwait": {
     "date": "2022-4-8",
-    "confirmed": 629525,
-    "deaths": 2554,
+    "confirmed": 629912,
+    "deaths": 2555,
     "recovered": null
   },
   "Burma": {
@@ -481,7 +481,7 @@
   },
   "Dominican Republic": {
     "date": "2022-4-8",
-    "confirmed": 578319,
+    "confirmed": 578416,
     "deaths": 4375,
     "recovered": null
   },
@@ -607,8 +607,8 @@
   },
   "Zimbabwe": {
     "date": "2022-4-8",
-    "confirmed": 246803,
-    "deaths": 5453,
+    "confirmed": 246870,
+    "deaths": 5455,
     "recovered": null
   },
   "Uzbekistan": {
@@ -799,7 +799,7 @@
   },
   "Guyana": {
     "date": "2022-4-8",
-    "confirmed": 63294,
+    "confirmed": 63305,
     "deaths": 1226,
     "recovered": null
   },
@@ -895,7 +895,7 @@
   },
   "Bahamas": {
     "date": "2022-4-8",
-    "confirmed": 33315,
+    "confirmed": 33330,
     "deaths": 788,
     "recovered": null
   },
@@ -1013,6 +1013,12 @@
     "deaths": 218,
     "recovered": null
   },
+  "Solomon Islands": {
+    "date": "2022-4-8",
+    "confirmed": 12005,
+    "deaths": 137,
+    "recovered": null
+  },
   "Gambia": {
     "date": "2022-4-8",
     "confirmed": 11990,
@@ -1021,14 +1027,8 @@
   },
   "Dominica": {
     "date": "2022-4-8",
-    "confirmed": 11897,
+    "confirmed": 11953,
     "deaths": 63,
-    "recovered": null
-  },
-  "Solomon Islands": {
-    "date": "2022-4-8",
-    "confirmed": 11856,
-    "deaths": 136,
     "recovered": null
   },
   "Yemen": {
@@ -1063,7 +1063,7 @@
   },
   "Guinea-Bissau": {
     "date": "2022-4-8",
-    "confirmed": 8161,
+    "confirmed": 8172,
     "deaths": 170,
     "recovered": null
   },
@@ -1087,7 +1087,7 @@
   },
   "Antigua and Barbuda": {
     "date": "2022-4-8",
-    "confirmed": 7493,
+    "confirmed": 7511,
     "deaths": 135,
     "recovered": null
   },
