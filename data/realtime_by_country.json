@@ -13,7 +13,7 @@
   },
   "Brazil": {
     "date": "2022-4-24",
-    "confirmed": 30345808,
+    "confirmed": 30345654,
     "deaths": 662855,
     "recovered": null
   },
@@ -49,8 +49,8 @@
   },
   "Italy": {
     "date": "2022-4-24",
-    "confirmed": 16079209,
-    "deaths": 162609,
+    "confirmed": 16136057,
+    "deaths": 162688,
     "recovered": null
   },
   "Turkey": {
@@ -115,14 +115,14 @@
   },
   "Mexico": {
     "date": "2022-4-24",
-    "confirmed": 5733428,
-    "deaths": 324120,
+    "confirmed": 5733514,
+    "deaths": 324117,
     "recovered": null
   },
   "Australia": {
     "date": "2022-4-24",
-    "confirmed": 5689500,
-    "deaths": 6991,
+    "confirmed": 5689377,
+    "deaths": 6989,
     "recovered": null
   },
   "Ukraine": {
@@ -181,8 +181,8 @@
   },
   "Canada": {
     "date": "2022-4-24",
-    "confirmed": 3701742,
-    "deaths": 38824,
+    "confirmed": 3704724,
+    "deaths": 38829,
     "recovered": null
   },
   "Philippines": {
@@ -247,8 +247,8 @@
   },
   "Serbia": {
     "date": "2022-4-24",
-    "confirmed": 2001144,
-    "deaths": 15953,
+    "confirmed": 2001654,
+    "deaths": 15956,
     "recovered": null
   },
   "Bangladesh": {
@@ -259,8 +259,8 @@
   },
   "China": {
     "date": "2022-4-24",
-    "confirmed": 1950221,
-    "deaths": 13935,
+    "confirmed": 1951622,
+    "deaths": 13974,
     "recovered": null
   },
   "Hungary": {
@@ -307,7 +307,7 @@
   },
   "Singapore": {
     "date": "2022-4-24",
-    "confirmed": 1180124,
+    "confirmed": 1182168,
     "deaths": 1325,
     "recovered": null
   },
@@ -475,7 +475,7 @@
   },
   "Burma": {
     "date": "2022-4-24",
-    "confirmed": 612733,
+    "confirmed": 612749,
     "deaths": 19434,
     "recovered": null
   },
@@ -559,7 +559,7 @@
   },
   "Qatar": {
     "date": "2022-4-24",
-    "confirmed": 364089,
+    "confirmed": 364187,
     "deaths": 677,
     "recovered": null
   },
@@ -833,6 +833,12 @@
     "deaths": 676,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-4-24",
+    "confirmed": 56468,
+    "deaths": 856,
+    "recovered": null
+  },
   "Cabo Verde": {
     "date": "2022-4-24",
     "confirmed": 56004,
@@ -843,12 +849,6 @@
     "date": "2022-4-24",
     "confirmed": 55795,
     "deaths": 3150,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-4-24",
-    "confirmed": 51298,
-    "deaths": 856,
     "recovered": null
   },
   "Gabon": {
