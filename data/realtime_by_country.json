@@ -31,7 +31,7 @@
   },
   "United Kingdom": {
     "date": "2022-5-1",
-    "confirmed": 22213972,
+    "confirmed": 22214004,
     "deaths": 175552,
     "recovered": null
   },
@@ -211,14 +211,14 @@
   },
   "Greece": {
     "date": "2022-5-1",
-    "confirmed": 3323922,
-    "deaths": 29153,
+    "confirmed": 3328623,
+    "deaths": 29175,
     "recovered": null
   },
   "Denmark": {
     "date": "2022-5-1",
-    "confirmed": 3163284,
-    "deaths": 6207,
+    "confirmed": 3163955,
+    "deaths": 6219,
     "recovered": null
   },
   "Romania": {
@@ -325,8 +325,8 @@
   },
   "Croatia": {
     "date": "2022-5-1",
-    "confirmed": 1122459,
-    "deaths": 15828,
+    "confirmed": 1122982,
+    "deaths": 15835,
     "recovered": null
   },
   "Cuba": {
@@ -719,6 +719,12 @@
     "deaths": 3056,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-5-1",
+    "confirmed": 132995,
+    "deaths": 865,
+    "recovered": null
+  },
   "Jamaica": {
     "date": "2022-5-1",
     "confirmed": 129978,
@@ -735,12 +741,6 @@
     "date": "2022-5-1",
     "confirmed": 119780,
     "deaths": 1927,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-5-1",
-    "confirmed": 115883,
-    "deaths": 865,
     "recovered": null
   },
   "Angola": {
@@ -949,7 +949,7 @@
   },
   "Timor-Leste": {
     "date": "2022-5-1",
-    "confirmed": 22865,
+    "confirmed": 22871,
     "deaths": 130,
     "recovered": null
   },
@@ -1135,7 +1135,7 @@
   },
   "Kiribati": {
     "date": "2022-5-1",
-    "confirmed": 3081,
+    "confirmed": 3084,
     "deaths": 13,
     "recovered": null
   }
