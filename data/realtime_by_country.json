@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2022-5-3",
-    "confirmed": 81444332,
+    "confirmed": 81444328,
     "deaths": 993999,
     "recovered": null
   },
@@ -103,13 +103,13 @@
   },
   "Indonesia": {
     "date": "2022-5-3",
-    "confirmed": 6047208,
-    "deaths": 156287,
+    "confirmed": 6047315,
+    "deaths": 156305,
     "recovered": null
   },
   "Australia": {
     "date": "2022-5-3",
-    "confirmed": 6030240,
+    "confirmed": 6029879,
     "deaths": 7311,
     "recovered": null
   },
@@ -121,8 +121,8 @@
   },
   "Mexico": {
     "date": "2022-5-3",
-    "confirmed": 5739853,
-    "deaths": 324338,
+    "confirmed": 5739680,
+    "deaths": 324334,
     "recovered": null
   },
   "Ukraine": {
@@ -325,8 +325,8 @@
   },
   "Croatia": {
     "date": "2022-5-3",
-    "confirmed": 1123029,
-    "deaths": 15843,
+    "confirmed": 1123578,
+    "deaths": 15848,
     "recovered": null
   },
   "Cuba": {
@@ -535,7 +535,7 @@
   },
   "Honduras": {
     "date": "2022-5-3",
-    "confirmed": 426179,
+    "confirmed": 423179,
     "deaths": 10893,
     "recovered": null
   },
@@ -661,7 +661,7 @@
   },
   "Iceland": {
     "date": "2022-5-3",
-    "confirmed": 185579,
+    "confirmed": 185795,
     "deaths": 119,
     "recovered": null
   },
@@ -675,6 +675,12 @@
     "date": "2022-5-3",
     "confirmed": 178901,
     "deaths": 7683,
+    "recovered": null
+  },
+  "Taiwan*": {
+    "date": "2022-5-3",
+    "confirmed": 173942,
+    "deaths": 876,
     "recovered": null
   },
   "Uganda": {
@@ -717,12 +723,6 @@
     "date": "2022-5-3",
     "confirmed": 136257,
     "deaths": 3056,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-5-3",
-    "confirmed": 132955,
-    "deaths": 868,
     "recovered": null
   },
   "Jamaica": {
