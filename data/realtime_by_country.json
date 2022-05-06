@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-5-6",
-    "confirmed": 81757846,
-    "deaths": 997264,
+    "confirmed": 81772890,
+    "deaths": 997355,
     "recovered": null
   },
   "India": {
@@ -31,7 +31,7 @@
   },
   "United Kingdom": {
     "date": "2022-5-6",
-    "confirmed": 22291770,
+    "confirmed": 22291965,
     "deaths": 176860,
     "recovered": null
   },
@@ -97,7 +97,7 @@
   },
   "Australia": {
     "date": "2022-5-6",
-    "confirmed": 6172012,
+    "confirmed": 6168859,
     "deaths": 7454,
     "recovered": null
   },
@@ -175,14 +175,14 @@
   },
   "South Africa": {
     "date": "2022-5-6",
-    "confirmed": 3818125,
-    "deaths": 100471,
+    "confirmed": 3827378,
+    "deaths": 100505,
     "recovered": null
   },
   "Canada": {
     "date": "2022-5-6",
-    "confirmed": 3801751,
-    "deaths": 39753,
+    "confirmed": 3803450,
+    "deaths": 39764,
     "recovered": null
   },
   "Philippines": {
@@ -367,7 +367,7 @@
   },
   "New Zealand": {
     "date": "2022-5-6",
-    "confirmed": 982626,
+    "confirmed": 982647,
     "deaths": 798,
     "recovered": null
   },
@@ -593,6 +593,12 @@
     "deaths": 3496,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-5-6",
+    "confirmed": 268569,
+    "deaths": 896,
+    "recovered": null
+  },
   "Algeria": {
     "date": "2022-5-6",
     "confirmed": 265786,
@@ -627,12 +633,6 @@
     "date": "2022-5-6",
     "confirmed": 235549,
     "deaths": 2717,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-5-6",
-    "confirmed": 232402,
-    "deaths": 886,
     "recovered": null
   },
   "Kosovo": {
