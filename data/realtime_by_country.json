@@ -1,13 +1,13 @@
 {
   "US": {
     "date": "2022-5-10",
-    "confirmed": 81973621,
-    "deaths": 997740,
+    "confirmed": 81973661,
+    "deaths": 998040,
     "recovered": null
   },
   "India": {
     "date": "2022-5-10",
-    "confirmed": 43105401,
+    "confirmed": 43105410,
     "deaths": 524093,
     "recovered": null
   },
@@ -247,7 +247,7 @@
   },
   "China": {
     "date": "2022-5-10",
-    "confirmed": 2313814,
+    "confirmed": 2314048,
     "deaths": 14538,
     "recovered": null
   },
@@ -545,6 +545,12 @@
     "deaths": 8623,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-5-10",
+    "confirmed": 397504,
+    "deaths": 931,
+    "recovered": null
+  },
   "Oman": {
     "date": "2022-5-10",
     "confirmed": 389306,
@@ -591,12 +597,6 @@
     "date": "2022-5-10",
     "confirmed": 275372,
     "deaths": 3497,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-5-10",
-    "confirmed": 268569,
-    "deaths": 896,
     "recovered": null
   },
   "Algeria": {
