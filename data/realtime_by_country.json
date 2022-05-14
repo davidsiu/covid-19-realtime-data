@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-5-14",
-    "confirmed": 82422052,
-    "deaths": 999519,
+    "confirmed": 82427219,
+    "deaths": 999525,
     "recovered": null
   },
   "India": {
@@ -49,8 +49,8 @@
   },
   "Italy": {
     "date": "2022-5-14",
-    "confirmed": 16993813,
-    "deaths": 165091,
+    "confirmed": 17030147,
+    "deaths": 165182,
     "recovered": null
   },
   "Turkey": {
@@ -253,8 +253,8 @@
   },
   "Serbia": {
     "date": "2022-5-14",
-    "confirmed": 2012270,
-    "deaths": 16045,
+    "confirmed": 2012597,
+    "deaths": 16046,
     "recovered": null
   },
   "Bangladesh": {
@@ -307,7 +307,7 @@
   },
   "Singapore": {
     "date": "2022-5-14",
-    "confirmed": 1236850,
+    "confirmed": 1240233,
     "deaths": 1362,
     "recovered": null
   },
@@ -449,6 +449,12 @@
     "deaths": 9114,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-5-14",
+    "confirmed": 699824,
+    "deaths": 1009,
+    "recovered": null
+  },
   "Sri Lanka": {
     "date": "2022-5-14",
     "confirmed": 663655,
@@ -475,7 +481,7 @@
   },
   "Burma": {
     "date": "2022-5-14",
-    "confirmed": 613116,
+    "confirmed": 613136,
     "deaths": 19434,
     "recovered": null
   },
@@ -495,12 +501,6 @@
     "date": "2022-5-14",
     "confirmed": 573922,
     "deaths": 2556,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-5-14",
-    "confirmed": 570870,
-    "deaths": 968,
     "recovered": null
   },
   "Venezuela": {
