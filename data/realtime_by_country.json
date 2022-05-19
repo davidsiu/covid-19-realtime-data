@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2022-5-19",
-    "confirmed": 82951379,
+    "confirmed": 82951434,
     "deaths": 1001269,
     "recovered": null
   },
@@ -79,7 +79,7 @@
   },
   "Japan": {
     "date": "2022-5-19",
-    "confirmed": 8470287,
+    "confirmed": 8470272,
     "deaths": 30176,
     "recovered": null
   },
@@ -353,6 +353,12 @@
     "deaths": 4406,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-5-19",
+    "confirmed": 1070561,
+    "deaths": 1235,
+    "recovered": null
+  },
   "Lithuania": {
     "date": "2022-5-19",
     "confirmed": 1061242,
@@ -377,15 +383,9 @@
     "deaths": 6978,
     "recovered": null
   },
-  "Taiwan*": {
-    "date": "2022-5-19",
-    "confirmed": 981141,
-    "deaths": 1176,
-    "recovered": null
-  },
   "Nepal": {
     "date": "2022-5-19",
-    "confirmed": 979028,
+    "confirmed": 979040,
     "deaths": 11952,
     "recovered": null
   },
