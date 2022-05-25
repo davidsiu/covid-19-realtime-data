@@ -79,7 +79,7 @@
   },
   "Japan": {
     "date": "2022-5-25",
-    "confirmed": 8665068,
+    "confirmed": 8665052,
     "deaths": 30378,
     "recovered": null
   },
@@ -281,6 +281,12 @@
     "deaths": 16811,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-5-25",
+    "confirmed": 1558380,
+    "deaths": 1554,
+    "recovered": null
+  },
   "Ireland": {
     "date": "2022-5-25",
     "confirmed": 1551835,
@@ -291,12 +297,6 @@
     "date": "2022-5-25",
     "confirmed": 1529990,
     "deaths": 30379,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-5-25",
-    "confirmed": 1469019,
-    "deaths": 1478,
     "recovered": null
   },
   "Norway": {
@@ -451,8 +451,8 @@
   },
   "Saudi Arabia": {
     "date": "2022-5-25",
-    "confirmed": 764249,
-    "deaths": 9134,
+    "confirmed": 764789,
+    "deaths": 9135,
     "recovered": null
   },
   "Sri Lanka": {
@@ -715,7 +715,7 @@
   },
   "Brunei": {
     "date": "2022-5-25",
-    "confirmed": 147021,
+    "confirmed": 147271,
     "deaths": 222,
     "recovered": null
   },
