@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2022-7-6",
-    "confirmed": 88067088,
+    "confirmed": 88067242,
     "deaths": 1018364,
     "recovered": null
   },
@@ -49,8 +49,8 @@
   },
   "Russia": {
     "date": "2022-7-6",
-    "confirmed": 18176132,
-    "deaths": 373640,
+    "confirmed": 18179254,
+    "deaths": 373683,
     "recovered": null
   },
   "Turkey": {
@@ -73,7 +73,7 @@
   },
   "Japan": {
     "date": "2022-7-6",
-    "confirmed": 9441171,
+    "confirmed": 9441168,
     "deaths": 31348,
     "recovered": null
   },
@@ -115,14 +115,14 @@
   },
   "Indonesia": {
     "date": "2022-7-6",
-    "confirmed": 6097928,
-    "deaths": 156766,
+    "confirmed": 6100671,
+    "deaths": 156770,
     "recovered": null
   },
   "Poland": {
     "date": "2022-7-6",
-    "confirmed": 6017601,
-    "deaths": 116437,
+    "confirmed": 6018565,
+    "deaths": 116440,
     "recovered": null
   },
   "Portugal": {
@@ -179,6 +179,12 @@
     "deaths": 101847,
     "recovered": null
   },
+  "Taiwan*": {
+    "date": "2022-7-6",
+    "confirmed": 3964188,
+    "deaths": 7223,
+    "recovered": null
+  },
   "Canada": {
     "date": "2022-7-6",
     "confirmed": 3964154,
@@ -191,16 +197,10 @@
     "deaths": 40324,
     "recovered": null
   },
-  "Taiwan*": {
-    "date": "2022-7-6",
-    "confirmed": 3929627,
-    "deaths": 7128,
-    "recovered": null
-  },
   "Switzerland": {
     "date": "2022-7-6",
     "confirmed": 3805774,
-    "deaths": 13835,
+    "deaths": 13837,
     "recovered": null
   },
   "Greece": {
@@ -253,7 +253,7 @@
   },
   "China": {
     "date": "2022-7-6",
-    "confirmed": 2147330,
+    "confirmed": 2147332,
     "deaths": 14633,
     "recovered": null
   },
@@ -373,7 +373,7 @@
   },
   "Slovenia": {
     "date": "2022-7-6",
-    "confirmed": 1043268,
+    "confirmed": 1044738,
     "deaths": 6657,
     "recovered": null
   },
@@ -445,8 +445,8 @@
   },
   "Saudi Arabia": {
     "date": "2022-7-6",
-    "confirmed": 797940,
-    "deaths": 9212,
+    "confirmed": 798474,
+    "deaths": 9215,
     "recovered": null
   },
   "Azerbaijan": {
@@ -979,7 +979,7 @@
   },
   "Liechtenstein": {
     "date": "2022-7-6",
-    "confirmed": 18032,
+    "confirmed": 18051,
     "deaths": 85,
     "recovered": null
   },
