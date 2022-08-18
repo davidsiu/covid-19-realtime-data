@@ -103,8 +103,8 @@
   },
   "Mexico": {
     "date": "2022-8-18",
-    "confirmed": 6939755,
-    "deaths": 328798,
+    "confirmed": 6949653,
+    "deaths": 328871,
     "recovered": null
   },
   "Indonesia": {
@@ -253,7 +253,7 @@
   },
   "China": {
     "date": "2022-8-18",
-    "confirmed": 2362833,
+    "confirmed": 2363447,
     "deaths": 14816,
     "recovered": null
   },
@@ -379,8 +379,8 @@
   },
   "Bolivia": {
     "date": "2022-8-18",
-    "confirmed": 1086347,
-    "deaths": 22150,
+    "confirmed": 1088291,
+    "deaths": 22155,
     "recovered": null
   },
   "Guatemala": {
@@ -1121,6 +1121,12 @@
     "deaths": 21,
     "recovered": null
   },
+  "Marshall Islands": {
+    "date": "2022-8-18",
+    "confirmed": 6606,
+    "deaths": 9,
+    "recovered": null
+  },
   "Saint Kitts and Nevis": {
     "date": "2022-8-18",
     "confirmed": 6493,
@@ -1131,12 +1137,6 @@
     "date": "2022-8-18",
     "confirmed": 6123,
     "deaths": 76,
-    "recovered": null
-  },
-  "Marshall Islands": {
-    "date": "2022-8-18",
-    "confirmed": 5468,
-    "deaths": 6,
     "recovered": null
   }
 }
