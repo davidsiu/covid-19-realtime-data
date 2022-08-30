@@ -25,14 +25,14 @@
   },
   "Germany": {
     "date": "2022-8-30",
-    "confirmed": 32041350,
-    "deaths": 147104,
+    "confirmed": 32095854,
+    "deaths": 147223,
     "recovered": null
   },
   "United Kingdom": {
     "date": "2022-8-30",
-    "confirmed": 23708629,
-    "deaths": 205724,
+    "confirmed": 23708661,
+    "deaths": 205725,
     "recovered": null
   },
   "Korea, South": {
@@ -79,7 +79,7 @@
   },
   "Australia": {
     "date": "2022-8-30",
-    "confirmed": 10013065,
+    "confirmed": 10015922,
     "deaths": 13814,
     "recovered": null
   },
@@ -91,7 +91,7 @@
   },
   "Netherlands": {
     "date": "2022-8-30",
-    "confirmed": 8493732,
+    "confirmed": 8493784,
     "deaths": 23236,
     "recovered": null
   },
@@ -181,8 +181,8 @@
   },
   "Belgium": {
     "date": "2022-8-30",
-    "confirmed": 4477770,
-    "deaths": 32496,
+    "confirmed": 4482315,
+    "deaths": 32516,
     "recovered": null
   },
   "Canada": {
@@ -247,7 +247,7 @@
   },
   "China": {
     "date": "2022-8-30",
-    "confirmed": 2474542,
+    "confirmed": 2474643,
     "deaths": 14900,
     "recovered": null
   },
@@ -283,8 +283,8 @@
   },
   "New Zealand": {
     "date": "2022-8-30",
-    "confirmed": 1742167,
-    "deaths": 1870,
+    "confirmed": 1744757,
+    "deaths": 1885,
     "recovered": null
   },
   "Georgia": {
@@ -407,34 +407,34 @@
     "deaths": 12000,
     "recovered": null
   },
+  "Ecuador": {
+    "date": "2022-8-30",
+    "confirmed": 995147,
+    "deaths": 35832,
+    "recovered": null
+  },
   "Belarus": {
     "date": "2022-8-30",
     "confirmed": 994037,
     "deaths": 7118,
     "recovered": null
   },
-  "Ecuador": {
-    "date": "2022-8-30",
-    "confirmed": 993858,
-    "deaths": 35830,
-    "recovered": null
-  },
   "Uruguay": {
     "date": "2022-8-30",
-    "confirmed": 977305,
-    "deaths": 7438,
+    "confirmed": 979160,
+    "deaths": 7445,
+    "recovered": null
+  },
+  "Panama": {
+    "date": "2022-8-30",
+    "confirmed": 978181,
+    "deaths": 8470,
     "recovered": null
   },
   "Mongolia": {
     "date": "2022-8-30",
     "confirmed": 976751,
     "deaths": 2125,
-    "recovered": null
-  },
-  "Panama": {
-    "date": "2022-8-30",
-    "confirmed": 972800,
-    "deaths": 8456,
     "recovered": null
   },
   "Latvia": {
@@ -481,13 +481,13 @@
   },
   "Kuwait": {
     "date": "2022-8-30",
-    "confirmed": 657042,
+    "confirmed": 657395,
     "deaths": 2563,
     "recovered": null
   },
   "Dominican Republic": {
     "date": "2022-8-30",
-    "confirmed": 637573,
+    "confirmed": 638500,
     "deaths": 4384,
     "recovered": null
   },
@@ -805,7 +805,7 @@
   },
   "Belize": {
     "date": "2022-8-30",
-    "confirmed": 68187,
+    "confirmed": 68238,
     "deaths": 680,
     "recovered": null
   },
@@ -901,7 +901,7 @@
   },
   "Bahamas": {
     "date": "2022-8-30",
-    "confirmed": 37044,
+    "confirmed": 37059,
     "deaths": 823,
     "recovered": null
   },
@@ -913,7 +913,7 @@
   },
   "Haiti": {
     "date": "2022-8-30",
-    "confirmed": 33295,
+    "confirmed": 33381,
     "deaths": 841,
     "recovered": null
   },
@@ -931,7 +931,7 @@
   },
   "Benin": {
     "date": "2022-8-30",
-    "confirmed": 27316,
+    "confirmed": 27490,
     "deaths": 163,
     "recovered": null
   },
@@ -949,8 +949,8 @@
   },
   "Timor-Leste": {
     "date": "2022-8-30",
-    "confirmed": 23158,
-    "deaths": 137,
+    "confirmed": 23161,
+    "deaths": 138,
     "recovered": null
   },
   "Solomon Islands": {
@@ -967,7 +967,7 @@
   },
   "San Marino": {
     "date": "2022-8-30",
-    "confirmed": 20323,
+    "confirmed": 20341,
     "deaths": 118,
     "recovered": null
   },
@@ -997,7 +997,7 @@
   },
   "Equatorial Guinea": {
     "date": "2022-8-30",
-    "confirmed": 16945,
+    "confirmed": 16946,
     "deaths": 183,
     "recovered": null
   },
@@ -1025,6 +1025,12 @@
     "deaths": 244,
     "recovered": null
   },
+  "Marshall Islands": {
+    "date": "2022-8-30",
+    "confirmed": 14907,
+    "deaths": 16,
+    "recovered": null
+  },
   "Central African Republic": {
     "date": "2022-8-30",
     "confirmed": 14862,
@@ -1035,12 +1041,6 @@
     "date": "2022-8-30",
     "confirmed": 14852,
     "deaths": 68,
-    "recovered": null
-  },
-  "Marshall Islands": {
-    "date": "2022-8-30",
-    "confirmed": 14506,
-    "deaths": 16,
     "recovered": null
   },
   "Monaco": {
@@ -1063,7 +1063,7 @@
   },
   "Vanuatu": {
     "date": "2022-8-30",
-    "confirmed": 11784,
+    "confirmed": 11793,
     "deaths": 14,
     "recovered": null
   },
@@ -1081,7 +1081,7 @@
   },
   "Niger": {
     "date": "2022-8-30",
-    "confirmed": 9263,
+    "confirmed": 9329,
     "deaths": 312,
     "recovered": null
   },
@@ -1093,8 +1093,8 @@
   },
   "Guinea-Bissau": {
     "date": "2022-8-30",
-    "confirmed": 8482,
-    "deaths": 174,
+    "confirmed": 8491,
+    "deaths": 175,
     "recovered": null
   },
   "Comoros": {
@@ -1103,21 +1103,21 @@
     "deaths": 161,
     "recovered": null
   },
+  "Liberia": {
+    "date": "2022-8-30",
+    "confirmed": 7835,
+    "deaths": 294,
+    "recovered": null
+  },
   "Sierra Leone": {
     "date": "2022-8-30",
     "confirmed": 7747,
     "deaths": 126,
     "recovered": null
   },
-  "Liberia": {
-    "date": "2022-8-30",
-    "confirmed": 7732,
-    "deaths": 294,
-    "recovered": null
-  },
   "Chad": {
     "date": "2022-8-30",
-    "confirmed": 7491,
+    "confirmed": 7536,
     "deaths": 193,
     "recovered": null
   },
@@ -1135,7 +1135,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2022-8-30",
-    "confirmed": 6136,
+    "confirmed": 6153,
     "deaths": 76,
     "recovered": null
   }
