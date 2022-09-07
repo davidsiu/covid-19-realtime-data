@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-9-7",
-    "confirmed": 94899962,
-    "deaths": 1048258,
+    "confirmed": 94902308,
+    "deaths": 1048274,
     "recovered": null
   },
   "India": {
@@ -233,16 +233,16 @@
     "deaths": 66810,
     "recovered": null
   },
+  "China": {
+    "date": "2022-9-7",
+    "confirmed": 2581380,
+    "deaths": 14989,
+    "recovered": null
+  },
   "Slovakia": {
     "date": "2022-9-7",
     "confirmed": 2580748,
     "deaths": 20236,
-    "recovered": null
-  },
-  "China": {
-    "date": "2022-9-7",
-    "confirmed": 2580104,
-    "deaths": 14989,
     "recovered": null
   },
   "Sweden": {
@@ -607,13 +607,13 @@
   },
   "Montenegro": {
     "date": "2022-9-7",
-    "confirmed": 276636,
+    "confirmed": 276790,
     "deaths": 2778,
     "recovered": null
   },
   "Kosovo": {
     "date": "2022-9-7",
-    "confirmed": 271750,
+    "confirmed": 271830,
     "deaths": 3199,
     "recovered": null
   },
