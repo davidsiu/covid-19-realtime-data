@@ -109,8 +109,14 @@
   },
   "Indonesia": {
     "date": "2022-9-27",
-    "confirmed": 6423873,
-    "deaths": 158036,
+    "confirmed": 6425849,
+    "deaths": 158057,
+    "recovered": null
+  },
+  "Taiwan*": {
+    "date": "2022-9-27",
+    "confirmed": 6324578,
+    "deaths": 10912,
     "recovered": null
   },
   "Colombia": {
@@ -123,12 +129,6 @@
     "date": "2022-9-27",
     "confirmed": 6280530,
     "deaths": 117481,
-    "recovered": null
-  },
-  "Taiwan*": {
-    "date": "2022-9-27",
-    "confirmed": 6278794,
-    "deaths": 10884,
     "recovered": null
   },
   "Portugal": {
@@ -235,8 +235,8 @@
   },
   "China": {
     "date": "2022-9-27",
-    "confirmed": 2737936,
-    "deaths": 15360,
+    "confirmed": 2741603,
+    "deaths": 15366,
     "recovered": null
   },
   "Slovakia": {
@@ -439,8 +439,8 @@
   },
   "Latvia": {
     "date": "2022-9-27",
-    "confirmed": 924651,
-    "deaths": 5981,
+    "confirmed": 925883,
+    "deaths": 5984,
     "recovered": null
   },
   "Azerbaijan": {
@@ -451,8 +451,8 @@
   },
   "Saudi Arabia": {
     "date": "2022-9-27",
-    "confirmed": 816000,
-    "deaths": 9344,
+    "confirmed": 816130,
+    "deaths": 9347,
     "recovered": null
   },
   "Paraguay": {
@@ -499,8 +499,8 @@
   },
   "Estonia": {
     "date": "2022-9-27",
-    "confirmed": 600796,
-    "deaths": 2667,
+    "confirmed": 601869,
+    "deaths": 2681,
     "recovered": null
   },
   "Moldova": {
@@ -685,7 +685,7 @@
   },
   "Afghanistan": {
     "date": "2022-9-27",
-    "confirmed": 198543,
+    "confirmed": 198750,
     "deaths": 7798,
     "recovered": null
   },
@@ -973,7 +973,7 @@
   },
   "Liechtenstein": {
     "date": "2022-9-27",
-    "confirmed": 19543,
+    "confirmed": 19612,
     "deaths": 86,
     "recovered": null
   },
