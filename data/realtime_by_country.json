@@ -1,7 +1,7 @@
 {
   "US": {
     "date": "2022-10-11",
-    "confirmed": 96721109,
+    "confirmed": 96721113,
     "deaths": 1062681,
     "recovered": null
   },
@@ -25,8 +25,8 @@
   },
   "Germany": {
     "date": "2022-10-11",
-    "confirmed": 33948632,
-    "deaths": 150535,
+    "confirmed": 34121168,
+    "deaths": 150720,
     "recovered": null
   },
   "Korea, South": {
@@ -79,8 +79,8 @@
   },
   "Australia": {
     "date": "2022-10-11",
-    "confirmed": 10277539,
-    "deaths": 15369,
+    "confirmed": 10278831,
+    "deaths": 15383,
     "recovered": null
   },
   "Argentina": {
@@ -181,8 +181,8 @@
   },
   "Belgium": {
     "date": "2022-10-11",
-    "confirmed": 4566207,
-    "deaths": 32716,
+    "confirmed": 4575519,
+    "deaths": 32746,
     "recovered": null
   },
   "Canada": {
@@ -235,7 +235,7 @@
   },
   "China": {
     "date": "2022-10-11",
-    "confirmed": 2811388,
+    "confirmed": 2811753,
     "deaths": 15460,
     "recovered": null
   },
@@ -253,7 +253,7 @@
   },
   "Iraq": {
     "date": "2022-10-11",
-    "confirmed": 2460844,
+    "confirmed": 2460868,
     "deaths": 25356,
     "recovered": null
   },
@@ -421,8 +421,8 @@
   },
   "Panama": {
     "date": "2022-10-11",
-    "confirmed": 987613,
-    "deaths": 8502,
+    "confirmed": 988280,
+    "deaths": 8505,
     "recovered": null
   },
   "Uruguay": {
@@ -733,7 +733,7 @@
   },
   "Rwanda": {
     "date": "2022-10-11",
-    "confirmed": 132512,
+    "confirmed": 132518,
     "deaths": 1467,
     "recovered": null
   },
@@ -781,7 +781,7 @@
   },
   "Cote d'Ivoire": {
     "date": "2022-10-11",
-    "confirmed": 87428,
+    "confirmed": 87438,
     "deaths": 826,
     "recovered": null
   },
@@ -937,7 +937,7 @@
   },
   "Somalia": {
     "date": "2022-10-11",
-    "confirmed": 27216,
+    "confirmed": 27223,
     "deaths": 1361,
     "recovered": null
   },
@@ -1003,7 +1003,7 @@
   },
   "Equatorial Guinea": {
     "date": "2022-10-11",
-    "confirmed": 17030,
+    "confirmed": 17040,
     "deaths": 183,
     "recovered": null
   },
@@ -1099,13 +1099,13 @@
   },
   "Guinea-Bissau": {
     "date": "2022-10-11",
-    "confirmed": 8796,
-    "deaths": 175,
+    "confirmed": 8831,
+    "deaths": 176,
     "recovered": null
   },
   "Comoros": {
     "date": "2022-10-11",
-    "confirmed": 8472,
+    "confirmed": 8473,
     "deaths": 161,
     "recovered": null
   },
@@ -1135,7 +1135,7 @@
   },
   "Sao Tome and Principe": {
     "date": "2022-10-11",
-    "confirmed": 6236,
+    "confirmed": 6252,
     "deaths": 77,
     "recovered": null
   }
