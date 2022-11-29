@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2022-11-29",
-    "confirmed": 98648802,
-    "deaths": 1079678,
+    "confirmed": 98665172,
+    "deaths": 1079813,
     "recovered": null
   },
   "India": {
@@ -185,6 +185,12 @@
     "deaths": 33057,
     "recovered": null
   },
+  "Czechia": {
+    "date": "2022-11-29",
+    "confirmed": 4557086,
+    "deaths": 41814,
+    "recovered": null
+  },
   "Canada": {
     "date": "2022-11-29",
     "confirmed": 4431111,
@@ -201,12 +207,6 @@
     "date": "2022-11-29",
     "confirmed": 4229179,
     "deaths": 217386,
-    "recovered": null
-  },
-  "Czechia": {
-    "date": "2022-11-29",
-    "confirmed": 4172122,
-    "deaths": 41814,
     "recovered": null
   },
   "South Africa": {
@@ -367,8 +367,8 @@
   },
   "Guatemala": {
     "date": "2022-11-29",
-    "confirmed": 1154211,
-    "deaths": 19949,
+    "confirmed": 1155277,
+    "deaths": 19950,
     "recovered": null
   },
   "Tunisia": {
@@ -577,7 +577,7 @@
   },
   "Kenya": {
     "date": "2022-11-29",
-    "confirmed": 341515,
+    "confirmed": 341573,
     "deaths": 5684,
     "recovered": null
   },
@@ -589,7 +589,7 @@
   },
   "Albania": {
     "date": "2022-11-29",
-    "confirmed": 333330,
+    "confirmed": 333338,
     "deaths": 3594,
     "recovered": null
   },
@@ -1039,7 +1039,7 @@
   },
   "Monaco": {
     "date": "2022-11-29",
-    "confirmed": 15363,
+    "confirmed": 15389,
     "deaths": 65,
     "recovered": null
   },
