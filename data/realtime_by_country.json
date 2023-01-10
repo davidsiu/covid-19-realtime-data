@@ -1,8 +1,8 @@
 {
   "US": {
     "date": "2023-1-10",
-    "confirmed": 101317374,
-    "deaths": 1097208,
+    "confirmed": 101317619,
+    "deaths": 1097212,
     "recovered": null
   },
   "India": {
@@ -13,8 +13,8 @@
   },
   "France": {
     "date": "2023-1-10",
-    "confirmed": 39617848,
-    "deaths": 164041,
+    "confirmed": 39625664,
+    "deaths": 164146,
     "recovered": null
   },
   "Germany": {
@@ -25,8 +25,8 @@
   },
   "Brazil": {
     "date": "2023-1-10",
-    "confirmed": 36490050,
-    "deaths": 694817,
+    "confirmed": 36511286,
+    "deaths": 694917,
     "recovered": null
   },
   "Japan": {
@@ -167,6 +167,12 @@
     "deaths": 36892,
     "recovered": null
   },
+  "China": {
+    "date": "2023-1-10",
+    "confirmed": 4818146,
+    "deaths": 17837,
+    "recovered": null
+  },
   "Israel": {
     "date": "2023-1-10",
     "confirmed": 4772746,
@@ -177,12 +183,6 @@
     "date": "2023-1-10",
     "confirmed": 4723618,
     "deaths": 33650,
-    "recovered": null
-  },
-  "China": {
-    "date": "2023-1-10",
-    "confirmed": 4709107,
-    "deaths": 17739,
     "recovered": null
   },
   "Belgium": {
