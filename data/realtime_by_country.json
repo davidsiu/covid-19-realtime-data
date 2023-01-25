@@ -1,13 +1,13 @@
 {
   "US": {
     "date": "2023-1-25",
-    "confirmed": 102081391,
-    "deaths": 1105207,
+    "confirmed": 102101723,
+    "deaths": 1105381,
     "recovered": null
   },
   "India": {
     "date": "2023-1-25",
-    "confirmed": 44683430,
+    "confirmed": 44682206,
     "deaths": 530737,
     "recovered": null
   },
@@ -332,7 +332,13 @@
   "Slovenia": {
     "date": "2023-1-25",
     "confirmed": 1320314,
-    "deaths": 7048,
+    "deaths": 7050,
+    "recovered": null
+  },
+  "Lithuania": {
+    "date": "2023-1-25",
+    "confirmed": 1295083,
+    "deaths": 9531,
     "recovered": null
   },
   "Bulgaria": {
@@ -341,15 +347,9 @@
     "deaths": 38169,
     "recovered": null
   },
-  "Lithuania": {
-    "date": "2023-1-25",
-    "confirmed": 1294747,
-    "deaths": 9535,
-    "recovered": null
-  },
   "Morocco": {
     "date": "2023-1-25",
-    "confirmed": 1272186,
+    "confirmed": 1272199,
     "deaths": 16296,
     "recovered": null
   },
@@ -391,7 +391,7 @@
   },
   "Cuba": {
     "date": "2023-1-25",
-    "confirmed": 1112369,
+    "confirmed": 1112381,
     "deaths": 8530,
     "recovered": null
   },
